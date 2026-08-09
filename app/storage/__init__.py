@@ -1,0 +1,2 @@
+"""Version-controlled compact state."""
+

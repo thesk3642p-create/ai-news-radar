@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "digest_threshold": 45,
+    "high_priority_threshold": 75,
+    "breakout_score_threshold": 75,
+    "breakout_early_threshold": 70,
+    "max_digest_items": 10,
+    "request_timeout_seconds": 20,
+    "event_retention_days": 14,
+    "sent_retention_days": 90
+  },
+  "keywords": [
+    "artificial intelligence", "ai model", "large language model", "llm", "generative ai",
+    "frontier ai", "ai agent", "ai coding", "reasoning model", "benchmark", "open source ai",
+    "model release", "product launch", "research breakthrough", "api", "developer"
+  ],
+  "entities": [
+    "OpenAI", "ChatGPT", "GPT", "Anthropic", "Claude", "Google DeepMind", "Gemini",
+    "Qwen", "Alibaba Qwen", "Kimi", "Moonshot AI", "DeepSeek", "Hugging Face", "Meta AI",
+    "Llama", "Microsoft AI", "Mistral AI", "xAI", "Grok", "Ollama"
+  ],
+  "sources": [
+    {"name": "OpenAI", "url": "https://openai.com/news/", "feed_url": "https://openai.com/news/rss.xml", "tier": "official"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/news", "feed_url": "", "tier": "official"},
+    {"name": "Google DeepMind", "url": "https://deepmind.google/blog/", "feed_url": "https://deepmind.google/blog/rss.xml", "tier": "official"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog", "feed_url": "https://huggingface.co/blog/feed.xml", "tier": "official"},
+    {"name": "Kimi", "url": "https://platform.kimi.ai/blog", "feed_url": "", "tier": "official"},
+    {"name": "DeepSeek", "url": "https://www.deepseek.com/", "feed_url": "", "tier": "official"},
+    {"name": "Qwen", "url": "https://qwen.ai/", "feed_url": "", "tier": "official"},
+    {"name": "Meta AI", "url": "https://ai.meta.com/blog/", "feed_url": "", "tier": "official"},
+    {"name": "Mistral AI", "url": "https://mistral.ai/news/", "feed_url": "", "tier": "official"},
+    {"name": "xAI", "url": "https://x.ai/news", "feed_url": "", "tier": "official"}
+  ],
+  "x_handles": [
+    {"handle": "OpenAI", "tier": "official"}, {"handle": "OpenAIDevs", "tier": "official"},
+    {"handle": "AnthropicAI", "tier": "official"}, {"handle": "claudeai", "tier": "official"},
+    {"handle": "ClaudeDevs", "tier": "official"}, {"handle": "GoogleDeepMind", "tier": "official"},
+    {"handle": "Alibaba_Qwen", "tier": "official"}, {"handle": "KimiDevs", "tier": "official"},
+    {"handle": "deepseek_ai", "tier": "official"}, {"handle": "huggingface", "tier": "official"},
+    {"handle": "MicrosoftAI", "tier": "official"}, {"handle": "kimmonismus", "tier": "trusted"},
+    {"handle": "LuminaBench", "tier": "trusted"}, {"handle": "chetaslua", "tier": "trusted"},
+    {"handle": "ollama", "tier": "trusted"}, {"handle": "atomic_chat", "tier": "trusted"},
+    {"handle": "aisearchio", "tier": "trusted"}, {"handle": "intheworldofai", "tier": "trusted"},
+    {"handle": "sama", "tier": "trusted"}, {"handle": "thsoittiaux", "tier": "trusted"}
+  ]
+}
+

@@ -1,0 +1,2 @@
+"""Independent source collectors."""
+
