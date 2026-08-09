@@ -4,11 +4,11 @@
       "breakout_sent": false,
       "confidence": 76,
       "created_at": "2026-08-07T15:20:00+00:00",
-      "early_signal": 66,
+      "early_signal": 64,
       "headline": "Responding to the next frontier of critical cyber capabilities",
       "id": "4f6fc2069cfd81f6c4ef",
       "last_seen_at": "2026-08-09T10:55:31.488613+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -191,11 +191,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-06T00:00:00+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "From asking to doing: How the world is putting ChatGPT to work",
       "id": "3a8c7e4437a3c5b1bbe8",
       "last_seen_at": "2026-08-09T04:07:57.383407+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -733,11 +733,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.391460+00:00",
-      "early_signal": 77,
+      "early_signal": 75,
       "headline": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
       "id": "7f54a453f48e9d820daf",
       "last_seen_at": "2026-08-09T14:20:18.751138+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -782,11 +782,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.392175+00:00",
-      "early_signal": 61,
+      "early_signal": 59,
       "headline": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
       "id": "698cfa946f5af1ade5d7",
       "last_seen_at": "2026-08-09T04:07:57.394738+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -822,11 +822,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395251+00:00",
-      "early_signal": 37,
+      "early_signal": 35,
       "headline": "Engineering at Anthropic",
       "id": "5ecf73adac8e6815e045",
       "last_seen_at": "2026-08-09T04:07:57.395251+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -844,11 +844,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395782+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Claude\u2019s Constitution",
       "id": "19e5adc0991e611024e3",
       "last_seen_at": "2026-08-09T04:07:57.395782+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -1232,11 +1232,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-06T00:00:00+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
       "id": "677744aa8231a8e7b796",
       "last_seen_at": "2026-08-09T04:07:57.457429+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -1448,11 +1448,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.421566+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "OpenClaw and OpenClaw API: The Complete Guide",
       "id": "6800ff059ef36f85000a",
       "last_seen_at": "2026-08-09T04:07:57.421566+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -1470,11 +1470,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.422645+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Kimi Open Platform: New Feature Release Log",
       "id": "71884e0f21b7328aaed5",
       "last_seen_at": "2026-08-09T04:07:57.422645+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -1492,11 +1492,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.423826+00:00",
-      "early_signal": 61,
+      "early_signal": 59,
       "headline": "ICYMI: The Kimi Playground: Your faster way to iterate and test",
       "id": "a18fb22ff3d67dbb774b",
       "last_seen_at": "2026-08-09T14:20:18.750473+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -1523,11 +1523,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.424986+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
       "id": "87c52003fa4381fde7f6",
       "last_seen_at": "2026-08-09T04:07:57.424986+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -1545,11 +1545,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.426234+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Kimi Founder's AMA Recap: First Look at Vision Plans & Roadmap",
       "id": "bf1b7c2733e1a5fab228",
       "last_seen_at": "2026-08-09T04:07:57.426234+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -1567,11 +1567,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.427435+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
       "id": "7274f92dea7049b1f7d2",
       "last_seen_at": "2026-08-09T04:07:57.427435+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -1589,11 +1589,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.428585+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "New Kimi K2 Models & Updated Pricing",
       "id": "e087011cd1eee73ed6f1",
       "last_seen_at": "2026-08-09T04:07:57.428585+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -1611,11 +1611,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.429732+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Kimi K2: Open Agentic Intelligence",
       "id": "10826f8b7af03a9fb47b",
       "last_seen_at": "2026-08-09T04:07:57.429732+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -1633,11 +1633,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.431277+00:00",
-      "early_signal": 78,
+      "early_signal": 76,
       "headline": "Reimagining Independence: How Meta\u2019s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
       "id": "add0b7b936adcbf53807",
       "last_seen_at": "2026-08-09T16:56:48.598835+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -2169,11 +2169,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:11:31+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "OpenAI Slows Astra AI Model Development After Cybersecurity Warning - Eurasia Business News",
       "id": "8bd59501920e6dcea6d3",
       "last_seen_at": "2026-08-09T04:32:45.456772+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -2191,11 +2191,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-09T12:30:00+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Why every company wants an AI model router right now - Fortune",
       "id": "c0aa0d147c648ceb4ce7",
       "last_seen_at": "2026-08-09T13:18:15.256787+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -2425,67 +2425,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-09T20:52:03.656293+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-09T21:48:45.994376+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-09T20:52:04.091107+00:00",
+      "checked_at": "2026-08-09T21:48:46.623751+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-09T20:51:47.229041+00:00",
+      "checked_at": "2026-08-09T21:48:01.552572+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-09T20:51:48.519289+00:00",
+      "checked_at": "2026-08-09T21:48:02.702776+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-09T20:51:48.211493+00:00",
+      "checked_at": "2026-08-09T21:48:02.544656+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-09T20:51:50.635837+00:00",
+      "checked_at": "2026-08-09T21:48:05.347552+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-09T20:51:51.284320+00:00",
+      "checked_at": "2026-08-09T21:48:06.149708+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-09T20:51:49.120162+00:00",
+      "checked_at": "2026-08-09T21:48:03.154476+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-09T20:51:54.386102+00:00",
+      "checked_at": "2026-08-09T21:48:09.327834+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-09T20:51:47.553643+00:00",
+      "checked_at": "2026-08-09T21:48:01.849112+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-09T20:51:47.791059+00:00",
+      "checked_at": "2026-08-09T21:48:02.139579+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-09T20:51:46.955695+00:00",
+      "checked_at": "2026-08-09T21:48:01.220198+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-09T20:52:04.884739+00:00",
+      "checked_at": "2026-08-09T21:48:47.054680+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
