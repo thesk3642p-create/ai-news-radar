@@ -23,7 +23,7 @@ def collect_all(config: Config, x_enabled: bool) -> tuple[list, dict]:
     timeout = config.settings["request_timeout_seconds"]
     collectors = [RssCollector(source, timeout) if source.get("feed_url") else OfficialPageCollector(source, timeout) for source in config.sources]
     query = " OR ".join(["OpenAI", "Anthropic", "Google DeepMind", "Gemini", "DeepSeek", "Qwen", "Mistral AI", "xAI"])
-    collectors.extend([GdeltCollector(query, timeout), GoogleNewsCollector("AI model release OR AI agent OR frontier AI", timeout), XCollector(config.x_handles, x_enabled)])
+    collectors.extend([GdeltCollector(query, timeout), GoogleNewsCollector("AI model release OR AI agent OR frontier AI", timeout), XCollector(config.x_handles, x_enabled, config.settings["x_max_post_age_hours"])])
     candidates, health = [], {}
     for collector in collectors:
         try:
@@ -88,4 +88,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

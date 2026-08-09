@@ -6,6 +6,7 @@
     "breakout_early_threshold": 70,
     "max_digest_items": 10,
     "request_timeout_seconds": 20,
+    "x_max_post_age_hours": 72,
     "event_retention_days": 14,
     "sent_retention_days": 90
   },
@@ -44,4 +45,3 @@
     {"handle": "sama", "tier": "trusted"}, {"handle": "thsoittiaux", "tier": "trusted"}
   ]
 }
-

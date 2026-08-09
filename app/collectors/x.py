@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 import json
+from datetime import datetime, timedelta, timezone
 
 from app.collectors.base import Collector
 from app.models import CandidateItem
@@ -12,9 +13,10 @@ class XCollector(Collector):
 
     name = "x"
 
-    def __init__(self, handles: list[dict], enabled: bool) -> None:
+    def __init__(self, handles: list[dict], enabled: bool, max_post_age_hours: int = 72) -> None:
         self.handles = handles
         self.enabled = enabled
+        self.max_post_age_hours = max_post_age_hours
 
     def collect(self) -> list[CandidateItem]:
         if not self.enabled:
@@ -37,12 +39,18 @@ class XCollector(Collector):
             else:
                 client.load_cookies(cookie_path)
             results: list[CandidateItem] = []
+            cutoff = datetime.now(timezone.utc) - timedelta(hours=self.max_post_age_hours)
             for configured in self.handles:
                 user = await client.get_user_by_screen_name(configured["handle"])
                 tweets = await client.get_user_tweets(user.id, "Tweets", count=10)
                 for tweet in tweets:
+                    published_at = tweet.created_at_datetime
+                    if published_at.tzinfo is None:
+                        published_at = published_at.replace(tzinfo=timezone.utc)
+                    if published_at < cutoff:
+                        continue
                     tweet_id = str(tweet.id)
-                    results.append(CandidateItem(title=(tweet.full_text or "")[:160], text=tweet.full_text or "", url=f"https://x.com/{configured['handle']}/status/{tweet_id}", source_name=f"@{configured['handle']}", source_tier=configured["tier"], source_type="x", published_at=str(tweet.created_at)))
+                    results.append(CandidateItem(title=(tweet.full_text or "")[:160], text=tweet.full_text or "", url=f"https://x.com/{configured['handle']}/status/{tweet_id}", source_name=f"@{configured['handle']}", source_tier=configured["tier"], source_type="x", published_at=published_at.isoformat()))
             return results
 
         return asyncio.run(fetch())

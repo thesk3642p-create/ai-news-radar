@@ -31,3 +31,4 @@ def test_official_launch_scores_as_qualified_story():
 
 def test_x_collector_is_inert_until_explicitly_enabled():
     assert XCollector([], enabled=False).collect() == []
+    assert XCollector([], enabled=False, max_post_age_hours=72).max_post_age_hours == 72

@@ -29,7 +29,7 @@ Remove `--dry-run` only after configuring Telegram secrets. `--x-enabled` additi
 
 The X collector is deliberately opt-in. Use a dedicated account, not your primary account. Log in to that account in your own browser, export its cookie JSON with a trusted local cookie-export tool, and save the entire JSON value in the private GitHub Actions secret `X_COOKIES_JSON`. Do not commit, paste into chat, or put the cookie JSON in `config/`.
 
-When `X_COOKIES_JSON` exists, the workflow enables the Twikit adapter automatically. If X rejects the session, rate-limits it, or Twikit breaks, the workflow records the failure and continues with RSS/web discovery.
+When `X_COOKIES_JSON` exists, the workflow enables the Twikit adapter automatically. It inspects the latest 10 public posts per configured account but accepts only posts from the past 72 hours (`x_max_post_age_hours` in `config/sources.json`). If X rejects the session, rate-limits it, or Twikit breaks, the workflow records the failure and continues with RSS/web discovery.
 
 ## Guardrails
 
