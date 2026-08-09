@@ -62,11 +62,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-07T09:00:00+00:00",
-      "early_signal": 25,
+      "early_signal": 23,
       "headline": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "id": "2b52f1f2b6b06e6338bf",
       "last_seen_at": "2026-08-09T04:07:57.383111+00:00",
-      "score": 25,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -1871,11 +1871,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T12:00:01+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' - CNBC",
       "id": "97be4c44bda63ff8ef9c",
       "last_seen_at": "2026-08-09T04:07:57.472383+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -1951,11 +1951,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T21:30:15+00:00",
-      "early_signal": 54,
+      "early_signal": 52,
       "headline": "Meta launches Muse Code AI agent to challenge OpenAI, Anthropic - memeburn.com",
       "id": "31b003129819ac16860f",
       "last_seen_at": "2026-08-09T10:16:38.637630+00:00",
-      "score": 55,
+      "score": 54,
       "sources": [
         {
           "media_url": null,
@@ -2106,11 +2106,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:11:31+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "OpenAI Slows Astra AI Model Development After Cybersecurity Warning - Eurasia Business News",
       "id": "8bd59501920e6dcea6d3",
       "last_seen_at": "2026-08-09T04:32:45.456772+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -2145,6 +2145,28 @@
         }
       ],
       "summary": "Why every company wants an AI model router right now Fortune"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-06T08:34:31+00:00",
+      "early_signal": 21,
+      "headline": "ASUS DisplayWidget Center Adds AI Agent Controls - ASUS Pressroom",
+      "id": "bc0735066ce122b190e5",
+      "last_seen_at": "2026-08-09T15:10:38.720453+00:00",
+      "score": 31,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-06T08:34:31+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "ASUS DisplayWidget Center Adds AI Agent Controls - ASUS Pressroom",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENYaDFMdUlVZVVRU3pDMFNScTFoT05tbG1COHBFM1dab2NsU3lkMEl5a2Qxd29PZ09EdDZNSXZNenJHOFZ4RDMzbVpXOGEtWkw5V181U3E0cHhoUDBiTmxBMmc1VHY0Xy1hRVJEaG0tX09EN0VSZzJjandSSHZmbTl0dFUxSWFpTnNGbGRuN3YtbU54dGRDXw?oc=5"
+        }
+      ],
+      "summary": "ASUS DisplayWidget Center Adds AI Agent Controls ASUS Pressroom"
     }
   ],
   "processed_urls": {
@@ -2207,6 +2229,7 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXd6QXZ5VTNhcmdxa2VvOGRnMEdFM05Xc19HZVl1MmFhdjA2SllDa28yTzZJZGZUelp6T3hNeUw4TG1FMXR3Q1c5UTlVTUNPQ3c4V0pNUmlnZDM3M2pRdTMzTXE0bXY4ZnZBM3FDNTctUHBhcnktaXZ0UmJNV2IxNjJYdjUxVWVKTGpDaw?oc=5": "2026-08-09T04:07:57.381794+00:00",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzlmZ0lLUUJQb05KOTEzaUo5SzFmeXJmbUNPOEV1ZlY0SmJQUkdKcjFhcHY2UHR1UWYzUEIxMkk3LXpWSWhDREl6S1BjYXFpU09CWWM0OXNtbVNTQ2JXSmZvQWRRcWE4c0F6M3JUMy1OVmFpT1ZTMFJlZVpGWDJLZUYtbUlhNmw1aEladWhn?oc=5": "2026-08-09T04:07:57.382741+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY19KajJZY25ldlo5YVB0WE0tRWZ4bmZubzh4VG1abTZDX19EaUJjVVdKRVpvemNXdkFHSlFxRDJYZEFLZzYxRml2Y1B3Z3dsSEVFOWNoMFM3SHZ3N0RSXzZhM0c4OTVscmNLT1B2R1JmTmhlRk9tTmNFbFJQV1g0Mk1DMGQxWW1ZWHlpbzB0UUdWYXRUeEE?oc=5": "2026-08-09T04:07:57.381973+00:00",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENYaDFMdUlVZVVRU3pDMFNScTFoT05tbG1COHBFM1dab2NsU3lkMEl5a2Qxd29PZ09EdDZNSXZNenJHOFZ4RDMzbVpXOGEtWkw5V181U3E0cHhoUDBiTmxBMmc1VHY0Xy1hRVJEaG0tX09EN0VSZzJjandSSHZmbTl0dFUxSWFpTnNGbGRuN3YtbU54dGRDXw?oc=5": "2026-08-09T15:10:38.718443+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXJBb2EzZWZtYjJnOGFWOGU2ZEZQZnlQNzFnMTVGbDlmVFBublo0dVNpVGZzd05adVFaN3BWUUotVVRLOTVBRWdMb0tMY3FHRGJxa1REMndmVE5CZE1CbG12ZTRSc05TWHYtb25wejR5c2UzS2ltSXVpUlpna04xUmZFb3F6X2RqSEFBWVh1RE9NYktyeHNWWA?oc=5": "2026-08-09T11:45:40.638514+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5": "2026-08-09T04:07:57.382922+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmZmYkMwU3BUdU9Gd0ZaSHJVcVFuWmV5cDVkSnFucFdKQlA1NW9fTlV3eXJHc29FN2xTZUVLcG9ERmswXzIzVGlvaWNueF9vZXN6c1lqMTRUcWNVNERHM2dWbjlqczB6TzBXMUd1R2QzbnFZNVZ4UVJjX3pKRS1qNkhTdFZiNld2djlfcE9NV2pTcDFxRjIwSWdmNk4?oc=5": "2026-08-09T04:07:57.381295+00:00",
@@ -2286,67 +2309,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-09T14:20:17.284829+00:00",
+      "checked_at": "2026-08-09T15:10:37.424222+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-09T14:20:17.849256+00:00",
+      "checked_at": "2026-08-09T15:10:38.043043+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-09T14:19:57.468382+00:00",
+      "checked_at": "2026-08-09T15:10:17.293087+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-09T14:19:58.670593+00:00",
+      "checked_at": "2026-08-09T15:10:18.695996+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-09T14:19:58.562617+00:00",
+      "checked_at": "2026-08-09T15:10:18.425846+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-09T14:20:00.301679+00:00",
+      "checked_at": "2026-08-09T15:10:20.502066+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-09T14:20:01.031201+00:00",
+      "checked_at": "2026-08-09T15:10:21.324089+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-09T14:19:58.933022+00:00",
+      "checked_at": "2026-08-09T15:10:19.269047+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-09T14:20:04.136762+00:00",
+      "checked_at": "2026-08-09T15:10:24.598656+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-09T14:19:57.939869+00:00",
+      "checked_at": "2026-08-09T15:10:17.708472+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-09T14:19:58.278145+00:00",
+      "checked_at": "2026-08-09T15:10:18.021992+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-09T14:19:56.929810+00:00",
+      "checked_at": "2026-08-09T15:10:16.992764+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-09T14:20:18.740198+00:00",
+      "checked_at": "2026-08-09T15:10:38.709955+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
