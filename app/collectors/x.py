@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import json
 
 from app.collectors.base import Collector
 from app.models import CandidateItem
@@ -18,9 +19,10 @@ class XCollector(Collector):
     def collect(self) -> list[CandidateItem]:
         if not self.enabled:
             return []
+        cookies_json = os.environ.get("X_COOKIES_JSON")
         cookie_path = os.environ.get("X_COOKIES_FILE")
-        if not cookie_path:
-            raise RuntimeError("X_COOKIES_FILE is required when the X collector is enabled")
+        if not cookies_json and not cookie_path:
+            raise RuntimeError("X_COOKIES_JSON or X_COOKIES_FILE is required when the X collector is enabled")
         try:
             from twikit import Client
         except ImportError as error:
@@ -30,7 +32,10 @@ class XCollector(Collector):
 
         async def fetch() -> list[CandidateItem]:
             client = Client(language="en-US")
-            client.load_cookies(cookie_path)
+            if cookies_json:
+                client.set_cookies(json.loads(cookies_json))
+            else:
+                client.load_cookies(cookie_path)
             results: list[CandidateItem] = []
             for configured in self.handles:
                 user = await client.get_user_by_screen_name(configured["handle"])

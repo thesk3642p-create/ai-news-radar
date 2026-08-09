@@ -2,6 +2,7 @@ from app.models import CandidateItem, StoryEvent
 from app.processing.normalize import canonical_url
 from app.processing.scoring import score_event
 from app.processing.stories import cluster, relevant
+from app.collectors.x import XCollector
 
 
 def test_canonical_url_removes_tracking_parameters():
@@ -26,3 +27,7 @@ def test_official_launch_scores_as_qualified_story():
     scored = score_event(event, ["ai model", "reasoning model", "ai coding", "benchmark", "api"], ["OpenAI", "GPT"], [])
     assert scored.score >= 45
     assert scored.confidence >= 60
+
+
+def test_x_collector_is_inert_until_explicitly_enabled():
+    assert XCollector([], enabled=False).collect() == []

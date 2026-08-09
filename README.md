@@ -1,6 +1,6 @@
 # AI News Content Radar
 
-A zero-cost, GitHub Actions-friendly personal AI news radar. It collects official AI news feeds/pages and free discovery sources, groups related items into story events, scores them, and sends an hourly Telegram digest plus one-time breakout alerts.
+A zero-cost, GitHub Actions-friendly personal AI news radar. It collects official AI news feeds/pages and free discovery sources, groups related items into story events, scores them, and sends a 30-minute Telegram digest plus one-time breakout alerts.
 
 ## Setup
 
@@ -8,7 +8,7 @@ A zero-cost, GitHub Actions-friendly personal AI news radar. It collects officia
    - `TELEGRAM_BOT_TOKEN`
    - `TELEGRAM_CHAT_ID`
 2. Review `config/sources.json` and adjust source URLs, keywords, and source tiers.
-3. Enable Actions. The scheduler runs hourly at minute 17 UTC; use **Run workflow** for the first test.
+3. Enable Actions. The scheduler runs every 30 minutes at minutes 17 and 47 UTC (normally :17 and :47 IST); use **Run workflow** for the first test.
 
 The initial state file is committed intentionally: GitHub Actions updates it to remember processed URLs, current events, and sent Telegram notifications. Do not put credentials in it.
 
@@ -24,6 +24,12 @@ python -m app.main --dry-run
 ```
 
 Remove `--dry-run` only after configuring Telegram secrets. `--x-enabled` additionally requires a dedicated X account cookie secret and is disabled by default.
+
+## Optional X monitoring
+
+The X collector is deliberately opt-in. Use a dedicated account, not your primary account. Log in to that account in your own browser, export its cookie JSON with a trusted local cookie-export tool, and save the entire JSON value in the private GitHub Actions secret `X_COOKIES_JSON`. Do not commit, paste into chat, or put the cookie JSON in `config/`.
+
+When `X_COOKIES_JSON` exists, the workflow enables the Twikit adapter automatically. If X rejects the session, rate-limits it, or Twikit breaks, the workflow records the failure and continues with RSS/web discovery.
 
 ## Guardrails
 
