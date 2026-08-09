@@ -84,11 +84,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-06T10:00:00+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
       "id": "81fc9700da91ef90dd7e",
       "last_seen_at": "2026-08-09T04:07:57.390717+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -1831,11 +1831,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:48:44+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "The Agent Report \u2014 Your AI Agent Weekly Digest \ud83d\ude80 - Buttondown",
       "id": "91fc372446aaa84aba0e",
       "last_seen_at": "2026-08-09T04:07:57.446536+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -2088,11 +2088,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:11:31+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "OpenAI Slows Astra AI Model Development After Cybersecurity Warning - Eurasia Business News",
       "id": "8bd59501920e6dcea6d3",
       "last_seen_at": "2026-08-09T04:32:45.456772+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -2105,6 +2105,28 @@
         }
       ],
       "summary": "OpenAI Slows Astra AI Model Development After Cybersecurity Warning Eurasia Business News"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-09T12:30:00+00:00",
+      "early_signal": 48,
+      "headline": "Why every company wants an AI model router right now - Fortune",
+      "id": "c0aa0d147c648ceb4ce7",
+      "last_seen_at": "2026-08-09T13:18:15.256787+00:00",
+      "score": 49,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-09T12:30:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Why every company wants an AI model router right now - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1llbHk4eGl5c1BzN0Q1NHduT2hmNVZMWkZiSmx3d2xfWnkwb2JCX0pHa1Brb2l1b0tSd2gwV1NYWTkwRGFfa293SmUxNjhiUHJIMnd1d0xqV0V5TmNQSHZmUVRNdzZZQlBJRDBXM3BIZEh4V1ZiR1BrNFcyWWVtblhHV0JmQ0hBT3NPWg?oc=5"
+        }
+      ],
+      "summary": "Why every company wants an AI model router right now Fortune"
     }
   ],
   "processed_urls": {
@@ -2162,6 +2184,7 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTQtVUFwTG15UzJrOERVR0JpRWNIOUZsbDNFMzBtRExXMUxteDc2bHdBLVZfSGJqRVhJUGZ0ZUl6RndsT1Q4ZmZxeHp2UWNNcGI4OF96X1ROWnlrM1dYanh5aW5XQzZtX0hxQWNXMWV0TGdSNy1wRFd0RGM5S2FBaEFkME9vNk44?oc=5": "2026-08-09T04:07:57.381638+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW5mWmR5T3EtNi1uZ3VHMDBnTWh1TnFIRld6WVFWUjhoRUpBeW5KY1RTQmJ5eVk1VzJ1WVhsNWZpd2JqRWZVOUFsRkxfOTVPdGZ2SFNDV3paRkNsZV9EQTdfYlJtWU1wWEg5Ykkwd3JZX3cxUmx0bzRBR2lPMkFqc1Z3WkRLdTdl0gGOAUFVX3lxTFBZaG9tLThnM1MxbHdmamF4TFZkRy1Ma2l6ZVhoVFRvUzlGY3lOdEdsRjhmZ2hOWjhoUkVjV2xramxTWjlsdnVrTVhzTEdTNUFKMXhTTUV2ZVRrU1NiWTAxTjRweE1xaXVKZmZPVHF3X3piYXdRZGdSdW0zbEpFdE50d25aY2ZzUkF0ZVRfdWc?oc=5": "2026-08-09T04:07:57.381436+00:00",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHMxQlh1c3RlQmw0SFVQSEJfdzBMVk5CVjJTT1FMWFVpU29oek1ZOU5Ya2xOaXI0Vlg0bVpyc09YZUlkOXZkRzdGeDRlYTdFMWNXT0JzOVVJR3R2WE02SVE1NGZHcmpoOUdNMVJPRXVlYTRfUF9ETzJYY3dHa1pfYnRvMHNaLUY4MUFJ?oc=5": "2026-08-09T08:24:35.721421+00:00",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1llbHk4eGl5c1BzN0Q1NHduT2hmNVZMWkZiSmx3d2xfWnkwb2JCX0pHa1Brb2l1b0tSd2gwV1NYWTkwRGFfa293SmUxNjhiUHJIMnd1d0xqV0V5TmNQSHZmUVRNdzZZQlBJRDBXM3BIZEh4V1ZiR1BrNFcyWWVtblhHV0JmQ0hBT3NPWg?oc=5": "2026-08-09T13:18:15.254415+00:00",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXd6QXZ5VTNhcmdxa2VvOGRnMEdFM05Xc19HZVl1MmFhdjA2SllDa28yTzZJZGZUelp6T3hNeUw4TG1FMXR3Q1c5UTlVTUNPQ3c4V0pNUmlnZDM3M2pRdTMzTXE0bXY4ZnZBM3FDNTctUHBhcnktaXZ0UmJNV2IxNjJYdjUxVWVKTGpDaw?oc=5": "2026-08-09T04:07:57.381794+00:00",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzlmZ0lLUUJQb05KOTEzaUo5SzFmeXJmbUNPOEV1ZlY0SmJQUkdKcjFhcHY2UHR1UWYzUEIxMkk3LXpWSWhDREl6S1BjYXFpU09CWWM0OXNtbVNTQ2JXSmZvQWRRcWE4c0F6M3JUMy1OVmFpT1ZTMFJlZVpGWDJLZUYtbUlhNmw1aEladWhn?oc=5": "2026-08-09T04:07:57.382741+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY19KajJZY25ldlo5YVB0WE0tRWZ4bmZubzh4VG1abTZDX19EaUJjVVdKRVpvemNXdkFHSlFxRDJYZEFLZzYxRml2Y1B3Z3dsSEVFOWNoMFM3SHZ3N0RSXzZhM0c4OTVscmNLT1B2R1JmTmhlRk9tTmNFbFJQV1g0Mk1DMGQxWW1ZWHlpbzB0UUdWYXRUeEE?oc=5": "2026-08-09T04:07:57.381973+00:00",
@@ -2238,71 +2261,72 @@
     "digest:87c52003fa4381fde7f6": "2026-08-09T04:07:58.011412+00:00",
     "digest:8bd59501920e6dcea6d3": "2026-08-09T04:32:46.199073+00:00",
     "digest:add0b7b936adcbf53807": "2026-08-09T04:07:58.011439+00:00",
+    "digest:c0aa0d147c648ceb4ce7": "2026-08-09T13:18:15.965565+00:00",
     "digest:e087011cd1eee73ed6f1": "2026-08-09T04:07:58.011415+00:00"
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-09T12:15:49.251727+00:00",
+      "checked_at": "2026-08-09T13:18:14.070169+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-09T12:15:49.721296+00:00",
+      "checked_at": "2026-08-09T13:18:14.643381+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-09T12:15:29.656261+00:00",
+      "checked_at": "2026-08-09T13:17:44.610987+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-09T12:15:31.342333+00:00",
+      "checked_at": "2026-08-09T13:17:45.906347+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-09T12:15:31.128684+00:00",
+      "checked_at": "2026-08-09T13:17:45.703674+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-09T12:15:33.542811+00:00",
+      "checked_at": "2026-08-09T13:17:48.010667+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-09T12:15:34.227325+00:00",
+      "checked_at": "2026-08-09T13:17:48.774845+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-09T12:15:31.703297+00:00",
+      "checked_at": "2026-08-09T13:17:46.477551+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-09T12:15:37.376088+00:00",
+      "checked_at": "2026-08-09T13:17:51.930910+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-09T12:15:30.253480+00:00",
+      "checked_at": "2026-08-09T13:17:45.142133+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-09T12:15:30.622502+00:00",
+      "checked_at": "2026-08-09T13:17:45.398104+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-09T12:15:29.368260+00:00",
+      "checked_at": "2026-08-09T13:17:44.349438+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-09T12:15:50.149487+00:00",
+      "checked_at": "2026-08-09T13:18:15.248989+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
