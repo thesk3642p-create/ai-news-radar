@@ -115,11 +115,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-06T06:00:00+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "Working with the American Psychological Association on youth mental health and AI",
       "id": "78414faf2c43f9004663",
       "last_seen_at": "2026-08-09T04:07:57.457531+00:00",
-      "score": 25,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -697,11 +697,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.391460+00:00",
-      "early_signal": 68,
+      "early_signal": 67,
       "headline": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
       "id": "7f54a453f48e9d820daf",
       "last_seen_at": "2026-08-09T04:07:57.393411+00:00",
-      "score": 54,
+      "score": 53,
       "sources": [
         {
           "media_url": null,
@@ -737,11 +737,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.392175+00:00",
-      "early_signal": 68,
+      "early_signal": 67,
       "headline": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
       "id": "698cfa946f5af1ade5d7",
       "last_seen_at": "2026-08-09T04:07:57.394738+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -777,11 +777,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395251+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "Engineering at Anthropic",
       "id": "5ecf73adac8e6815e045",
       "last_seen_at": "2026-08-09T04:07:57.395251+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -799,11 +799,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395782+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Claude\u2019s Constitution",
       "id": "19e5adc0991e611024e3",
       "last_seen_at": "2026-08-09T04:07:57.395782+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -1403,11 +1403,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.421566+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "OpenClaw and OpenClaw API: The Complete Guide",
       "id": "6800ff059ef36f85000a",
       "last_seen_at": "2026-08-09T04:07:57.421566+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -1425,11 +1425,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.422645+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Kimi Open Platform: New Feature Release Log",
       "id": "71884e0f21b7328aaed5",
       "last_seen_at": "2026-08-09T04:07:57.422645+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -1447,11 +1447,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.423826+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "ICYMI: The Kimi Playground: Your faster way to iterate and test",
       "id": "a18fb22ff3d67dbb774b",
       "last_seen_at": "2026-08-09T04:07:57.423826+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -1469,11 +1469,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.424986+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
       "id": "87c52003fa4381fde7f6",
       "last_seen_at": "2026-08-09T04:07:57.424986+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -1491,11 +1491,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.426234+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Kimi Founder's AMA Recap: First Look at Vision Plans & Roadmap",
       "id": "bf1b7c2733e1a5fab228",
       "last_seen_at": "2026-08-09T04:07:57.426234+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -1513,11 +1513,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.427435+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
       "id": "7274f92dea7049b1f7d2",
       "last_seen_at": "2026-08-09T04:07:57.427435+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -1535,11 +1535,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.428585+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "New Kimi K2 Models & Updated Pricing",
       "id": "e087011cd1eee73ed6f1",
       "last_seen_at": "2026-08-09T04:07:57.428585+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -1557,11 +1557,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.429732+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Kimi K2: Open Agentic Intelligence",
       "id": "10826f8b7af03a9fb47b",
       "last_seen_at": "2026-08-09T04:07:57.429732+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -1579,11 +1579,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.431277+00:00",
-      "early_signal": 84,
+      "early_signal": 83,
       "headline": "Reimagining Independence: How Meta\u2019s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
       "id": "add0b7b936adcbf53807",
       "last_seen_at": "2026-08-09T04:07:57.473756+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -1866,11 +1866,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T13:00:00+00:00",
-      "early_signal": 60,
+      "early_signal": 58,
       "headline": "Building a Streamlit UI for My LangGraph AI Agent - Towards Data Science",
       "id": "dfb96c07cca50e218909",
       "last_seen_at": "2026-08-09T08:24:35.723736+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -1915,11 +1915,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T21:30:15+00:00",
-      "early_signal": 48,
+      "early_signal": 47,
       "headline": "Meta launches Muse Code AI agent to challenge OpenAI, Anthropic - memeburn.com",
       "id": "31b003129819ac16860f",
       "last_seen_at": "2026-08-09T07:41:24.123273+00:00",
-      "score": 57,
+      "score": 56,
       "sources": [
         {
           "media_url": null,
@@ -2211,67 +2211,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-09T08:24:34.648250+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-09T09:23:40.537912+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-09T08:24:35.164247+00:00",
+      "checked_at": "2026-08-09T09:23:41.100280+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-09T08:23:56.245992+00:00",
+      "checked_at": "2026-08-09T09:23:23.892092+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-09T08:23:57.457773+00:00",
+      "checked_at": "2026-08-09T09:23:25.050839+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-09T08:23:57.215703+00:00",
+      "checked_at": "2026-08-09T09:23:24.920380+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-09T08:24:00.233928+00:00",
+      "checked_at": "2026-08-09T09:23:27.055074+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-09T08:24:00.892689+00:00",
+      "checked_at": "2026-08-09T09:23:27.689229+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-09T08:23:58.066292+00:00",
+      "checked_at": "2026-08-09T09:23:25.614386+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-09T08:24:04.003964+00:00",
+      "checked_at": "2026-08-09T09:23:30.877584+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-09T08:23:56.564938+00:00",
+      "checked_at": "2026-08-09T09:23:24.274209+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-09T08:23:56.806629+00:00",
+      "checked_at": "2026-08-09T09:23:24.507078+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-09T08:23:55.988036+00:00",
+      "checked_at": "2026-08-09T09:23:23.490418+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-09T08:24:35.713017+00:00",
+      "checked_at": "2026-08-09T09:23:41.700878+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
