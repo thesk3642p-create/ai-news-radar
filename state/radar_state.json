@@ -4,10 +4,10 @@
       "breakout_sent": false,
       "confidence": 76,
       "created_at": "2026-08-07T15:20:00+00:00",
-      "early_signal": 66,
+      "early_signal": 67,
       "headline": "Responding to the next frontier of critical cyber capabilities",
       "id": "4f6fc2069cfd81f6c4ef",
-      "last_seen_at": "2026-08-09T04:07:57.467480+00:00",
+      "last_seen_at": "2026-08-09T10:55:31.488613+00:00",
       "score": 30,
       "sources": [
         {
@@ -45,6 +45,15 @@
           "source_type": "google_news",
           "title": "Meta latest to tell world its AI agent wandered out of test pen - The Register",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0pYRU1lbURuWWhhQkJtOXNIN3YtUDRKRk5ldWVzcm1pOGFCM3N5S1I1dE40eXZ5NG5GZ09VdjBpTS1sWHdSMFRleUZXZjRGNE9IQ2RtSVRVV0ZBRW1jaDRQRWFGdno1SGl1eHZvaUtOQUd6b0UyVlVuQURhc1NIenM5dksteHVfUmlNeEx3VzRaRWhxTlFGRkEwLWtKUDdkTV95dXc1S0xmNWJIQl9WOXJudmVPUEFpX2FybA?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-07T19:49:09+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI says its upcoming Astra model may have 'critical' cybersecurity capabilities amid rash of AI model hacks - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0pqWHpXT0E0cHBMcURmbEtoSHNoSy1HUEV4UHRJQU5GTmhwVm9QVU9TTjR4RzEwUV8tcEFUaHc5Y1JRa0JjN3RUUW1BUmd4WWhNQVY3QVFEZi1YV1h1UmhEcFV6YWplMFRGRGFVb1BUYU1SQTlZNTdleXo4dV9hN1E5bkZvb3o0Qm43Vk9JbHF3Z0JybnpLQ21TeWRJblBOV0FnN0xuUmREU3BGdUI0UXJRalFQSFFPdmUxRU8zaVNDaG5wQUNVVUg2RTdNdUZzcjdtS2xJMkZ5ZVFoSmo5QWtxTmlIOHZqejJRSnI0VlJxaG1wanRQU2c5dlhXZw?oc=5"
         }
       ],
       "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we\u2019re taking to strengthen safeguards and security controls."
@@ -208,11 +217,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-03T22:00:00+00:00",
-      "early_signal": 19,
+      "early_signal": 17,
       "headline": "Apple is getting this wrong",
       "id": "702c343efde1147bb853",
       "last_seen_at": "2026-08-09T04:07:57.383731+00:00",
-      "score": 21,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -1813,11 +1822,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:48:44+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "The Agent Report \u2014 Your AI Agent Weekly Digest \ud83d\ude80 - Buttondown",
       "id": "91fc372446aaa84aba0e",
       "last_seen_at": "2026-08-09T04:07:57.446536+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -2048,11 +2057,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-06T19:55:00+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "Why Normal People Aren\u2019t Using AI Agents - WIRED",
       "id": "a9e2f77c2ac7c061e2f7",
       "last_seen_at": "2026-08-09T04:07:57.470766+00:00",
-      "score": 28,
+      "score": 27,
       "sources": [
         {
           "media_url": null,
@@ -2131,6 +2140,7 @@
     "https://mistral.ai/news/physics-ai-research": "2026-08-09T04:07:57.379637+00:00",
     "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont": "2026-08-09T04:07:57.380432+00:00",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHh1bnRPbEFUTWZfZVZ4eWRIT3BIWmlxcGRTOVdHN1VGWnB4amFvUnZMeVNvUlJKRmJ2X2xRS1NPNENzV0dLN0xyX0l4Q2s2akJPU2F0el9jTXBHNWFObEVEMGlFTjNHcWlteTFtWEpEeS1QdUpVTnkzVE9kYW00cmdsQklCNWhmZUxKcF9JeVF2bmxvM204UmZEYkRfbTVrMl9rQTlvTG9fUDc0M2pLTFpjaW1wZ1NXdkp4V3N3dGZ5UUVfV3RuVllFazJUVjZUb216eg?oc=5": "2026-08-09T07:41:24.121517+00:00",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0pqWHpXT0E0cHBMcURmbEtoSHNoSy1HUEV4UHRJQU5GTmhwVm9QVU9TTjR4RzEwUV8tcEFUaHc5Y1JRa0JjN3RUUW1BUmd4WWhNQVY3QVFEZi1YV1h1UmhEcFV6YWplMFRGRGFVb1BUYU1SQTlZNTdleXo4dV9hN1E5bkZvb3o0Qm43Vk9JbHF3Z0JybnpLQ21TeWRJblBOV0FnN0xuUmREU3BGdUI0UXJRalFQSFFPdmUxRU8zaVNDaG5wQUNVVUg2RTdNdUZzcjdtS2xJMkZ5ZVFoSmo5QWtxTmlIOHZqejJRSnI0VlJxaG1wanRQU2c5dlhXZw?oc=5": "2026-08-09T10:55:31.488364+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MZFJFb0tpNVMtNkZCRVFHSUpRZHo5aVRfeVN2TmRxTXpGYjViaGhQbjljNEhnenNtWkF4U0dtTWkzSldVOHhYU1VaU1RRWlpIUWQ2X2xjcGpvODFZRldOWE1UUWUxM1JQQ3FKRTdrYzFzQWlSUmEw?oc=5": "2026-08-09T04:07:57.382883+00:00",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5": "2026-08-09T08:24:35.721513+00:00",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HY0xMV29sbUtSdDRPbzdKWHhiZExraUV5SjQ3aWxzb2Jsb0VydVA5R0VpRk5xcVB5MmVzazhaV0tGZlZWYWdTYjRmQkRlbTU2UUQwU3F2QnY4VVZCZmViNWxMa29QNnVIOXVEcElESjBzWTRUUnhxStIBgAFBVV95cUxOS1d2dXFPV3lBcGdaMm5OcHA3a0ZsbHVZQzQ0LTBIM0NjcDYzSE9ZeVItT0Z4N0hlcjhRQnJQWlFtWGp6bGg3TVJGWDl4b2phYjZKYlUzYks3VDh2ZnIxc01KSlNveVRFMDZtM1QyaERkWlFUTFFaMDlJcUlOamtWeg?oc=5": "2026-08-09T04:07:57.382560+00:00",
@@ -2221,67 +2231,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-09T10:16:37.614233+00:00",
+      "checked_at": "2026-08-09T10:55:30.071709+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-09T10:16:38.181006+00:00",
+      "checked_at": "2026-08-09T10:55:30.645509+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-09T10:15:54.905574+00:00",
+      "checked_at": "2026-08-09T10:54:48.989711+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-09T10:15:56.500633+00:00",
+      "checked_at": "2026-08-09T10:54:50.527714+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-09T10:15:56.220292+00:00",
+      "checked_at": "2026-08-09T10:54:50.328538+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-09T10:15:58.259927+00:00",
+      "checked_at": "2026-08-09T10:54:52.880314+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-09T10:15:59.184468+00:00",
+      "checked_at": "2026-08-09T10:54:53.582627+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-09T10:15:56.989544+00:00",
+      "checked_at": "2026-08-09T10:54:51.195111+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-09T10:16:02.678830+00:00",
+      "checked_at": "2026-08-09T10:54:56.700946+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-09T10:15:55.361682+00:00",
+      "checked_at": "2026-08-09T10:54:49.387904+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-09T10:15:55.674864+00:00",
+      "checked_at": "2026-08-09T10:54:49.667500+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-09T10:15:54.043907+00:00",
+      "checked_at": "2026-08-09T10:54:48.749098+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-09T10:16:38.628401+00:00",
+      "checked_at": "2026-08-09T10:55:31.479968+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
