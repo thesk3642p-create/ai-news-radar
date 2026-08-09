@@ -60,13 +60,13 @@
     },
     {
       "breakout_sent": false,
-      "confidence": 60,
+      "confidence": 68,
       "created_at": "2026-08-07T09:00:00+00:00",
-      "early_signal": 23,
+      "early_signal": 39,
       "headline": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "id": "2b52f1f2b6b06e6338bf",
-      "last_seen_at": "2026-08-09T04:07:57.383111+00:00",
-      "score": 24,
+      "last_seen_at": "2026-08-09T19:01:35.216773+00:00",
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -76,6 +76,15 @@
           "source_type": "rss",
           "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
           "url": "https://openai.com/index/hsp-gruppe"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-09T16:44:41+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Start A Business? There\u2019s An AI Agent For That! Y Combinator Head Explains How - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjVJSkhLSWNWTmZxSDNEckYyVUE2RDlMYlF1NnEtX1RVVW5GRVJmX3hQS19IVWpFeUVNSmpEZGhsenJHMVhkd3Q5bmFDZC1xZmdGckk5ZVk0WmFmVUdGX0ZQcHpjdm5NWDBrUmROaXhaM04tcUtkMFJvLWotNWJvMA?oc=5"
         }
       ],
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
@@ -715,11 +724,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.391460+00:00",
-      "early_signal": 78,
+      "early_signal": 77,
       "headline": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
       "id": "7f54a453f48e9d820daf",
       "last_seen_at": "2026-08-09T14:20:18.751138+00:00",
-      "score": 52,
+      "score": 51,
       "sources": [
         {
           "media_url": null,
@@ -764,11 +773,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.392175+00:00",
-      "early_signal": 62,
+      "early_signal": 61,
       "headline": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
       "id": "698cfa946f5af1ade5d7",
       "last_seen_at": "2026-08-09T04:07:57.394738+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -804,11 +813,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395251+00:00",
-      "early_signal": 38,
+      "early_signal": 37,
       "headline": "Engineering at Anthropic",
       "id": "5ecf73adac8e6815e045",
       "last_seen_at": "2026-08-09T04:07:57.395251+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -826,11 +835,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395782+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Claude\u2019s Constitution",
       "id": "19e5adc0991e611024e3",
       "last_seen_at": "2026-08-09T04:07:57.395782+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -848,11 +857,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-06T15:06:15+00:00",
-      "early_signal": 29,
+      "early_signal": 28,
       "headline": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "id": "a5977edd6df6384ea4d3",
       "last_seen_at": "2026-08-09T04:07:57.396411+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -1430,11 +1439,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.421566+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "OpenClaw and OpenClaw API: The Complete Guide",
       "id": "6800ff059ef36f85000a",
       "last_seen_at": "2026-08-09T04:07:57.421566+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -1452,11 +1461,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.422645+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Kimi Open Platform: New Feature Release Log",
       "id": "71884e0f21b7328aaed5",
       "last_seen_at": "2026-08-09T04:07:57.422645+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -1474,11 +1483,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.423826+00:00",
-      "early_signal": 62,
+      "early_signal": 61,
       "headline": "ICYMI: The Kimi Playground: Your faster way to iterate and test",
       "id": "a18fb22ff3d67dbb774b",
       "last_seen_at": "2026-08-09T14:20:18.750473+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -1505,11 +1514,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.424986+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
       "id": "87c52003fa4381fde7f6",
       "last_seen_at": "2026-08-09T04:07:57.424986+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -1527,11 +1536,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.426234+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Kimi Founder's AMA Recap: First Look at Vision Plans & Roadmap",
       "id": "bf1b7c2733e1a5fab228",
       "last_seen_at": "2026-08-09T04:07:57.426234+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -1549,11 +1558,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.427435+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
       "id": "7274f92dea7049b1f7d2",
       "last_seen_at": "2026-08-09T04:07:57.427435+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -1571,11 +1580,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.428585+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "New Kimi K2 Models & Updated Pricing",
       "id": "e087011cd1eee73ed6f1",
       "last_seen_at": "2026-08-09T04:07:57.428585+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -1593,11 +1602,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.429732+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Kimi K2: Open Agentic Intelligence",
       "id": "10826f8b7af03a9fb47b",
       "last_seen_at": "2026-08-09T04:07:57.429732+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -1615,11 +1624,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.431277+00:00",
-      "early_signal": 79,
+      "early_signal": 78,
       "headline": "Reimagining Independence: How Meta\u2019s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
       "id": "add0b7b936adcbf53807",
       "last_seen_at": "2026-08-09T16:56:48.598835+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -1867,11 +1876,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:48:44+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "The Agent Report \u2014 Your AI Agent Weekly Digest \ud83d\ude80 - Buttondown",
       "id": "91fc372446aaa84aba0e",
       "last_seen_at": "2026-08-09T04:07:57.446536+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -1889,11 +1898,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T12:00:01+00:00",
-      "early_signal": 40,
+      "early_signal": 38,
       "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it' - CNBC",
       "id": "97be4c44bda63ff8ef9c",
       "last_seen_at": "2026-08-09T04:07:57.472383+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -2058,10 +2067,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-06T01:29:00+00:00",
-      "early_signal": 37,
+      "early_signal": 45,
       "headline": "Meta says its AI model hacked into another company during testing - The Guardian",
       "id": "2e8666679d3e80171fb0",
-      "last_seen_at": "2026-08-09T04:07:57.465869+00:00",
+      "last_seen_at": "2026-08-09T19:01:35.218709+00:00",
       "score": 31,
       "sources": [
         {
@@ -2090,6 +2099,15 @@
           "source_type": "google_news",
           "title": "A Meta AI Model Hacked Another Company During Cybersecurity Testing - The Information",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-05T08:40:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "AI models shock UK testers by using fake identities to try to trick developers - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5"
         }
       ],
       "summary": "Meta says its AI model hacked into another company during testing The Guardian"
@@ -2142,11 +2160,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:11:31+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "OpenAI Slows Astra AI Model Development After Cybersecurity Warning - Eurasia Business News",
       "id": "8bd59501920e6dcea6d3",
       "last_seen_at": "2026-08-09T04:32:45.456772+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -2203,6 +2221,28 @@
         }
       ],
       "summary": "ASUS DisplayWidget Center Adds AI Agent Controls ASUS Pressroom"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-05T20:47:11+00:00",
+      "early_signal": 20,
+      "headline": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project - Ars Technica",
+      "id": "4e7763eb2d1452ecf36e",
+      "last_seen_at": "2026-08-09T19:01:35.220774+00:00",
+      "score": 26,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-05T20:47:11+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project - Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0ZwZ1RPbmhiN1dVTXdRQVB6aXB0Y0pVNnY2YjZZUThjQll2NEEwaGxxVldrT2V2WDVfeUJ1ckdzQnZiSWN4YnhTbmRDbEUzN20wT2NoWVcxWUZ4Tmlva3hrdFJaTnVDYTdER3hQS3p1SUpQczJMc3JTM1puZU5hWXJYS3hFX240ajVMdjlwOVJHWjBvUjFUNzZ6UnRnY2xULWREMFc4QkNBck9oVkNObk1OdXFWZ29WOHc?oc=5"
+        }
+      ],
+      "summary": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project Ars Technica"
     }
   ],
   "processed_urls": {
@@ -2254,6 +2294,7 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HY0xMV29sbUtSdDRPbzdKWHhiZExraUV5SjQ3aWxzb2Jsb0VydVA5R0VpRk5xcVB5MmVzazhaV0tGZlZWYWdTYjRmQkRlbTU2UUQwU3F2QnY4VVZCZmViNWxMa29QNnVIOXVEcElESjBzWTRUUnhxStIBgAFBVV95cUxOS1d2dXFPV3lBcGdaMm5OcHA3a0ZsbHVZQzQ0LTBIM0NjcDYzSE9ZeVItT0Z4N0hlcjhRQnJQWlFtWGp6bGg3TVJGWDl4b2phYjZKYlUzYks3VDh2ZnIxc01KSlNveVRFMDZtM1QyaERkWlFUTFFaMDlJcUlOamtWeg?oc=5": "2026-08-09T04:07:57.382560+00:00",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5": "2026-08-09T04:07:57.381833+00:00",
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5": "2026-08-09T16:56:48.597426+00:00",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjVJSkhLSWNWTmZxSDNEckYyVUE2RDlMYlF1NnEtX1RVVW5GRVJmX3hQS19IVWpFeUVNSmpEZGhsenJHMVhkd3Q5bmFDZC1xZmdGckk5ZVk0WmFmVUdGX0ZQcHpjdm5NWDBrUmROaXhaM04tcUtkMFJvLWotNWJvMA?oc=5": "2026-08-09T19:01:35.215687+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxObC1jREUxNmlCOUFaOE5VSWtUY2hVOW1HZzRfaXBHM0FZeWhtSDBjMTd0UVYzOTFIbWRERnFRXzhOSG9DN0Z5UGp5QTBibFA5T0dfN2dYS2w4WDhjNHdZcUlUYThJZkhVd296Z1M3WFF5cTV3U08wZ1VaNHpsbmtGTDdR?oc=5": "2026-08-09T10:16:38.635345+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5": "2026-08-09T04:07:57.381592+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3c0Y2xSeVA4ZENLV0ZkWk42Tmw3Zm5SRVMtOEVodzF2a3diZFFLcVZKVXdCXzMtd2tGUkhkZHZkcS1UZHNrUkJKVktUZFJITmNrMlFqc1VkRng1QkdyT0dkUEUzMHp4R1RRZzFRcWFkNlBRaHBjb2daVmowNU1MZVN5TlE?oc=5": "2026-08-09T04:07:57.382281+00:00",
@@ -2279,8 +2320,10 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5": "2026-08-09T16:56:48.597096+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDk0blhaR3FkTmpQT29FOXFOa1dzbnFyd3A5SW05cW8wM2JCbWJUUmFsdWlvU05qeUhsUXBMM3ZZSFNDU21rNDhBaEZEVnl6b1hXTFlwRG9JX2ZQSkVFLTYzUG85MFQyeV9QaWpqdE0yeFlIcmVmSXdiQ3ZmSzdoY3Z5Qi1VaTZYNUVOWGtiQ2VrSGd0UlVidGlCQ0Z3MWxIUFB5TldVdzNCQWdfM0NsbHBR?oc=5": "2026-08-09T14:20:18.747769+00:00",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM?oc=5": "2026-08-09T04:07:57.382421+00:00",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0ZwZ1RPbmhiN1dVTXdRQVB6aXB0Y0pVNnY2YjZZUThjQll2NEEwaGxxVldrT2V2WDVfeUJ1ckdzQnZiSWN4YnhTbmRDbEUzN20wT2NoWVcxWUZ4Tmlva3hrdFJaTnVDYTdER3hQS3p1SUpQczJMc3JTM1puZU5hWXJYS3hFX240ajVMdjlwOVJHWjBvUjFUNzZ6UnRnY2xULWREMFc4QkNBck9oVkNObk1OdXFWZ29WOHc?oc=5": "2026-08-09T19:01:35.216211+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEJKSEUtVng1aUE5aXNOUF9WazdYSUZ2ZWl2Z1FSN0dSWTdsUFUtUzVfdndjV3RUQkNISXlfaWR3TmdlbUJoY0lqQTFYYk9nb29PcVdQRGtKd2xGU0NPbE9sZVNlbWw0ZnNTcnBfVWtFMm5OYWdVdzdHb01CSUNzTGozcTRLNXlHTFF3Qm1KaHo5UUtmaVNUaEszdFd2dG5xTEZHRjFmUFJ6XzZ6RFFEaFc4c2kzbVh0RjFr?oc=5": "2026-08-09T04:07:57.382245+00:00",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0pYRU1lbURuWWhhQkJtOXNIN3YtUDRKRk5ldWVzcm1pOGFCM3N5S1I1dE40eXZ5NG5GZ09VdjBpTS1sWHdSMFRleUZXZjRGNE9IQ2RtSVRVV0ZBRW1jaDRQRWFGdno1SGl1eHZvaUtOQUd6b0UyVlVuQURhc1NIenM5dksteHVfUmlNeEx3VzRaRWhxTlFGRkEwLWtKUDdkTV95dXc1S0xmNWJIQl9WOXJudmVPUEFpX2FybA?oc=5": "2026-08-09T04:07:57.382788+00:00",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5": "2026-08-09T19:01:35.216062+00:00",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU00xVHVXaHNWblBGZ0h5TzRJRkN1cFF4dHhRekRGNGU2ZlNtamhqWnNmVDVNZ3VhTmt5VXlNQ3NwMzJVNlplVkVjWXJCWFhQX0Rud0NCeUVXN1pHYkFiVHdPbWRZbFdfekNmMlJ2ZFZUdVFfVjFmT01aMjVfaTlFWm1aQ1luWVV5SWRVZ21mZWpEMWxpRGdhelNWMzdqNTR2aFdoQ29TT0M1ekw5QjZidERYc2JFc2VKWjg1LVprY0pJNnhS?oc=5": "2026-08-09T04:07:57.382022+00:00",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWURBMjRhRXAtdEM2WGJNRXFzNEVUZFpFeHJLMFVNdWU5dUh0YzRqUmVBRlVCNTl6blR1ZXFYemtCUTZ4ZjZ0VVQtb00tT1VUWE1vZnIzYWxaVWt5VmwtYzJqMmJBM2NxczZfdUIteVVDbUpqN1lWRnRWWm94VVBnVFZfS3NhbWl3S01lSXYyT2xZZi1zb0dQUkVTaXZ0TThrOEhRMk9CRFhQSERja2pxOVpDNnB3T3FFOVB0MFB1ZUg5WFdiT3hpZQ?oc=5": "2026-08-09T04:07:57.381477+00:00",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5": "2026-08-09T04:07:57.382959+00:00",
@@ -2349,67 +2392,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-09T17:48:28.037594+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-09T19:01:34.237631+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-09T17:48:28.601954+00:00",
+      "checked_at": "2026-08-09T19:01:34.787082+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-09T17:47:45.631577+00:00",
+      "checked_at": "2026-08-09T19:00:37.050497+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-09T17:47:46.771044+00:00",
+      "checked_at": "2026-08-09T19:00:38.591894+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-09T17:47:46.643854+00:00",
+      "checked_at": "2026-08-09T19:00:38.363856+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-09T17:47:49.289258+00:00",
+      "checked_at": "2026-08-09T19:00:41.450914+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-09T17:47:49.970492+00:00",
+      "checked_at": "2026-08-09T19:00:42.137864+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-09T17:47:47.639968+00:00",
+      "checked_at": "2026-08-09T19:00:38.960573+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-09T17:47:53.074644+00:00",
+      "checked_at": "2026-08-09T19:00:45.280842+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-09T17:47:45.961422+00:00",
+      "checked_at": "2026-08-09T19:00:37.521621+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-09T17:47:46.211371+00:00",
+      "checked_at": "2026-08-09T19:00:37.903601+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-09T17:47:45.404766+00:00",
+      "checked_at": "2026-08-09T19:00:36.733610+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-09T17:48:29.006497+00:00",
+      "checked_at": "2026-08-09T19:01:35.207643+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
