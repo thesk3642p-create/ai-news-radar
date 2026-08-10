@@ -2641,11 +2641,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-09T12:30:00+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Why every company wants an AI model router right now - Fortune",
       "id": "c0aa0d147c648ceb4ce7",
       "last_seen_at": "2026-08-10T04:55:05.396519+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -2831,11 +2831,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T12:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "id": "25dc0247eee94e0f05f5",
       "last_seen_at": "2026-08-10T14:06:58.454200+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -2893,11 +2893,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T14:24:13+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Why transparent AI agents matter more than you think - CyberScoop",
       "id": "209a318f9a7d36d65937",
       "last_seen_at": "2026-08-10T15:17:41.524539+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -2937,11 +2937,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Premium seats are coming to ChatGPT Business",
       "id": "1847ac6332912f19814f",
       "last_seen_at": "2026-08-10T17:09:36.151453+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -3056,11 +3056,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 49,
+      "early_signal": 40,
       "headline": "How Zapier transformed core marketing processes with ChatGPT Work",
       "id": "55d458ad4258b6a6664b",
       "last_seen_at": "2026-08-10T22:56:41.326819+00:00",
-      "score": 42,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -3312,67 +3312,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-10T22:56:40.305944+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-10T23:51:33.152186+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-10T22:56:40.881746+00:00",
+      "checked_at": "2026-08-10T23:51:33.767304+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-10T22:56:20.537941+00:00",
+      "checked_at": "2026-08-10T23:50:47.345509+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-10T22:56:21.906535+00:00",
+      "checked_at": "2026-08-10T23:50:48.891282+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-10T22:56:21.693869+00:00",
+      "checked_at": "2026-08-10T23:50:48.436743+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-10T22:56:24.670963+00:00",
+      "checked_at": "2026-08-10T23:50:50.889013+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-10T22:56:25.379200+00:00",
+      "checked_at": "2026-08-10T23:50:51.703865+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-10T22:56:22.418631+00:00",
+      "checked_at": "2026-08-10T23:50:49.451881+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-10T22:56:28.527017+00:00",
+      "checked_at": "2026-08-10T23:50:54.884918+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-10T22:56:21.041299+00:00",
+      "checked_at": "2026-08-10T23:50:47.654428+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-10T22:56:21.323582+00:00",
+      "checked_at": "2026-08-10T23:50:47.995641+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-10T22:56:20.213079+00:00",
+      "checked_at": "2026-08-10T23:50:46.651947+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-10T22:56:41.313564+00:00",
+      "checked_at": "2026-08-10T23:51:34.274109+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
