@@ -1975,11 +1975,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:48:44+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "The Agent Report \u2014 Your AI Agent Weekly Digest \ud83d\ude80 - Buttondown",
       "id": "91fc372446aaa84aba0e",
-      "last_seen_at": "2026-08-10T14:06:58.465200+00:00",
-      "score": 36,
+      "last_seen_at": "2026-08-10T15:17:41.526097+00:00",
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -2025,6 +2025,15 @@
           "source_type": "google_news",
           "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist - the-decoder.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHJGeG0td0ZYaGNzeDhNZ3dDejNXZ1JzeTJNc2VISUNLXzZJMEh1Y1RCYjRUenFaYms4dm9WRmdTWlBzX0YzdlNQRHlha1dUN3hOa2l4VlhDajIzMGtrQmtGNmZNdFZ5ZHROZDhYQ0taZ3NjZURObXJZR2Y4eC1OVHpDZlctVlB1cDdnYXdwNFR5bmZmdzJLbU1teVVqODkxM2FPVy1sZUREcnpqTDZZLWJhVVlfM1B3Znc?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-06T07:00:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "What we know about the rogue AI-agent security breaches - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw?oc=5"
         }
       ],
       "summary": "The Agent Report \u2014 Your AI Agent Weekly Digest \ud83d\ude80 Buttondown"
@@ -2439,11 +2448,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T22:11:31+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "OpenAI Slows Astra AI Model Development After Cybersecurity Warning - Eurasia Business News",
       "id": "8bd59501920e6dcea6d3",
       "last_seen_at": "2026-08-10T11:21:17.482915+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -2554,11 +2563,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-09T16:02:08+00:00",
-      "early_signal": 42,
+      "early_signal": 41,
       "headline": "Alibaba Is Teaching AI Agents to Make Money - Explainx Substack",
       "id": "01b71f50758f61a3f0e7",
       "last_seen_at": "2026-08-10T11:21:17.484845+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -2638,11 +2647,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T08:05:37+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Businesses nearly triple AI agent deployments \u2014 Salesforce - BusinessWorld Online",
       "id": "b6aa5b0a1a8de30a03ca",
       "last_seen_at": "2026-08-10T11:21:17.490599+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -2660,11 +2669,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T12:00:00+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "id": "25dc0247eee94e0f05f5",
       "last_seen_at": "2026-08-10T14:06:58.454200+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -2699,6 +2708,28 @@
         }
       ],
       "summary": "Why AI agent sandboxes are suddenly everywhere in tech Northeast Times"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-10T14:24:13+00:00",
+      "early_signal": 48,
+      "headline": "Why transparent AI agents matter more than you think - CyberScoop",
+      "id": "209a318f9a7d36d65937",
+      "last_seen_at": "2026-08-10T15:17:41.524539+00:00",
+      "score": 44,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-10T14:24:13+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Why transparent AI agents matter more than you think - CyberScoop",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTENkWWdFWmIyWnlUZkVuLTNJNGxaRXlfVVNjaWtJU1U2VnRXaDM1UElQN0Y1M2tGZUVZcmFKZG9qLUJ3Y19vVWR6YndoM1BfYnNkZ3YwQ295Ukh4dGFoQUdWdFRlcnppQTNN?oc=5"
+        }
+      ],
+      "summary": "Why transparent AI agents matter more than you think CyberScoop"
     }
   ],
   "processed_urls": {
@@ -2749,6 +2780,7 @@
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5": "2026-08-10T03:00:21.450032+00:00",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMmo0b2R2TW5lcjh4YkFhTFgyYkN0ZV9kdTRYWDBqNVNab1Q2eUVkUF9IekZGQ1hfOUZtdmpnRUtYY2lnOHRyNnVnd1FyNnd1MEdTV0JoaUZRRnlxUHVuTjJCSTVIZFBuTWNKN2lsci1aTUsycjRoX0dxYUsyWEJiSGZ1Tk56ZTJNZWdzMDNVV1loQUN2dFFTM0NlNWhITVg4VDZJdlI0cGdhWkMyd3BkVVhZWWJGMlAwNW55TjFlSFdJbTM0NENYSkZqZmlLVlUxMU1uNUtUV0FwRS01ZHRBTkxrMVVURW9HVUtGWjRFMDBsVTRfM2dMaXF3eHY?oc=5": "2026-08-10T12:32:44.203247+00:00",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0pqWHpXT0E0cHBMcURmbEtoSHNoSy1HUEV4UHRJQU5GTmhwVm9QVU9TTjR4RzEwUV8tcEFUaHc5Y1JRa0JjN3RUUW1BUmd4WWhNQVY3QVFEZi1YV1h1UmhEcFV6YWplMFRGRGFVb1BUYU1SQTlZNTdleXo4dV9hN1E5bkZvb3o0Qm43Vk9JbHF3Z0JybnpLQ21TeWRJblBOV0FnN0xuUmREU3BGdUI0UXJRalFQSFFPdmUxRU8zaVNDaG5wQUNVVUg2RTdNdUZzcjdtS2xJMkZ5ZVFoSmo5QWtxTmlIOHZqejJRSnI0VlJxaG1wanRQU2c5dlhXZw?oc=5": "2026-08-09T10:55:31.488364+00:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrTENkWWdFWmIyWnlUZkVuLTNJNGxaRXlfVVNjaWtJU1U2VnRXaDM1UElQN0Y1M2tGZUVZcmFKZG9qLUJ3Y19vVWR6YndoM1BfYnNkZ3YwQ295Ukh4dGFoQUdWdFRlcnppQTNN?oc=5": "2026-08-10T15:17:41.521396+00:00",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE55NnY2VFJ4VjlVeXdGbEVQdFJMYVZvZVpwRkY0aVNvZGJtWklMOEt3c01EcTFnT0xocm04QUk2Z1E0NE1lbkNVY2dDRkVxSFMwYUt6YldvQXYtSExsaDk1YTNaZnBqamU0MmpWUHN0YUk1Xzg?oc=5": "2026-08-10T11:21:17.479068+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE8zU25OamxMaDFKMHBOR2tmd2VwUXI1R1l1V3IzUGFwZEp5TzRiaUVkcDcxM1h3dW5YSXpVZ3dCVmd2dEwxdGwwYWI1cWRJVUhnVnQxNkJhTkdXWVZfTV9qOEdHYWVzVVlGdzFPNm53aGtFUQ?oc=5": "2026-08-09T19:49:22.625427+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MZFJFb0tpNVMtNkZCRVFHSUpRZHo5aVRfeVN2TmRxTXpGYjViaGhQbjljNEhnenNtWkF4U0dtTWkzSldVOHhYU1VaU1RRWlpIUWQ2X2xjcGpvODFZRldOWE1UUWUxM1JQQ3FKRTdrYzFzQWlSUmEw?oc=5": "2026-08-09T04:07:57.382883+00:00",
@@ -2795,6 +2827,7 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdRTjVSajlZTjJHVGtRMDltcHNZVUNJV3VSMTU0amd5bm1ONk16TG43NUh3ZkpRZFJvU3gwUF82TjhHeTZzUVZBTTVpSjRhd0MzR1RxUlNTNmtrUXNkZ3Mtb3VrQzJTOThyQUNXLWtZamNrV1RyLWFZU2ZDTjcwYU40RjNtWDZBMjVheld6NWZJRUpnbllnR1hxeTFwTjlF?oc=5": "2026-08-10T09:52:55.930822+00:00",
     "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeHlxaDlGR0xsMUQ1MnZ0WTl0bUYwQ2d5YWdLSTFOZnFaUVhCQVBhWml6anQ1OFB2dGdWc3NTLWVCOHA5RklWQ3lfa1FmVURhQXNxNlFhVFRNc0dpcWRSeDhZVjRBSWxsb3lpWWN4SXJGejd6QTZiRW1fSE83dVhLVGszVmtVY2o0M00yRm1kcmtGM3FuQVBNZUdHaXU2QjJHclVxX3VXeUVneDhqbWFBUUdoczVpMmdra1pWS3VSLTZYMTVfWnFTSXhXZENjT0VneXRScFo2NERSdVVRcXp1d05rZWlKWDJPT1JXLUtvQ3lyWWw5aUdBc2lJVTl4ZWhvcl9SNjVqMFlCYThreVdJS1gtYWg3aW9OQndLbGVPSU1nTGs?oc=5": "2026-08-09T04:07:57.382836+00:00",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5": "2026-08-09T16:56:48.596416+00:00",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw?oc=5": "2026-08-10T15:17:41.521709+00:00",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUJiVmFXTGVzbkV3Z1Q3X242LV9XWWR3YkF6dHo0TnRlSUxfaFdiZjUwTW9jSW5wN0tYb19SRmhGVFI0RDFJZEtrZFY1czZPMGN1cFFjSXNGem51MHkxYUVfMlNUUDlRTUhiczNWUlc3b3hIV2dJM0ZWN2diOXpLQkxXSFNsS01tU3RobHpWOFBFY3hKLUxxNk1fV1hzcTdGVTdzODZWWQ?oc=5": "2026-08-10T12:32:44.202360+00:00",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1U4MDlJbWRwdElRNFAzeUVEamk4LW15OGR3TmwzS0xkYXBlMkRCM1RXa2o3Y29pT3BnbUpzdHhXQWVfYnVZY2o0QmlNSjktdVBjRVVrYzVyMExMMUpfeW91MzV3X1l1bUZENUVkZU9CbVJXZEp0WWViSzRGdlFuZnhHaHZNTFJJbE5oUHRqNkpxMzZYd0R5UWtRWU1pQ3d6WW5lWVA0Q0FVZw?oc=5": "2026-08-10T11:21:17.478390+00:00",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0dWc2loUnlKLWQzdFRodzM5aGFPcDlOdTY4RUlRTUtpSXhEQmd5T1VkcTgxV0x0RDAwSldvRmNIRDYtT1laR2xjb2JQN0xSWHJvLXN0OHd4ZnUySjJLLTJqa2RiSDJEckZwWm1oVjFVUERHdlIyY1o0akJuM0Q1bGd3eDBaZjFVbF9Dbi1aSGRWVUFqNndzTE5SMjFPOFp6OTVhd3dpS2pnV3M?oc=5": "2026-08-09T22:50:57.371037+00:00",
@@ -2895,67 +2928,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-10T14:06:57.377740+00:00",
+      "checked_at": "2026-08-10T15:17:38.836507+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-10T14:06:57.996153+00:00",
+      "checked_at": "2026-08-10T15:17:41.091141+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-10T14:06:10.417618+00:00",
+      "checked_at": "2026-08-10T15:16:49.990597+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-10T14:06:11.869182+00:00",
+      "checked_at": "2026-08-10T15:16:51.259807+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-10T14:06:11.680349+00:00",
+      "checked_at": "2026-08-10T15:16:51.096338+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-10T14:06:15.178949+00:00",
+      "checked_at": "2026-08-10T15:16:53.920660+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-10T14:06:15.833857+00:00",
+      "checked_at": "2026-08-10T15:16:54.588249+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-10T14:06:12.377980+00:00",
+      "checked_at": "2026-08-10T15:16:51.854103+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-10T14:06:18.957843+00:00",
+      "checked_at": "2026-08-10T15:16:57.738586+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-10T14:06:10.773562+00:00",
+      "checked_at": "2026-08-10T15:16:50.325431+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-10T14:06:11.182630+00:00",
+      "checked_at": "2026-08-10T15:16:50.547147+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-10T14:06:10.086633+00:00",
+      "checked_at": "2026-08-10T15:16:49.662535+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-10T14:06:58.441843+00:00",
+      "checked_at": "2026-08-10T15:17:41.514109+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
