@@ -2896,11 +2896,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-09T16:02:08+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Alibaba Is Teaching AI Agents to Make Money - Explainx Substack",
       "id": "01b71f50758f61a3f0e7",
       "last_seen_at": "2026-08-11T10:12:33.869905+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -2936,10 +2936,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T04:20:01+00:00",
-      "early_signal": 35,
+      "early_signal": 43,
       "headline": "AI agent goes rogue while booking gym class, hacks system and removes another customer - Neowin",
       "id": "6f9945b12664aeec14c2",
-      "last_seen_at": "2026-08-10T11:21:17.486896+00:00",
+      "last_seen_at": "2026-08-11T22:25:33.090598+00:00",
       "score": 35,
       "sources": [
         {
@@ -2959,6 +2959,15 @@
           "source_type": "google_news",
           "title": "AI agent goes rogue while booking gym class, hacks system and removes another customer - Neowin",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObUZZS0gyU2VUbVRQNVBqWEt0cnRaXzNIRnNyVjVIYTU3cUgzeGE0Z3lRUmdPYjN6Tnl0U1FneW1FX2pFVFlyTGNJY3FMOW1vby1ZeFA1cUlqaXJ5eW9WTXJKQk5GZDQ5VV8yRXNYOHo2WnJjZTN6TW92UlFtZFc1OGhON1paUlVmTkc0TTU0ZGNBWGh2SWloU1JFNjJaS2JPVXFoVFM2ZmNSakR5SnJjNl9kMnrSAbMBQVVfeXFMUGVoOWM5SzhvU0FwRVZSdWgySk1WSk5mOGdJZERjOUtweW1IUFp6dS1aN1FGdXRpTmRYbU5EaEUzdk5HNWxFbnFrLWJLWFNtRGtMUGxtdFFDYXl6eFROVVVvS0lmMEQtMk9pYnFLN21JckRyU2psY1YzVV9JZko2WUZmVUxuWDNxQkc5SzVvSUNuc0dObjdPUy1lY0NQdzR4TS01WjczUG9iTF9qRW9pd3daRkU?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-11T22:01:36+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Dude Asks AI Agent to Book Gym Spot, Accidentally Launches Autonomous Cyberattack - Futurism",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV01TTDNsRFExX3hNbC16TDdOVXlMU3ZSVDY3TDhsZENUT1FFMkY3X24wRUI4endpMXY5MDF3MEp0b0RmcTBBRnhUTGR2VGtsV3dxSmI1VkNrbWFiS3JuUUdzeGJpbl9RMmk5eTV4d21uWTR2LUQ2VlJUNmE1VWVRVUFOaGRmQQ?oc=5"
         }
       ],
       "summary": "AI agent goes rogue while booking gym class, hacks system and removes another customer Neowin"
@@ -3285,11 +3294,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T05:20:04+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Another AI model escapes its sandbox to search the web for answers - Escudo Digital",
       "id": "a580b6616c1e28abed60",
       "last_seen_at": "2026-08-11T06:37:13.949857+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -3351,11 +3360,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:01:48+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Route AI Agents Across Models with NVIDIA NeMo Switchyard | NVIDIA Technical Blog - NVIDIA Developer",
       "id": "a32bf823eee427264a62",
       "last_seen_at": "2026-08-11T13:43:42.371891+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -3404,11 +3413,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-11T10:00:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Testing ads in ChatGPT",
       "id": "1fb9fed6ee627c11454e",
       "last_seen_at": "2026-08-11T16:37:00.795588+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -3448,11 +3457,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T19:02:37+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Frontier AI raises the cybersecurity bar: Why prediction must become prevention - SiliconANGLE",
       "id": "232372631481054baae2",
       "last_seen_at": "2026-08-11T19:47:33.174075+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -3470,11 +3479,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T18:58:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Incumbent software vendors focused on native AI agent development - Journal of Commerce",
       "id": "5d9d55bd538bca1a3a42",
       "last_seen_at": "2026-08-11T20:27:57.300954+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -3487,6 +3496,28 @@
         }
       ],
       "summary": "Incumbent software vendors focused on native AI agent development Journal of Commerce"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-11T10:00:00+00:00",
+      "early_signal": 46,
+      "headline": "Daybreak models are now available on AWS",
+      "id": "bc7878cc3ebc9836afb2",
+      "last_seen_at": "2026-08-11T22:25:33.088589+00:00",
+      "score": 46,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-11T10:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Daybreak models are now available on AWS",
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+        }
+      ],
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
     }
   ],
   "processed_urls": {
@@ -3581,6 +3612,7 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUk1TmNlQ3lxLVljTnlXM1BSYWpNZTNpRjFBRXVNYkJ4M1VqMmREeW5xUnNyUU9pa0JRWHhoZ1lJb0k3OUJ2MW9OdGI3aG1tMmh6ZkRfMzM2YU01U1BoWjdjSlhTNlB6ck1vYUZTYVozSTRCei1CVzBrblpEQW1lbzc0ZjY?oc=5": "2026-08-10T11:21:17.478040+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3c0Y2xSeVA4ZENLV0ZkWk42Tmw3Zm5SRVMtOEVodzF2a3diZFFLcVZKVXdCXzMtd2tGUkhkZHZkcS1UZHNrUkJKVktUZFJITmNrMlFqc1VkRng1QkdyT0dkUEUzMHp4R1RRZzFRcWFkNlBRaHBjb2daVmowNU1MZVN5TlE?oc=5": "2026-08-09T04:07:57.382281+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXhyeDVGRHNuMGNiT210Z0dMcm1UYzVpLXp5RzJVR1RkSHFMMzRBSVotVXUzZTZUX0g5S0l1S3JDWUFzMWlSTk5qWTRKSEpyQmFfT3hhbU85aXBfMWY2Skh0ME9BMTI2bVFCdXViS2k4c2NCc1R2WHQ4QjNnN1hKNHFOUXU?oc=5": "2026-08-10T16:12:19.796141+00:00",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV01TTDNsRFExX3hNbC16TDdOVXlMU3ZSVDY3TDhsZENUT1FFMkY3X24wRUI4endpMXY5MDF3MEp0b0RmcTBBRnhUTGR2VGtsV3dxSmI1VkNrbWFiS3JuUUdzeGJpbl9RMmk5eTV4d21uWTR2LUQ2VlJUNmE1VWVRVUFOaGRmQQ?oc=5": "2026-08-11T22:25:33.085124+00:00",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYm5fR2FsY01NWjlLclhESk5PdnBQQjc5NlQxR25OcmFUQVczUWl2RU1ZT2pCX0d6cC1rWVJtSzZWV3RMXzBHSnBxOUZ5bFBDWGZib1N5R3Z0THZoU3FiM3BONDFuUGtWc1hEVngwWDZxVThOZ0dFSGtDd051OHFJSzl4aFoxdw?oc=5": "2026-08-10T12:32:44.202767+00:00",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRy1kMlN3OGN3MGJXWllocTc3MUFNNmpKRjd0MUVjcHNYbUtWWlNhMUp5ME5YNHZBVjVoaWJHWHlXaGlkcV9icFlvOHhKVVk1QzU3b2FVbW56dHNDOUI0U1NGRjd2U0UtTENzajdidWNjOHVuQmlmRzAtZlpsWmw5d3lXX2VQNFU?oc=5": "2026-08-11T13:43:42.368303+00:00",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHhOZWxZTjFGeVhORk1uYkFLc2tpM2d1SmxadExqMU1KM1lrMmt3VVh2SXpFZ01GRGFBSWJYcG1NSU02a1ZLTFEzb3hwd1VJcUt6bk9oam9ZYXZLdFZBTEdveF9SQjl3Z1B5Z3JlOS1uN2pnd1JTclY4b21hREdzUmxSOFZ1alE?oc=5": "2026-08-11T16:37:00.792000+00:00",
@@ -3677,6 +3709,7 @@
     "https://openai.com/index/chatgpt-for-academic-researchers": "2026-08-09T04:07:57.370968+00:00",
     "https://openai.com/index/circles": "2026-08-09T04:07:57.370301+00:00",
     "https://openai.com/index/continuous-voice-interaction-with-gpt-live": "2026-08-09T04:07:57.370236+00:00",
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws": "2026-08-11T22:25:33.077601+00:00",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": "2026-08-09T04:07:57.370737+00:00",
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": "2026-08-10T19:17:22.359705+00:00",
     "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": "2026-08-09T04:07:57.371033+00:00",
@@ -3751,72 +3784,73 @@
     "digest:a580b6616c1e28abed60": "2026-08-11T06:37:15.351787+00:00",
     "digest:add0b7b936adcbf53807": "2026-08-09T04:07:58.011439+00:00",
     "digest:b6aa5b0a1a8de30a03ca": "2026-08-10T11:21:18.045157+00:00",
+    "digest:bc7878cc3ebc9836afb2": "2026-08-11T22:25:33.681473+00:00",
     "digest:c0aa0d147c648ceb4ce7": "2026-08-09T13:18:15.965565+00:00",
     "digest:e087011cd1eee73ed6f1": "2026-08-09T04:07:58.011415+00:00"
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-11T21:30:00.141665+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-11T22:25:32.121341+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-11T21:30:00.911498+00:00",
+      "checked_at": "2026-08-11T22:25:32.639960+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-11T21:29:13.188879+00:00",
+      "checked_at": "2026-08-11T22:24:46.004821+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-11T21:29:14.887785+00:00",
+      "checked_at": "2026-08-11T22:24:47.738647+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-11T21:29:14.606059+00:00",
+      "checked_at": "2026-08-11T22:24:47.473068+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-11T21:29:16.820381+00:00",
+      "checked_at": "2026-08-11T22:24:49.786818+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-11T21:29:17.708246+00:00",
+      "checked_at": "2026-08-11T22:24:50.502946+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-11T21:29:15.426014+00:00",
+      "checked_at": "2026-08-11T22:24:48.234462+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-11T21:29:21.004578+00:00",
+      "checked_at": "2026-08-11T22:24:53.616697+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-11T21:29:13.686242+00:00",
+      "checked_at": "2026-08-11T22:24:46.334351+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-11T21:29:13.988082+00:00",
+      "checked_at": "2026-08-11T22:24:46.669274+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-11T21:29:12.860179+00:00",
+      "checked_at": "2026-08-11T22:24:45.657181+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-11T21:30:01.650741+00:00",
+      "checked_at": "2026-08-11T22:25:33.077189+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
