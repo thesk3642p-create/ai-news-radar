@@ -2940,11 +2940,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T08:33:08+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Managing the Transition From Predictable API-Based Software Toward AI Agents - HackerNoon",
       "id": "4d458021c09246304b6c",
       "last_seen_at": "2026-08-10T21:02:43.298774+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -3077,11 +3077,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T17:00:00+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "What building an AI-native finance function taught me",
       "id": "77d460a15e26444e9de4",
       "last_seen_at": "2026-08-10T17:09:36.149489+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -3302,11 +3302,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T11:00:00+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "A New Trick Reveals AI Models\u2019 Inner Thoughts - WIRED",
       "id": "1477b7ed8639eb88b439",
       "last_seen_at": "2026-08-11T11:57:44.325459+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -3324,11 +3324,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:01:48+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Route AI Agents Across Models with NVIDIA NeMo Switchyard | NVIDIA Technical Blog - NVIDIA Developer",
       "id": "a32bf823eee427264a62",
       "last_seen_at": "2026-08-11T13:43:42.371891+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -3346,11 +3346,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:20:17+00:00",
-      "early_signal": 52,
+      "early_signal": 50,
       "headline": "Nvidia releases Nemotron 3.5 Lightning open-source AI model - qz.com",
       "id": "86b89cd15ab241368512",
       "last_seen_at": "2026-08-11T17:42:21.493076+00:00",
-      "score": 57,
+      "score": 56,
       "sources": [
         {
           "media_url": null,
@@ -3421,11 +3421,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T19:02:37+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Frontier AI raises the cybersecurity bar: Why prediction must become prevention - SiliconANGLE",
       "id": "232372631481054baae2",
       "last_seen_at": "2026-08-11T19:47:33.174075+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -3438,6 +3438,28 @@
         }
       ],
       "summary": "Frontier AI raises the cybersecurity bar: Why prediction must become prevention SiliconANGLE"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-11T18:58:00+00:00",
+      "early_signal": 46,
+      "headline": "Incumbent software vendors focused on native AI agent development - Journal of Commerce",
+      "id": "5d9d55bd538bca1a3a42",
+      "last_seen_at": "2026-08-11T20:27:57.300954+00:00",
+      "score": 48,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-11T18:58:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Incumbent software vendors focused on native AI agent development - Journal of Commerce",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2ZZTV9yWDZPYzRyczdBeXJwSHVWbkFvcjN0NzUwRFlxZXNqOGptbUtBV3RpNHAzTFEzbWNIb1NlbUNGVGlpcTVXSXd2MFJMOXd2c0ZRTzR5X2QtRkFkZmNmVlRSdWE5M3RxMjJSOFU1U24wT2Q5aGNSQVhHVDdWMnotUXlqZEIxOXN4S3dReHFFVWZpbjN3SGZPSVgzQ3pwemNN?oc=5"
+        }
+      ],
+      "summary": "Incumbent software vendors focused on native AI agent development Journal of Commerce"
     }
   ],
   "processed_urls": {
@@ -3573,6 +3595,7 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm1FTXBaT1h0M2VZV1lGVTVzbnlsMWtCeXBvUGJvSTdoZmFtR3F5NHAwNUVWZk9FeEdTQ2RDeTd6LW15XzRscy1memliM2xsVHJmQVNHSkxSZEF0OWRmcTFxRzY1bThYRUw5emg3TGNzSWFpTDdrWEs3WENDWXFzSzhsLWZtNFIwYVdySllLd1lGbHFoMFI1Q0M2TFRheXRj0gGnAUFVX3lxTE83M0kzV3gtUGFGcmo0X1RVTmdRQkhPbUJFV2hxQzZSdGhnWjFHRXhuRDNpay1Nb3UwaWEza3BxUkVFNVlzWDhONW9sOFBqS0dnajRRekc4dDZsMndHX1N3UXlYZUhKTnQ4RnpUNldWaU44emFRZUNUeUt6YWdZZWU0NWd5MkJpSFhGR0hlcElPRjFOM3JVSFlPMUJWM2Uwekg1aGNCcDBZ?oc=5": "2026-08-10T08:17:47.078910+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdRTjVSajlZTjJHVGtRMDltcHNZVUNJV3VSMTU0amd5bm1ONk16TG43NUh3ZkpRZFJvU3gwUF82TjhHeTZzUVZBTTVpSjRhd0MzR1RxUlNTNmtrUXNkZ3Mtb3VrQzJTOThyQUNXLWtZamNrV1RyLWFZU2ZDTjcwYU40RjNtWDZBMjVheld6NWZJRUpnbllnR1hxeTFwTjlF?oc=5": "2026-08-10T09:52:55.930822+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmVFSzFuVmdReS0wZXZxMDJKRW5JdW5CcFE2VEhDTG9OUkhkamM5d25TWTRpSy1lNm4zX1V5bHlPZDZIbXpXMi1vQ0VwZEY1aHdCeHgwYVZZVzU2NGQzeG9JbEJYaHRsWmM0UVJZbWtsSERzby1OVmZxSVFfeUdiY1lfLU95MEp0blZJRnRpS0habVNfZlFkVHg2YWJscHhxU2tF?oc=5": "2026-08-11T13:43:42.367602+00:00",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2ZZTV9yWDZPYzRyczdBeXJwSHVWbkFvcjN0NzUwRFlxZXNqOGptbUtBV3RpNHAzTFEzbWNIb1NlbUNGVGlpcTVXSXd2MFJMOXd2c0ZRTzR5X2QtRkFkZmNmVlRSdWE5M3RxMjJSOFU1U24wT2Q5aGNSQVhHVDdWMnotUXlqZEIxOXN4S3dReHFFVWZpbjN3SGZPSVgzQ3pwemNN?oc=5": "2026-08-11T20:27:57.298015+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanFKR3FYYUptTWdBUTlHMVZUb0hMUUNoSkRVd1ZrN2h6WF9MWVd1SU1KdjhXdzhUUk9sMk15U3E0dFVWMFE1YnJiSENKMGE1bThNelplalQ3a29xMy1HTk5Da2hwaW84MV83RTllNm1ZM0FUbzN2N0FBekVrRDg0TWVMWmhpbnUtMW9PdWVZRTVHNU5RTkFQQjhVdFNzZnJqWFFF?oc=5": "2026-08-11T02:28:45.890647+00:00",
     "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeHlxaDlGR0xsMUQ1MnZ0WTl0bUYwQ2d5YWdLSTFOZnFaUVhCQVBhWml6anQ1OFB2dGdWc3NTLWVCOHA5RklWQ3lfa1FmVURhQXNxNlFhVFRNc0dpcWRSeDhZVjRBSWxsb3lpWWN4SXJGejd6QTZiRW1fSE83dVhLVGszVmtVY2o0M00yRm1kcmtGM3FuQVBNZUdHaXU2QjJHclVxX3VXeUVneDhqbWFBUUdoczVpMmdra1pWS3VSLTZYMTVfWnFTSXhXZENjT0VneXRScFo2NERSdVVRcXp1d05rZWlKWDJPT1JXLUtvQ3lyWWw5aUdBc2lJVTl4ZWhvcl9SNjVqMFlCYThreVdJS1gtYWg3aW9OQndLbGVPSU1nTGs?oc=5": "2026-08-09T04:07:57.382836+00:00",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhlSlAyTGZJUUpkbHQ4eWEycTR5XzR6cTFvUVVIMXpCTV94YzhfclBWd1RJMjlsWGlla0Z4dTZ0V1hOZFY1TGxfenU3THNkMmxNTGZ1SXZCWEdxcGFhX2lodTVZNkFQR2xtSkt3OW44Q0lCQk5Oa3RJYkZBWGpoTm1BZVlBVjVRVlRLd1ZXYWlabE8zX01rQUV2Ry03Sml1X1NVY2dR?oc=5": "2026-08-10T22:56:41.321324+00:00",
@@ -3682,6 +3705,7 @@
     "digest:31b003129819ac16860f": "2026-08-09T04:07:58.011391+00:00",
     "digest:384697bcd6226ac2de95": "2026-08-10T19:17:22.896513+00:00",
     "digest:4d458021c09246304b6c": "2026-08-10T09:52:56.461540+00:00",
+    "digest:5d9d55bd538bca1a3a42": "2026-08-11T20:27:58.037490+00:00",
     "digest:5ecf73adac8e6815e045": "2026-08-09T04:07:58.011443+00:00",
     "digest:6800ff059ef36f85000a": "2026-08-09T04:07:58.011430+00:00",
     "digest:698cfa946f5af1ade5d7": "2026-08-09T04:07:58.011421+00:00",
@@ -3702,67 +3726,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-11T19:47:32.129495+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-11T20:27:56.064685+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-11T19:47:32.680420+00:00",
+      "checked_at": "2026-08-11T20:27:56.644328+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-11T19:46:45.858329+00:00",
+      "checked_at": "2026-08-11T20:27:34.711276+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-11T19:46:47.101969+00:00",
+      "checked_at": "2026-08-11T20:27:35.915939+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-11T19:46:46.977054+00:00",
+      "checked_at": "2026-08-11T20:27:35.812932+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-11T19:46:48.990841+00:00",
+      "checked_at": "2026-08-11T20:27:37.792806+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-11T19:46:49.649933+00:00",
+      "checked_at": "2026-08-11T20:27:38.526135+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-11T19:46:47.633968+00:00",
+      "checked_at": "2026-08-11T20:27:36.366528+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-11T19:46:52.800398+00:00",
+      "checked_at": "2026-08-11T20:27:41.647308+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-11T19:46:46.316109+00:00",
+      "checked_at": "2026-08-11T20:27:35.115878+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-11T19:46:46.565804+00:00",
+      "checked_at": "2026-08-11T20:27:35.430920+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-11T19:46:45.609836+00:00",
+      "checked_at": "2026-08-11T20:27:34.302659+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-11T19:47:33.162434+00:00",
+      "checked_at": "2026-08-11T20:27:57.289165+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
