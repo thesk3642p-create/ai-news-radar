@@ -1717,7 +1717,7 @@
       "early_signal": 66,
       "headline": "Reimagining Independence: How Meta\u2019s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
       "id": "add0b7b936adcbf53807",
-      "last_seen_at": "2026-08-11T02:28:45.894136+00:00",
+      "last_seen_at": "2026-08-11T07:56:49.294359+00:00",
       "score": 34,
       "sources": [
         {
@@ -1827,6 +1827,15 @@
           "source_type": "google_news",
           "title": "The Future is for Billionaires, the rest will get open weight AI models, maybe - The Register",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVBtNHRXa3JNX3BEWUx1VThDbTNDQWxKUjF2ZzlnMDVWbmJVbm9SemVkaWtmTk9MU3RDMi0xbHMzY3ZHR2IzaDhYMzRhRGJEYWJlYUxGcENJTlAtLXpYOGdTSWlNb1pmNXRGYy1SeFZsNkNMYTBSMktaR2VSV1FYaUZxTE1aLUlZSVpLc19wandjd0FhNjlKNTB2UjdqMkdfN2kwcjBGMHk2b0pnNTRQTmUtcnJyQkFLaGd1M2tWVTRuSjBjM3pQaTBxU0lkdw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-11T06:42:02+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "The Hidden Cost of AI Agents for Companies Is Lost Expertise - MIT Sloan Management Review Middle East",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWQ3RG5PeFd0M3JCaXZfdEN3V1BYdnlIVlNVbHFfWWF0eTdsSzB1YU9WVjJzN05KQXhaNHBxY05NcWh1NmtjYUw0ZWx2cnNLZUxLVUJqVFRQMEI2QVRQeFIwMmJSYVRSdmZRd2d5R3d3cGJ5OWtnNmFfUlhBLWpmYnh1OHpQSGFLOFNyQnNWS2UtYjRnWlFxR2dhdw?oc=5"
         }
       ],
       "summary": "Reimagining Independence: How Meta\u2019s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics"
@@ -2783,11 +2792,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T04:20:01+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "AI agent goes rogue while booking gym class, hacks system and removes another customer - Neowin",
       "id": "6f9945b12664aeec14c2",
       "last_seen_at": "2026-08-10T11:21:17.486896+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -2814,11 +2823,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T08:33:08+00:00",
-      "early_signal": 42,
+      "early_signal": 41,
       "headline": "Managing the Transition From Predictable API-Based Software Toward AI Agents - HackerNoon",
       "id": "4d458021c09246304b6c",
       "last_seen_at": "2026-08-10T21:02:43.298774+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -2845,11 +2854,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T08:05:37+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Businesses nearly triple AI agent deployments \u2014 Salesforce - BusinessWorld Online",
       "id": "b6aa5b0a1a8de30a03ca",
       "last_seen_at": "2026-08-10T11:21:17.490599+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -2867,11 +2876,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T12:00:00+00:00",
-      "early_signal": 43,
+      "early_signal": 41,
       "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "id": "25dc0247eee94e0f05f5",
       "last_seen_at": "2026-08-10T14:06:58.454200+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -2929,11 +2938,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T14:24:13+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Why transparent AI agents matter more than you think - CyberScoop",
       "id": "209a318f9a7d36d65937",
       "last_seen_at": "2026-08-10T15:17:41.524539+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -2951,11 +2960,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T17:00:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "What building an AI-native finance function taught me",
       "id": "77d460a15e26444e9de4",
       "last_seen_at": "2026-08-10T17:09:36.149489+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -2973,11 +2982,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 31,
+      "early_signal": 29,
       "headline": "Premium seats are coming to ChatGPT Business",
       "id": "1847ac6332912f19814f",
       "last_seen_at": "2026-08-10T17:09:36.151453+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -3070,11 +3079,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T20:04:24+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Tech industry is buzzing after a Claude agent hacked into a gym - TechCrunch",
       "id": "313b2a970c7ce797e8c9",
       "last_seen_at": "2026-08-10T21:58:49.214691+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -3092,11 +3101,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 39,
+      "early_signal": 37,
       "headline": "How Zapier transformed core marketing processes with ChatGPT Work",
       "id": "55d458ad4258b6a6664b",
       "last_seen_at": "2026-08-10T22:56:41.326819+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -3246,6 +3255,7 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWVWTmFHbHNBYkJDbEFVZXdoS3dhOWRValRkdGJZbkcxWmJCZmhhMkQ2VFNUcEFMaW0wN1NJZ0Myb1ZZbVFnSzJvbWdVaFlHYm5RTzZ2TDd5UzBtdGJrbXpmQU5pamtZdlEtaEVpOElCNW1LWlF2RGZ0VzhvSlp5WlF6MVZsakVIMGJxRlk3Ri1xbmJBcmR4S1ZR?oc=5": "2026-08-10T21:58:49.211019+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5": "2026-08-09T04:07:57.382922+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2g5aHBYMUMyNDZrN0toSXFYLVNQTmVLTURNbHc3VkF2ejZMUlVyVXUzNGNKMUtTRFJsLVlIUHloeXVXemlXT1BialppOEJVakFRQnlJV3hPRFhxclplVjdtSk1kdFY3aDRkazRlZVpFZ1ZnV0F0RGZBQVNFZHA2Vno5RzRUNTZQRTQ0Q0VOWmMwb3loWjdMUWItdw?oc=5": "2026-08-10T12:32:44.203068+00:00",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWQ3RG5PeFd0M3JCaXZfdEN3V1BYdnlIVlNVbHFfWWF0eTdsSzB1YU9WVjJzN05KQXhaNHBxY05NcWh1NmtjYUw0ZWx2cnNLZUxLVUJqVFRQMEI2QVRQeFIwMmJSYVRSdmZRd2d5R3d3cGJ5OWtnNmFfUlhBLWpmYnh1OHpQSGFLOFNyQnNWS2UtYjRnWlFxR2dhdw?oc=5": "2026-08-11T07:56:49.291430+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUlDV19rQi1xNjJxVWFVeGVEV1NEdDNpNWRLa01uOWV3VUNJaEdVWUhsV0RRVXN2U2otbmlPNHd6TThJbjJRTEFVTlR6Y3VDcTlvRVJxd1AwQllaLUhGeV9KYWMyZEVIWkVEMFlRUUNTOXdKd19hV2k4dEVGeC1KdlVFcURvM2EtUU4yeDRRQlhtY282Mk5IN1REYw?oc=5": "2026-08-11T02:28:45.889858+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmZmYkMwU3BUdU9Gd0ZaSHJVcVFuWmV5cDVkSnFucFdKQlA1NW9fTlV3eXJHc29FN2xTZUVLcG9ERmswXzIzVGlvaWNueF9vZXN6c1lqMTRUcWNVNERHM2dWbjlqczB6TzBXMUd1R2QzbnFZNVZ4UVJjX3pKRS1qNkhTdFZiNld2djlfcE9NV2pTcDFxRjIwSWdmNk4?oc=5": "2026-08-09T04:07:57.381295+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1lTZ0xOWktMQnExakNMU254a3k4Ni13TDJ3QjZMVzEyOU1VU3dnTEJjQ0ZSZVRvb1I2eXJTNGZ4Qm9XRHc2YmxQd2dDZHkwSTlqa1pYejJqNndUVDZxejJSU2ZhXzdQckFHMUtUUm13QU9iMG02b0Q0VFZOdktvVzBXNlNlSVYxdW1uTHhHWkZwX0pmM3U5Y3FpeVY?oc=5": "2026-08-10T14:06:58.449698+00:00",
@@ -3376,67 +3386,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-11T06:37:13.007531+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-11T07:56:48.164323+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-11T06:37:13.551664+00:00",
+      "checked_at": "2026-08-11T07:56:48.715947+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-11T06:36:25.548858+00:00",
+      "checked_at": "2026-08-11T07:56:02.856896+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-11T06:36:26.937883+00:00",
+      "checked_at": "2026-08-11T07:56:04.302647+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-11T06:36:26.721204+00:00",
+      "checked_at": "2026-08-11T07:56:04.098962+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-11T06:36:29.952402+00:00",
+      "checked_at": "2026-08-11T07:56:06.138176+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-11T06:36:30.623725+00:00",
+      "checked_at": "2026-08-11T07:56:06.812900+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-11T06:36:27.523992+00:00",
+      "checked_at": "2026-08-11T07:56:04.806074+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-11T06:36:33.741818+00:00",
+      "checked_at": "2026-08-11T07:56:10.111614+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-11T06:36:25.915747+00:00",
+      "checked_at": "2026-08-11T07:56:03.303521+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-11T06:36:26.192942+00:00",
+      "checked_at": "2026-08-11T07:56:03.593070+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-11T06:36:25.309289+00:00",
+      "checked_at": "2026-08-11T07:56:02.591198+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-11T06:37:13.936346+00:00",
+      "checked_at": "2026-08-11T07:56:49.283238+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
