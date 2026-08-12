@@ -2280,11 +2280,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-08T13:00:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Building a Streamlit UI for My LangGraph AI Agent - Towards Data Science",
       "id": "dfb96c07cca50e218909",
       "last_seen_at": "2026-08-11T13:43:42.373623+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -2981,11 +2981,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T04:20:01+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "AI agent goes rogue while booking gym class, hacks system and removes another customer - Neowin",
       "id": "6f9945b12664aeec14c2",
       "last_seen_at": "2026-08-11T22:25:33.090598+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -3021,10 +3021,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T08:33:08+00:00",
-      "early_signal": 34,
+      "early_signal": 42,
       "headline": "Managing the Transition From Predictable API-Based Software Toward AI Agents - HackerNoon",
       "id": "4d458021c09246304b6c",
-      "last_seen_at": "2026-08-10T21:02:43.298774+00:00",
+      "last_seen_at": "2026-08-12T10:43:40.237963+00:00",
       "score": 37,
       "sources": [
         {
@@ -3044,6 +3044,15 @@
           "source_type": "google_news",
           "title": "White House Moves Toward Voluntary AI Model Review Framework - The National Law Review",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFo1TmJ1ZDNwOUpwZWpzaU92QnZSeS1XbTdfZkRkSEUxNlVzTklxQkhHbzBOdXUwRktaS21KSVU3XzRGS25VOThIZk44eW8xS205cEw3ODJYcGNfeFNuQy1PNmd0VGJwUTY0c1lFNUxWRVBKZzFhMFdsWG9IMGJ1NHBqZVdtekdLb0t4aEFkNmxDQ0Z5RFV0TNIBngFBVV95cUxPdWVaUEt5RnJjU05CVUpEeW1Gejg5UFRPRTl4Y3U1aTBwSnZ4bFFnQURLc2M5VDA1WjhkenJETE1YRHFNWENEd095SEFWZjJEZlFOZzlZR05DTjR5RlZBeWNWX0xMdy05LW9ma0tSQms4T0JuYmV4WkVrY1NsSjZqZ2V0QXNocHllU1FPYVJ2dG45WUMxd3NiTmZhN3NWZw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-12T09:30:32+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "NVIDIA\u2019s Nemotron 3.5 Lightning targets the routine work behind AI agents - EdTech Innovation Hub",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRENuWFJ4QlJTOGswbi0wOGI3Mk9iTk9IZ2tSRHYtM21NLWs1d1BybV9LOUVEUlloR3U4Q0hLbmJkWkJ0OW1XVW8zUFFWYzg0WEZrbW42NVZEX254aGlxYlpwTHZ4b1Y1cmFCQ085NXRreGN3OXY1MXVVWWltUU1PZjhvdTVjRlZ3TkM3R2ZuNXVkd2FuVWZBUnFmOEQwMmIxblpDb0N6a3ZLWXlwQ0dOQ2tn?oc=5"
         }
       ],
       "summary": "Managing the Transition From Predictable API-Based Software Toward AI Agents HackerNoon"
@@ -3074,11 +3083,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T12:00:00+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "id": "25dc0247eee94e0f05f5",
       "last_seen_at": "2026-08-10T14:06:58.454200+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -3401,11 +3410,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T11:00:00+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "A New Trick Reveals AI Models\u2019 Inner Thoughts - WIRED",
       "id": "1477b7ed8639eb88b439",
       "last_seen_at": "2026-08-11T11:57:44.325459+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -3617,11 +3626,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T01:29:59+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Chinese AI Models Narrow Performance Gap While Leading in Cost per Task - thelec.net",
       "id": "e995579ec8e3035f81db",
       "last_seen_at": "2026-08-12T03:11:51.420749+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -3639,11 +3648,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:43:24+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Frontier AI agents: Only as safe as their containment - ReversingLabs",
       "id": "34b6c7566b2fe7ef0299",
       "last_seen_at": "2026-08-12T09:32:45.388630+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -3819,6 +3828,7 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHlEckd5S0lPQXNyUmk4TFN2Y2thdWFJWFVvX3lyVHo4WjBjX2l1SkMyTl9XdjJjbU5GcGF0UXgwNFBUdTA4LVJ5cDlzeDJsWHlHaDNaYjRQRFJDYVBnWk5UMGFpUTNPdzg4Q3hMTmxUd1ZXbzV5OEdLcG41bkVfYXEwdGN0enhtVE5pTjBabkotSnNWX21YblF4OWpSYU1CXzhIdjRpNXNVQzhSQ1BuZw?oc=5": "2026-08-09T04:32:45.453497+00:00",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVGeExsQy1sQmdaWkxXOTBmaWN3TnNJLTJEZEtwbURqNmxtSWk3TXh3NU40UmMzLWFUdktwVHRsNWFfZjZzRllvM1A0Vno1YkxHenN4Z3YxYl9tX18xWnFFQWNRN05scTgxenNRVU9GZXkxWEIxNGI2NDl0N2s4ZjRaSGxlRVQwV1MzR2pVZHBCQkp3ZWFweDBWWlBrUmN0THZQVmRwLTBBbnAwY05Zcw?oc=5": "2026-08-10T11:21:17.479364+00:00",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUpZWjdyQzMxQnAyUFdmS0p2SkQ3SWVzZHpoU0RJN0dxVGtTb1VmZlJlc3ZTMGxYcXlPT2p1SGVGTWduWUllVHdPc3BfUUFtaHh4eVZIVVRPOEpvWHlzZDBORGEyUWNWcTAweDlZaEZ1YlR6SXlKYXRqSnVSVTZSaXB4NHFVWUE2ZGlnMEc1a3BmdDg1WXI5STNtRE9OX0dNelRHWmI0dENiLUZEOUwwTw?oc=5": "2026-08-09T22:50:57.370558+00:00",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRENuWFJ4QlJTOGswbi0wOGI3Mk9iTk9IZ2tSRHYtM21NLWs1d1BybV9LOUVEUlloR3U4Q0hLbmJkWkJ0OW1XVW8zUFFWYzg0WEZrbW42NVZEX254aGlxYlpwTHZ4b1Y1cmFCQ085NXRreGN3OXY1MXVVWWltUU1PZjhvdTVjRlZ3TkM3R2ZuNXVkd2FuVWZBUnFmOEQwMmIxblpDb0N6a3ZLWXlwQ0dOQ2tn?oc=5": "2026-08-12T10:43:40.234754+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5": "2026-08-09T16:56:48.597096+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDk0blhaR3FkTmpQT29FOXFOa1dzbnFyd3A5SW05cW8wM2JCbWJUUmFsdWlvU05qeUhsUXBMM3ZZSFNDU21rNDhBaEZEVnl6b1hXTFlwRG9JX2ZQSkVFLTYzUG85MFQyeV9QaWpqdE0yeFlIcmVmSXdiQ3ZmSzdoY3Z5Qi1VaTZYNUVOWGtiQ2VrSGd0UlVidGlCQ0Z3MWxIUFB5TldVdzNCQWdfM0NsbHBR?oc=5": "2026-08-09T14:20:18.747769+00:00",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmhQanJmZkM2ZXU3V3h2MEdSbnBFOHFYb1NYUkU4M1BFVHhVcVVtQV91dVpfb0dQSERBck42Q3c2dFFQSTV3VG83X1J2Um5UVEJNeVE1UXBmZFJPVmk0S0N5MzdSemFKZFR2WXJodEN5dElNaGZvTXczMFExSnpBQ3BFUkJTVjZMZXE2WjFkWWFjTFhCVy1ITERJUmZRTk16TG53Y29uQVRrM3cxdFQzY0ZQZw?oc=5": "2026-08-10T19:17:22.366896+00:00",
@@ -3940,67 +3950,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-12T09:32:44.252307+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-12T10:43:39.167410+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-12T09:32:44.822655+00:00",
+      "checked_at": "2026-08-12T10:43:39.705510+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-12T09:32:23.375123+00:00",
+      "checked_at": "2026-08-12T10:42:53.137068+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-12T09:32:24.822390+00:00",
+      "checked_at": "2026-08-12T10:42:54.436130+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-12T09:32:24.568338+00:00",
+      "checked_at": "2026-08-12T10:42:54.219983+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-12T09:32:26.828990+00:00",
+      "checked_at": "2026-08-12T10:42:57.057049+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-12T09:32:27.536442+00:00",
+      "checked_at": "2026-08-12T10:42:57.755547+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-12T09:32:25.330623+00:00",
+      "checked_at": "2026-08-12T10:42:55.244243+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-12T09:32:30.668310+00:00",
+      "checked_at": "2026-08-12T10:43:00.863931+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-12T09:32:23.739920+00:00",
+      "checked_at": "2026-08-12T10:42:53.512823+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-12T09:32:24.026429+00:00",
+      "checked_at": "2026-08-12T10:42:53.792645+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-12T09:32:23.081621+00:00",
+      "checked_at": "2026-08-12T10:42:52.897599+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-12T09:32:45.376993+00:00",
+      "checked_at": "2026-08-12T10:43:40.226610+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
