@@ -3536,11 +3536,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T11:00:00+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "A New Trick Reveals AI Models\u2019 Inner Thoughts - WIRED",
       "id": "1477b7ed8639eb88b439",
       "last_seen_at": "2026-08-12T21:29:12.576090+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -3665,11 +3665,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-11T10:00:00+00:00",
-      "early_signal": 26,
+      "early_signal": 25,
       "headline": "Testing ads in ChatGPT",
       "id": "1fb9fed6ee627c11454e",
       "last_seen_at": "2026-08-11T16:37:00.795588+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -3687,11 +3687,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T16:02:25+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Invoca Names JB Brown CTO as AI Agent Strategy Accelerates - citybiz",
       "id": "14b8781d3b4657cbc431",
       "last_seen_at": "2026-08-11T16:37:00.800018+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -3753,11 +3753,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-11T10:00:00+00:00",
-      "early_signal": 42,
+      "early_signal": 41,
       "headline": "Daybreak models are now available on AWS",
       "id": "bc7878cc3ebc9836afb2",
       "last_seen_at": "2026-08-12T05:03:38.736542+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -3784,11 +3784,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T02:07:09+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "ByteDance's 10 Trillion Parameter AI Model Faces One Big Problem - Memeburn",
       "id": "e7131e3310952124e719",
       "last_seen_at": "2026-08-12T03:11:51.416157+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -3806,11 +3806,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T01:29:59+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Chinese AI Models Narrow Performance Gap While Leading in Cost per Task - thelec.net",
       "id": "e995579ec8e3035f81db",
       "last_seen_at": "2026-08-12T03:11:51.420749+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -3899,11 +3899,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-12T06:00:00+00:00",
-      "early_signal": 64,
+      "early_signal": 63,
       "headline": "From assistance to execution: How enterprises put AI to work",
       "id": "ca1007ee66c9eebfa418",
       "last_seen_at": "2026-08-13T05:10:57.944586+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -3939,11 +3939,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T16:59:33+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "Introducing Grok Bot - X.ai",
       "id": "cf63e562a15bee144794",
       "last_seen_at": "2026-08-12T23:23:43.570199+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4001,11 +4001,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T18:33:51+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Federal Intelligence Chief Says AI Agents Need Birth Certificates - PYMNTS.com",
       "id": "abb17d0ae2e1672aa0cc",
       "last_seen_at": "2026-08-12T19:21:23.872637+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -4040,6 +4040,28 @@
         }
       ],
       "summary": "Full-scale AI agent adoption remains years away for enterprises CIO Dive"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-13T09:23:12+00:00",
+      "early_signal": 48,
+      "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
+      "id": "c6953ea04e22a8c4b1c8",
+      "last_seen_at": "2026-08-13T09:34:33.155979+00:00",
+      "score": 49,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T09:23:12+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Okta targets AI agent token costs with MCP scoping - AI News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1ZhOWE4eXF0LTdKWVpkY2JWSWZFOTRtTk1Rd2RkRTBDdkFidjZqZGpVZkJpMXlMaHVjX2Mzd0VqcUROREVoMUg3TU9CRllWY0ZrVk1hRU9NNFdJNEVDUTE2U01LeUYxSTdkSDBUR0hRWGhSaGRQS2M5LXNaQlVSbS1SS0V1VFZkTENHSUk4aU9mWlNJclhwWEpoSFd2enFFLVE?oc=5"
+        }
+      ],
+      "summary": "Okta targets AI agent token costs with MCP scoping AI News"
     }
   ],
   "processed_urls": {
@@ -4207,6 +4229,7 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm1FTXBaT1h0M2VZV1lGVTVzbnlsMWtCeXBvUGJvSTdoZmFtR3F5NHAwNUVWZk9FeEdTQ2RDeTd6LW15XzRscy1memliM2xsVHJmQVNHSkxSZEF0OWRmcTFxRzY1bThYRUw5emg3TGNzSWFpTDdrWEs3WENDWXFzSzhsLWZtNFIwYVdySllLd1lGbHFoMFI1Q0M2TFRheXRj0gGnAUFVX3lxTE83M0kzV3gtUGFGcmo0X1RVTmdRQkhPbUJFV2hxQzZSdGhnWjFHRXhuRDNpay1Nb3UwaWEza3BxUkVFNVlzWDhONW9sOFBqS0dnajRRekc4dDZsMndHX1N3UXlYZUhKTnQ4RnpUNldWaU44emFRZUNUeUt6YWdZZWU0NWd5MkJpSFhGR0hlcElPRjFOM3JVSFlPMUJWM2Uwekg1aGNCcDBZ?oc=5": "2026-08-10T08:17:47.078910+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdRTjVSajlZTjJHVGtRMDltcHNZVUNJV3VSMTU0amd5bm1ONk16TG43NUh3ZkpRZFJvU3gwUF82TjhHeTZzUVZBTTVpSjRhd0MzR1RxUlNTNmtrUXNkZ3Mtb3VrQzJTOThyQUNXLWtZamNrV1RyLWFZU2ZDTjcwYU40RjNtWDZBMjVheld6NWZJRUpnbllnR1hxeTFwTjlF?oc=5": "2026-08-10T09:52:55.930822+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVlWVlo3VDJFcXdoOHRnNV9ndXhRWVA3STNyMG92cGtoRXBLbWJGaEFCZ2NGLVBaNWlsaTRrYXgzbTNxWVN5SW1UQl9BQmtrOVdyclVxSHVnQ19ySXk0bUNqbUw0MjdnQUs1NTFwZGZNQTN6c050NWxjN2k4TlQzQ1NQUDhyNXlJaHh1RGVHSFZMMXZ5cUFoQWN0MV9XRTl3?oc=5": "2026-08-11T21:30:01.658642+00:00",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1ZhOWE4eXF0LTdKWVpkY2JWSWZFOTRtTk1Rd2RkRTBDdkFidjZqZGpVZkJpMXlMaHVjX2Mzd0VqcUROREVoMUg3TU9CRllWY0ZrVk1hRU9NNFdJNEVDUTE2U01LeUYxSTdkSDBUR0hRWGhSaGRQS2M5LXNaQlVSbS1SS0V1VFZkTENHSUk4aU9mWlNJclhwWEpoSFd2enFFLVE?oc=5": "2026-08-13T09:34:33.152437+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmVFSzFuVmdReS0wZXZxMDJKRW5JdW5CcFE2VEhDTG9OUkhkamM5d25TWTRpSy1lNm4zX1V5bHlPZDZIbXpXMi1vQ0VwZEY1aHdCeHgwYVZZVzU2NGQzeG9JbEJYaHRsWmM0UVJZbWtsSERzby1OVmZxSVFfeUdiY1lfLU95MEp0blZJRnRpS0habVNfZlFkVHg2YWJscHhxU2tF?oc=5": "2026-08-11T13:43:42.367602+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQk5XQk5mSkdWX1BfRWluSERERG4tRi1JUmU2QmdhQmZuMi0wUFZodm96MGU4TkxPR3hTMkdvdWx5UUN4OHpyZkxiN0M4NUVSRU5RMDdKUWlFMHBzalMtLW1qV1J6QWlwbjNMVEFTNEwyTkxLSkROMC1EVFNOVUJBYXJlV2ZKNW9NZlBXTl9DekNuTmY4Ulc2Q3FRUnhMdGdyZ1lr?oc=5": "2026-08-13T03:16:17.660784+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2J1TEgwTDEtdkdhOWF3Zm1TWjNBcnl2ZkRvQzFHQlkzZFRndTZxeHJWMXVhd19JNFRKckVOTUh4ajhSdEVpeXotYjcxMVhEWTQ0clpndW5KaHZ2OHZHWHZvd3dxRnFNZHp4X2FmdVVaSzljRlFfeFNjOHUwWHNfVkdXOUNGVFVpVVNaRkM1ejd4YmdKWlZlN1RXQS1zUGlzdGdZ?oc=5": "2026-08-12T15:15:39.596643+00:00",
@@ -4355,6 +4378,7 @@
     "digest:b6aa5b0a1a8de30a03ca": "2026-08-10T11:21:18.045157+00:00",
     "digest:bc7878cc3ebc9836afb2": "2026-08-11T22:25:33.681473+00:00",
     "digest:c0aa0d147c648ceb4ce7": "2026-08-09T13:18:15.965565+00:00",
+    "digest:c6953ea04e22a8c4b1c8": "2026-08-13T09:34:33.747826+00:00",
     "digest:c75f6f39870cbfca26fb": "2026-08-12T12:32:37.271035+00:00",
     "digest:ca1007ee66c9eebfa418": "2026-08-12T14:07:33.088462+00:00",
     "digest:e087011cd1eee73ed6f1": "2026-08-09T04:07:58.011415+00:00",
@@ -4362,67 +4386,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-13T08:07:23.029874+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-13T09:34:32.176008+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-13T08:07:23.553538+00:00",
+      "checked_at": "2026-08-13T09:34:32.771074+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-13T08:06:49.831570+00:00",
+      "checked_at": "2026-08-13T09:33:41.055694+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-13T08:06:50.956546+00:00",
+      "checked_at": "2026-08-13T09:33:42.885634+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-13T08:06:50.871370+00:00",
+      "checked_at": "2026-08-13T09:33:42.651541+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-13T08:06:53.830910+00:00",
+      "checked_at": "2026-08-13T09:33:44.878017+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-13T08:06:54.307352+00:00",
+      "checked_at": "2026-08-13T09:33:45.577117+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-13T08:06:51.357011+00:00",
+      "checked_at": "2026-08-13T09:33:43.395242+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-13T08:06:57.400778+00:00",
+      "checked_at": "2026-08-13T09:33:48.698547+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-13T08:06:50.242160+00:00",
+      "checked_at": "2026-08-13T09:33:41.473975+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-13T08:06:50.485423+00:00",
+      "checked_at": "2026-08-13T09:33:41.795383+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-13T08:06:49.616793+00:00",
+      "checked_at": "2026-08-13T09:33:40.592677+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-13T08:07:23.926443+00:00",
+      "checked_at": "2026-08-13T09:34:33.144474+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
