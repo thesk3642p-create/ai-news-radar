@@ -3173,10 +3173,10 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T12:00:00+00:00",
-      "early_signal": 36,
+      "early_signal": 44,
       "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "id": "25dc0247eee94e0f05f5",
-      "last_seen_at": "2026-08-13T17:13:00.091228+00:00",
+      "last_seen_at": "2026-08-13T19:21:01.499723+00:00",
       "score": 34,
       "sources": [
         {
@@ -3196,6 +3196,15 @@
           "source_type": "rss",
           "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
           "url": "https://openai.com/index/previewing-ultrafast"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T11:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "The builder\u2019s guide to GPT\u20115.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
         }
       ],
       "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
@@ -3504,7 +3513,7 @@
       "early_signal": 49,
       "headline": "Another AI model escapes its sandbox to search the web for answers - Escudo Digital",
       "id": "a580b6616c1e28abed60",
-      "last_seen_at": "2026-08-13T18:08:23.620226+00:00",
+      "last_seen_at": "2026-08-13T19:21:01.501791+00:00",
       "score": 33,
       "sources": [
         {
@@ -3623,6 +3632,15 @@
           "source_type": "google_news",
           "title": "Musk's Grok 4.6 Jumps to AI Frontier, Matches OpenAI at a Fraction of the Price - Benzinga",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkdjVXlLQTUxSlVWa1VXUHZvUG45UHRkU3laeVY5WFBYLUhXYkZ4Ujc3bUhwd0Z0LWlXcTdCLVZWZTU1TFA2WjhPZDVyYVlxQ2Nhb0NtWVBZdmJQamp3b2dvb2FrVWhrYjA1VnF5ay1vLVpDaENYcWwxYU54UGFKYndMUGh5ZDgyOFk1NWp4RXFFenRUcGs5Z1ZlUTBVVEwyT1phZURB?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T16:35:25+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Bridging the gap between AI agent reasoning and reliable web action - WFTV",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0xNd0hISk40Q2JvQVZtMXFXTkVfeFlmVmMxcngxejdjVFF6bGQwSlpTNWZFaHVWZEE1UnFmOGYzdUpiX0syVnEtMTdQVmFuRXRfU0JDNGtnLTlvMC1qeGVJYzJsWFlwVFRabWVZVlVzWTl0RXU0UFRhcDJ3Tjd6VzB1a3k2b08xbUVrdGVVVmVKRUxVaDVFUDA1S25qU2NzWHJlSmtOWU0zLWk5R0JIWmY3QUtBX20tZFNn0gHPAUFVX3lxTFBNVnpFMUpha01Dbkhpd3dwUFAzU3lhWmV4ZjJ0R0ExSkdIb2lmcDM0T3JLMmVoSndlVTE1ZFE4OVdmeVUybzM3bUpUZWI2aU0zMG9SV1NFUGcxbVNqMlNMdFJVYWpGaVRzTmpSRUtobVEtZ0tVdWFCUFpvLVg0VmEtMHh3dGVRc3FVSDF6T0pYVnRTZnowUVBoQlBRamV2V2F3UU5wODloS3lJUVlpVUZnVzZhdnFZUDRWdmptdjVNV19MZndiTmNxQzl0WHBxSQ?oc=5"
         }
       ],
       "summary": "Another AI model escapes its sandbox to search the web for answers Escudo Digital"
@@ -3631,11 +3649,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T04:01:31+00:00",
-      "early_signal": 40,
+      "early_signal": 38,
       "headline": "Can a 30-person start-up build Britain\u2019s answer to OpenAI? - Financial Times",
       "id": "9bbcedb3149039e173b9",
       "last_seen_at": "2026-08-12T18:07:42.830957+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -3729,11 +3747,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:01:48+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Route AI Agents Across Models with NVIDIA NeMo Switchyard | NVIDIA Technical Blog - NVIDIA Developer",
       "id": "a32bf823eee427264a62",
       "last_seen_at": "2026-08-13T06:45:32.671875+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -3769,11 +3787,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:20:17+00:00",
-      "early_signal": 50,
+      "early_signal": 48,
       "headline": "Nvidia releases Nemotron 3.5 Lightning open-source AI model - qz.com",
       "id": "86b89cd15ab241368512",
       "last_seen_at": "2026-08-13T18:08:23.625929+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -3946,11 +3964,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T02:07:09+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "ByteDance's 10 Trillion Parameter AI Model Faces One Big Problem - Memeburn",
       "id": "e7131e3310952124e719",
       "last_seen_at": "2026-08-12T03:11:51.416157+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -4021,11 +4039,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T12:05:00+00:00",
-      "early_signal": 57,
+      "early_signal": 55,
       "headline": "Molt AI launches AI-agent security tool Fisher, closes $1 million pre-seed round - thestreet.com",
       "id": "c75f6f39870cbfca26fb",
       "last_seen_at": "2026-08-13T16:11:56.393269+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4261,11 +4279,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-13T09:34:33.155979+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -4283,11 +4301,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T11:39:14+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "How Palo Alto Will Use OpenAI\u2019s Daybreak Against AI Attacks - Cyber Magazine",
       "id": "43c54481ccc250495a75",
       "last_seen_at": "2026-08-13T12:34:07.054758+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -4305,11 +4323,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T09:00:00+00:00",
-      "early_signal": 41,
+      "early_signal": 39,
       "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "id": "5c892a50e4e319ea6508",
       "last_seen_at": "2026-08-13T16:11:56.385593+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -4349,11 +4367,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T17:16:04+00:00",
-      "early_signal": 55,
+      "early_signal": 53,
       "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "id": "d921c0e8df9d0a1a5340",
       "last_seen_at": "2026-08-13T18:08:23.613075+00:00",
-      "score": 52,
+      "score": 51,
       "sources": [
         {
           "media_url": null,
@@ -4388,6 +4406,28 @@
         }
       ],
       "summary": "Opinion: \u2018Think of all we love\u2019 \u2014 we are at a perilous moment when it comes to artificial intelligence Deseret News"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-13T17:05:30+00:00",
+      "early_signal": 46,
+      "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
+      "id": "b6671aee8533557411d6",
+      "last_seen_at": "2026-08-13T19:21:01.504275+00:00",
+      "score": 49,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T17:05:30+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5"
+        }
+      ],
+      "summary": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI Cerebras"
     }
   ],
   "processed_urls": {
@@ -4503,6 +4543,7 @@
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5": "2026-08-09T16:56:48.597426+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5": "2026-08-12T15:15:39.596189+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0JyNU9USUJLWFhYcEdnR05OYjZXVUxFVkNXaldjZEQyc2diREJRY3ZjMzJrb3dlQnVUTjk3eGpZMGQ5Tk1EZDRmXzc1ZnpBRC1UU094T3BzcUV4RGh5Q25OX2R6Y1hWNXFCY193Z0RJcGtOMnJUcTNvX1dzNDVlNg?oc=5": "2026-08-12T23:23:43.566826+00:00",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5": "2026-08-13T19:21:01.497614+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjVJSkhLSWNWTmZxSDNEckYyVUE2RDlMYlF1NnEtX1RVVW5GRVJmX3hQS19IVWpFeUVNSmpEZGhsenJHMVhkd3Q5bmFDZC1xZmdGckk5ZVk0WmFmVUdGX0ZQcHpjdm5NWDBrUmROaXhaM04tcUtkMFJvLWotNWJvMA?oc=5": "2026-08-09T19:01:35.215687+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNE9QR1JoRU0tU1RaQ0xRNmtxWF9TdHhFZy1PN05vY3JvNmFneWdLNzVISjlId2lqQzU4cWZJY0dRNDRHWWk5dHZNMWhPZnRudWpCM1V0WG1jUEhHT1BVR1FIY1hkQURxMmZ1MjhvRk8yTmtOeGw2ZHlyOHZxc1V1OA?oc=5": "2026-08-10T04:55:05.394319+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxObC1jREUxNmlCOUFaOE5VSWtUY2hVOW1HZzRfaXBHM0FZeWhtSDBjMTd0UVYzOTFIbWRERnFRXzhOSG9DN0Z5UGp5QTBibFA5T0dfN2dYS2w4WDhjNHdZcUlUYThJZkhVd296Z1M3WFF5cTV3U08wZ1VaNHpsbmtGTDdR?oc=5": "2026-08-09T10:16:38.635345+00:00",
@@ -4622,6 +4663,7 @@
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2txZG1pelFxUVhsYmw5M3FneXNwdHA5aXhhQ3FTSXgxNFVSRjNDd2hSWVJoVVQ4Q1BIZVZvUHdRQVJKRkNPQUVRY1NVMzFCMjFoTTRhSjRZYWFLQVBlcU5ZazFXUktwb0c4Q2tPYXNjbUNsSUtyVU9jZV95YXI2Q0VsQ3JKbnlnZkpEcnAxNGVQSndYaE9IcTZFYzltQmJoazFHUFBHRV9VdnJ3cDNkRllqTEJBRGdCdF9V?oc=5": "2026-08-12T12:32:36.505483+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkwzOGhHVHI0SWVtYVF5MDRub0F6TTdjdFNKOURDYTVhTC1YU1ljdUdQRGwwQkpxT0JNbE5HYUJtVVBKSldUUTR4UjhnQUJtUk1UNHJBcmVQbEVrRHBiR1ZLUENRTk9CeG52UmJFcG1LMS10a1VKS0hNS25ERENSWFF4RnExZGwwMGJJNVNNUGFMUWxEMG1qdFRBaWY5TXJtMnFvUGV6Z1Vac2tNZ0doX2d0MENMakR2WDZr?oc=5": "2026-08-13T11:33:19.225701+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEJKSEUtVng1aUE5aXNOUF9WazdYSUZ2ZWl2Z1FSN0dSWTdsUFUtUzVfdndjV3RUQkNISXlfaWR3TmdlbUJoY0lqQTFYYk9nb29PcVdQRGtKd2xGU0NPbE9sZVNlbWw0ZnNTcnBfVWtFMm5OYWdVdzdHb01CSUNzTGozcTRLNXlHTFF3Qm1KaHo5UUtmaVNUaEszdFd2dG5xTEZHRjFmUFJ6XzZ6RFFEaFc4c2kzbVh0RjFr?oc=5": "2026-08-09T04:07:57.382245+00:00",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0xNd0hISk40Q2JvQVZtMXFXTkVfeFlmVmMxcngxejdjVFF6bGQwSlpTNWZFaHVWZEE1UnFmOGYzdUpiX0syVnEtMTdQVmFuRXRfU0JDNGtnLTlvMC1qeGVJYzJsWFlwVFRabWVZVlVzWTl0RXU0UFRhcDJ3Tjd6VzB1a3k2b08xbUVrdGVVVmVKRUxVaDVFUDA1S25qU2NzWHJlSmtOWU0zLWk5R0JIWmY3QUtBX20tZFNn0gHPAUFVX3lxTFBNVnpFMUpha01Dbkhpd3dwUFAzU3lhWmV4ZjJ0R0ExSkdIb2lmcDM0T3JLMmVoSndlVTE1ZFE4OVdmeVUybzM3bUpUZWI2aU0zMG9SV1NFUGcxbVNqMlNMdFJVYWpGaVRzTmpSRUtobVEtZ0tVdWFCUFpvLVg0VmEtMHh3dGVRc3FVSDF6T0pYVnRTZnowUVBoQlBRamV2V2F3UU5wODloS3lJUVlpVUZnVzZhdnFZUDRWdmptdjVNV19MZndiTmNxQzl0WHBxSQ?oc=5": "2026-08-13T19:21:01.496739+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5": "2026-08-10T21:02:43.293750+00:00",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0pYRU1lbURuWWhhQkJtOXNIN3YtUDRKRk5ldWVzcm1pOGFCM3N5S1I1dE40eXZ5NG5GZ09VdjBpTS1sWHdSMFRleUZXZjRGNE9IQ2RtSVRVV0ZBRW1jaDRQRWFGdno1SGl1eHZvaUtOQUd6b0UyVlVuQURhc1NIenM5dksteHVfUmlNeEx3VzRaRWhxTlFGRkEwLWtKUDdkTV95dXc1S0xmNWJIQl9WOXJudmVPUEFpX2FybA?oc=5": "2026-08-09T04:07:57.382788+00:00",
     "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbUdEQTVPYnl0cHZoVnJkU3hpQ3REQlhpSGVXODlRZmZLcENUY21rakFsaUp3VlQ5cUxDWlRqS0k5S0hHTnBEakE3eFFVR2dma0Jma1VCRy1TQ3doMU5jOWh3ZXlIR2JEcmM3YnpqN3o5OGdkUXAzXzVPT3R4OG5JNmxKSzlMc3UyS1ltWkNVMEx6VzRVaDhWOEZWdUVnc3F3eE91MFIxSU1TY1Z2NjFXbFlmbzUwV3hwcVNqYVNQa0VmVUEyd1Rqb1ZTcm5mMVRhaFJ3Nm1vQWtoQXZxeUJaYmdzb1gzOHpfUllyYzRGSzZTSExFVTE2Zk12TnN2MmdTSEN6UEF2eHhTQ0FBXzljM2ZmQXBQeHlJTHFZX3p5Wi1CaEZaWmxIRkpwVFEtWEVsLTZJUzB4MUZFbF83?oc=5": "2026-08-10T16:12:19.796661+00:00",
@@ -4645,6 +4687,7 @@
     "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": "2026-08-09T04:07:57.370811+00:00",
     "https://openai.com/index/apple-is-getting-this-wrong": "2026-08-09T04:07:57.370154+00:00",
     "https://openai.com/index/avatarin": "2026-08-09T04:07:57.370884+00:00",
+    "https://openai.com/index/builders-guide-to-gpt-5-6": "2026-08-13T19:21:01.489766+00:00",
     "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community": "2026-08-09T04:07:57.371292+00:00",
     "https://openai.com/index/building-an-ai-native-finance-function": "2026-08-10T17:09:36.138362+00:00",
     "https://openai.com/index/chatgpt-for-academic-researchers": "2026-08-09T04:07:57.370968+00:00",
@@ -4730,6 +4773,7 @@
     "digest:a32bf823eee427264a62": "2026-08-11T13:43:43.178930+00:00",
     "digest:a580b6616c1e28abed60": "2026-08-11T06:37:15.351787+00:00",
     "digest:add0b7b936adcbf53807": "2026-08-09T04:07:58.011439+00:00",
+    "digest:b6671aee8533557411d6": "2026-08-13T19:21:02.027600+00:00",
     "digest:b6aa5b0a1a8de30a03ca": "2026-08-10T11:21:18.045157+00:00",
     "digest:bc7878cc3ebc9836afb2": "2026-08-11T22:25:33.681473+00:00",
     "digest:c0aa0d147c648ceb4ce7": "2026-08-09T13:18:15.965565+00:00",
@@ -4743,67 +4787,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-13T18:08:22.699727+00:00",
+      "checked_at": "2026-08-13T19:21:00.384228+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-13T18:08:23.199749+00:00",
+      "checked_at": "2026-08-13T19:21:00.851109+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-13T18:07:36.633045+00:00",
+      "checked_at": "2026-08-13T19:20:11.271516+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-13T18:07:38.029017+00:00",
+      "checked_at": "2026-08-13T19:20:12.618549+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-13T18:07:37.806698+00:00",
+      "checked_at": "2026-08-13T19:20:12.454680+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-13T18:07:40.933194+00:00",
+      "checked_at": "2026-08-13T19:20:15.063721+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-13T18:07:41.649057+00:00",
+      "checked_at": "2026-08-13T19:20:15.725555+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-13T18:07:38.733196+00:00",
+      "checked_at": "2026-08-13T19:20:13.334884+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-13T18:07:44.758749+00:00",
+      "checked_at": "2026-08-13T19:20:18.838420+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-13T18:07:36.885709+00:00",
+      "checked_at": "2026-08-13T19:20:11.533530+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-13T18:07:37.259982+00:00",
+      "checked_at": "2026-08-13T19:20:11.838055+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-13T18:07:36.137028+00:00",
+      "checked_at": "2026-08-13T19:20:10.874778+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-13T18:08:23.600979+00:00",
+      "checked_at": "2026-08-13T19:21:01.489506+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
