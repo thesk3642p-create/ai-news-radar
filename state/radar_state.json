@@ -3787,10 +3787,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:20:17+00:00",
-      "early_signal": 48,
+      "early_signal": 49,
       "headline": "Nvidia releases Nemotron 3.5 Lightning open-source AI model - qz.com",
       "id": "86b89cd15ab241368512",
-      "last_seen_at": "2026-08-13T18:08:23.625929+00:00",
+      "last_seen_at": "2026-08-13T22:24:42.545520+00:00",
       "score": 44,
       "sources": [
         {
@@ -3828,6 +3828,15 @@
           "source_type": "google_news",
           "title": "New Gemini Flash model arrives before Gemini 3.5 Pro - axios.com",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T17:47:41+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens - MarkTechPost",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExpRlJxcV9abmdVR0VKRzJteG8yS0FHcWVHMFVkX05wTXZJT3BtRURfUVA3dG8tZm5QbGpndDNha0hQaXFUcHZhMnBRSkZGbmFUQ1ZSRDRMQ2dNVllUY2JpX1RZWVJWUXN6QW1YZXFqN1ZOdlpXX1BteEhQVU5HX09lSXB5RF9U0gGOAUFVX3lxTFBMazZ5TmVfMF9pVVlpamxqNzU0eTk5ei1CemJkMGgxa2d5M2s4WnJrMDVrX2VpUFpHSW9vUlRRdGJRS0ZFQ3diNzZqbFAtNHEtWnBkanprSEtiblp5dWYySTJzMjU0R3ZDcFJJaVZGSXdQREtYanhxSFF0UGVMS1B1YTQxVE9uX0xCbGVBV1E?oc=5"
         }
       ],
       "summary": "Nvidia releases Nemotron 3.5 Lightning open-source AI model qz.com"
@@ -3858,11 +3867,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T16:02:25+00:00",
-      "early_signal": 26,
+      "early_signal": 24,
       "headline": "Invoca Names JB Brown CTO as AI Agent Strategy Accelerates - citybiz",
       "id": "14b8781d3b4657cbc431",
       "last_seen_at": "2026-08-11T16:37:00.800018+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -4345,11 +4354,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T12:56:28+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters",
       "id": "ef21df5de8771e3c225d",
       "last_seen_at": "2026-08-13T16:11:56.390644+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -4367,11 +4376,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T17:16:04+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "id": "d921c0e8df9d0a1a5340",
       "last_seen_at": "2026-08-13T18:08:23.613075+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -4411,11 +4420,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:30+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
       "id": "b6671aee8533557411d6",
       "last_seen_at": "2026-08-13T19:21:01.504275+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -4455,11 +4464,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T19:19:49+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
       "id": "b60a5aef9a0dd01fb77c",
       "last_seen_at": "2026-08-13T20:21:34.805208+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -4477,11 +4486,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:38+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Introducing Gemini 3.7 Flash - blog.google",
       "id": "a74929c0415ce102a9a9",
       "last_seen_at": "2026-08-13T20:21:34.807242+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -4633,6 +4642,7 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWdWZzBMMXpkUmZzVC1GNUZCS0Fub3NoYWY1ZTRtTHFCU09TNmFJbXUwQjVpc0YwWmNjc3U5SlJDQUtuY09ONUlHY2hIclBnTmlDek1vQ1hjN2IxM29HdVk3bXRuWmlndjZKOHdzWE5ZdXpNLW9mUGZnXzNTQS10V1NnRlM2ZkZw?oc=5": "2026-08-09T04:07:57.381525+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnlwczRuRk1oblktUkRXOWtibFRMTFpvZjZPVmp1akFxUG9YalhLVEM4SHpqWVZkNVlacDZwZUw2MlVnUlNQb0pzLXc3ZnczR3lHSm5FTGZFeDRSNjhWam5YczlhQW9KZWdOVlprWHZUSTMwamxnWERiLUxtYXlEcGIybEFTX1po?oc=5": "2026-08-12T05:03:38.731531+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHp3M3prZ1ZKOTBud3JCRXNDRThkNUJSQUtPNXlOWUl4RkdwV1BzQWN3Z2V4Tzhza3lfcTFUc3VmZHlseTJvN1ZudTVJMHI2UGJFb0tEd01fdVdQWVhkeWctN0lBc3ZjeUNXQ093UHd0S3R3WDU3U1RIQ0hGZXpzYmRIdzJiMjBo?oc=5": "2026-08-10T12:32:44.202696+00:00",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSExpRlJxcV9abmdVR0VKRzJteG8yS0FHcWVHMFVkX05wTXZJT3BtRURfUVA3dG8tZm5QbGpndDNha0hQaXFUcHZhMnBRSkZGbmFUQ1ZSRDRMQ2dNVllUY2JpX1RZWVJWUXN6QW1YZXFqN1ZOdlpXX1BteEhQVU5HX09lSXB5RF9U0gGOAUFVX3lxTFBMazZ5TmVfMF9pVVlpamxqNzU0eTk5ei1CemJkMGgxa2d5M2s4WnJrMDVrX2VpUFpHSW9vUlRRdGJRS0ZFQ3diNzZqbFAtNHEtWnBkanprSEtiblp5dWYySTJzMjU0R3ZDcFJJaVZGSXdQREtYanhxSFF0UGVMS1B1YTQxVE9uX0xCbGVBV1E?oc=5": "2026-08-13T22:24:42.542108+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5": "2026-08-09T04:07:57.381339+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTQtVUFwTG15UzJrOERVR0JpRWNIOUZsbDNFMzBtRExXMUxteDc2bHdBLVZfSGJqRVhJUGZ0ZUl6RndsT1Q4ZmZxeHp2UWNNcGI4OF96X1ROWnlrM1dYanh5aW5XQzZtX0hxQWNXMWV0TGdSNy1wRFd0RGM5S2FBaEFkME9vNk44?oc=5": "2026-08-09T04:07:57.381638+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW5mWmR5T3EtNi1uZ3VHMDBnTWh1TnFIRld6WVFWUjhoRUpBeW5KY1RTQmJ5eVk1VzJ1WVhsNWZpd2JqRWZVOUFsRkxfOTVPdGZ2SFNDV3paRkNsZV9EQTdfYlJtWU1wWEg5Ykkwd3JZX3cxUmx0bzRBR2lPMkFqc1Z3WkRLdTdl0gGOAUFVX3lxTFBZaG9tLThnM1MxbHdmamF4TFZkRy1Ma2l6ZVhoVFRvUzlGY3lOdEdsRjhmZ2hOWjhoUkVjV2xramxTWjlsdnVrTVhzTEdTNUFKMXhTTUV2ZVRrU1NiWTAxTjRweE1xaXVKZmZPVHF3X3piYXdRZGdSdW0zbEpFdE50d25aY2ZzUkF0ZVRfdWc?oc=5": "2026-08-09T04:07:57.381436+00:00",
@@ -4858,67 +4868,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-13T21:29:43.059648+00:00",
+      "checked_at": "2026-08-13T22:24:41.381228+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-13T21:29:43.631322+00:00",
+      "checked_at": "2026-08-13T22:24:41.990589+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-13T21:29:03.332637+00:00",
+      "checked_at": "2026-08-13T22:24:21.886112+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-13T21:29:04.532038+00:00",
+      "checked_at": "2026-08-13T22:24:23.654602+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-13T21:29:04.410550+00:00",
+      "checked_at": "2026-08-13T22:24:23.397231+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-13T21:29:06.424435+00:00",
+      "checked_at": "2026-08-13T22:24:25.629907+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-13T21:29:07.204386+00:00",
+      "checked_at": "2026-08-13T22:24:26.572261+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-13T21:29:05.146797+00:00",
+      "checked_at": "2026-08-13T22:24:24.049140+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-13T21:29:10.340296+00:00",
+      "checked_at": "2026-08-13T22:24:29.889684+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-13T21:29:03.725743+00:00",
+      "checked_at": "2026-08-13T22:24:22.409879+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-13T21:29:03.938858+00:00",
+      "checked_at": "2026-08-13T22:24:22.797086+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-13T21:29:03.054986+00:00",
+      "checked_at": "2026-08-13T22:24:21.442226+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-13T21:29:44.393088+00:00",
+      "checked_at": "2026-08-13T22:24:42.533952+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
