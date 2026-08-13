@@ -3465,10 +3465,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T05:20:04+00:00",
-      "early_signal": 40,
+      "early_signal": 48,
       "headline": "Another AI model escapes its sandbox to search the web for answers - Escudo Digital",
       "id": "a580b6616c1e28abed60",
-      "last_seen_at": "2026-08-13T11:33:19.231410+00:00",
+      "last_seen_at": "2026-08-13T12:34:07.051918+00:00",
       "score": 33,
       "sources": [
         {
@@ -3497,6 +3497,15 @@
           "source_type": "google_news",
           "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling - the-decoder.com",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkwzOGhHVHI0SWVtYVF5MDRub0F6TTdjdFNKOURDYTVhTC1YU1ljdUdQRGwwQkpxT0JNbE5HYUJtVVBKSldUUTR4UjhnQUJtUk1UNHJBcmVQbEVrRHBiR1ZLUENRTk9CeG52UmJFcG1LMS10a1VKS0hNS25ERENSWFF4RnExZGwwMGJJNVNNUGFMUWxEMG1qdFRBaWY5TXJtMnFvUGV6Z1Vac2tNZ0doX2d0MENMakR2WDZr?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T10:04:35+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - IBM Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE?oc=5"
         }
       ],
       "summary": "Another AI model escapes its sandbox to search the web for answers Escudo Digital"
@@ -3643,11 +3652,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:20:17+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Nvidia releases Nemotron 3.5 Lightning open-source AI model - qz.com",
       "id": "86b89cd15ab241368512",
       "last_seen_at": "2026-08-11T17:42:21.493076+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -3837,11 +3846,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:43:24+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Frontier AI agents: Only as safe as their containment - ReversingLabs",
       "id": "34b6c7566b2fe7ef0299",
       "last_seen_at": "2026-08-13T08:07:23.936646+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4081,11 +4090,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-13T09:34:33.155979+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -4098,6 +4107,28 @@
         }
       ],
       "summary": "Okta targets AI agent token costs with MCP scoping AI News"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-13T11:39:14+00:00",
+      "early_signal": 46,
+      "headline": "How Palo Alto Will Use OpenAI\u2019s Daybreak Against AI Attacks - Cyber Magazine",
+      "id": "43c54481ccc250495a75",
+      "last_seen_at": "2026-08-13T12:34:07.054758+00:00",
+      "score": 44,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T11:39:14+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "How Palo Alto Will Use OpenAI\u2019s Daybreak Against AI Attacks - Cyber Magazine",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmJVc2huTkNTbm9SSEk1WUNWaFVQTGdmNFJlWlNmdnZmUjJXNEprWGhvcHlocm53eHRLY0JjX3BjQlZpVzJsU2tSVmpJMnFtRjM3dy1NY2xwcFhqMTRGc1VWVG5uV04ycmI3TS0yYTFUWGdPakQ3MGEtQUpmT3oyOVdZdHViMmNtSmZGcnFib3Z1UzQ?oc=5"
+        }
+      ],
+      "summary": "How Palo Alto Will Use OpenAI\u2019s Daybreak Against AI Attacks Cyber Magazine"
     }
   ],
   "processed_urls": {
@@ -4239,6 +4270,7 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEdVMjVsbURqaG1kZm96d2tWNjVHZDYxVTBhallyY04tb1NKWkoxdVBJOGYwQU41dlFUUXZzQ3V0eGRRSmJYZ0JFUHJ6TWZsOFI5M29FRmMwcmlBakZrcEdNNkREX0ZGM3pqZHB6cVJSVGhoVmRKOWg0eFZETDJnSFVyLVU3cWRwcG9lMXFzSQ?oc=5": "2026-08-13T03:16:17.660887+00:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEx3dTFaeDJuXzJTOXRxYmtxYUFlYTk1UTVxX2F3RVg5c2lncFZHQm5TS3hvTEJaUzFZUk4tU0ZKNUtSZy1aU1dSY2JaYkRDQ05aSDNOUTZOeWVpUG1ZNjJ5a3lqLUF5VUZ4b0JQcWRIVzFCcGVCTm5GbzNkT3p6eXZPSHhCZHhrWWNCM0I1MUo?oc=5": "2026-08-10T21:02:43.294238+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkduRjE0c21FTnFpTmRxTERKVXRUTTlSZEFVSWhtWDlsVmZfajlCYUZhZ1BET05zM2NEbGZjV3dzM3lXWG5rdDF0TDVIS2ppRHZ0cFFwTURrWVV6eDkwTnFWdk5uR1dVaHVlbGx5SF94aTNNTFktV1BXelVGUUZrd3d0UnhMa3ZmMnhTLUFMMWRWUQ?oc=5": "2026-08-09T19:49:22.624925+00:00",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmJVc2huTkNTbm9SSEk1WUNWaFVQTGdmNFJlWlNmdnZmUjJXNEprWGhvcHlocm53eHRLY0JjX3BjQlZpVzJsU2tSVmpJMnFtRjM3dy1NY2xwcFhqMTRGc1VWVG5uV04ycmI3TS0yYTFUWGdPakQ3MGEtQUpmT3oyOVdZdHViMmNtSmZGcnFib3Z1UzQ?oc=5": "2026-08-13T12:34:07.048581+00:00",
     "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWVcxcEh4OEdaLXpJMEdXdjNHT0lzaUtGekFKcm04R2tINWNxT0RFcGhBV2ZkNFJhWDYzWXRuWjI4YzRRTnRlc09jRnRrR1ZQdFpQRXFfZlJvd2lXV2dxLTJkMFA4QmJJU3JKMmlBQVYtNmkySUJlYkg5WmgyMzE0SEFBd0JHa0xaN29ITXB5akFhYlg3MEZTTVhSeWNkQXZlNGRhQjlkaGVoWjZOSFFxVUpubFpsTGUtRnQ2OG5nZUZDUUJDX2JObm1lWXE5OHpSU1QycnZ4R3dnYkdTaWZfTFlEQkQtOVFtWjN5NGkxZXNCclA4cTdJTXpQMllGMTNwZGR2Wmg1Q2FhdWpJX0x4bFRzb9IBmAJBVV95cUxNQjhMaDdwRTV4WTVfUFBqTk9udDZXc05WSFVqQi1ka3ZTSU5UaFlDRVZRNUlMUTYwOGpkOFQ3ZFNvUndzTk05NnRaZnhZdHBnMzZaeTJBU0xaMVk1N0k4MHZ0QldKcU56TDJyX1RFaGpCTF9ud0FPTm11NDI1RnBnN1hxTk9XX19CRVdDS1pGNTFLMzB4WFBCcDdUaUIzekNUN3JVQzBlVmNLRnJOZmJidlk3NE1LRXJ3OE9Zcm1xNkM1Z015bWlVbnktWkxuSHVMTHdmZF9XM3pUX0ppckIwYXZMOEpwU09QSVlqcVM2VXBGci1FdzE3TWotU0FkbXYzNjFNamtfeUdxUWV6RHhKU1hZMmRvQVl5?oc=5": "2026-08-10T06:42:48.607633+00:00",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1hGNjdrdUdua093OUViTGYxRHE5SE1hOTJaUTh4ZE5PVE45QmFSWWljMzU3Yzd2NmZKREd5ZW94aFFnbDJKYldiM1VzaHBPcndBTXlpVm5raS16NjZydGcyWWV6d1dQWlNMMktwd2FMbHZOaDdGSEQ2NVdaMDdjT1NTenNtTVF3R3BjSXFEY0stcTJi?oc=5": "2026-08-10T11:21:17.478342+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY19KajJZY25ldlo5YVB0WE0tRWZ4bmZubzh4VG1abTZDX19EaUJjVVdKRVpvemNXdkFHSlFxRDJYZEFLZzYxRml2Y1B3Z3dsSEVFOWNoMFM3SHZ3N0RSXzZhM0c4OTVscmNLT1B2R1JmTmhlRk9tTmNFbFJQV1g0Mk1DMGQxWW1ZWHlpbzB0UUdWYXRUeEE?oc=5": "2026-08-09T04:07:57.381973+00:00",
@@ -4326,6 +4358,7 @@
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHVGX2doTWkwNGFYZW9oTGhsN1lDOEZKLWRrVHJpblRsZXVVUzhENmpFNERXMjRwZ2xJeGJUbmdaV2F3OUNQMFpBMjZ3MzNBaEFNbEJKeUV3ZW55YnVxeUxjTlpONUp0WWVZUWZnU3h1QXluaVZuSUJLX2VtcXNpdVJhMHNmbEtMN2hEajRyb2VUaEZ4TmVUekFXOXlWdTR0WXJuUXgtMEZHR1ZXSmVkQWxwLTR2QUM2RkRmM3oxd2R0NzRmSmxFQQ?oc=5": "2026-08-10T12:32:44.202925+00:00",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5": "2026-08-09T04:07:57.382959+00:00",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVBtNHRXa3JNX3BEWUx1VThDbTNDQWxKUjF2ZzlnMDVWbmJVbm9SemVkaWtmTk9MU3RDMi0xbHMzY3ZHR2IzaDhYMzRhRGJEYWJlYUxGcENJTlAtLXpYOGdTSWlNb1pmNXRGYy1SeFZsNkNMYTBSMktaR2VSV1FYaUZxTE1aLUlZSVpLc19wandjd0FhNjlKNTB2UjdqMkdfN2kwcjBGMHk2b0pnNTRQTmUtcnJyQkFLaGd1M2tWVTRuSjBjM3pQaTBxU0lkdw?oc=5": "2026-08-11T02:28:45.890333+00:00",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE?oc=5": "2026-08-13T12:34:07.048066+00:00",
     "https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy": "2026-08-10T17:09:36.138826+00:00",
     "https://openai.com/index/advancing-responsible-ai-across-europe": "2026-08-09T04:07:57.370432+00:00",
     "https://openai.com/index/advancing-the-next-era-of-national-science": "2026-08-09T04:07:57.371401+00:00",
@@ -4426,67 +4459,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-13T11:33:18.085394+00:00",
+      "checked_at": "2026-08-13T12:34:05.590166+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-13T11:33:18.772203+00:00",
+      "checked_at": "2026-08-13T12:34:06.132516+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-13T11:32:29.757829+00:00",
+      "checked_at": "2026-08-13T12:33:17.234470+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-13T11:32:31.220512+00:00",
+      "checked_at": "2026-08-13T12:33:18.409859+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-13T11:32:30.877227+00:00",
+      "checked_at": "2026-08-13T12:33:18.315343+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-13T11:32:33.654359+00:00",
+      "checked_at": "2026-08-13T12:33:20.579062+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-13T11:32:34.541813+00:00",
+      "checked_at": "2026-08-13T12:33:21.221254+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-13T11:32:32.025523+00:00",
+      "checked_at": "2026-08-13T12:33:18.836562+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-13T11:32:37.714314+00:00",
+      "checked_at": "2026-08-13T12:33:24.339394+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-13T11:32:30.128067+00:00",
+      "checked_at": "2026-08-13T12:33:17.616338+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-13T11:32:30.481423+00:00",
+      "checked_at": "2026-08-13T12:33:17.928958+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-13T11:32:29.424124+00:00",
+      "checked_at": "2026-08-13T12:33:16.928894+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-13T11:33:19.216870+00:00",
+      "checked_at": "2026-08-13T12:34:07.040357+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
