@@ -3342,11 +3342,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 20,
+      "early_signal": 19,
       "headline": "Premium seats are coming to ChatGPT Business",
       "id": "1847ac6332912f19814f",
       "last_seen_at": "2026-08-10T17:09:36.151453+00:00",
-      "score": 22,
+      "score": 21,
       "sources": [
         {
           "media_url": null,
@@ -3479,11 +3479,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "How Zapier transformed core marketing processes with ChatGPT Work",
       "id": "55d458ad4258b6a6664b",
       "last_seen_at": "2026-08-10T22:56:41.326819+00:00",
-      "score": 25,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -4226,11 +4226,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T18:33:51+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Federal Intelligence Chief Says AI Agents Need Birth Certificates - PYMNTS.com",
       "id": "abb17d0ae2e1672aa0cc",
       "last_seen_at": "2026-08-13T10:45:46.758651+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -4279,11 +4279,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-13T09:34:33.155979+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -4301,11 +4301,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T11:39:14+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "How Palo Alto Will Use OpenAI\u2019s Daybreak Against AI Attacks - Cyber Magazine",
       "id": "43c54481ccc250495a75",
       "last_seen_at": "2026-08-13T12:34:07.054758+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4323,11 +4323,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T09:00:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "id": "5c892a50e4e319ea6508",
       "last_seen_at": "2026-08-13T16:11:56.385593+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4433,11 +4433,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T18:28:14+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
       "id": "8132ecf3e3582b0ad10c",
       "last_seen_at": "2026-08-13T20:21:34.803022+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -4858,67 +4858,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-13T20:21:33.767872+00:00",
+      "checked_at": "2026-08-13T21:29:43.059648+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-13T20:21:34.365043+00:00",
+      "checked_at": "2026-08-13T21:29:43.631322+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-13T20:20:43.810843+00:00",
+      "checked_at": "2026-08-13T21:29:03.332637+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-13T20:20:46.266556+00:00",
+      "checked_at": "2026-08-13T21:29:04.532038+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-13T20:20:46.069054+00:00",
+      "checked_at": "2026-08-13T21:29:04.410550+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-13T20:20:48.983087+00:00",
+      "checked_at": "2026-08-13T21:29:06.424435+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-13T20:20:49.615407+00:00",
+      "checked_at": "2026-08-13T21:29:07.204386+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-13T20:20:46.974327+00:00",
+      "checked_at": "2026-08-13T21:29:05.146797+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-13T20:20:52.843163+00:00",
+      "checked_at": "2026-08-13T21:29:10.340296+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-13T20:20:44.185715+00:00",
+      "checked_at": "2026-08-13T21:29:03.725743+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-13T20:20:44.439528+00:00",
+      "checked_at": "2026-08-13T21:29:03.938858+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-13T20:20:43.462202+00:00",
+      "checked_at": "2026-08-13T21:29:03.054986+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-13T20:21:34.793973+00:00",
+      "checked_at": "2026-08-13T21:29:44.393088+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
