@@ -769,11 +769,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.391460+00:00",
-      "early_signal": 60,
+      "early_signal": 58,
       "headline": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
       "id": "7f54a453f48e9d820daf",
       "last_seen_at": "2026-08-11T13:43:42.376080+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -827,11 +827,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.392175+00:00",
-      "early_signal": 59,
+      "early_signal": 57,
       "headline": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
       "id": "698cfa946f5af1ade5d7",
       "last_seen_at": "2026-08-12T05:03:38.737277+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -876,11 +876,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395251+00:00",
-      "early_signal": 19,
+      "early_signal": 17,
       "headline": "Engineering at Anthropic",
       "id": "5ecf73adac8e6815e045",
       "last_seen_at": "2026-08-09T04:07:57.395251+00:00",
-      "score": 21,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -898,11 +898,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.395782+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "Claude\u2019s Constitution",
       "id": "19e5adc0991e611024e3",
       "last_seen_at": "2026-08-09T04:07:57.395782+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -1511,11 +1511,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.421566+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "OpenClaw and OpenClaw API: The Complete Guide",
       "id": "6800ff059ef36f85000a",
       "last_seen_at": "2026-08-09T04:07:57.421566+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -1533,11 +1533,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.422645+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "Kimi Open Platform: New Feature Release Log",
       "id": "71884e0f21b7328aaed5",
       "last_seen_at": "2026-08-09T04:07:57.422645+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -1555,11 +1555,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.423826+00:00",
-      "early_signal": 60,
+      "early_signal": 58,
       "headline": "ICYMI: The Kimi Playground: Your faster way to iterate and test",
       "id": "a18fb22ff3d67dbb774b",
       "last_seen_at": "2026-08-10T12:32:44.216408+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -1622,11 +1622,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.424986+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
       "id": "87c52003fa4381fde7f6",
       "last_seen_at": "2026-08-09T04:07:57.424986+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -1644,11 +1644,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.426234+00:00",
-      "early_signal": 43,
+      "early_signal": 41,
       "headline": "Kimi Founder's AMA Recap: First Look at Vision Plans & Roadmap",
       "id": "bf1b7c2733e1a5fab228",
       "last_seen_at": "2026-08-10T21:02:43.296762+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -1675,11 +1675,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.427435+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
       "id": "7274f92dea7049b1f7d2",
       "last_seen_at": "2026-08-09T04:07:57.427435+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -1697,11 +1697,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.428585+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "New Kimi K2 Models & Updated Pricing",
       "id": "e087011cd1eee73ed6f1",
       "last_seen_at": "2026-08-09T04:07:57.428585+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -1719,11 +1719,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-09T04:07:57.429732+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "Kimi K2: Open Agentic Intelligence",
       "id": "10826f8b7af03a9fb47b",
       "last_seen_at": "2026-08-09T04:07:57.429732+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -1741,11 +1741,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-09T04:07:57.431277+00:00",
-      "early_signal": 60,
+      "early_signal": 58,
       "headline": "Reimagining Independence: How Meta\u2019s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
       "id": "add0b7b936adcbf53807",
       "last_seen_at": "2026-08-12T06:42:54.089770+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -3832,11 +3832,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:20:17+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "Nvidia releases Nemotron 3.5 Lightning open-source AI model - qz.com",
       "id": "86b89cd15ab241368512",
       "last_seen_at": "2026-08-14T03:13:34.068321+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -4054,11 +4054,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T02:07:09+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "ByteDance's 10 Trillion Parameter AI Model Faces One Big Problem - Memeburn",
       "id": "e7131e3310952124e719",
       "last_seen_at": "2026-08-12T03:11:51.416157+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -4076,11 +4076,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T01:29:59+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "Chinese AI Models Narrow Performance Gap While Leading in Cost per Task - thelec.net",
       "id": "e995579ec8e3035f81db",
       "last_seen_at": "2026-08-12T03:11:51.420749+00:00",
-      "score": 28,
+      "score": 27,
       "sources": [
         {
           "media_url": null,
@@ -4098,11 +4098,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:43:24+00:00",
-      "early_signal": 30,
+      "early_signal": 29,
       "headline": "Frontier AI agents: Only as safe as their containment - ReversingLabs",
       "id": "34b6c7566b2fe7ef0299",
       "last_seen_at": "2026-08-13T08:07:23.936646+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -4132,7 +4132,7 @@
       "early_signal": 51,
       "headline": "Molt AI launches AI-agent security tool Fisher, closes $1 million pre-seed round - thestreet.com",
       "id": "c75f6f39870cbfca26fb",
-      "last_seen_at": "2026-08-14T16:07:14.195245+00:00",
+      "last_seen_at": "2026-08-14T17:12:00.144476+00:00",
       "score": 37,
       "sources": [
         {
@@ -4206,6 +4206,15 @@
           "source_type": "google_news",
           "title": "Cyera's Oasis Security Buy is All About AI Agent Control - Dark Reading",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVnV1RDhULWhVLUVNQkpnSmEwcmszbk5haTRhRFBPRHlKWHk2ZDNmN3ZPaGREU0ZFME0zbXVDOGNuakszbl9uWVRSNm9NdTl6MWl0eVl4bVoyVGVzSTg2LTFSNnpsNXd0di1XNHViZVJER0hoWGNLY3ZGSGJoWWhVbkRIbmNBVjg5d2hPSHBZVHo4bFNsT1d0NWQ3cHp2OW1LY3BxUENTWG9IbEE4X19uTEUzUQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-14T16:27:37+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Frontier AI Threats Drive Companies to Boost Security Budgets - PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0gtSGk5ZTNBT1dLRVdBT3JvTEtiSmNPS2sxMHJoVG1PRmxaWnBsSTdnQzJlajhPTnhfeEFSQWRVcC1ybDFad29MZnVfV3VFeE9IWnF5U2V6LUIwbVcxWUJWUzFmV1k5T0tPZFVqaThrSjkzQURKRU1YZFRkdTl6WERKRnlLa1YxNThzbmF0Wk5UTXJUb2FzQzZuckEwY2JvbmlN?oc=5"
         }
       ],
       "summary": "Molt AI launches AI-agent security tool Fisher, closes $1 million pre-seed round thestreet.com"
@@ -4343,11 +4352,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T18:33:51+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Federal Intelligence Chief Says AI Agents Need Birth Certificates - PYMNTS.com",
       "id": "abb17d0ae2e1672aa0cc",
       "last_seen_at": "2026-08-13T10:45:46.758651+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -4396,11 +4405,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-13T09:34:33.155979+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -4484,11 +4493,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T17:16:04+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "id": "d921c0e8df9d0a1a5340",
       "last_seen_at": "2026-08-13T18:08:23.613075+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -4537,11 +4546,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:30+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
       "id": "b6671aee8533557411d6",
       "last_seen_at": "2026-08-13T19:21:01.504275+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4630,11 +4639,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:38+00:00",
-      "early_signal": 42,
+      "early_signal": 41,
       "headline": "Introducing Gemini 3.7 Flash - blog.google",
       "id": "a74929c0415ce102a9a9",
       "last_seen_at": "2026-08-14T14:04:04.837574+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -4683,11 +4692,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T09:28:25+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Chinese startup launches new AI model - China Daily",
       "id": "ac4fda988f8030880401",
       "last_seen_at": "2026-08-14T10:40:38.187749+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -4727,11 +4736,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:27:22+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Google And Kaggle\u2019s AI Agent Course Attracts More Than 353,000 Participants - Pulse 2.0",
       "id": "7b667b68500467797562",
       "last_seen_at": "2026-08-14T12:29:10.170964+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -4749,11 +4758,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -4771,11 +4780,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:38:40+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "IBM consultants will deploy OpenAI services - cio.com",
       "id": "0ac470f826cc9e19b9d2",
       "last_seen_at": "2026-08-14T14:04:04.834603+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -4989,6 +4998,7 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVlWVlo3VDJFcXdoOHRnNV9ndXhRWVA3STNyMG92cGtoRXBLbWJGaEFCZ2NGLVBaNWlsaTRrYXgzbTNxWVN5SW1UQl9BQmtrOVdyclVxSHVnQ19ySXk0bUNqbUw0MjdnQUs1NTFwZGZNQTN6c050NWxjN2k4TlQzQ1NQUDhyNXlJaHh1RGVHSFZMMXZ5cUFoQWN0MV9XRTl3?oc=5": "2026-08-11T21:30:01.658642+00:00",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1ZhOWE4eXF0LTdKWVpkY2JWSWZFOTRtTk1Rd2RkRTBDdkFidjZqZGpVZkJpMXlMaHVjX2Mzd0VqcUROREVoMUg3TU9CRllWY0ZrVk1hRU9NNFdJNEVDUTE2U01LeUYxSTdkSDBUR0hRWGhSaGRQS2M5LXNaQlVSbS1SS0V1VFZkTENHSUk4aU9mWlNJclhwWEpoSFd2enFFLVE?oc=5": "2026-08-13T09:34:33.152437+00:00",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanlrWExCc2s3VnNBVW00b0xwQ2lqRWxnQzlITDF4d3JjQno3U2gzRG9LQ0NQeElvek1HYUpRWk1ZMUJxRm85TURBejhOaTlwYVdQaFVTZ1pSdHh3WXZpR3dtUEM4YngzdUw5UEptQmFjZ1ByaDFPc0lObmZ0U3ROVEN0TWpUZW5CZDYwUlhoNWxoZXpCdnVjWjQ4SzYxOXJWTnc?oc=5": "2026-08-13T16:11:56.382256+00:00",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0gtSGk5ZTNBT1dLRVdBT3JvTEtiSmNPS2sxMHJoVG1PRmxaWnBsSTdnQzJlajhPTnhfeEFSQWRVcC1ybDFad29MZnVfV3VFeE9IWnF5U2V6LUIwbVcxWUJWUzFmV1k5T0tPZFVqaThrSjkzQURKRU1YZFRkdTl6WERKRnlLa1YxNThzbmF0Wk5UTXJUb2FzQzZuckEwY2JvbmlN?oc=5": "2026-08-14T17:12:00.140572+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmVFSzFuVmdReS0wZXZxMDJKRW5JdW5CcFE2VEhDTG9OUkhkamM5d25TWTRpSy1lNm4zX1V5bHlPZDZIbXpXMi1vQ0VwZEY1aHdCeHgwYVZZVzU2NGQzeG9JbEJYaHRsWmM0UVJZbWtsSERzby1OVmZxSVFfeUdiY1lfLU95MEp0blZJRnRpS0habVNfZlFkVHg2YWJscHhxU2tF?oc=5": "2026-08-11T13:43:42.367602+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5": "2026-08-13T20:21:34.800097+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQk5XQk5mSkdWX1BfRWluSERERG4tRi1JUmU2QmdhQmZuMi0wUFZodm96MGU4TkxPR3hTMkdvdWx5UUN4OHpyZkxiN0M4NUVSRU5RMDdKUWlFMHBzalMtLW1qV1J6QWlwbjNMVEFTNEwyTkxLSkROMC1EVFNOVUJBYXJlV2ZKNW9NZlBXTl9DekNuTmY4Ulc2Q3FRUnhMdGdyZ1lr?oc=5": "2026-08-13T03:16:17.660784+00:00",
@@ -5180,67 +5190,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-14T16:07:12.928286+00:00",
+      "checked_at": "2026-08-14T17:11:58.864518+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-14T16:07:13.573423+00:00",
+      "checked_at": "2026-08-14T17:11:59.513047+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-14T16:06:26.085831+00:00",
+      "checked_at": "2026-08-14T17:11:13.329031+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-14T16:06:27.195146+00:00",
+      "checked_at": "2026-08-14T17:11:14.768692+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-14T16:06:27.027919+00:00",
+      "checked_at": "2026-08-14T17:11:14.567780+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-14T16:06:29.296985+00:00",
+      "checked_at": "2026-08-14T17:11:17.128918+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-14T16:06:29.917398+00:00",
+      "checked_at": "2026-08-14T17:11:17.839277+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-14T16:06:27.692463+00:00",
+      "checked_at": "2026-08-14T17:11:15.237880+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-14T16:06:33.102893+00:00",
+      "checked_at": "2026-08-14T17:11:20.996188+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-14T16:06:26.433239+00:00",
+      "checked_at": "2026-08-14T17:11:13.898393+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-14T16:06:26.688303+00:00",
+      "checked_at": "2026-08-14T17:11:14.266330+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-14T16:06:25.697622+00:00",
+      "checked_at": "2026-08-14T17:11:13.028527+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-14T16:07:14.184533+00:00",
+      "checked_at": "2026-08-14T17:12:00.132730+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
