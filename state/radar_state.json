@@ -3716,11 +3716,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T11:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "A New Trick Reveals AI Models\u2019 Inner Thoughts - WIRED",
       "id": "1477b7ed8639eb88b439",
       "last_seen_at": "2026-08-12T21:29:12.576090+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -3908,11 +3908,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-11T10:00:00+00:00",
-      "early_signal": 21,
+      "early_signal": 20,
       "headline": "Testing ads in ChatGPT",
       "id": "1fb9fed6ee627c11454e",
       "last_seen_at": "2026-08-11T16:37:00.795588+00:00",
-      "score": 28,
+      "score": 27,
       "sources": [
         {
           "media_url": null,
@@ -4023,11 +4023,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-11T10:00:00+00:00",
-      "early_signal": 37,
+      "early_signal": 36,
       "headline": "Daybreak models are now available on AWS",
       "id": "bc7878cc3ebc9836afb2",
       "last_seen_at": "2026-08-12T05:03:38.736542+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -4356,11 +4356,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T20:26:48+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Full-scale AI agent adoption remains years away for enterprises - CIO Dive",
       "id": "229d9c201df76cd8b4f7",
       "last_seen_at": "2026-08-13T03:16:17.664837+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -4466,11 +4466,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T17:16:04+00:00",
-      "early_signal": 43,
+      "early_signal": 41,
       "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "id": "d921c0e8df9d0a1a5340",
       "last_seen_at": "2026-08-13T18:08:23.613075+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -4519,11 +4519,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:30+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
       "id": "b6671aee8533557411d6",
       "last_seen_at": "2026-08-13T19:21:01.504275+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -4594,11 +4594,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:38+00:00",
-      "early_signal": 36,
+      "early_signal": 42,
       "headline": "Introducing Gemini 3.7 Flash - blog.google",
       "id": "a74929c0415ce102a9a9",
-      "last_seen_at": "2026-08-13T20:21:34.807242+00:00",
-      "score": 40,
+      "last_seen_at": "2026-08-14T14:04:04.837574+00:00",
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -4608,6 +4608,15 @@
           "source_type": "google_news",
           "title": "Introducing Gemini 3.7 Flash - blog.google",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-14T12:45:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Google launches Gemini 3.7 Flash amid AI leadership shakeup - Northeast Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjhUaG5yRHBmUVFjSDRoWjNSS3JoSFJfQl94cmVNX3dfMnNkTUgyTUM0dVdQV3AxRF9FeFJFazhrNFBlY1R5cGxLcWpFRVkxcUtsd2swUFNxMHVoUFc4V2w0TU5uUW1IVjBIVkhUOV94RUVvblg4Smloek9aeTNVaVBRM0ZOWloybnFESHRyeUZjY2xaQlJYeE9PVURiSUE?oc=5"
         }
       ],
       "summary": "Introducing Gemini 3.7 Flash blog.google"
@@ -4616,11 +4625,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T22:37:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "The Safety Reckoning Inside OpenAI - wired.com",
       "id": "6e50fc745455f52e9cc4",
       "last_seen_at": "2026-08-14T09:21:29.564118+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -4660,11 +4669,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:03:52+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Back in the Harness: DeepSeek continues its pivot towards agentic AI - South China Morning Post",
       "id": "372b65708f071ac4fe30",
       "last_seen_at": "2026-08-14T11:29:12.438496+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -4704,11 +4713,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -4721,6 +4730,28 @@
         }
       ],
       "summary": "AI Agents Ease Simulink Model Adoption Process Design News"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-14T11:38:40+00:00",
+      "early_signal": 46,
+      "headline": "IBM consultants will deploy OpenAI services - cio.com",
+      "id": "0ac470f826cc9e19b9d2",
+      "last_seen_at": "2026-08-14T14:04:04.834603+00:00",
+      "score": 44,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-14T11:38:40+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "IBM consultants will deploy OpenAI services - cio.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVG01V0VjVXFRdTZsOVJyZjlYR196ZWlyeW52cnZ5RTN4cUM2MXZURjdGLUVDNnJrWktZT0dSNW9jSHlESnFYUDhUT1RZVWpEemthWlNjOGc3VWR2NmFRc0JBd3h6bU9zS25aNm1jNTAwTjRIdjNrRk15OUpiMW9JajRjRFNPNy00X29KRS1PREhwYnYzN3VtY3EtUWxMdkdS?oc=5"
+        }
+      ],
+      "summary": "IBM consultants will deploy OpenAI services cio.com"
     }
   ],
   "processed_urls": {
@@ -4912,8 +4943,10 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTlHWlYyaXBZU2hMLW1NMWRMdThWV0hXekJGWUZvckdJMWJ4ZzBkVTg2UC02c2xZY2I5RzZrQ3hXN3pBc3U0OXR6UFM1QXFzVnRoUmdMWHQ5TU1fSXp3eElRVENXdDkwSzNvUzRrak5kLWZ0blVkSnlwVm1nYnRqaDdSLU1iTFNqc09pZ1VMWUF1SmIzeXBQejlrNWU3dw?oc=5": "2026-08-12T18:07:42.817852+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHl0LVRoYlh1eXFONzkxdVJURlVJTFZFc0tCaW5mZHk2WFVIR09XTVk0cmQwSEowM1prUVFTNE4xa2FxZXowYlczZGpkYXpiaDNtcTZPa2RpODNmQVlaYTM2VS1oaERjMGFDRTc5QVNscjBjY05PdEZzWXkyTWZ6dXNnQ2hvQ2RKaEV5dUdWTkNkODJ1TUFvWXNUblFzdjA?oc=5": "2026-08-12T14:07:32.177443+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5": "2026-08-09T04:07:57.382596+00:00",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjhUaG5yRHBmUVFjSDRoWjNSS3JoSFJfQl94cmVNX3dfMnNkTUgyTUM0dVdQV3AxRF9FeFJFazhrNFBlY1R5cGxLcWpFRVkxcUtsd2swUFNxMHVoUFc4V2w0TU5uUW1IVjBIVkhUOV94RUVvblg4Smloek9aeTNVaVBRM0ZOWloybnFESHRyeUZjY2xaQlJYeE9PVURiSUE?oc=5": "2026-08-14T14:04:04.831318+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5": "2026-08-10T21:58:49.210610+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWs2dDloYldNbWUtSl9SQUxGSDhaYWdEYzBIOURwN0FQTGRqc1pHcV9FVmg1Y2o5SzRXUmRCbzVkbHdRLXliTHB0U0RlVzBqS3lhWF9WY0RaWmp1OUxLQ2FKNWl3NW1WUXIzRHE3SHI0WGp5TE4yZ01PMTA2M08yWFhpMTYxN2ZwakhITzNKTmh0a0k1TjJTMm5aUUJIZXc?oc=5": "2026-08-13T14:08:38.919026+00:00",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVG01V0VjVXFRdTZsOVJyZjlYR196ZWlyeW52cnZ5RTN4cUM2MXZURjdGLUVDNnJrWktZT0dSNW9jSHlESnFYUDhUT1RZVWpEemthWlNjOGc3VWR2NmFRc0JBd3h6bU9zS25aNm1jNTAwTjRIdjNrRk15OUpiMW9JajRjRFNPNy00X29KRS1PREhwYnYzN3VtY3EtUWxMdkdS?oc=5": "2026-08-14T14:04:04.830985+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm1FTXBaT1h0M2VZV1lGVTVzbnlsMWtCeXBvUGJvSTdoZmFtR3F5NHAwNUVWZk9FeEdTQ2RDeTd6LW15XzRscy1memliM2xsVHJmQVNHSkxSZEF0OWRmcTFxRzY1bThYRUw5emg3TGNzSWFpTDdrWEs3WENDWXFzSzhsLWZtNFIwYVdySllLd1lGbHFoMFI1Q0M2TFRheXRj0gGnAUFVX3lxTE83M0kzV3gtUGFGcmo0X1RVTmdRQkhPbUJFV2hxQzZSdGhnWjFHRXhuRDNpay1Nb3UwaWEza3BxUkVFNVlzWDhONW9sOFBqS0dnajRRekc4dDZsMndHX1N3UXlYZUhKTnQ4RnpUNldWaU44emFRZUNUeUt6YWdZZWU0NWd5MkJpSFhGR0hlcElPRjFOM3JVSFlPMUJWM2Uwekg1aGNCcDBZ?oc=5": "2026-08-10T08:17:47.078910+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdRTjVSajlZTjJHVGtRMDltcHNZVUNJV3VSMTU0amd5bm1ONk16TG43NUh3ZkpRZFJvU3gwUF82TjhHeTZzUVZBTTVpSjRhd0MzR1RxUlNTNmtrUXNkZ3Mtb3VrQzJTOThyQUNXLWtZamNrV1RyLWFZU2ZDTjcwYU40RjNtWDZBMjVheld6NWZJRUpnbllnR1hxeTFwTjlF?oc=5": "2026-08-10T09:52:55.930822+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVlWVlo3VDJFcXdoOHRnNV9ndXhRWVA3STNyMG92cGtoRXBLbWJGaEFCZ2NGLVBaNWlsaTRrYXgzbTNxWVN5SW1UQl9BQmtrOVdyclVxSHVnQ19ySXk0bUNqbUw0MjdnQUs1NTFwZGZNQTN6c050NWxjN2k4TlQzQ1NQUDhyNXlJaHh1RGVHSFZMMXZ5cUFoQWN0MV9XRTl3?oc=5": "2026-08-11T21:30:01.658642+00:00",
@@ -5107,67 +5140,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-14T12:29:08.905688+00:00",
+      "checked_at": "2026-08-14T14:04:03.121846+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-14T12:29:09.413636+00:00",
+      "checked_at": "2026-08-14T14:04:03.723171+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-14T12:28:22.225535+00:00",
+      "checked_at": "2026-08-14T14:03:04.467908+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-14T12:28:23.747607+00:00",
+      "checked_at": "2026-08-14T14:03:05.516629+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-14T12:28:23.466096+00:00",
+      "checked_at": "2026-08-14T14:03:05.435546+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-14T12:28:26.273065+00:00",
+      "checked_at": "2026-08-14T14:03:07.644707+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-14T12:28:27.403198+00:00",
+      "checked_at": "2026-08-14T14:03:08.275253+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-14T12:28:24.358598+00:00",
+      "checked_at": "2026-08-14T14:03:05.779519+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-14T12:28:31.005820+00:00",
+      "checked_at": "2026-08-14T14:03:11.377421+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-14T12:28:22.658371+00:00",
+      "checked_at": "2026-08-14T14:03:04.837964+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-14T12:28:22.961496+00:00",
+      "checked_at": "2026-08-14T14:03:05.160850+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-14T12:28:21.394410+00:00",
+      "checked_at": "2026-08-14T14:03:04.155266+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-14T12:29:10.159660+00:00",
+      "checked_at": "2026-08-14T14:04:04.822915+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
