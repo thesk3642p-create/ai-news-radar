@@ -3320,11 +3320,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T17:00:00+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "What building an AI-native finance function taught me",
       "id": "77d460a15e26444e9de4",
       "last_seen_at": "2026-08-10T17:09:36.149489+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -4400,11 +4400,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T11:39:14+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "How Palo Alto Will Use OpenAI\u2019s Daybreak Against AI Attacks - Cyber Magazine",
       "id": "43c54481ccc250495a75",
       "last_seen_at": "2026-08-13T12:34:07.054758+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4488,11 +4488,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T03:00:00+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Opinion: \u2018Think of all we love\u2019 \u2014 we are at a perilous moment when it comes to artificial intelligence - Deseret News",
       "id": "4dd91d3ea0fcf8e0a7fa",
       "last_seen_at": "2026-08-14T10:40:38.185177+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -4541,11 +4541,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T18:28:14+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
       "id": "8132ecf3e3582b0ad10c",
       "last_seen_at": "2026-08-14T06:43:24.025162+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4647,11 +4647,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T09:28:25+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Chinese startup launches new AI model - China Daily",
       "id": "ac4fda988f8030880401",
       "last_seen_at": "2026-08-14T10:40:38.187749+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -4691,11 +4691,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:27:22+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Google And Kaggle\u2019s AI Agent Course Attracts More Than 353,000 Participants - Pulse 2.0",
       "id": "7b667b68500467797562",
       "last_seen_at": "2026-08-14T12:29:10.170964+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -4713,11 +4713,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -4735,11 +4735,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:38:40+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "IBM consultants will deploy OpenAI services - cio.com",
       "id": "0ac470f826cc9e19b9d2",
       "last_seen_at": "2026-08-14T14:04:04.834603+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -5140,67 +5140,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-14T14:04:03.121846+00:00",
+      "checked_at": "2026-08-14T15:08:09.698086+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-14T14:04:03.723171+00:00",
+      "checked_at": "2026-08-14T15:08:10.224711+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-14T14:03:04.467908+00:00",
+      "checked_at": "2026-08-14T15:07:15.718461+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-14T14:03:05.516629+00:00",
+      "checked_at": "2026-08-14T15:07:16.857610+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-14T14:03:05.435546+00:00",
+      "checked_at": "2026-08-14T15:07:16.747250+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-14T14:03:07.644707+00:00",
+      "checked_at": "2026-08-14T15:07:19.279293+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-14T14:03:08.275253+00:00",
+      "checked_at": "2026-08-14T15:07:19.926576+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-14T14:03:05.779519+00:00",
+      "checked_at": "2026-08-14T15:07:17.492807+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-14T14:03:11.377421+00:00",
+      "checked_at": "2026-08-14T15:07:23.045754+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-14T14:03:04.837964+00:00",
+      "checked_at": "2026-08-14T15:07:16.070022+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-14T14:03:05.160850+00:00",
+      "checked_at": "2026-08-14T15:07:16.461132+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-14T14:03:04.155266+00:00",
+      "checked_at": "2026-08-14T15:07:15.394842+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-14T14:04:04.822915+00:00",
+      "checked_at": "2026-08-14T15:08:10.669923+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
