@@ -3171,13 +3171,13 @@
     },
     {
       "breakout_sent": false,
-      "confidence": 60,
+      "confidence": 68,
       "created_at": "2026-08-10T12:00:00+00:00",
-      "early_signal": 43,
+      "early_signal": 59,
       "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "id": "25dc0247eee94e0f05f5",
-      "last_seen_at": "2026-08-13T19:21:01.499723+00:00",
-      "score": 33,
+      "last_seen_at": "2026-08-15T09:59:28.199456+00:00",
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -3205,6 +3205,15 @@
           "source_type": "rss",
           "title": "The builder\u2019s guide to GPT\u20115.6",
           "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-13T10:00:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Previewing GPT-5.6 Sol: a next-generation model - openai.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5"
         }
       ],
       "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
@@ -4547,11 +4556,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T17:16:04+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "id": "d921c0e8df9d0a1a5340",
       "last_seen_at": "2026-08-13T18:08:23.613075+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -4733,11 +4742,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T22:37:00+00:00",
-      "early_signal": 30,
+      "early_signal": 28,
       "headline": "The Safety Reckoning Inside OpenAI - wired.com",
       "id": "6e50fc745455f52e9cc4",
       "last_seen_at": "2026-08-14T09:21:29.564118+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -4974,6 +4983,7 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10a2dHMXpvUTU2S0ptMUs3b0ZVZjJMbFotVGNxdUFBbUZrZkcwbWFuZXlwM0hnaVdtYnd4YmRqd2RwX3ByU0tSTExNS2tkUzBXcE5DOFIxU2E?oc=5": "2026-08-12T18:07:42.817969+00:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5": "2026-08-10T00:38:15.335572+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbkRVdmZEYl9DYWs2eGV3Um5iTWl2WEU3S3drdG01VVVsRVN2WkluN3NvbE9jeDlnMm5Qd29teVJLN2owMGFwVkpVR0NHNGluaUpVS2VhQTBBeWpN?oc=5": "2026-08-11T23:24:47.002180+00:00",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5": "2026-08-15T09:59:28.196785+00:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5": "2026-08-10T03:00:21.450032+00:00",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYlpSY18wMlhCT0F5VmRUQTVTR09BMk1JVC1CM0FXSUhidnFpQm1NSUJuT3ZmX3VIY1AtbG1fSmY5cmd5RUxkVXd3TmhlVlJWVHFPa1VCNFk5UldBT0JwemxR?oc=5": "2026-08-13T06:45:32.668946+00:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NMkw2VjgydlRtblhoaTNvQ2lWWFJFT3p1ZFNTQmpfUDVaNnJKOWlfdkE1di1famdkTnhRMDZaYmZvVW9hWXk4TWxOVGlmSkdEYVc3TlpGNEJvUGg4cGtYNlpEQVpQTVU?oc=5": "2026-08-12T09:32:45.384913+00:00",
@@ -5308,67 +5318,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T09:41:32.020896+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-15T09:59:26.759632+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T09:41:32.492118+00:00",
+      "checked_at": "2026-08-15T09:59:27.320909+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T09:40:45.460875+00:00",
+      "checked_at": "2026-08-15T09:59:05.936154+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T09:40:46.804191+00:00",
+      "checked_at": "2026-08-15T09:59:07.744970+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T09:40:46.578318+00:00",
+      "checked_at": "2026-08-15T09:59:07.588391+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T09:40:49.262877+00:00",
+      "checked_at": "2026-08-15T09:59:10.611421+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T09:40:49.922188+00:00",
+      "checked_at": "2026-08-15T09:59:11.341375+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T09:40:47.478147+00:00",
+      "checked_at": "2026-08-15T09:59:08.241810+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T09:40:53.158432+00:00",
+      "checked_at": "2026-08-15T09:59:14.519239+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T09:40:45.873129+00:00",
+      "checked_at": "2026-08-15T09:59:06.823990+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T09:40:46.167988+00:00",
+      "checked_at": "2026-08-15T09:59:07.193193+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T09:40:45.224546+00:00",
+      "checked_at": "2026-08-15T09:59:05.640772+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T09:41:32.870632+00:00",
+      "checked_at": "2026-08-15T09:59:28.188509+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
