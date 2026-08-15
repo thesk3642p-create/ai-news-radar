@@ -4671,11 +4671,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T19:19:49+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
       "id": "b60a5aef9a0dd01fb77c",
       "last_seen_at": "2026-08-14T16:07:14.199598+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -4865,11 +4865,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-14T19:14:47.051268+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "Aug 12, 2026 Announcements How Claude\u2019s text watermark works",
       "id": "45aa235e1276010ce863",
       "last_seen_at": "2026-08-14T19:14:47.051268+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -5284,67 +5284,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T06:00:55.829446+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-15T06:58:16.880175+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T06:00:56.447548+00:00",
+      "checked_at": "2026-08-15T06:58:17.397150+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T06:00:29.811911+00:00",
+      "checked_at": "2026-08-15T06:57:28.965519+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T06:00:31.088140+00:00",
+      "checked_at": "2026-08-15T06:57:30.195247+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T06:00:30.865172+00:00",
+      "checked_at": "2026-08-15T06:57:30.099244+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T06:00:33.328768+00:00",
+      "checked_at": "2026-08-15T06:57:32.210830+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T06:00:33.994929+00:00",
+      "checked_at": "2026-08-15T06:57:32.870193+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T06:00:31.721401+00:00",
+      "checked_at": "2026-08-15T06:57:30.443615+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T06:00:37.104662+00:00",
+      "checked_at": "2026-08-15T06:57:36.118140+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T06:00:30.167991+00:00",
+      "checked_at": "2026-08-15T06:57:29.410750+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T06:00:30.415884+00:00",
+      "checked_at": "2026-08-15T06:57:29.717262+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T06:00:29.538523+00:00",
+      "checked_at": "2026-08-15T06:57:28.569178+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T06:00:57.063879+00:00",
+      "checked_at": "2026-08-15T06:58:17.831579+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
