@@ -4525,11 +4525,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T12:56:28+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters",
       "id": "ef21df5de8771e3c225d",
       "last_seen_at": "2026-08-13T16:11:56.390644+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -4733,11 +4733,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T22:37:00+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "The Safety Reckoning Inside OpenAI - wired.com",
       "id": "6e50fc745455f52e9cc4",
       "last_seen_at": "2026-08-14T09:21:29.564118+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -4755,11 +4755,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T09:28:25+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Chinese startup launches new AI model - China Daily",
       "id": "ac4fda988f8030880401",
       "last_seen_at": "2026-08-14T10:40:38.187749+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -5284,67 +5284,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T05:11:20.248451+00:00",
+      "checked_at": "2026-08-15T05:41:54.724577+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T05:11:20.873275+00:00",
+      "checked_at": "2026-08-15T05:41:55.250038+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T05:10:43.152544+00:00",
+      "checked_at": "2026-08-15T05:41:21.956569+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T05:10:44.436681+00:00",
+      "checked_at": "2026-08-15T05:41:23.182739+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T05:10:44.279225+00:00",
+      "checked_at": "2026-08-15T05:41:23.062775+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T05:10:46.952244+00:00",
+      "checked_at": "2026-08-15T05:41:25.274192+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T05:10:47.659891+00:00",
+      "checked_at": "2026-08-15T05:41:25.930031+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T05:10:44.772278+00:00",
+      "checked_at": "2026-08-15T05:41:23.687850+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T05:10:50.856523+00:00",
+      "checked_at": "2026-08-15T05:41:29.256556+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T05:10:43.605776+00:00",
+      "checked_at": "2026-08-15T05:41:22.369487+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T05:10:43.874425+00:00",
+      "checked_at": "2026-08-15T05:41:22.653651+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T05:10:42.711082+00:00",
+      "checked_at": "2026-08-15T05:41:21.559260+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T05:11:21.546888+00:00",
+      "checked_at": "2026-08-15T05:41:56.647477+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
