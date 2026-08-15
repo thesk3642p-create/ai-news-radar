@@ -4601,11 +4601,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T17:16:04+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "id": "d921c0e8df9d0a1a5340",
       "last_seen_at": "2026-08-13T18:08:23.613075+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -4941,11 +4941,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T22:41:27+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
       "last_seen_at": "2026-08-15T07:44:59.618961+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -4963,11 +4963,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T11:00:00+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "The \u2018dangerous\u2019 AI models are the ones saving us - Washington Examiner",
       "id": "e4762126cda5ea019c3d",
       "last_seen_at": "2026-08-15T11:34:47.104958+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -5391,67 +5391,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T15:36:03.833877+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-15T15:57:46.846991+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T15:36:04.401445+00:00",
+      "checked_at": "2026-08-15T15:57:47.401467+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T15:35:13.527874+00:00",
+      "checked_at": "2026-08-15T15:57:15.377513+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T15:35:14.931329+00:00",
+      "checked_at": "2026-08-15T15:57:17.055021+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T15:35:14.645261+00:00",
+      "checked_at": "2026-08-15T15:57:16.741766+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T15:35:18.220534+00:00",
+      "checked_at": "2026-08-15T15:57:19.281824+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T15:35:18.876970+00:00",
+      "checked_at": "2026-08-15T15:57:19.926118+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T15:35:15.613056+00:00",
+      "checked_at": "2026-08-15T15:57:17.768584+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T15:35:22.088286+00:00",
+      "checked_at": "2026-08-15T15:57:23.183017+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T15:35:13.824830+00:00",
+      "checked_at": "2026-08-15T15:57:15.981546+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T15:35:14.005893+00:00",
+      "checked_at": "2026-08-15T15:57:16.252470+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T15:35:13.108201+00:00",
+      "checked_at": "2026-08-15T15:57:14.982186+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T15:36:04.912637+00:00",
+      "checked_at": "2026-08-15T15:57:48.139415+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
