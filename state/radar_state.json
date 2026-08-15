@@ -4360,7 +4360,7 @@
       "early_signal": 47,
       "headline": "Code that passes every test can still break the next AI agent that touches it - The New Stack",
       "id": "280e1ff4a33ab738af28",
-      "last_seen_at": "2026-08-14T23:00:57.861031+00:00",
+      "last_seen_at": "2026-08-15T11:57:40.769894+00:00",
       "score": 32,
       "sources": [
         {
@@ -4407,6 +4407,15 @@
           "source_type": "google_news",
           "title": "Trimble\u2019s New AI Agent Takes Aim at Fleet Back-Office Busywork - Heavy Duty Trucking",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOVFNaGxlc2V6WmM3aG1heHpLN2xGRDkyaW5BS2ZaLXE0OEpsaGVFdm9ETTdYcE9DRkdsUjF0WVBmNFk4QWRJTlU0eGp1bG9aemhBNUo5b1c2NjVsMmlmVy1qMy16QkJ6R1Y4NEJheW9DbGxhcFVSUl9VWHJybkJsMEhhVnBtOXdDVnlEMEYtNTlGZWplRnRuQjY5cw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-15T05:41:34+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "New benchmark confirms AI models still perform poorly at visual perception - the-decoder.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEU1ZUlNWTBpc185cENQTWhiODdZZzBBaXhDbFctTzg1RVdiMEdDWFBBN1ZQSnNCNjVheU9fWmo3dmlWVkF1N0RKVDlpcGxKZkRib3RqczIwTm9aeVlLd1NYQ1NvMi1XbTV4TUFZNEIzWXNNRHlGblBNcTlDNzFUaXQxZVdBUmxqcHBCYXRRbXlQU3I0cEI2MTA4aTFEeGlR?oc=5"
         }
       ],
       "summary": "Code that passes every test can still break the next AI agent that touches it The New Stack"
@@ -4707,11 +4716,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T19:19:49+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
       "id": "b60a5aef9a0dd01fb77c",
       "last_seen_at": "2026-08-14T16:07:14.199598+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -4945,11 +4954,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T11:00:00+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "The \u2018dangerous\u2019 AI models are the ones saving us - Washington Examiner",
       "id": "e4762126cda5ea019c3d",
       "last_seen_at": "2026-08-15T11:34:47.104958+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -5167,6 +5176,7 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjhUaG5yRHBmUVFjSDRoWjNSS3JoSFJfQl94cmVNX3dfMnNkTUgyTUM0dVdQV3AxRF9FeFJFazhrNFBlY1R5cGxLcWpFRVkxcUtsd2swUFNxMHVoUFc4V2w0TU5uUW1IVjBIVkhUOV94RUVvblg4Smloek9aeTNVaVBRM0ZOWloybnFESHRyeUZjY2xaQlJYeE9PVURiSUE?oc=5": "2026-08-14T14:04:04.831318+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGJYTk1PbFdGNTJnZ1NhbDVGNW9zNkxNRHdiX1RsOXlydDFfeWtTbnNQSTFlVGI4dnh0Ykl1Q1VSdVc0WVZ3blJyNVByMEstS01BcmZVSUcwTVZJNWFBNlFHMnVZSVZRSGljMG0yb3VEQXlGNVc2elZzTzNpb20zcUtHMkRtQUFVNnJ1TDRaVUh0dHlHQ0NlNmVOOHFMaEU?oc=5": "2026-08-10T21:58:49.210610+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWs2dDloYldNbWUtSl9SQUxGSDhaYWdEYzBIOURwN0FQTGRqc1pHcV9FVmg1Y2o5SzRXUmRCbzVkbHdRLXliTHB0U0RlVzBqS3lhWF9WY0RaWmp1OUxLQ2FKNWl3NW1WUXIzRHE3SHI0WGp5TE4yZ01PMTA2M08yWFhpMTYxN2ZwakhITzNKTmh0a0k1TjJTMm5aUUJIZXc?oc=5": "2026-08-13T14:08:38.919026+00:00",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEU1ZUlNWTBpc185cENQTWhiODdZZzBBaXhDbFctTzg1RVdiMEdDWFBBN1ZQSnNCNjVheU9fWmo3dmlWVkF1N0RKVDlpcGxKZkRib3RqczIwTm9aeVlLd1NYQ1NvMi1XbTV4TUFZNEIzWXNNRHlGblBNcTlDNzFUaXQxZVdBUmxqcHBCYXRRbXlQU3I0cEI2MTA4aTFEeGlR?oc=5": "2026-08-15T11:57:40.766151+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVG01V0VjVXFRdTZsOVJyZjlYR196ZWlyeW52cnZ5RTN4cUM2MXZURjdGLUVDNnJrWktZT0dSNW9jSHlESnFYUDhUT1RZVWpEemthWlNjOGc3VWR2NmFRc0JBd3h6bU9zS25aNm1jNTAwTjRIdjNrRk15OUpiMW9JajRjRFNPNy00X29KRS1PREhwYnYzN3VtY3EtUWxMdkdS?oc=5": "2026-08-14T14:04:04.830985+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm1FTXBaT1h0M2VZV1lGVTVzbnlsMWtCeXBvUGJvSTdoZmFtR3F5NHAwNUVWZk9FeEdTQ2RDeTd6LW15XzRscy1memliM2xsVHJmQVNHSkxSZEF0OWRmcTFxRzY1bThYRUw5emg3TGNzSWFpTDdrWEs3WENDWXFzSzhsLWZtNFIwYVdySllLd1lGbHFoMFI1Q0M2TFRheXRj0gGnAUFVX3lxTE83M0kzV3gtUGFGcmo0X1RVTmdRQkhPbUJFV2hxQzZSdGhnWjFHRXhuRDNpay1Nb3UwaWEza3BxUkVFNVlzWDhONW9sOFBqS0dnajRRekc4dDZsMndHX1N3UXlYZUhKTnQ4RnpUNldWaU44emFRZUNUeUt6YWdZZWU0NWd5MkJpSFhGR0hlcElPRjFOM3JVSFlPMUJWM2Uwekg1aGNCcDBZ?oc=5": "2026-08-10T08:17:47.078910+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdRTjVSajlZTjJHVGtRMDltcHNZVUNJV3VSMTU0amd5bm1ONk16TG43NUh3ZkpRZFJvU3gwUF82TjhHeTZzUVZBTTVpSjRhd0MzR1RxUlNTNmtrUXNkZ3Mtb3VrQzJTOThyQUNXLWtZamNrV1RyLWFZU2ZDTjcwYU40RjNtWDZBMjVheld6NWZJRUpnbllnR1hxeTFwTjlF?oc=5": "2026-08-10T09:52:55.930822+00:00",
@@ -5371,67 +5381,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T11:34:45.830819+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-15T11:57:39.462567+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T11:34:46.390421+00:00",
+      "checked_at": "2026-08-15T11:57:39.973833+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T11:33:54.471147+00:00",
+      "checked_at": "2026-08-15T11:56:57.086684+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T11:33:55.564713+00:00",
+      "checked_at": "2026-08-15T11:56:58.636067+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T11:33:55.405141+00:00",
+      "checked_at": "2026-08-15T11:56:58.406946+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T11:33:58.261032+00:00",
+      "checked_at": "2026-08-15T11:57:00.959931+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T11:33:58.931908+00:00",
+      "checked_at": "2026-08-15T11:57:01.699017+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T11:33:56.172207+00:00",
+      "checked_at": "2026-08-15T11:56:59.395397+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T11:34:02.038013+00:00",
+      "checked_at": "2026-08-15T11:57:04.938350+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T11:33:54.774950+00:00",
+      "checked_at": "2026-08-15T11:56:57.631188+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T11:33:55.024180+00:00",
+      "checked_at": "2026-08-15T11:56:57.919898+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T11:33:54.180866+00:00",
+      "checked_at": "2026-08-15T11:56:56.792866+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T11:34:47.093230+00:00",
+      "checked_at": "2026-08-15T11:57:40.758068+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
