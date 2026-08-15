@@ -4321,11 +4321,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T17:02:43+00:00",
-      "early_signal": 49,
+      "early_signal": 47,
       "headline": "Code that passes every test can still break the next AI agent that touches it - The New Stack",
       "id": "280e1ff4a33ab738af28",
       "last_seen_at": "2026-08-14T23:00:57.861031+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -4459,11 +4459,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 27,
+      "early_signal": 26,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-13T09:34:33.155979+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4887,11 +4887,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T22:41:27+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
       "last_seen_at": "2026-08-15T07:44:59.618961+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -5308,67 +5308,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T07:44:58.152613+00:00",
+      "checked_at": "2026-08-15T08:01:46.932747+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T07:44:58.662317+00:00",
+      "checked_at": "2026-08-15T08:01:47.391945+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T07:44:39.681648+00:00",
+      "checked_at": "2026-08-15T08:01:07.278335+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T07:44:40.932166+00:00",
+      "checked_at": "2026-08-15T08:01:09.325159+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T07:44:40.814529+00:00",
+      "checked_at": "2026-08-15T08:01:08.928907+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T07:44:42.939068+00:00",
+      "checked_at": "2026-08-15T08:01:12.265162+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T07:44:43.589050+00:00",
+      "checked_at": "2026-08-15T08:01:13.020205+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T07:44:41.190981+00:00",
+      "checked_at": "2026-08-15T08:01:10.031914+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T07:44:46.696580+00:00",
+      "checked_at": "2026-08-15T08:01:16.176064+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T07:44:40.090780+00:00",
+      "checked_at": "2026-08-15T08:01:07.653100+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T07:44:40.392423+00:00",
+      "checked_at": "2026-08-15T08:01:07.884753+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T07:44:39.375838+00:00",
+      "checked_at": "2026-08-15T08:01:06.958688+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T07:44:59.607146+00:00",
+      "checked_at": "2026-08-15T08:01:47.820488+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
