@@ -3908,11 +3908,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-11T10:00:00+00:00",
-      "early_signal": 20,
+      "early_signal": 19,
       "headline": "Testing ads in ChatGPT",
       "id": "1fb9fed6ee627c11454e",
       "last_seen_at": "2026-08-11T16:37:00.795588+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -4023,11 +4023,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-11T10:00:00+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "Daybreak models are now available on AWS",
       "id": "bc7878cc3ebc9836afb2",
       "last_seen_at": "2026-08-12T05:03:38.736542+00:00",
-      "score": 28,
+      "score": 27,
       "sources": [
         {
           "media_url": null,
@@ -4503,11 +4503,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T09:00:00+00:00",
-      "early_signal": 26,
+      "early_signal": 25,
       "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "id": "5c892a50e4e319ea6508",
       "last_seen_at": "2026-08-13T16:11:56.385593+00:00",
-      "score": 26,
+      "score": 25,
       "sources": [
         {
           "media_url": null,
@@ -4777,11 +4777,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:03:52+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Back in the Harness: DeepSeek continues its pivot towards agentic AI - South China Morning Post",
       "id": "372b65708f071ac4fe30",
       "last_seen_at": "2026-08-14T11:29:12.438496+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4799,11 +4799,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:27:22+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Google And Kaggle\u2019s AI Agent Course Attracts More Than 353,000 Participants - Pulse 2.0",
       "id": "7b667b68500467797562",
       "last_seen_at": "2026-08-14T12:29:10.170964+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4821,11 +4821,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -4843,11 +4843,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:38:40+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "IBM consultants will deploy OpenAI services - cio.com",
       "id": "0ac470f826cc9e19b9d2",
       "last_seen_at": "2026-08-14T14:04:04.834603+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -4882,6 +4882,28 @@
         }
       ],
       "summary": "Aug 12, 2026 Announcements How Claude\u2019s text watermark works"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-14T22:41:27+00:00",
+      "early_signal": 42,
+      "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
+      "id": "790f51b30b56cfa43276",
+      "last_seen_at": "2026-08-15T07:44:59.618961+00:00",
+      "score": 45,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-14T22:41:27+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWo4OEIzVmloOHpWaFU2akx3RHJtR0FKbVhjWnlUN19KRzhpaHNMaHRPVkp5WXpCZlducW9NQ2h0MnhEckVoMzY2QThSR2NoejNndzRiRmROeVBHNDY5U3QwRWhzRGVqZDc0OGx3QVJQMDROY2RsazVmU1gxQWEtZmVtY2NmSUw3?oc=5"
+        }
+      ],
+      "summary": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI GovCIO Media & Research"
     }
   ],
   "processed_urls": {
@@ -5032,6 +5054,7 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZG1ZTExlTkxwWDRGc2FLRUc0QWRZbnl1TzUwdHYwX2FLUUhvbURVV2MzTjk5V2hqZTlMVTdHUENVT2FYTU1wN2h2TGxnWG1rZ1lEanh4TnQwWDJHNHFPc0pzU2hrZlJXd2Y4WkJyNHVZNHFVV0JHbnpSZ0pYSTBMMDBTX2kxTmJZ?oc=5": "2026-08-14T03:13:34.066099+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTQtVUFwTG15UzJrOERVR0JpRWNIOUZsbDNFMzBtRExXMUxteDc2bHdBLVZfSGJqRVhJUGZ0ZUl6RndsT1Q4ZmZxeHp2UWNNcGI4OF96X1ROWnlrM1dYanh5aW5XQzZtX0hxQWNXMWV0TGdSNy1wRFd0RGM5S2FBaEFkME9vNk44?oc=5": "2026-08-09T04:07:57.381638+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW5mWmR5T3EtNi1uZ3VHMDBnTWh1TnFIRld6WVFWUjhoRUpBeW5KY1RTQmJ5eVk1VzJ1WVhsNWZpd2JqRWZVOUFsRkxfOTVPdGZ2SFNDV3paRkNsZV9EQTdfYlJtWU1wWEg5Ykkwd3JZX3cxUmx0bzRBR2lPMkFqc1Z3WkRLdTdl0gGOAUFVX3lxTFBZaG9tLThnM1MxbHdmamF4TFZkRy1Ma2l6ZVhoVFRvUzlGY3lOdEdsRjhmZ2hOWjhoUkVjV2xramxTWjlsdnVrTVhzTEdTNUFKMXhTTUV2ZVRrU1NiWTAxTjRweE1xaXVKZmZPVHF3X3piYXdRZGdSdW0zbEpFdE50d25aY2ZzUkF0ZVRfdWc?oc=5": "2026-08-09T04:07:57.381436+00:00",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWo4OEIzVmloOHpWaFU2akx3RHJtR0FKbVhjWnlUN19KRzhpaHNMaHRPVkp5WXpCZlducW9NQ2h0MnhEckVoMzY2QThSR2NoejNndzRiRmROeVBHNDY5U3QwRWhzRGVqZDc0OGx3QVJQMDROY2RsazVmU1gxQWEtZmVtY2NmSUw3?oc=5": "2026-08-15T07:44:59.614481+00:00",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd0VFTmZIa3c2YVZTcE56NU5Gam4tQkVBcUVyMHlQU1RrWDYyLXVjZ1JMaUszWjN6QWxSNjlqakxGR3Z2MXhUMHp6ck9oZklZOVZiVEJmVkRPTV9XdHJrMjQzY20zUktNV2QtX3lsOWtJNG1rWWVIcC1pVVo2YzAyR3NuRkR1UTFwcmc?oc=5": "2026-08-09T16:56:48.597053+00:00",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOajRSNkVGOVRBQlF1dEhSTjdYMnRla29jdW5OcDlueUdidzJHQTJ2bldlWEJHdEtkTmcwbll2VUhIUFd6RV9NU2xkT1MxNDNLX1EtM3VMS0x5dGdrcjF2VzliVDE3YzI1WlB5TGdtOGlhS1hFWThpWWVRc1Nsa0QzajdFbHNGR2ZGVVE?oc=5": "2026-08-13T14:08:38.919571+00:00",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHF1aENjUnJSbmNtcGExOFRzVkQ2TmRTcHdVdjRwMFF4bXMxQkRiYXo2RFlSLTNOdDhXOWVla1k1NU0tMHlBcWV1VjJkeGRBazFlUzZld3lobTRzeHV2M2s0dHNkR3oyMThRY1YxLUpNUUVNM1pLYkdMUVBWMi1KMzRmQjh0MmthVmxj?oc=5": "2026-08-14T16:07:14.190557+00:00",
@@ -5257,6 +5280,7 @@
     "digest:6f9945b12664aeec14c2": "2026-08-10T06:42:49.217424+00:00",
     "digest:71884e0f21b7328aaed5": "2026-08-09T04:07:58.011434+00:00",
     "digest:77d460a15e26444e9de4": "2026-08-10T17:09:36.794074+00:00",
+    "digest:790f51b30b56cfa43276": "2026-08-15T07:45:00.371847+00:00",
     "digest:7b667b68500467797562": "2026-08-14T12:29:10.882140+00:00",
     "digest:7f54a453f48e9d820daf": "2026-08-09T04:07:58.011408+00:00",
     "digest:8132ecf3e3582b0ad10c": "2026-08-13T20:21:35.478903+00:00",
@@ -5284,67 +5308,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T06:58:16.880175+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-15T07:44:58.152613+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T06:58:17.397150+00:00",
+      "checked_at": "2026-08-15T07:44:58.662317+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T06:57:28.965519+00:00",
+      "checked_at": "2026-08-15T07:44:39.681648+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T06:57:30.195247+00:00",
+      "checked_at": "2026-08-15T07:44:40.932166+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T06:57:30.099244+00:00",
+      "checked_at": "2026-08-15T07:44:40.814529+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T06:57:32.210830+00:00",
+      "checked_at": "2026-08-15T07:44:42.939068+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T06:57:32.870193+00:00",
+      "checked_at": "2026-08-15T07:44:43.589050+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T06:57:30.443615+00:00",
+      "checked_at": "2026-08-15T07:44:41.190981+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T06:57:36.118140+00:00",
+      "checked_at": "2026-08-15T07:44:46.696580+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T06:57:29.410750+00:00",
+      "checked_at": "2026-08-15T07:44:40.090780+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T06:57:29.717262+00:00",
+      "checked_at": "2026-08-15T07:44:40.392423+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T06:57:28.569178+00:00",
+      "checked_at": "2026-08-15T07:44:39.375838+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T06:58:17.831579+00:00",
+      "checked_at": "2026-08-15T07:44:59.607146+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
