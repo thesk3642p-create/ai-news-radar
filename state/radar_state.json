@@ -4622,11 +4622,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T18:28:14+00:00",
-      "early_signal": 54,
+      "early_signal": 52,
       "headline": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
       "id": "8132ecf3e3582b0ad10c",
       "last_seen_at": "2026-08-14T18:07:21.188582+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -5284,67 +5284,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T05:41:54.724577+00:00",
+      "checked_at": "2026-08-15T06:00:55.829446+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T05:41:55.250038+00:00",
+      "checked_at": "2026-08-15T06:00:56.447548+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T05:41:21.956569+00:00",
+      "checked_at": "2026-08-15T06:00:29.811911+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T05:41:23.182739+00:00",
+      "checked_at": "2026-08-15T06:00:31.088140+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T05:41:23.062775+00:00",
+      "checked_at": "2026-08-15T06:00:30.865172+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T05:41:25.274192+00:00",
+      "checked_at": "2026-08-15T06:00:33.328768+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T05:41:25.930031+00:00",
+      "checked_at": "2026-08-15T06:00:33.994929+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T05:41:23.687850+00:00",
+      "checked_at": "2026-08-15T06:00:31.721401+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T05:41:29.256556+00:00",
+      "checked_at": "2026-08-15T06:00:37.104662+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T05:41:22.369487+00:00",
+      "checked_at": "2026-08-15T06:00:30.167991+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T05:41:22.653651+00:00",
+      "checked_at": "2026-08-15T06:00:30.415884+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T05:41:21.559260+00:00",
+      "checked_at": "2026-08-15T06:00:29.538523+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T05:41:56.647477+00:00",
+      "checked_at": "2026-08-15T06:00:57.063879+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
