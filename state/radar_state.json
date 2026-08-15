@@ -3369,11 +3369,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 19,
+      "early_signal": 17,
       "headline": "Premium seats are coming to ChatGPT Business",
       "id": "1847ac6332912f19814f",
       "last_seen_at": "2026-08-10T17:09:36.151453+00:00",
-      "score": 21,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -3506,11 +3506,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T00:00:00+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "How Zapier transformed core marketing processes with ChatGPT Work",
       "id": "55d458ad4258b6a6664b",
       "last_seen_at": "2026-08-10T22:56:41.326819+00:00",
-      "score": 24,
+      "score": 23,
       "sources": [
         {
           "media_url": null,
@@ -4800,11 +4800,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T09:28:25+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Chinese startup launches new AI model - China Daily",
       "id": "ac4fda988f8030880401",
       "last_seen_at": "2026-08-14T10:40:38.187749+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -4910,11 +4910,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-14T19:14:47.051268+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Aug 12, 2026 Announcements How Claude\u2019s text watermark works",
       "id": "45aa235e1276010ce863",
       "last_seen_at": "2026-08-14T19:14:47.051268+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -4932,11 +4932,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T22:41:27+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
       "last_seen_at": "2026-08-15T07:44:59.618961+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -5381,67 +5381,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T11:57:39.462567+00:00",
+      "checked_at": "2026-08-15T12:59:27.646753+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T11:57:39.973833+00:00",
+      "checked_at": "2026-08-15T12:59:28.325432+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T11:56:57.086684+00:00",
+      "checked_at": "2026-08-15T12:58:40.324181+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T11:56:58.636067+00:00",
+      "checked_at": "2026-08-15T12:58:41.540308+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T11:56:58.406946+00:00",
+      "checked_at": "2026-08-15T12:58:41.367370+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T11:57:00.959931+00:00",
+      "checked_at": "2026-08-15T12:58:43.723710+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T11:57:01.699017+00:00",
+      "checked_at": "2026-08-15T12:58:44.470052+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T11:56:59.395397+00:00",
+      "checked_at": "2026-08-15T12:58:41.987912+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T11:57:04.938350+00:00",
+      "checked_at": "2026-08-15T12:58:47.643581+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T11:56:57.631188+00:00",
+      "checked_at": "2026-08-15T12:58:40.722323+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T11:56:57.919898+00:00",
+      "checked_at": "2026-08-15T12:58:41.045874+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T11:56:56.792866+00:00",
+      "checked_at": "2026-08-15T12:58:40.034226+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T11:57:40.758068+00:00",
+      "checked_at": "2026-08-15T12:59:29.015991+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
