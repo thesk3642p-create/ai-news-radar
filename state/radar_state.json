@@ -4174,11 +4174,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T12:05:00+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "Molt AI launches AI-agent security tool Fisher, closes $1 million pre-seed round - thestreet.com",
       "id": "c75f6f39870cbfca26fb",
       "last_seen_at": "2026-08-14T19:14:47.059321+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4557,11 +4557,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T09:00:00+00:00",
-      "early_signal": 25,
+      "early_signal": 23,
       "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "id": "5c892a50e4e319ea6508",
       "last_seen_at": "2026-08-13T16:11:56.385593+00:00",
-      "score": 25,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -5391,67 +5391,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T14:40:06.097557+00:00",
+      "checked_at": "2026-08-15T15:00:27.316348+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T14:40:06.717085+00:00",
+      "checked_at": "2026-08-15T15:00:27.944286+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T14:39:17.854867+00:00",
+      "checked_at": "2026-08-15T14:59:36.780815+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T14:39:19.714623+00:00",
+      "checked_at": "2026-08-15T14:59:38.180549+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T14:39:19.457500+00:00",
+      "checked_at": "2026-08-15T14:59:37.841567+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T14:39:21.962654+00:00",
+      "checked_at": "2026-08-15T14:59:40.371644+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T14:39:22.677867+00:00",
+      "checked_at": "2026-08-15T14:59:41.212294+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T14:39:20.349876+00:00",
+      "checked_at": "2026-08-15T14:59:38.721472+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T14:39:25.862270+00:00",
+      "checked_at": "2026-08-15T14:59:44.534522+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T14:39:18.244598+00:00",
+      "checked_at": "2026-08-15T14:59:37.131436+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T14:39:18.535688+00:00",
+      "checked_at": "2026-08-15T14:59:37.398084+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T14:39:17.550815+00:00",
+      "checked_at": "2026-08-15T14:59:36.226498+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T14:40:07.292496+00:00",
+      "checked_at": "2026-08-15T15:00:28.701664+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
