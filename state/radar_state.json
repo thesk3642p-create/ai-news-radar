@@ -4859,11 +4859,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T22:37:00+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "The Safety Reckoning Inside OpenAI - wired.com",
       "id": "6e50fc745455f52e9cc4",
       "last_seen_at": "2026-08-14T09:21:29.564118+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -4974,11 +4974,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 26,
+      "early_signal": 24,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -5571,67 +5571,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T13:01:02.826555+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-16T13:45:57.611706+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T13:01:03.529520+00:00",
+      "checked_at": "2026-08-16T13:45:58.227810+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T13:00:39.677483+00:00",
+      "checked_at": "2026-08-16T13:45:11.712749+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T13:00:41.168151+00:00",
+      "checked_at": "2026-08-16T13:45:13.205447+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T13:00:40.933108+00:00",
+      "checked_at": "2026-08-16T13:45:12.940892+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T13:00:43.385383+00:00",
+      "checked_at": "2026-08-16T13:45:15.714145+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T13:00:44.211459+00:00",
+      "checked_at": "2026-08-16T13:45:16.609856+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T13:00:41.660846+00:00",
+      "checked_at": "2026-08-16T13:45:13.851233+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T13:00:47.472125+00:00",
+      "checked_at": "2026-08-16T13:45:19.833260+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T13:00:40.119319+00:00",
+      "checked_at": "2026-08-16T13:45:12.138711+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T13:00:40.500635+00:00",
+      "checked_at": "2026-08-16T13:45:12.519353+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T13:00:39.303933+00:00",
+      "checked_at": "2026-08-16T13:45:11.354510+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T13:01:04.348240+00:00",
+      "checked_at": "2026-08-16T13:45:59.065288+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
