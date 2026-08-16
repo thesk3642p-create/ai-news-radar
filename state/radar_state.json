@@ -4655,11 +4655,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T17:16:04+00:00",
-      "early_signal": 29,
+      "early_signal": 28,
       "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "id": "d921c0e8df9d0a1a5340",
       "last_seen_at": "2026-08-13T18:08:23.613075+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4717,11 +4717,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:30+00:00",
-      "early_signal": 22,
+      "early_signal": 21,
       "headline": "Accelerating GPT-5.6 Sol Ultrafast with OpenAI - Cerebras",
       "id": "b6671aee8533557411d6",
       "last_seen_at": "2026-08-13T19:21:01.504275+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -4855,11 +4855,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T17:05:38+00:00",
-      "early_signal": 30,
+      "early_signal": 29,
       "headline": "Introducing Gemini 3.7 Flash - blog.google",
       "id": "a74929c0415ce102a9a9",
       "last_seen_at": "2026-08-14T14:04:04.837574+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -5133,11 +5133,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T00:33:51+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders - Startup Fortune",
       "id": "c030c59578105064ce41",
       "last_seen_at": "2026-08-16T03:13:41.350577+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -5649,67 +5649,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T19:56:10.362386+00:00",
+      "checked_at": "2026-08-16T20:38:02.649098+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T19:56:10.842174+00:00",
+      "checked_at": "2026-08-16T20:38:03.235931+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T19:55:38.639197+00:00",
+      "checked_at": "2026-08-16T20:37:42.848815+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T19:55:39.764585+00:00",
+      "checked_at": "2026-08-16T20:37:44.092715+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T19:55:39.615768+00:00",
+      "checked_at": "2026-08-16T20:37:43.882884+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T19:55:42.202550+00:00",
+      "checked_at": "2026-08-16T20:37:47.013940+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T19:55:42.809844+00:00",
+      "checked_at": "2026-08-16T20:37:47.643455+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T19:55:40.414137+00:00",
+      "checked_at": "2026-08-16T20:37:44.853956+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T19:55:45.979902+00:00",
+      "checked_at": "2026-08-16T20:37:50.786543+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T19:55:38.862902+00:00",
+      "checked_at": "2026-08-16T20:37:43.198292+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T19:55:39.155796+00:00",
+      "checked_at": "2026-08-16T20:37:43.470503+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T19:55:38.278230+00:00",
+      "checked_at": "2026-08-16T20:37:42.546085+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T19:56:11.648250+00:00",
+      "checked_at": "2026-08-16T20:38:03.873388+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
