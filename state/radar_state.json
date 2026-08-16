@@ -3770,11 +3770,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T11:00:00+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "A New Trick Reveals AI Models\u2019 Inner Thoughts - WIRED",
       "id": "1477b7ed8639eb88b439",
       "last_seen_at": "2026-08-12T21:29:12.576090+00:00",
-      "score": 25,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -5160,11 +5160,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T00:33:51+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders - Startup Fortune",
       "id": "c030c59578105064ce41",
       "last_seen_at": "2026-08-16T03:13:41.350577+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -5679,67 +5679,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T23:34:57.439071+00:00",
+      "checked_at": "2026-08-16T23:57:05.938298+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T23:34:57.998262+00:00",
+      "checked_at": "2026-08-16T23:57:06.414487+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T23:34:26.007641+00:00",
+      "checked_at": "2026-08-16T23:56:36.418493+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T23:34:27.255971+00:00",
+      "checked_at": "2026-08-16T23:56:37.793148+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T23:34:27.110934+00:00",
+      "checked_at": "2026-08-16T23:56:37.509642+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T23:34:29.699953+00:00",
+      "checked_at": "2026-08-16T23:56:40.044769+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T23:34:30.336168+00:00",
+      "checked_at": "2026-08-16T23:56:40.783632+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T23:34:27.598498+00:00",
+      "checked_at": "2026-08-16T23:56:38.471588+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T23:34:33.523135+00:00",
+      "checked_at": "2026-08-16T23:56:43.945902+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T23:34:26.456889+00:00",
+      "checked_at": "2026-08-16T23:56:36.730580+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T23:34:26.718536+00:00",
+      "checked_at": "2026-08-16T23:56:37.062541+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T23:34:25.221738+00:00",
+      "checked_at": "2026-08-16T23:56:36.130320+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T23:34:58.893225+00:00",
+      "checked_at": "2026-08-16T23:57:07.661558+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
