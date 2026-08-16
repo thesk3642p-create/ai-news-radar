@@ -5168,11 +5168,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:05+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Anthropic Multi-Agent Systems Sabotage and Collusion - The Neuron",
       "id": "b2be5c59b244c87dd2aa",
       "last_seen_at": "2026-08-16T16:42:55.751927+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -5190,11 +5190,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
       "last_seen_at": "2026-08-16T17:34:58.754505+00:00",
-      "score": 53,
+      "score": 52,
       "sources": [
         {
           "media_url": null,
@@ -5639,67 +5639,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T18:47:43.491346+00:00",
+      "checked_at": "2026-08-16T19:08:26.387262+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T18:47:44.232043+00:00",
+      "checked_at": "2026-08-16T19:08:26.965664+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T18:46:58.047944+00:00",
+      "checked_at": "2026-08-16T19:07:38.913146+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T18:46:59.441760+00:00",
+      "checked_at": "2026-08-16T19:07:40.607765+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T18:46:59.162282+00:00",
+      "checked_at": "2026-08-16T19:07:40.336737+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T18:47:02.463986+00:00",
+      "checked_at": "2026-08-16T19:07:42.667844+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T18:47:03.361561+00:00",
+      "checked_at": "2026-08-16T19:07:43.395618+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T18:46:59.820233+00:00",
+      "checked_at": "2026-08-16T19:07:41.051244+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T18:47:06.661126+00:00",
+      "checked_at": "2026-08-16T19:07:46.605459+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T18:46:58.373458+00:00",
+      "checked_at": "2026-08-16T19:07:39.629427+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T18:46:58.672045+00:00",
+      "checked_at": "2026-08-16T19:07:39.883646+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T18:46:57.705577+00:00",
+      "checked_at": "2026-08-16T19:07:38.622966+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T18:47:44.921570+00:00",
+      "checked_at": "2026-08-16T19:08:27.620712+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
