@@ -4952,11 +4952,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:27:22+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Google And Kaggle\u2019s AI Agent Course Attracts More Than 353,000 Participants - Pulse 2.0",
       "id": "7b667b68500467797562",
       "last_seen_at": "2026-08-16T03:13:41.359114+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -5014,11 +5014,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:38:40+00:00",
-      "early_signal": 26,
+      "early_signal": 24,
       "headline": "IBM consultants will deploy OpenAI services - cio.com",
       "id": "0ac470f826cc9e19b9d2",
       "last_seen_at": "2026-08-14T14:04:04.834603+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -5124,11 +5124,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T00:33:51+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders - Startup Fortune",
       "id": "c030c59578105064ce41",
       "last_seen_at": "2026-08-16T03:13:41.350577+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -5185,6 +5185,28 @@
         }
       ],
       "summary": "Anthropic Multi-Agent Systems Sabotage and Collusion The Neuron"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-16T16:03:00+00:00",
+      "early_signal": 46,
+      "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+      "id": "ccd2d12812841090aeeb",
+      "last_seen_at": "2026-08-16T17:34:58.754505+00:00",
+      "score": 53,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-16T16:03:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5"
+        }
+      ],
+      "summary": "How AI Models From OpenAI and Anthropic Went Rogue WSJ"
     }
   ],
   "processed_urls": {
@@ -5360,6 +5382,7 @@
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmFOLXNEdmRqWHRnSXF0b1NGWkx3dzR0MVBTZ1hZLTlVQmVOeURMSDNmR1J6c0Z1a2RaRW5ReWZqSXV1TXBjcHQ2aDIzTHFyd1FHb0NvaVBucERWcnhsQ2lOTG1Ubk1HZFpQM2RoeW1qNFpwNEVhbTZhOVBLU2FwLWtRdGFYWkRMTVFNMnZKWQ?oc=5": "2026-08-15T11:34:47.100646+00:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXJSdUhYcnVPN1JJRWIxY3dSWW5KVUxwMEJHUG1NUDRzMnlRbUpDTjhWUkxQWVdlNHJJTkJNRWZmNVhEcEJhRnRXbWdWQTlDNVRuTnJOdDVDRkFCeGdlVjdIaVU5dmtJQ2xfTkRtZXFwV3RJS2VBdTc2VDhkdzdJLXNyUmVtVHFBWDFtaXVNR00?oc=5": "2026-08-14T06:43:24.020964+00:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEx3dTFaeDJuXzJTOXRxYmtxYUFlYTk1UTVxX2F3RVg5c2lncFZHQm5TS3hvTEJaUzFZUk4tU0ZKNUtSZy1aU1dSY2JaYkRDQ05aSDNOUTZOeWVpUG1ZNjJ5a3lqLUF5VUZ4b0JQcWRIVzFCcGVCTm5GbzNkT3p6eXZPSHhCZHhrWWNCM0I1MUo?oc=5": "2026-08-10T21:02:43.294238+00:00",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5": "2026-08-16T17:34:58.751055+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkduRjE0c21FTnFpTmRxTERKVXRUTTlSZEFVSWhtWDlsVmZfajlCYUZhZ1BET05zM2NEbGZjV3dzM3lXWG5rdDF0TDVIS2ppRHZ0cFFwTURrWVV6eDkwTnFWdk5uR1dVaHVlbGx5SF94aTNNTFktV1BXelVGUUZrd3d0UnhMa3ZmMnhTLUFMMWRWUQ?oc=5": "2026-08-09T19:49:22.624925+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkMtZ09yejQtRGNpeEI5Rlk4QXR3UWpaQVhaeEl3aW9pQ29nQ3RVWDZzMU1KZnpSRlpUVlA5VzVKYURKeS1PSmpVLTJvU201enpYZDVScHUxRGxyeEdYaXVTUTdKZGJ0QTBnZVA0czdwT0NaVnBic0F1eVNlbzdzMWl2WTBoRUlRNDhLUFduei1XZw?oc=5": "2026-08-14T19:14:47.047147+00:00",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5": "2026-08-13T20:21:34.799972+00:00",
@@ -5607,6 +5630,7 @@
     "digest:c6953ea04e22a8c4b1c8": "2026-08-13T09:34:33.747826+00:00",
     "digest:c75f6f39870cbfca26fb": "2026-08-12T12:32:37.271035+00:00",
     "digest:ca1007ee66c9eebfa418": "2026-08-12T14:07:33.088462+00:00",
+    "digest:ccd2d12812841090aeeb": "2026-08-16T17:34:59.463417+00:00",
     "digest:d921c0e8df9d0a1a5340": "2026-08-13T18:08:24.239148+00:00",
     "digest:e087011cd1eee73ed6f1": "2026-08-09T04:07:58.011415+00:00",
     "digest:e398e69e27e04140f3e9": "2026-08-14T12:29:10.882176+00:00",
@@ -5615,67 +5639,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T17:01:17.093440+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-16T17:34:57.478161+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T17:01:17.685774+00:00",
+      "checked_at": "2026-08-16T17:34:58.022089+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T17:00:48.263220+00:00",
+      "checked_at": "2026-08-16T17:34:10.332923+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T17:00:49.580297+00:00",
+      "checked_at": "2026-08-16T17:34:11.392644+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T17:00:49.349589+00:00",
+      "checked_at": "2026-08-16T17:34:11.227823+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T17:00:51.990349+00:00",
+      "checked_at": "2026-08-16T17:34:13.638062+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T17:00:52.766205+00:00",
+      "checked_at": "2026-08-16T17:34:14.105599+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T17:00:49.981350+00:00",
+      "checked_at": "2026-08-16T17:34:11.841856+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T17:00:56.063543+00:00",
+      "checked_at": "2026-08-16T17:34:17.191696+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T17:00:48.640652+00:00",
+      "checked_at": "2026-08-16T17:34:10.683612+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T17:00:48.942938+00:00",
+      "checked_at": "2026-08-16T17:34:10.905125+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T17:00:47.852427+00:00",
+      "checked_at": "2026-08-16T17:34:10.060783+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T17:01:18.638928+00:00",
+      "checked_at": "2026-08-16T17:34:58.745659+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
