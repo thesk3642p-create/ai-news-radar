@@ -4286,11 +4286,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-12T06:00:00+00:00",
-      "early_signal": 60,
+      "early_signal": 59,
       "headline": "From assistance to execution: How enterprises put AI to work",
       "id": "ca1007ee66c9eebfa418",
       "last_seen_at": "2026-08-13T10:45:46.756983+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4597,11 +4597,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T12:56:28+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters",
       "id": "ef21df5de8771e3c225d",
       "last_seen_at": "2026-08-13T16:11:56.390644+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -4876,11 +4876,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:03:52+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "Back in the Harness: DeepSeek continues its pivot towards agentic AI - South China Morning Post",
       "id": "372b65708f071ac4fe30",
       "last_seen_at": "2026-08-15T22:38:01.757314+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -4907,11 +4907,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:27:22+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "Google And Kaggle\u2019s AI Agent Course Attracts More Than 353,000 Participants - Pulse 2.0",
       "id": "7b667b68500467797562",
       "last_seen_at": "2026-08-16T03:13:41.359114+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -5035,11 +5035,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T11:00:00+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "The \u2018dangerous\u2019 AI models are the ones saving us - Washington Examiner",
       "id": "e4762126cda5ea019c3d",
       "last_seen_at": "2026-08-15T11:34:47.104958+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -5079,11 +5079,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T00:33:51+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders - Startup Fortune",
       "id": "c030c59578105064ce41",
       "last_seen_at": "2026-08-16T03:13:41.350577+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -5096,6 +5096,28 @@
         }
       ],
       "summary": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders Startup Fortune"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-15T22:39:00+00:00",
+      "early_signal": 44,
+      "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google - Fortune",
+      "id": "38ae8a54c90b0e25e29d",
+      "last_seen_at": "2026-08-16T04:01:26.690861+00:00",
+      "score": 41,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-15T22:39:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Alibaba AI models hit 3 billion downloads, passing Meta, Google - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRQdDJpQnE2LVQzUEs1UDNtUWxFR21VNkdXUEtxWVNibEJRbXI3V182Qk9GODcyZlVsckhWVXFRQnQ3N3VneGFORnNKb2dSeWg3VzFLNldHUlFyRUYxeWtTU2R2b0FJai1nVVhvalEyMFBEYmhESHpxTkdueUFvYXRXRG9mR0gtTm1HZkQtaXVOTDg3VUE?oc=5"
+        }
+      ],
+      "summary": "Alibaba AI models hit 3 billion downloads, passing Meta, Google Fortune"
     }
   ],
   "processed_urls": {
@@ -5279,6 +5301,7 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0w1S2pGOTJNZFZxY1IxTEtSVl91dWRpNHAzNU96U1ZWQkZHV3J4eEZjT243MjRtbnVmSTBWQlJfOHpCcFdTVWlaTjNqVFh1S3BvQzlWSThSand6LUZUQldfeklqcFhhbXNuUW4yQXNCVWM4aGYyLWV4bnZKVF93V05SRWtBRmxibFg4MzhjSDY2Y3Zi?oc=5": "2026-08-16T03:13:41.346563+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUp4RUd5VGNjV1RyeE9uaUdSVE9IVVIxcDIxV1VWVzFFRXBGX3AwTnUyOXgzRHBrRlRjcGl0ZGdRRE03VFB2all0TmFpTUlNbDRqTWhEeEhpT3htQngzODF1WEZmOUNCU193N0F1Vmd1ZC15TlJqRmxaWEdweEVrQTg5aDRqcVB5aFljODJvLWE4Z3cwQWc?oc=5": "2026-08-14T18:07:21.184411+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmF5ZVpEQlAyR3RsbUlkYXBrNWpvVjlta3NhZmhRNEx5bE9aZjE2SUF2T1RwV0FEMDZTUHJOOHVtZWxuTGNXTUJiSGF0M0cyb1BIVXVmVUZmNHptT3RYVkJiVjJ6VUEyQ2Y2NThldTl6Y0tyZWpHbmJtWkJCb3FvcjIxamxCR3Bya0k2WUJOc0lzRFJJNXc?oc=5": "2026-08-15T16:41:54.790787+00:00",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRQdDJpQnE2LVQzUEs1UDNtUWxFR21VNkdXUEtxWVNibEJRbXI3V182Qk9GODcyZlVsckhWVXFRQnQ3N3VneGFORnNKb2dSeWg3VzFLNldHUlFyRUYxeWtTU2R2b0FJai1nVVhvalEyMFBEYmhESHpxTkdueUFvYXRXRG9mR0gtTm1HZkQtaXVOTDg3VUE?oc=5": "2026-08-16T04:01:26.686555+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY19KajJZY25ldlo5YVB0WE0tRWZ4bmZubzh4VG1abTZDX19EaUJjVVdKRVpvemNXdkFHSlFxRDJYZEFLZzYxRml2Y1B3Z3dsSEVFOWNoMFM3SHZ3N0RSXzZhM0c4OTVscmNLT1B2R1JmTmhlRk9tTmNFbFJQV1g0Mk1DMGQxWW1ZWHlpbzB0UUdWYXRUeEE?oc=5": "2026-08-09T04:07:57.381973+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3FSblBXT0diQWl4OTJONkU1cGp0NDFuWmU3U1NHR3Y3Q0ZCR0NJakVzYmhhTmo4RllyXzNSdjBHNnRCZ1lLTG5RM2xYYno2TE1IR2dJR19kRlAtSUlCa2JFRFNPQTJkcWdvTkw0RElRZFhnUmVyZmxkdktlN2s2MzZOSm9NVXJrQmJFbDd6amg0LVRNN3ZF?oc=5": "2026-08-14T10:40:38.181606+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmZFSnpoczFtRXl0aFlUS21ENENWMkdDbnNBek1PQkZPd2daOUoyRG12SHd4N2VuWHd3dmhrYmM0bjB3NVBuWS0tVEpUVVlCb2NsRGVGUnhQLWMtTkI0NzhNcVc4el9udzlwWTh3MnZBUWFSS3ZtdXhLYkRObVhiTkpVcUJVeW94RWVRdEVsTm80TVNtQmhj?oc=5": "2026-08-11T10:12:33.866751+00:00",
@@ -5518,67 +5541,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T03:13:39.934500+00:00",
+      "checked_at": "2026-08-16T04:01:25.391135+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T03:13:40.562414+00:00",
+      "checked_at": "2026-08-16T04:01:25.963502+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T03:13:20.332620+00:00",
+      "checked_at": "2026-08-16T04:00:16.265548+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T03:13:21.737319+00:00",
+      "checked_at": "2026-08-16T04:00:19.451378+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T03:13:21.395615+00:00",
+      "checked_at": "2026-08-16T04:00:17.400665+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T03:13:23.891528+00:00",
+      "checked_at": "2026-08-16T04:00:21.848004+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T03:13:24.616685+00:00",
+      "checked_at": "2026-08-16T04:00:22.477732+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T03:13:22.213316+00:00",
+      "checked_at": "2026-08-16T04:00:19.854338+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T03:13:27.833230+00:00",
+      "checked_at": "2026-08-16T04:00:25.574166+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T03:13:20.670677+00:00",
+      "checked_at": "2026-08-16T04:00:16.696740+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T03:13:20.933873+00:00",
+      "checked_at": "2026-08-16T04:00:17.002528+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T03:13:19.930042+00:00",
+      "checked_at": "2026-08-16T04:00:02.995922+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T03:13:41.338999+00:00",
+      "checked_at": "2026-08-16T04:01:26.679047+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
