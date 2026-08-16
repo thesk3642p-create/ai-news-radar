@@ -5076,10 +5076,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T22:41:27+00:00",
-      "early_signal": 34,
+      "early_signal": 42,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
-      "last_seen_at": "2026-08-16T22:37:40.710489+00:00",
+      "last_seen_at": "2026-08-16T23:34:58.902690+00:00",
       "score": 34,
       "sources": [
         {
@@ -5099,6 +5099,15 @@
           "source_type": "google_news",
           "title": "Three Ownership Questions to Answer Before Deploying an AI Agent - HackerNoon",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2dpZ1pjM0Yway1PaWh2M203QmlucFNGMVBtRWliektrUmlfTElsek9ERFctNUlldVFDdkJOSnNhaFF3MGYxUHM1Mjd2Y0otUi1GV0ctXzZhbFdULVlfMDdQdk4wM0R0c1VVMTBKaVB2Z2xWZGtWRHNwLWFBcDJmVFpGRUtQcWtndC05eHYwY3g?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-16T23:30:53+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "AI agent put in charge of human workers, then decided to fire one - Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JdF91X3BobjJ6TjBmSnlDVkZ1eFZKWnZqMG1ZU2ZXRlFiV3dxczlZLXJ4MmpocnlSaktVZHlVNHJZenF1Z09PRUJ5bmY3NWtvVlVXYm1UR1JQQllmSVN0MzJR?oc=5"
         }
       ],
       "summary": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI GovCIO Media & Research"
@@ -5310,6 +5319,7 @@
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5": "2026-08-15T09:59:28.196785+00:00",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5": "2026-08-15T16:41:54.790473+00:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5": "2026-08-10T03:00:21.450032+00:00",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JdF91X3BobjJ6TjBmSnlDVkZ1eFZKWnZqMG1ZU2ZXRlFiV3dxczlZLXJ4MmpocnlSaktVZHlVNHJZenF1Z09PRUJ5bmY3NWtvVlVXYm1UR1JQQllmSVN0MzJR?oc=5": "2026-08-16T23:34:58.898998+00:00",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYlpSY18wMlhCT0F5VmRUQTVTR09BMk1JVC1CM0FXSUhidnFpQm1NSUJuT3ZmX3VIY1AtbG1fSmY5cmd5RUxkVXd3TmhlVlJWVHFPa1VCNFk5UldBT0JwemxR?oc=5": "2026-08-13T06:45:32.668946+00:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NMkw2VjgydlRtblhoaTNvQ2lWWFJFT3p1ZFNTQmpfUDVaNnJKOWlfdkE1di1famdkTnhRMDZaYmZvVW9hWXk4TWxOVGlmSkdEYVc3TlpGNEJvUGg4cGtYNlpEQVpQTVU?oc=5": "2026-08-12T09:32:45.384913+00:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vWW9IODA5TnBIdmxKRUc0ODhYb2RKZGdyQmU2R0twZkNEX0xVY3pJczRJbGZnX2o1M0dOVW5WandFUDNwY1F0bXdHbWVQMlRNaGR0UHFsUFdoMFdzYnMwLXFuRlRhVm8?oc=5": "2026-08-12T03:11:51.411155+00:00",
@@ -5669,67 +5679,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T22:58:44.414177+00:00",
+      "checked_at": "2026-08-16T23:34:57.439071+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T22:58:45.033798+00:00",
+      "checked_at": "2026-08-16T23:34:57.998262+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T22:57:58.595917+00:00",
+      "checked_at": "2026-08-16T23:34:26.007641+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T22:58:00.031742+00:00",
+      "checked_at": "2026-08-16T23:34:27.255971+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T22:57:59.738065+00:00",
+      "checked_at": "2026-08-16T23:34:27.110934+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T22:58:03.177205+00:00",
+      "checked_at": "2026-08-16T23:34:29.699953+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T22:58:03.847399+00:00",
+      "checked_at": "2026-08-16T23:34:30.336168+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T22:58:00.776018+00:00",
+      "checked_at": "2026-08-16T23:34:27.598498+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T22:58:06.997393+00:00",
+      "checked_at": "2026-08-16T23:34:33.523135+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T22:57:58.964538+00:00",
+      "checked_at": "2026-08-16T23:34:26.456889+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T22:57:59.217289+00:00",
+      "checked_at": "2026-08-16T23:34:26.718536+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T22:57:58.301214+00:00",
+      "checked_at": "2026-08-16T23:34:25.221738+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T22:58:45.816149+00:00",
+      "checked_at": "2026-08-16T23:34:58.893225+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
