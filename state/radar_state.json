@@ -5571,67 +5571,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T10:40:56.617939+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-16T10:59:50.349656+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T10:40:57.157477+00:00",
+      "checked_at": "2026-08-16T10:59:50.859063+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T10:40:08.264106+00:00",
+      "checked_at": "2026-08-16T10:59:15.867484+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T10:40:09.517056+00:00",
+      "checked_at": "2026-08-16T10:59:17.140428+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T10:40:09.316134+00:00",
+      "checked_at": "2026-08-16T10:59:16.934644+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T10:40:11.832203+00:00",
+      "checked_at": "2026-08-16T10:59:19.280740+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T10:40:12.509556+00:00",
+      "checked_at": "2026-08-16T10:59:19.936519+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T10:40:10.091861+00:00",
+      "checked_at": "2026-08-16T10:59:17.749881+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T10:40:15.691873+00:00",
+      "checked_at": "2026-08-16T10:59:23.042713+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T10:40:08.635001+00:00",
+      "checked_at": "2026-08-16T10:59:16.175424+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T10:40:08.932407+00:00",
+      "checked_at": "2026-08-16T10:59:16.435171+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T10:40:07.703481+00:00",
+      "checked_at": "2026-08-16T10:59:15.603718+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T10:40:57.954998+00:00",
+      "checked_at": "2026-08-16T10:59:51.287085+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
