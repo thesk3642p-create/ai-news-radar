@@ -4531,11 +4531,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 38,
+      "early_signal": 37,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-16T09:17:32.916282+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -5106,11 +5106,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T00:33:51+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders - Startup Fortune",
       "id": "c030c59578105064ce41",
       "last_seen_at": "2026-08-16T03:13:41.350577+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -5128,11 +5128,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T22:39:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google - Fortune",
       "id": "38ae8a54c90b0e25e29d",
       "last_seen_at": "2026-08-16T04:01:26.690861+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -5571,67 +5571,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T11:57:47.046907+00:00",
+      "checked_at": "2026-08-16T13:01:02.826555+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T11:57:47.694798+00:00",
+      "checked_at": "2026-08-16T13:01:03.529520+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T11:57:06.739151+00:00",
+      "checked_at": "2026-08-16T13:00:39.677483+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T11:57:08.230154+00:00",
+      "checked_at": "2026-08-16T13:00:41.168151+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T11:57:07.904385+00:00",
+      "checked_at": "2026-08-16T13:00:40.933108+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T11:57:10.637984+00:00",
+      "checked_at": "2026-08-16T13:00:43.385383+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T11:57:11.575804+00:00",
+      "checked_at": "2026-08-16T13:00:44.211459+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T11:57:08.770447+00:00",
+      "checked_at": "2026-08-16T13:00:41.660846+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T11:57:14.867566+00:00",
+      "checked_at": "2026-08-16T13:00:47.472125+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T11:57:07.125418+00:00",
+      "checked_at": "2026-08-16T13:00:40.119319+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T11:57:07.502725+00:00",
+      "checked_at": "2026-08-16T13:00:40.500635+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T11:57:06.322480+00:00",
+      "checked_at": "2026-08-16T13:00:39.303933+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T11:57:48.410651+00:00",
+      "checked_at": "2026-08-16T13:01:04.348240+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
