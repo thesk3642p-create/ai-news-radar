@@ -3209,11 +3209,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-10T12:00:00+00:00",
-      "early_signal": 59,
+      "early_signal": 57,
       "headline": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "id": "25dc0247eee94e0f05f5",
       "last_seen_at": "2026-08-15T09:59:28.199456+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -3258,11 +3258,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-10T12:30:50+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Why AI agent sandboxes are suddenly everywhere in tech - Northeast Times",
       "id": "96a590db6d10d68e2879",
       "last_seen_at": "2026-08-13T14:08:38.927323+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -4531,11 +4531,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-13T09:34:33.155979+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -4694,11 +4694,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T18:28:14+00:00",
-      "early_signal": 51,
+      "early_signal": 49,
       "headline": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
       "id": "8132ecf3e3582b0ad10c",
       "last_seen_at": "2026-08-15T16:41:54.797424+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -4752,11 +4752,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T19:19:49+00:00",
-      "early_signal": 34,
+      "early_signal": 32,
       "headline": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
       "id": "b60a5aef9a0dd01fb77c",
       "last_seen_at": "2026-08-14T16:07:14.199598+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -4836,11 +4836,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T09:28:25+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Chinese startup launches new AI model - China Daily",
       "id": "ac4fda988f8030880401",
       "last_seen_at": "2026-08-14T10:40:38.187749+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -4911,11 +4911,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -4977,11 +4977,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T22:41:27+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
       "last_seen_at": "2026-08-15T07:44:59.618961+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -4999,11 +4999,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T11:00:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "The \u2018dangerous\u2019 AI models are the ones saving us - Washington Examiner",
       "id": "e4762126cda5ea019c3d",
       "last_seen_at": "2026-08-15T11:34:47.104958+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -5454,67 +5454,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-15T23:58:10.522988+00:00",
+      "checked_at": "2026-08-16T01:57:41.835728+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-15T23:58:11.244141+00:00",
-      "count": 30,
-      "status": "ok"
+      "checked_at": "2026-08-16T01:58:09.052745+00:00",
+      "error": "retryable response",
+      "status": "error"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-15T23:57:23.537264+00:00",
+      "checked_at": "2026-08-16T01:57:22.226810+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-15T23:57:25.316376+00:00",
+      "checked_at": "2026-08-16T01:57:23.556565+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-15T23:57:24.829654+00:00",
+      "checked_at": "2026-08-16T01:57:23.286761+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-15T23:57:27.473797+00:00",
+      "checked_at": "2026-08-16T01:57:25.789954+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-15T23:57:28.501207+00:00",
+      "checked_at": "2026-08-16T01:57:26.534496+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-15T23:57:25.698009+00:00",
+      "checked_at": "2026-08-16T01:57:24.302084+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-15T23:57:31.782006+00:00",
+      "checked_at": "2026-08-16T01:57:29.748602+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-15T23:57:24.060732+00:00",
+      "checked_at": "2026-08-16T01:57:22.606582+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-15T23:57:24.425086+00:00",
+      "checked_at": "2026-08-16T01:57:22.834254+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-15T23:57:23.180509+00:00",
+      "checked_at": "2026-08-16T01:57:21.970947+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-15T23:58:11.714745+00:00",
+      "checked_at": "2026-08-16T01:58:09.571347+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
