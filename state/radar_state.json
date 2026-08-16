@@ -3365,11 +3365,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-10T17:00:00+00:00",
-      "early_signal": 27,
+      "early_signal": 25,
       "headline": "What building an AI-native finance function taught me",
       "id": "77d460a15e26444e9de4",
       "last_seen_at": "2026-08-10T17:09:36.149489+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -4641,11 +4641,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T03:00:00+00:00",
-      "early_signal": 38,
+      "early_signal": 37,
       "headline": "Opinion: \u2018Think of all we love\u2019 \u2014 we are at a perilous moment when it comes to artificial intelligence - Deseret News",
       "id": "4dd91d3ea0fcf8e0a7fa",
       "last_seen_at": "2026-08-16T03:13:41.361830+00:00",
-      "score": 28,
+      "score": 27,
       "sources": [
         {
           "media_url": null,
@@ -5541,67 +5541,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T05:43:36.655907+00:00",
+      "checked_at": "2026-08-16T06:02:24.561806+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T05:43:37.171022+00:00",
+      "checked_at": "2026-08-16T06:02:25.042940+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T05:43:17.648290+00:00",
+      "checked_at": "2026-08-16T06:02:02.715416+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T05:43:18.923045+00:00",
+      "checked_at": "2026-08-16T06:02:04.495367+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T05:43:18.759165+00:00",
+      "checked_at": "2026-08-16T06:02:04.240632+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T05:43:21.088136+00:00",
+      "checked_at": "2026-08-16T06:02:06.821652+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T05:43:21.784876+00:00",
+      "checked_at": "2026-08-16T06:02:07.486373+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T05:43:19.525646+00:00",
+      "checked_at": "2026-08-16T06:02:05.168036+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T05:43:24.883998+00:00",
+      "checked_at": "2026-08-16T06:02:10.591243+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T05:43:17.950613+00:00",
+      "checked_at": "2026-08-16T06:02:03.024600+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T05:43:18.275187+00:00",
+      "checked_at": "2026-08-16T06:02:03.261337+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T05:43:17.373685+00:00",
+      "checked_at": "2026-08-16T06:02:02.357763+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T05:43:37.764528+00:00",
+      "checked_at": "2026-08-16T06:02:26.398615+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
