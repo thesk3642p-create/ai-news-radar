@@ -4183,11 +4183,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T12:05:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Molt AI launches AI-agent security tool Fisher, closes $1 million pre-seed round - thestreet.com",
       "id": "c75f6f39870cbfca26fb",
       "last_seen_at": "2026-08-14T19:14:47.059321+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -4903,11 +4903,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:03:52+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Back in the Harness: DeepSeek continues its pivot towards agentic AI - South China Morning Post",
       "id": "372b65708f071ac4fe30",
       "last_seen_at": "2026-08-15T22:38:01.757314+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -5571,67 +5571,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-16T09:17:31.851952+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-16T09:42:50.366064+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-16T09:17:32.395792+00:00",
+      "checked_at": "2026-08-16T09:42:50.933343+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-16T09:16:58.613279+00:00",
+      "checked_at": "2026-08-16T09:42:04.622096+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-16T09:16:59.812062+00:00",
+      "checked_at": "2026-08-16T09:42:05.893967+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-16T09:16:59.686820+00:00",
+      "checked_at": "2026-08-16T09:42:05.624190+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-16T09:17:01.562633+00:00",
+      "checked_at": "2026-08-16T09:42:09.478665+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-16T09:17:02.139855+00:00",
+      "checked_at": "2026-08-16T09:42:10.161139+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-16T09:17:00.151155+00:00",
+      "checked_at": "2026-08-16T09:42:06.491386+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-16T09:17:05.321267+00:00",
+      "checked_at": "2026-08-16T09:42:13.265090+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-16T09:16:59.049824+00:00",
+      "checked_at": "2026-08-16T09:42:04.933744+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-16T09:16:59.291690+00:00",
+      "checked_at": "2026-08-16T09:42:05.224218+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-16T09:16:58.292493+00:00",
+      "checked_at": "2026-08-16T09:42:04.284711+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-16T09:17:32.907676+00:00",
+      "checked_at": "2026-08-16T09:42:52.203039+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
