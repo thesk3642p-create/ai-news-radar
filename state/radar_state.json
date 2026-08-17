@@ -4117,11 +4117,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-12T02:07:09+00:00",
-      "early_signal": 20,
+      "early_signal": 18,
       "headline": "ByteDance's 10 Trillion Parameter AI Model Faces One Big Problem - Memeburn",
       "id": "e7131e3310952124e719",
       "last_seen_at": "2026-08-12T03:11:51.416157+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -5151,7 +5151,7 @@
       "early_signal": 47,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
-      "last_seen_at": "2026-08-17T14:45:31.486123+00:00",
+      "last_seen_at": "2026-08-17T15:04:52.506975+00:00",
       "score": 32,
       "sources": [
         {
@@ -5216,6 +5216,15 @@
           "source_type": "google_news",
           "title": "15 best AI agent builder tools in 2026 - Hostinger",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5LVM2bXpCT3puU2tZT0g2TXgzMmNWSWwyV2VOZHNQUWhBcHo0bExHS3RFdVlXbTN4NmJLSk5ySWdPOFpkVGZETWdLa1I4TGVJUGc4MkMxVkFaa256SGpkQVY5X29NSGc5Y1RB?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T13:00:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Getting to Know your (AI) Agent - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUk3YWQzSXU2OE5Xd3lMYzlZWjY0cUkwVk1OSi1XZVl2QkNJTDNob0RjZkh1aE55Rkp5VjUtcTFRQW8yekd3WXNGOEdodHpSYk1HQlBLSEwtN1RCa3RTTV93N3EwcG1HVUNERU55QkFmZ0ZybklHSzRNcnVBN2tfVE5fc0Q1Zk5jY0pHZ3c1SW81amJrMkdHZjF4VQ?oc=5"
         }
       ],
       "summary": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI GovCIO Media & Research"
@@ -5503,11 +5512,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T03:15:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "New policy ideas for the Intelligence Age",
       "id": "d9e8fdbf4b1f078fef99",
       "last_seen_at": "2026-08-17T11:41:52.504469+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -5556,11 +5565,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-17T12:00:42.819596+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -5887,6 +5896,7 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWQ3RG5PeFd0M3JCaXZfdEN3V1BYdnlIVlNVbHFfWWF0eTdsSzB1YU9WVjJzN05KQXhaNHBxY05NcWh1NmtjYUw0ZWx2cnNLZUxLVUJqVFRQMEI2QVRQeFIwMmJSYVRSdmZRd2d5R3d3cGJ5OWtnNmFfUlhBLWpmYnh1OHpQSGFLOFNyQnNWS2UtYjRnWlFxR2dhdw?oc=5": "2026-08-11T07:56:49.291430+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUlDV19rQi1xNjJxVWFVeGVEV1NEdDNpNWRLa01uOWV3VUNJaEdVWUhsV0RRVXN2U2otbmlPNHd6TThJbjJRTEFVTlR6Y3VDcTlvRVJxd1AwQllaLUhGeV9KYWMyZEVIWkVEMFlRUUNTOXdKd19hV2k4dEVGeC1KdlVFcURvM2EtUU4yeDRRQlhtY282Mk5IN1REYw?oc=5": "2026-08-11T02:28:45.889858+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFltMk5CbDRHRlpGWmVKaUJ0Tzd1NnpNRGxCUXBRRkFLT29LU0RoOTZ3RldkYnBIY1dkR3JvNm05Nk5IRTBfNXlLdjF2X1VYeWlwT3BOVW5oSFE5dEVRNXpwX19oQUtNcFFYTm95dUdlZVhkRlZCMXpDUlNUakJDa3pRWFJ3VHM5eUNBU19WQ2NFNHZtdF83WDhKcw?oc=5": "2026-08-17T10:49:08.114185+00:00",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUk3YWQzSXU2OE5Xd3lMYzlZWjY0cUkwVk1OSi1XZVl2QkNJTDNob0RjZkh1aE55Rkp5VjUtcTFRQW8yekd3WXNGOEdodHpSYk1HQlBLSEwtN1RCa3RTTV93N3EwcG1HVUNERU55QkFmZ0ZybklHSzRNcnVBN2tfVE5fc0Q1Zk5jY0pHZ3c1SW81amJrMkdHZjF4VQ?oc=5": "2026-08-17T15:04:52.503491+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm5aTW9kUEp3ekZFYkRCWDg4Z0gyXzBoZ3JZcko4NWtpbUNsODRIZDZOWF9JZ1dZcGJYa1lFSWppRHFwUl82VDdSWGx6RnZIYzhtMmEwOWNvbDAxclV1TUxYbWlEOFRkSXktd1dQTXlacUUtV2FZaUdaN1NPTmRXeWZhU3BDTWhiTmowb2F5eXdqYmR3c29aZjNsbTc?oc=5": "2026-08-15T23:58:11.721855+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjRheFdOREs4cHd6RmgxZmpUVW0zLXBhQUlSVWN4a1I0T0VBRk84QktiT2pvcFFTM2pTbEFhUnFZckFrS0E0UEpIcGd5c3dyWEdkbGNrenp2YTNld2g0U0hpN0NRdnY3S1FmNldZeGdUVnR2Z1pGSHZoSFhqOWozTXpFWFRmOXRlbHdhRGJKQzJfSTNXUlNJTkFadHY?oc=5": "2026-08-16T03:13:41.346604+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmZmYkMwU3BUdU9Gd0ZaSHJVcVFuWmV5cDVkSnFucFdKQlA1NW9fTlV3eXJHc29FN2xTZUVLcG9ERmswXzIzVGlvaWNueF9vZXN6c1lqMTRUcWNVNERHM2dWbjlqczB6TzBXMUd1R2QzbnFZNVZ4UVJjX3pKRS1qNkhTdFZiNld2djlfcE9NV2pTcDFxRjIwSWdmNk4?oc=5": "2026-08-09T04:07:57.381295+00:00",
@@ -6135,67 +6145,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T14:45:30.503278+00:00",
+      "checked_at": "2026-08-17T15:04:51.466332+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T14:45:31.110401+00:00",
+      "checked_at": "2026-08-17T15:04:52.083948+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T14:44:40.611870+00:00",
+      "checked_at": "2026-08-17T15:03:58.454367+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T14:44:41.952293+00:00",
+      "checked_at": "2026-08-17T15:03:59.724773+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T14:44:41.816878+00:00",
+      "checked_at": "2026-08-17T15:03:59.399282+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T14:44:44.100557+00:00",
+      "checked_at": "2026-08-17T15:04:02.673101+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T14:44:44.630514+00:00",
+      "checked_at": "2026-08-17T15:04:03.321533+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T14:44:42.548487+00:00",
+      "checked_at": "2026-08-17T15:04:00.398890+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T14:44:47.727027+00:00",
+      "checked_at": "2026-08-17T15:04:06.523408+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T14:44:41.056859+00:00",
+      "checked_at": "2026-08-17T15:03:58.764672+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T14:44:41.287853+00:00",
+      "checked_at": "2026-08-17T15:03:58.972036+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T14:44:39.676815+00:00",
+      "checked_at": "2026-08-17T15:03:58.152925+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T14:45:31.469204+00:00",
+      "checked_at": "2026-08-17T15:04:52.495696+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
