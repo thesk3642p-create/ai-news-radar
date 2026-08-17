@@ -5539,11 +5539,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T03:15:00+00:00",
-      "early_signal": 38,
+      "early_signal": 37,
       "headline": "New policy ideas for the Intelligence Age",
       "id": "d9e8fdbf4b1f078fef99",
       "last_seen_at": "2026-08-17T11:41:52.504469+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -5561,10 +5561,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T11:38:29+00:00",
-      "early_signal": 52,
+      "early_signal": 60,
       "headline": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - factmr.com",
       "id": "b941a1290ab25a820f5b",
-      "last_seen_at": "2026-08-17T14:45:31.481564+00:00",
+      "last_seen_at": "2026-08-17T17:46:20.543225+00:00",
       "score": 46,
       "sources": [
         {
@@ -5584,6 +5584,15 @@
           "source_type": "google_news",
           "title": "Xpander Raises $7.5 Million Seed Funding As Enterprise AI Agent Omni Scores 90.9% On GAIA Benchmark - pulse2.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTAyZ1RFUHJTTVBMT255U19rbm5LOTA1TFBoTENxVTluYXpQSmJiSF9oVmhYYUxXUjVpd3FsUW5RVUlTRURHSTh1a3ItYXN5a1FCeFZlTnFZbERyMUsxZzR3aW45ZmNKNHRCcFJBWkR3cjJENFE3SEozd2p0X0FJOFFGSk43UTRQRG5NdmlNODEyY2xEb2ljNExYdTF4VDJNRmw0T1luVDFaRGloZ2fSAbMBQVVfeXFMTUVxbWYtTHRWUHFneG5EbE1JUnZFNDZCQ2JfRXY3SnVjZWtTT2hIcVgyd3lSc1E4RkQ0Nk90MUlvLWJsc3hfQWlYSHlWUnB3bEtBanl6dFlUZkxrQ0Z4NGRQNjlLaklYT2xlbDJGejhrQjJ6cndlczVkSzRNVERoTTRxM0ozYWs0cF9lOVJESmFLTzUzU0EwM2FtMkIwOUFQR2VSNFdCT09nYkl1SU9MQkpxbEk?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T17:33:57+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Rogue AI Agent Attacks Open Uncharted Legal Territory - Law.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXRRUEJKb19LdUVaN3ZaU0JNSThhTEN2NVhkZzF2YW1QeE00RE1XTTRZQkxqaUpLdjZ4cUVXUlluYXpwa0xMX3AyamZ5NXF2UnZ3bUdrY0hnaEZQSFFqRlpjdkVZcnRKSlhWSFNtTnUyYnpBbkZpMC1BbVpoRGJmTGltNWozRlRSb05sdk8tNVdNSFhPZ2NXeFB4SjR0Zw?oc=5"
         }
       ],
       "summary": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 factmr.com"
@@ -5592,11 +5601,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-17T12:00:42.819596+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -5658,11 +5667,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T12:49:30+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "One Bug, Three Faces: Building a Performance Analysis AI Agent - HackerNoon",
       "id": "47a997aa10ee5c7d236c",
       "last_seen_at": "2026-08-17T13:06:47.794903+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -5680,11 +5689,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T14:44:16+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
       "last_seen_at": "2026-08-17T14:45:31.478701+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -5933,6 +5942,7 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDc1RFhVdnlrOXIwelN5Q3E2VHBiRTJVRFRZLU1yU1gwMTRZTWp0UjlLZS1PMHJRSWNyLWxKUGtkdXBJVTJTWGx4WG50MERWakJZQnlPX09WLVFnTXQxY1VjTzl6bzhoUkpmaUN6cG1hekN4MXMtQ1NBSE5WcTJxQm5odnIwTkl5eW5PTVBUcTFPclhJOWZHMmtENTMzUQ?oc=5": "2026-08-12T23:23:43.567696+00:00",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHE3Q2FFN3RhWDlidkgwSnlQTFJMQldraHJuOENvY0YxZFJrSWVRWDFTeTlURnppempKVlRQWGRjeVV0V1c1TlFLU3AxVWtpLWRnbURpQWZhMDhaeF93U2lLTkNSNy03MjRKNmI3VjRfaTUwRXFtMTNuc2doSFMyZFExRWNVTllhcTBZcFh0emZtWmVTeXV5MU1weTdydw?oc=5": "2026-08-11T16:37:00.792445+00:00",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTlHWlYyaXBZU2hMLW1NMWRMdThWV0hXekJGWUZvckdJMWJ4ZzBkVTg2UC02c2xZY2I5RzZrQ3hXN3pBc3U0OXR6UFM1QXFzVnRoUmdMWHQ5TU1fSXp3eElRVENXdDkwSzNvUzRrak5kLWZ0blVkSnlwVm1nYnRqaDdSLU1iTFNqc09pZ1VMWUF1SmIzeXBQejlrNWU3dw?oc=5": "2026-08-12T18:07:42.817852+00:00",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXRRUEJKb19LdUVaN3ZaU0JNSThhTEN2NVhkZzF2YW1QeE00RE1XTTRZQkxqaUpLdjZ4cUVXUlluYXpwa0xMX3AyamZ5NXF2UnZ3bUdrY0hnaEZQSFFqRlpjdkVZcnRKSlhWSFNtTnUyYnpBbkZpMC1BbVpoRGJmTGltNWozRlRSb05sdk8tNVdNSFhPZ2NXeFB4SjR0Zw?oc=5": "2026-08-17T17:46:20.538144+00:00",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEpEazBZdU9xa3B0eGMxRG5yWmFtRGFnemdnSDZjbkF3TEFCQ3BPcWJCSU5xWUtrelgyTFJNSk1lRGtKelk1QU54ZE5VYWZKOU5iUWkzanBmbV9KNzZjbmgwLVRTRE00dzI5V3dCUURvUTY3TjRaVjVnQklhYmJoSTJCV3JKdzV0d01fc0JsZkpSQ3VYZGJ0OW1tZUQ4UQ?oc=5": "2026-08-16T03:13:41.346189+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHl0LVRoYlh1eXFONzkxdVJURlVJTFZFc0tCaW5mZHk2WFVIR09XTVk0cmQwSEowM1prUVFTNE4xa2FxZXowYlczZGpkYXpiaDNtcTZPa2RpODNmQVlaYTM2VS1oaERjMGFDRTc5QVNscjBjY05PdEZzWXkyTWZ6dXNnQ2hvQ2RKaEV5dUdWTkNkODJ1TUFvWXNUblFzdjA?oc=5": "2026-08-12T14:07:32.177443+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5": "2026-08-09T04:07:57.382596+00:00",
@@ -6175,67 +6185,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T17:12:00.998144+00:00",
+      "checked_at": "2026-08-17T17:46:19.200923+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T17:12:01.621545+00:00",
+      "checked_at": "2026-08-17T17:46:19.805083+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T17:11:15.106333+00:00",
+      "checked_at": "2026-08-17T17:45:26.340565+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T17:11:16.364611+00:00",
+      "checked_at": "2026-08-17T17:45:29.476902+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T17:11:16.184991+00:00",
+      "checked_at": "2026-08-17T17:45:29.346422+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T17:11:18.271404+00:00",
+      "checked_at": "2026-08-17T17:45:32.095255+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T17:11:18.894044+00:00",
+      "checked_at": "2026-08-17T17:45:32.735502+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T17:11:16.695356+00:00",
+      "checked_at": "2026-08-17T17:45:30.125926+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T17:11:22.086155+00:00",
+      "checked_at": "2026-08-17T17:45:35.888537+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T17:11:15.521404+00:00",
+      "checked_at": "2026-08-17T17:45:26.605309+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T17:11:15.759244+00:00",
+      "checked_at": "2026-08-17T17:45:26.854886+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T17:11:14.779537+00:00",
+      "checked_at": "2026-08-17T17:45:25.978341+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T17:12:02.371601+00:00",
+      "checked_at": "2026-08-17T17:46:20.531092+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
