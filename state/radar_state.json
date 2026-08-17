@@ -4824,11 +4824,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T19:19:49+00:00",
-      "early_signal": 29,
+      "early_signal": 28,
       "headline": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
       "id": "b60a5aef9a0dd01fb77c",
       "last_seen_at": "2026-08-14T16:07:14.199598+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -5151,7 +5151,7 @@
       "early_signal": 47,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
-      "last_seen_at": "2026-08-17T15:40:42.923803+00:00",
+      "last_seen_at": "2026-08-17T16:45:53.161113+00:00",
       "score": 32,
       "sources": [
         {
@@ -5234,6 +5234,15 @@
           "source_type": "google_news",
           "title": "Getting to Know your (AI) Agent - Finance Magnates",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JMVU4bXlhODBncUY0SkxNaHp3OGRxX3JkT2RPS3YzSlhVOXFzVUJSekY2Rlg5S20zN01DeXhsQjJ2YnNNN2ExVU9YU2I1UDhCb3RGQ2JDY0hjVEx6VjBabHN5dmM4NXJfYjhkcUhUc2ktNHBiM193?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T16:40:33+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Gartner Expects AI Agent Inference Costs to Surge Through 2028 - The National CIO Review",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3lFMWdZZ3hQV1hQbUctTkdNVG5tV2RtcWVuLVljRG9Ea0ZreGZWSWprQmZZQ3VfWnc2S2ZZSWRQOXJiVlZybnh6RW9FU096MXIyWF9PZTV4R0R2alI4VmFPM1Jkc0wxYndfQk0wejBMS0NCZmRXdGtabHVWRkdINmJobk5yRFEyYU9ySmNlVXo0YjlzZlkzYzlYQVppQm9wX1BvckF4NU9nM192Yk9XY2JEeFhUclRiRjNwaVUxcXY?oc=5"
         }
       ],
       "summary": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI GovCIO Media & Research"
@@ -5242,11 +5251,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T11:00:00+00:00",
-      "early_signal": 50,
+      "early_signal": 48,
       "headline": "The \u2018dangerous\u2019 AI models are the ones saving us - Washington Examiner",
       "id": "e4762126cda5ea019c3d",
       "last_seen_at": "2026-08-17T09:57:51.752675+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -5543,11 +5552,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T11:38:29+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - factmr.com",
       "id": "b941a1290ab25a820f5b",
       "last_seen_at": "2026-08-17T14:45:31.481564+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -5618,11 +5627,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "OpenAI joins PORTS-Pike project",
       "id": "42df747a4ea8ac962a4c",
       "last_seen_at": "2026-08-17T13:06:47.785582+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -6010,6 +6019,7 @@
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUhQdDlXbzMtTVNnSjlYVi1kbjR6enhCdkpLQnBFMkN3blRRVUtUVDhGb2VMV2pneDB3ajBsemF3SjdKYUZxcFR6ZnozcEJLaXZWTnY4S3pDajNvbXVXbXR3bmxJWnV4Y1hKWmI2MkxOWkpucjFGcmFnYjRTQ1hRa2V0OW04NzlPaFdRZ2UzMzM0X0tpWldrOTRSV3NYd3pxSUZHM3lNYnJTX0lvUGhYUl9iNm5hTGNUZzgzRmlB?oc=5": "2026-08-17T11:41:52.501622+00:00",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX3hFRHJtQVk2VHY0YnJwa3o4eDdZX1RYSGVfdHRUeDJ0eFM3R2J3OGxwYlR1Z19vQ2ZLSmloRDNQa2FqdkUxbGNYV1NMRGRhM3duR1Y1WEJmUE82UGVIWGJ1M3BRYi1venRTbERKcU9BLTlzdnB3WHVXMXBMYXRFVFgtZHFHYXVmWEVVdzdMSDFiUkVfMmVuM2YtZmJSVFBucElCTGpWLUx2b3Q2cTA0dUREd2MtTjk5Rk5IbHNR?oc=5": "2026-08-16T07:46:22.363001+00:00",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDJ2djU0U3BBZEw5WXVBX2JfVjBybnlUUEFIeldTNVBwdVdOYmg2cXgtYXhtdXBTWGxYcXdhQjdsU0gwZU5GRlVfcTJnSC04RTdjSTQ4QlVlQ0QwUE9Ha19lT3k1NFhXMEM0dXZXUEtTVUlyU0YzMG1rOS1lQi1BVTdBWGNpR2NmZDg5d19qOGtwSWNQOVdTQmh1N0c0UWsyZlZfaHA2Wl8tMjhQLW14T2xKRnAyLW5GcmdnNTRB?oc=5": "2026-08-10T12:32:44.202855+00:00",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3lFMWdZZ3hQV1hQbUctTkdNVG5tV2RtcWVuLVljRG9Ea0ZreGZWSWprQmZZQ3VfWnc2S2ZZSWRQOXJiVlZybnh6RW9FU096MXIyWF9PZTV4R0R2alI4VmFPM1Jkc0wxYndfQk0wejBMS0NCZmRXdGtabHVWRkdINmJobk5yRFEyYU9ySmNlVXo0YjlzZlkzYzlYQVppQm9wX1BvckF4NU9nM192Yk9XY2JEeFhUclRiRjNwaVUxcXY?oc=5": "2026-08-17T16:45:53.157206+00:00",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOEZib1RaV0VRcU1wRjV2dlhGMF9ua014anY1R0FTVDE3elFNdlhhSTRReloxbGZiWmlQa1JySjRyLTQ2bW9EWXRBcGZxMk9lVXRiSHZNdTFvOUZiUDFSYzZhN3hVQldjN1VjNDctUmVZLVREdWZYQzJzTzBfTU5LaWpjSldHVEFRTkRzNk1QMUEwM3NWMXpDVnNWc012aW1BLW9EZXp6VlY3ZGFXNnRydG9GamZya2xadEVZbXJvSEs?oc=5": "2026-08-14T03:13:34.065933+00:00",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2dEelQ1MWU2Z3QxRGZkMFlHZVIwYUp4Tk85cUFuRUljcUREbUg5WGpvaTBiNmUza1NkWlBSUVJUbmdXOFhFMUk0UG5sTEk5ODJ2SVVwTVMzRWFxYXA0M1VaenpMVlJIVndPZlREQVVYQlNxTkRsT185bXZvQ3ZXMEdGbldoMmZNU0s1Y2NObnBwRFJMRjB5RV8tZW52TkNrdWtNLUg5bW8zWGxBS3FyTmkyWmUtaUtkSVFQR0Rjb3c?oc=5": "2026-08-12T19:21:23.869945+00:00",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWFhUzRVSzY4aVIwRng0LW9nUnJlV2ZjSE8td0NaclBmZ21CdmZpNzA1SDMySmgxT0ZtMFp1QjlHWUlyT05XSnVacXhHSVZtZmNrdXMxWFd3WVMySGFocGRtTnJHWU55ZFBfUlJVcm9LWHlKNFJ2b3gwVHNzTUFqNlB2ak9OT0pzLXlybklQZzhBUnlMQ0JjWHJfUlhYQ1c4RkNvUGktNThEeHgtUU40OEhDWFJFMVpadGxzdzBENFY?oc=5": "2026-08-10T14:06:58.449653+00:00",
@@ -6155,67 +6165,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T16:00:29.870152+00:00",
+      "checked_at": "2026-08-17T16:45:51.977774+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T16:00:30.347939+00:00",
+      "checked_at": "2026-08-17T16:45:52.479366+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T15:59:57.389269+00:00",
+      "checked_at": "2026-08-17T16:45:31.260499+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T15:59:58.446263+00:00",
+      "checked_at": "2026-08-17T16:45:32.531267+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T15:59:58.270207+00:00",
+      "checked_at": "2026-08-17T16:45:32.344276+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T16:00:00.913910+00:00",
+      "checked_at": "2026-08-17T16:45:34.569389+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T16:00:01.515433+00:00",
+      "checked_at": "2026-08-17T16:45:35.347214+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T15:59:59.195016+00:00",
+      "checked_at": "2026-08-17T16:45:32.857207+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T16:00:04.663310+00:00",
+      "checked_at": "2026-08-17T16:45:38.533349+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T15:59:57.651334+00:00",
+      "checked_at": "2026-08-17T16:45:31.693542+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T15:59:57.873428+00:00",
+      "checked_at": "2026-08-17T16:45:32.012649+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T15:59:56.758619+00:00",
+      "checked_at": "2026-08-17T16:45:30.757724+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T16:00:30.825208+00:00",
+      "checked_at": "2026-08-17T16:45:53.148163+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
