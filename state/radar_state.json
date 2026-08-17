@@ -5706,6 +5706,28 @@
         }
       ],
       "summary": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing CX Today"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-17T17:59:01+00:00",
+      "early_signal": 48,
+      "headline": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times",
+      "id": "5add663ed344a4d80120",
+      "last_seen_at": "2026-08-17T18:15:06.540474+00:00",
+      "score": 53,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T17:59:01+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1RFZEl4aHVNdkcwWFhiaTNlbmozSUl4dk04SHM2RXZzU2VJWTJMSjZzcnFMWV9DcjJQem1VT3ROc285Mk1DME9KNmlEbWVQaXIxYll1WDNPTHY2QkEydnljOXJTdW5SQ1FZUlZub3NUaXR0ZVBpYk9WbDRRT1VGcWxqaUx2RTlFQkhjUEVZWWlYRWJnQlRHOUVlX2dicmdKSFQ3ZEp4M25wajdqVGVjX2ppczVxMVlJZGRfVjJJUHdjTS1JcWlqd3VHV2RyaWVWUUV3?oc=5"
+        }
+      ],
+      "summary": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds Tech Times"
     }
   ],
   "processed_urls": {
@@ -5756,6 +5778,7 @@
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2tnZnZBZ1Atd2NJZ0ZrODZtU1BVc2ZwNUFRTDMwTk5tclF1MXpTUU84VzhBVlgwTnFlTDJyZDhOdnBNaGlpanE1U1dLRW4wb3lqQ2EzbF9ldWpZUDhLTl9KdXlNZ19pNlpwMjFYcUJIYVYzNU5WWUhGNVY5cWdrUENZcmlteEp1Rnc5RHc4NmNMWklrcDAtSE03MGRINU1fTFhiRWkzajlRNjN5Y2NFS0NxeDlHWUpQY1FmZ0pTNDU5WFE3b3pNbmoxY0pRT1Jh?oc=5": "2026-08-17T10:49:08.115125+00:00",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGZCcWxkSE14Zy15RFM5a3IzOGdNNmo1dTFCVzNaNUNZNUpDcHNkU1NsRkhoTm9UZFd4VDRUalg3TW1TdEZKYlJIRjBzVWc4Nll5QXZxdFVZU2h5dXoxYjZGaHZqeWVQYXJkTWZPUjJIcTM0bWQwNWF4UmhUN2V1bTVfaE5fYVRtS1hCalhuTm9iVlJ3N0R4N2UtRzhGNDdOOF9MRXRuVkM1Znc2SnU0SUcyZHJwWTl1Y1pKWFdoVGpnUHVJa1NOd2VRU3ZVQWt00gHWAUFVX3lxTE9yWG9lQ2o2STN5cGpCNE9QYnNLTHhhektBbm16TU1GY1BUN1dFY2xpZ1p1eFhhTjZqaG05TEhsLVpKMXZpejl0RnJxQThuTVpEUXN6V25yenROazN3R3BvUHNPM2Z4SjZMalc4RVFEenhCNDZfM3N4cVZJZ0dXWER6TVZxamlaNk9IM2VrUElFaTJfZVFHZDZXa2xZREFKUUh1S09xSUI1OFhsTktLZjZld1hWdW15dUp4MUdXQnJkQ05aRTdkaTFTUmdLQ1kzODJkY0tCTkE?oc=5": "2026-08-16T16:42:55.748039+00:00",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWhhX1JZTkdXdUp3RUZyZDdUbzAxU3AwY2EtVXpUX3l0dEJJdnpVZTJmYkRnTGY5ZlVkSEVBT0JJME83dGwwTzRsWVFReGZkQmJCVDJYMlZLU1NBaXZROGh1cVpwVjZTRGJjSjQ2ZzFaNlQxZ0pkUFB2N2NwWHNWLVk1eGVScHVlSDNsMU1pM1F3V2ZvMWstVXhrUTJFdVNRVC1PVnk2UHBrWXB3LVBpRFlMT3VSa0ZDczFiME1lQ3lvSkw5VHRqOU82THItWXUxN0E?oc=5": "2026-08-10T21:58:49.211783+00:00",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS1RFZEl4aHVNdkcwWFhiaTNlbmozSUl4dk04SHM2RXZzU2VJWTJMSjZzcnFMWV9DcjJQem1VT3ROc285Mk1DME9KNmlEbWVQaXIxYll1WDNPTHY2QkEydnljOXJTdW5SQ1FZUlZub3NUaXR0ZVBpYk9WbDRRT1VGcWxqaUx2RTlFQkhjUEVZWWlYRWJnQlRHOUVlX2dicmdKSFQ3ZEp4M25wajdqVGVjX2ppczVxMVlJZGRfVjJJUHdjTS1JcWlqd3VHV2RyaWVWUUV3?oc=5": "2026-08-17T18:15:06.536333+00:00",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWU0ZlhRbEh1bXA5MjNERkVuQ29HOTgxQ2FicjRtSW5TWUU5UG11bDZsM1lLcG5DTHlVWFMyZ3BwOENhTkRTQ215b1prZmZ3YS1JdEtGaGlBODNGdHAzYjlFQjFPSXFYTmNGdEs4YXVCVDFEdUkxSVZSV01wUnFGMm5jTnZxSFRZZFBJVnAtdW9sTXF3aFFvMnR2aVByRGZ0V3c2dHFLV3dabi1hbkRVYThTUjhXU0YtUGwtRFI2cVBPdDM0NE5tdlJPZVNid3pmaFBz?oc=5": "2026-08-13T08:07:23.932047+00:00",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU0k0S1ZjUklYeUpfaHhoSFFMYkdoTXJsdzEtcC0zU0hPNTJTUUxMNmRjTVJROHZtZDVBZ0taZFJtc0JoTGhSbWE1bVV6YnR2NEhOUmhRdjVEdGNjQkVmN2NEWFNHdGFOMWNCdFF3MXhWSm1xZ3ZiTzQzX2FSRzY3X1ZseWJqNnFhallMQzJtX2RTZHJ5Ym9TT3BsdHNhcHdRRmRLYUJrcVBuZWN6SGFJS3g2VS1KVWdYOVFOMmpBc0xhNHJYS2w4TG40X3l5ZE1wbzNaZQ?oc=5": "2026-08-13T11:33:19.225487+00:00",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZk9VYVA1MTFfVmM1c0ZvWEFMajRsUmFvOHJOWkt4ZEVqVGg3SEpPTEpRV1RhYkdDRy02MjFaaE53X1JyWWhpMlFCWU55SzRwcVYtZ1ExS01wTDJJUjdfOGhaTjdlNnpzcllTeEF6Uko4N25fNWxsVkFrR3Bxc0lxYzd2R3NMZWxxSTd4Sm5vVkoxMGo5Y1hhSXhHLVQwUWttRU5Cb0RtaXlkbDk4ZHNEZXl2MW5WYU5ZOUV3NmhROFVsRkZNMUJWSjVWS3FNT29vOFVCVQ?oc=5": "2026-08-11T13:43:42.368379+00:00",
@@ -6142,6 +6165,7 @@
     "digest:45aa235e1276010ce863": "2026-08-14T19:14:47.636828+00:00",
     "digest:47a997aa10ee5c7d236c": "2026-08-17T13:06:48.349583+00:00",
     "digest:4d458021c09246304b6c": "2026-08-10T09:52:56.461540+00:00",
+    "digest:5add663ed344a4d80120": "2026-08-17T18:15:07.279659+00:00",
     "digest:5d9d55bd538bca1a3a42": "2026-08-11T20:27:58.037490+00:00",
     "digest:5ecf73adac8e6815e045": "2026-08-09T04:07:58.011443+00:00",
     "digest:6800ff059ef36f85000a": "2026-08-09T04:07:58.011430+00:00",
@@ -6185,67 +6209,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T17:46:19.200923+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-17T18:15:04.007338+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T17:46:19.805083+00:00",
+      "checked_at": "2026-08-17T18:15:04.544057+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T17:45:26.340565+00:00",
+      "checked_at": "2026-08-17T18:14:44.002744+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T17:45:29.476902+00:00",
+      "checked_at": "2026-08-17T18:14:45.558716+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T17:45:29.346422+00:00",
+      "checked_at": "2026-08-17T18:14:45.448213+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T17:45:32.095255+00:00",
+      "checked_at": "2026-08-17T18:14:47.346192+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T17:45:32.735502+00:00",
+      "checked_at": "2026-08-17T18:14:47.957827+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T17:45:30.125926+00:00",
+      "checked_at": "2026-08-17T18:14:45.883837+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T17:45:35.888537+00:00",
+      "checked_at": "2026-08-17T18:14:51.139166+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T17:45:26.605309+00:00",
+      "checked_at": "2026-08-17T18:14:44.377416+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T17:45:26.854886+00:00",
+      "checked_at": "2026-08-17T18:14:45.016657+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T17:45:25.978341+00:00",
+      "checked_at": "2026-08-17T18:14:43.426113+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T17:46:20.531092+00:00",
+      "checked_at": "2026-08-17T18:15:06.530689+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
