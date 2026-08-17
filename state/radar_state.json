@@ -5537,13 +5537,13 @@
     },
     {
       "breakout_sent": false,
-      "confidence": 60,
+      "confidence": 68,
       "created_at": "2026-08-17T03:15:00+00:00",
-      "early_signal": 37,
+      "early_signal": 53,
       "headline": "New policy ideas for the Intelligence Age",
       "id": "d9e8fdbf4b1f078fef99",
-      "last_seen_at": "2026-08-17T11:41:52.504469+00:00",
-      "score": 33,
+      "last_seen_at": "2026-08-17T19:43:07.001193+00:00",
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -5553,6 +5553,15 @@
           "source_type": "rss",
           "title": "New policy ideas for the Intelligence Age",
           "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T10:23:04+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "New policy ideas for the Intelligence Age - OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5"
         }
       ],
       "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
@@ -5623,11 +5632,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:30:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "The Defender\u2019s Window",
       "id": "ede34bb3a37212824fbf",
       "last_seen_at": "2026-08-17T13:06:47.782764+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -5645,11 +5654,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:00:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "OpenAI joins PORTS-Pike project",
       "id": "42df747a4ea8ac962a4c",
       "last_seen_at": "2026-08-17T13:06:47.785582+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -5689,11 +5698,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T14:44:16+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
       "last_seen_at": "2026-08-17T14:45:31.478701+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -5835,6 +5844,7 @@
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE01dllmSThpdWwyZExKLUJRYU5lbGNfN0ZzZklhbDltbFBHZFp0TjNFLVk1MGNOZ2hsOGdzZTVLUmU2VGpiOUNOVzk1b2ltT1R0ZmNISVVjdk0wejNMYlBjdUc5R3F5REJaQnhwLVh2emJvSG1MNGc?oc=5": "2026-08-11T17:42:21.487182+00:00",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QOGwxSHNLd2VfQzc4ZC1aaGgyMGFzQjV3b3ZWR0NQUmpXUmVHalRlSERRTFlQUEZQMDQ0azJlYnJEZGlObk9sR2xXUG9oRkpWTXFMaUhWWXRCLWZ1MTB0b1JRQ2NNcGNHWDVmbWI4UlNlZ2toRXfSAXtBVV95cUxObk1PT3kwQWxxemdBSmh6RGVKODJMb2VNWWtOM0hsc193Y2ZOTF9NNnhyZExNWDE4SzNQR0JzMW5mNnl5RVZTd0R1dU5pcDFOMUFCNWVqd1h1YWRZTmJGcUpuVUU3b1dSUHg3TW82dy1wWnF6bjYtd3dNcmM?oc=5": "2026-08-10T19:17:22.366533+00:00",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVzNiUzhqWGc1c182VWp6RHRxZFd5VmpYVDZYdWk0T3Ntc0o3T2YxTkxQTmhmZmp5Y1kyOGRTbTNfXzQzRmcwY0RlQVRTUHRLMGtQLTJ3MFdKajctejRmUzRwNDhkTm9WZGpBTjFCLWY5eGt0cEE?oc=5": "2026-08-10T14:06:58.450151+00:00",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE50c2tWanNsR0xvM0w1d2hzSFJHS1FXenprdUZCQmNfZVQ2WlNNenprcEczaUcwMm9nYlAyQUwxQ05LY2UwMXpXM1ZRWHNieF91dVYtcklTRG8wQ28wc1VpRFNnSE91M0tDRTFPTHBzRWNiUHJVZVE?oc=5": "2026-08-17T19:43:06.997763+00:00",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE83ams5a2FCcTd3M0tjNkZtbVI3eHNmUE9xY0Utd29pbWYxaFhhWFpUNjBZRzV1OEtVUlJnT09PSjVhbWhUOTBtbWx0Yzk3T0xWd3dlVmhEbGx6RHQtMldaSjFSZFduekRpT3dqTFJFdkFhWWd6NFE?oc=5": "2026-08-12T15:15:39.596684+00:00",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5WVNGWFg0dWw2OS14QTRTU2h6QWJPZ1NRaFZqZFdmWkx0NG1BbXN6bU41Z1JvZWtuTGhZSjdSdnItbm00eG9YWlYzS1JVRlo2cnFKcHZSU3RXQUY2TDIxOFJGcVdkTVZYYWRpbGVDWjZ5MVQ0TUE?oc=5": "2026-08-11T13:43:42.367669+00:00",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMGZOaFVSYkJWbEI3cWpHR0FjMU5sVzVLQjVtdjY3S0FyLVkzOU9WVFNaZUZJRlgxdW96VHFfOS04cFJTSHFfdW1TWDBINEhlc0U2N240cFZkZU5iaVFUanR2SU1uaFowM3B5MVM3Uld6UllGOWJIbng5MA?oc=5": "2026-08-11T13:43:42.369087+00:00",
@@ -6209,67 +6219,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T19:00:31.147043+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-17T19:43:05.516367+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T19:00:31.853408+00:00",
+      "checked_at": "2026-08-17T19:43:06.138178+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T18:59:40.278514+00:00",
+      "checked_at": "2026-08-17T19:42:44.567670+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T18:59:42.045928+00:00",
+      "checked_at": "2026-08-17T19:42:46.739860+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T18:59:41.754216+00:00",
+      "checked_at": "2026-08-17T19:42:46.480941+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T18:59:44.227749+00:00",
+      "checked_at": "2026-08-17T19:42:49.627766+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T18:59:44.939812+00:00",
+      "checked_at": "2026-08-17T19:42:50.396716+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T18:59:42.505169+00:00",
+      "checked_at": "2026-08-17T19:42:47.227788+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T18:59:48.158490+00:00",
+      "checked_at": "2026-08-17T19:42:53.650129+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T18:59:41.032412+00:00",
+      "checked_at": "2026-08-17T19:42:45.267376+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T18:59:41.329608+00:00",
+      "checked_at": "2026-08-17T19:42:45.545895+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T18:59:39.922249+00:00",
+      "checked_at": "2026-08-17T19:42:44.005283+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T19:00:32.622047+00:00",
+      "checked_at": "2026-08-17T19:43:06.991792+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
