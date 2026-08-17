@@ -4540,11 +4540,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T09:23:12+00:00",
-      "early_signal": 37,
+      "early_signal": 36,
       "headline": "Okta targets AI agent token costs with MCP scoping - AI News",
       "id": "c6953ea04e22a8c4b1c8",
       "last_seen_at": "2026-08-16T09:17:32.916282+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -4611,11 +4611,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T09:00:00+00:00",
-      "early_signal": 20,
+      "early_signal": 19,
       "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "id": "5c892a50e4e319ea6508",
       "last_seen_at": "2026-08-13T16:11:56.385593+00:00",
-      "score": 22,
+      "score": 21,
       "sources": [
         {
           "media_url": null,
@@ -5116,10 +5116,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T11:00:00+00:00",
-      "early_signal": 35,
+      "early_signal": 43,
       "headline": "The \u2018dangerous\u2019 AI models are the ones saving us - Washington Examiner",
       "id": "e4762126cda5ea019c3d",
-      "last_seen_at": "2026-08-17T01:55:56.287323+00:00",
+      "last_seen_at": "2026-08-17T07:16:50.554451+00:00",
       "score": 30,
       "sources": [
         {
@@ -5139,6 +5139,15 @@
           "source_type": "google_news",
           "title": "Frontier AI models are actively breaching systems during testing, and enterprise security teams cannot ignore it - MarketScale",
           "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVFlPU3dXdkJmSlhuTEpjVGpxSVBOZExRTlMzQ3hoRFYwSmxaTTNnSkZ3QkpLeHM1NW9kRFlieTVNUXZ0SElab1gwdlBFWEY4S1gtNE43bE9ZdGhlN3pkUHo0N1lxTzNaZ3laV3NZUGVvQ00yTnhpdEFtMVgzVEFZeE5BUW5ZN3V6ekc4ZDBGbTlTN1JYclpUUC0zQ2JmcGZDNzBrdnNaU1k4WXEyb3pWRFZsNXVwbVYtNEtGREVDZEpNVkxRMVlBZGJCVTNqT29sNVlHcW15ZXVNaUZ4NFJ2cm14RFFBYndkcVM1aEFCdXJ5eXlpMFdyUzBxbWJlcUd5b2xZWg?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T06:50:59+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "From Models to On-Chain: AI Autonomous Operations Are Reshaping Crypto Risk Control Logic - \u6df1\u6f6eTechFlow",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQ3dCRlBvNzN6UGp2WExidnpqVzB3ZHNFUVIxd0JGdjN6WVM3QVB1UjMzeXBoM3NKYTJiTksxRWM0cUUtdGcyX3VrQjNTLVpyNmF2VWRILUg5SnZf?oc=5"
         }
       ],
       "summary": "The \u2018dangerous\u2019 AI models are the ones saving us Washington Examiner"
@@ -5222,11 +5231,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:05+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Anthropic Multi-Agent Systems Sabotage and Collusion - The Neuron",
       "id": "b2be5c59b244c87dd2aa",
       "last_seen_at": "2026-08-16T16:42:55.751927+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -5244,11 +5253,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:00+00:00",
-      "early_signal": 55,
+      "early_signal": 54,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
       "last_seen_at": "2026-08-17T05:51:51.592348+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -5306,11 +5315,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T01:24:30+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment - The Fast Mode",
       "id": "11e2e7ade289badf03fd",
       "last_seen_at": "2026-08-17T03:13:39.827363+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -5396,6 +5405,7 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWDF5UlJZdU1PbERZLUlidVVYcFZsZTVieDVGaGdtM3QyUDNBclFWbVlEWndHRy1NYndWcFFkUjNNeFJwNTJ6STNnYlhiRXVDSHd2clE0YmVpdw?oc=5": "2026-08-15T10:39:03.875286+00:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5": "2026-08-10T00:38:15.335572+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbkRVdmZEYl9DYWs2eGV3Um5iTWl2WEU3S3drdG01VVVsRVN2WkluN3NvbE9jeDlnMm5Qd29teVJLN2owMGFwVkpVR0NHNGluaUpVS2VhQTBBeWpN?oc=5": "2026-08-11T23:24:47.002180+00:00",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQ3dCRlBvNzN6UGp2WExidnpqVzB3ZHNFUVIxd0JGdjN6WVM3QVB1UjMzeXBoM3NKYTJiTksxRWM0cUUtdGcyX3VrQjNTLVpyNmF2VWRILUg5SnZf?oc=5": "2026-08-17T07:16:50.549757+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5": "2026-08-15T09:59:28.196785+00:00",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFQ4NnRrVGF2dXBQMmhjNzhmQUVZQVF6ckVvWlpkMVdHMnpFOVpodWhoUEw4bWdacG1JRE9kUUZpUWN2WnJiZ3NHaFY0LWJHMF9zOGFGR0tlZmhta180N2Nkaw?oc=5": "2026-08-15T16:41:54.790473+00:00",
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5": "2026-08-10T03:00:21.450032+00:00",
@@ -5766,67 +5776,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T05:51:50.285590+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-17T07:16:49.353971+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T05:51:50.984989+00:00",
+      "checked_at": "2026-08-17T07:16:49.898923+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T05:51:02.037824+00:00",
+      "checked_at": "2026-08-17T07:16:12.639163+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T05:51:03.308432+00:00",
+      "checked_at": "2026-08-17T07:16:14.195248+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T05:51:03.160397+00:00",
+      "checked_at": "2026-08-17T07:16:13.742812+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T05:51:06.046312+00:00",
+      "checked_at": "2026-08-17T07:16:16.270827+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T05:51:06.656261+00:00",
+      "checked_at": "2026-08-17T07:16:17.002564+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T05:51:03.849827+00:00",
+      "checked_at": "2026-08-17T07:16:14.844005+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T05:51:09.839638+00:00",
+      "checked_at": "2026-08-17T07:16:20.104268+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T05:51:02.533137+00:00",
+      "checked_at": "2026-08-17T07:16:12.956367+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T05:51:02.755102+00:00",
+      "checked_at": "2026-08-17T07:16:13.215757+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T05:51:01.779836+00:00",
+      "checked_at": "2026-08-17T07:16:12.318845+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T05:51:51.583191+00:00",
+      "checked_at": "2026-08-17T07:16:50.541879+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
