@@ -5151,7 +5151,7 @@
       "early_signal": 47,
       "headline": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI - GovCIO Media & Research",
       "id": "790f51b30b56cfa43276",
-      "last_seen_at": "2026-08-17T15:04:52.506975+00:00",
+      "last_seen_at": "2026-08-17T15:40:42.923803+00:00",
       "score": 32,
       "sources": [
         {
@@ -5225,6 +5225,15 @@
           "source_type": "google_news",
           "title": "Getting to Know your (AI) Agent - TradingView",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUk3YWQzSXU2OE5Xd3lMYzlZWjY0cUkwVk1OSi1XZVl2QkNJTDNob0RjZkh1aE55Rkp5VjUtcTFRQW8yekd3WXNGOEdodHpSYk1HQlBLSEwtN1RCa3RTTV93N3EwcG1HVUNERU55QkFmZ0ZybklHSzRNcnVBN2tfVE5fc0Q1Zk5jY0pHZ3c1SW81amJrMkdHZjF4VQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T13:00:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Getting to Know your (AI) Agent - Finance Magnates",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JMVU4bXlhODBncUY0SkxNaHp3OGRxX3JkT2RPS3YzSlhVOXFzVUJSekY2Rlg5S20zN01DeXhsQjJ2YnNNN2ExVU9YU2I1UDhCb3RGQ2JDY0hjVEx6VjBabHN5dmM4NXJfYjhkcUhUc2ktNHBiM193?oc=5"
         }
       ],
       "summary": "Marine Corps Eyes AI Agent Registry to Rein in Shadow AI GovCIO Media & Research"
@@ -5344,11 +5353,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T22:39:00+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google - Fortune",
       "id": "38ae8a54c90b0e25e29d",
       "last_seen_at": "2026-08-16T04:01:26.690861+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -5366,11 +5375,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:05+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Anthropic Multi-Agent Systems Sabotage and Collusion - The Neuron",
       "id": "b2be5c59b244c87dd2aa",
       "last_seen_at": "2026-08-16T16:42:55.751927+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -5388,11 +5397,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:00+00:00",
-      "early_signal": 58,
+      "early_signal": 57,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
       "last_seen_at": "2026-08-17T13:06:47.788730+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -5437,11 +5446,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T22:34:58+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Grok 4.6 vs Claude Opus 5: Is Cheaper AI Finally Better? - Memeburn",
       "id": "b91a69c1e4c21032e0b6",
       "last_seen_at": "2026-08-17T01:55:56.289880+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -5459,11 +5468,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T01:24:30+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment - The Fast Mode",
       "id": "11e2e7ade289badf03fd",
       "last_seen_at": "2026-08-17T11:41:52.513232+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -5631,11 +5640,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T12:49:30+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "One Bug, Three Faces: Building a Performance Analysis AI Agent - HackerNoon",
       "id": "47a997aa10ee5c7d236c",
       "last_seen_at": "2026-08-17T13:06:47.794903+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -5653,11 +5662,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T14:44:16+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
       "last_seen_at": "2026-08-17T14:45:31.478701+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -5767,6 +5776,7 @@
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BTVo0MFhOUkhaVFkxalAtcmlzZjVzeEpqN3MxdVIxQ0VteFFvallrVXp0ZXpUUXhwSW9vOE16eUNKeHdMemtKZXNWQ2J3N0N1SFlockhfSk9YRFVyTG5vemtWVVlGeks2Z0I2dGVWYWNxQTg?oc=5": "2026-08-11T17:42:21.487148+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE8zU25OamxMaDFKMHBOR2tmd2VwUXI1R1l1V3IzUGFwZEp5TzRiaUVkcDcxM1h3dW5YSXpVZ3dCVmd2dEwxdGwwYWI1cWRJVUhnVnQxNkJhTkdXWVZfTV9qOEdHYWVzVVlGdzFPNm53aGtFUQ?oc=5": "2026-08-09T19:49:22.625427+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE16YXJCVHJMUm9KbW1mOVdMaE1nZkZIdExoSnFSV1ZydVFlNmdLNEpPazFsUjRMZDd3TF9pVWEya3ExRVpoNDdxUk1yQnFCb0IzT2JmZHdOLXhYc3phc1BRVExSaWNwWjFFaHNRZWJuM21Ccm9rbXpR?oc=5": "2026-08-12T16:12:07.356015+00:00",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JMVU4bXlhODBncUY0SkxNaHp3OGRxX3JkT2RPS3YzSlhVOXFzVUJSekY2Rlg5S20zN01DeXhsQjJ2YnNNN2ExVU9YU2I1UDhCb3RGQ2JDY0hjVEx6VjBabHN5dmM4NXJfYjhkcUhUc2ktNHBiM193?oc=5": "2026-08-17T15:40:42.921210+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MZFJFb0tpNVMtNkZCRVFHSUpRZHo5aVRfeVN2TmRxTXpGYjViaGhQbjljNEhnenNtWkF4U0dtTWkzSldVOHhYU1VaU1RRWlpIUWQ2X2xjcGpvODFZRldOWE1UUWUxM1JQQ3FKRTdrYzFzQWlSUmEw?oc=5": "2026-08-09T04:07:57.382883+00:00",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rU2UzZ25WdXdaNEFuTF90NkQwZUhkaUEya29Jam9rYkF2eGxqME5iZEFTcVFSNjZ1VGxjeGw1Q3FMNXI4aGlVbWFxTndlaDRWVXg1MEVwU0UzVVJrWFZEcXg5Z1YwNFF1R2R2VnBnMlQxdzVO?oc=5": "2026-08-11T19:47:33.169816+00:00",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5": "2026-08-12T05:03:38.731013+00:00",
@@ -6145,67 +6155,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T15:04:51.466332+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-17T15:40:40.974482+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T15:04:52.083948+00:00",
+      "checked_at": "2026-08-17T15:40:41.835289+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T15:03:58.454367+00:00",
+      "checked_at": "2026-08-17T15:39:43.887025+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T15:03:59.724773+00:00",
+      "checked_at": "2026-08-17T15:39:45.688031+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T15:03:59.399282+00:00",
+      "checked_at": "2026-08-17T15:39:45.391202+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T15:04:02.673101+00:00",
+      "checked_at": "2026-08-17T15:39:48.184549+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T15:04:03.321533+00:00",
+      "checked_at": "2026-08-17T15:39:49.281476+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T15:04:00.398890+00:00",
+      "checked_at": "2026-08-17T15:39:46.233039+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T15:04:06.523408+00:00",
+      "checked_at": "2026-08-17T15:39:52.666612+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T15:03:58.764672+00:00",
+      "checked_at": "2026-08-17T15:39:44.358270+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T15:03:58.972036+00:00",
+      "checked_at": "2026-08-17T15:39:44.691654+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T15:03:58.152925+00:00",
+      "checked_at": "2026-08-17T15:39:43.432525+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T15:04:52.495696+00:00",
+      "checked_at": "2026-08-17T15:40:42.914929+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
