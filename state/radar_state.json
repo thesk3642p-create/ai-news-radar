@@ -3886,11 +3886,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:20:17+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Nvidia releases Nemotron 3.5 Lightning open-source AI model - qz.com",
       "id": "86b89cd15ab241368512",
       "last_seen_at": "2026-08-14T03:13:34.068321+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -4161,11 +4161,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-11T13:43:24+00:00",
-      "early_signal": 28,
+      "early_signal": 26,
       "headline": "Frontier AI agents: Only as safe as their containment - ReversingLabs",
       "id": "34b6c7566b2fe7ef0299",
       "last_seen_at": "2026-08-13T08:07:23.936646+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -4961,11 +4961,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:27:22+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Google And Kaggle\u2019s AI Agent Course Attracts More Than 353,000 Participants - Pulse 2.0",
       "id": "7b667b68500467797562",
       "last_seen_at": "2026-08-16T21:57:05.809184+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -5032,11 +5032,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:38:40+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "IBM consultants will deploy OpenAI services - cio.com",
       "id": "0ac470f826cc9e19b9d2",
       "last_seen_at": "2026-08-14T14:04:04.834603+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -5283,6 +5283,28 @@
         }
       ],
       "summary": "Grok 4.6 vs Claude Opus 5: Is Cheaper AI Finally Better? Memeburn"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-17T01:24:30+00:00",
+      "early_signal": 46,
+      "headline": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment - The Fast Mode",
+      "id": "11e2e7ade289badf03fd",
+      "last_seen_at": "2026-08-17T03:13:39.827363+00:00",
+      "score": 44,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-17T01:24:30+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment - The Fast Mode",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVR2Mk5iczJ0LXM4NGppNXFOcHRwc3U3bjlVN0N3SDZ2eDdhVVhOb2N2cnd0WGdQWl8yNUJET25xdzhFTkJIMUF6VXREX2dXQ1FsY2JUNHVwaTQybWNRaXpodkZNT2M1NXhaQWltQ1hoU29ROWxzN0NYVnF4WE5vVV93VzhFN2lpX3pyX0NGT0dMUkloVUhlUUtDZEdCSy05NGkyVElmRmNpZEM0bU1yU01NTjB2UGRkZS1v?oc=5"
+        }
+      ],
+      "summary": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment The Fast Mode"
     }
   ],
   "processed_urls": {
@@ -5575,6 +5597,7 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHJGeG0td0ZYaGNzeDhNZ3dDejNXZ1JzeTJNc2VISUNLXzZJMEh1Y1RCYjRUenFaYms4dm9WRmdTWlBzX0YzdlNQRHlha1dUN3hOa2l4VlhDajIzMGtrQmtGNmZNdFZ5ZHROZDhYQ0taZ3NjZURObXJZR2Y4eC1OVHpDZlctVlB1cDdnYXdwNFR5bmZmdzJLbU1teVVqODkxM2FPVy1sZUREcnpqTDZZLWJhVVlfM1B3Znc?oc=5": "2026-08-10T14:06:58.450200+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQm9nNjVXaC1GRkxBRWFrdFREX1FjaFFWR0xCbURwRG5nc0QwT25iY3YtcHg4TG9vRU00TGlEM1JfTXpDVjduOUl1LVBsYVp2aHpDMV9DZHZBWkMyYW9OX25tNzJQaXVXZmNnNDNmeUtFZlFEV2hhVVg2dFAyYnhoQWxweTJMR1Nsc0l6V2dud1RJbEY5ZlFSRjNFc3c1bHpYckt4RldpQmI3TThNckZsbTc1QWdhajhfSXhr?oc=5": "2026-08-16T21:57:05.804476+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ2txZG1pelFxUVhsYmw5M3FneXNwdHA5aXhhQ3FTSXgxNFVSRjNDd2hSWVJoVVQ4Q1BIZVZvUHdRQVJKRkNPQUVRY1NVMzFCMjFoTTRhSjRZYWFLQVBlcU5ZazFXUktwb0c4Q2tPYXNjbUNsSUtyVU9jZV95YXI2Q0VsQ3JKbnlnZkpEcnAxNGVQSndYaE9IcTZFYzltQmJoazFHUFBHRV9VdnJ3cDNkRllqTEJBRGdCdF9V?oc=5": "2026-08-12T12:32:36.505483+00:00",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVR2Mk5iczJ0LXM4NGppNXFOcHRwc3U3bjlVN0N3SDZ2eDdhVVhOb2N2cnd0WGdQWl8yNUJET25xdzhFTkJIMUF6VXREX2dXQ1FsY2JUNHVwaTQybWNRaXpodkZNT2M1NXhaQWltQ1hoU29ROWxzN0NYVnF4WE5vVV93VzhFN2lpX3pyX0NGT0dMUkloVUhlUUtDZEdCSy05NGkyVElmRmNpZEM0bU1yU01NTjB2UGRkZS1v?oc=5": "2026-08-17T03:13:39.823055+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkwzOGhHVHI0SWVtYVF5MDRub0F6TTdjdFNKOURDYTVhTC1YU1ljdUdQRGwwQkpxT0JNbE5HYUJtVVBKSldUUTR4UjhnQUJtUk1UNHJBcmVQbEVrRHBiR1ZLUENRTk9CeG52UmJFcG1LMS10a1VKS0hNS25ERENSWFF4RnExZGwwMGJJNVNNUGFMUWxEMG1qdFRBaWY5TXJtMnFvUGV6Z1Vac2tNZ0doX2d0MENMakR2WDZr?oc=5": "2026-08-13T11:33:19.225701+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLW5ubU40ZXlqa2hiMXpLcHRwOXA1OWhQU19rZ2J3UGc1Y043R2xIclNqNHZlc0xaR1JUSTNVLWlISS1ENk03TmQ3UHRQeTdEZXZrLVZhLUFBQnRuRkhZNTU3OTN4b2o0dEVPQnpYLW9YVm56NVYzZFRHNURPeFBqcFhTYzd3ZXVzVzRzS19rVklRSkxWTVhKaDc0QTRJWjBneW1mbmlMeUxTWGNuaWpYMWs1WUUwNF9FUkw4?oc=5": "2026-08-14T12:29:10.167352+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMTM2b3JRR2F0Qk1NV0FkWDBWS2k5cExLYnlabjVBU3NsdS1YcEg3cDR1bEFMaEV1Zk4wTzVTcWlqbi1YYWhYOV9xemVWQnVGWEhxblBrMHJKcm9JYjdEUTlnc29DMjV4aXpvdF8zTXk3Rjk5RzJ1bTZUMFNLRVZkWEJaODNYWnotOE9NZ0tkdFVNWmtfS1FYblItdTFNUEd6MHE4RmJCSVU0V0pELTJKNXd0eE1TUVJqc0tB?oc=5": "2026-08-14T19:14:47.047721+00:00",
@@ -5723,67 +5746,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T01:55:54.963780+00:00",
+      "checked_at": "2026-08-17T03:13:38.757576+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T01:55:55.693201+00:00",
+      "checked_at": "2026-08-17T03:13:39.354738+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T01:55:22.273596+00:00",
+      "checked_at": "2026-08-17T03:13:05.196876+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T01:55:23.975219+00:00",
+      "checked_at": "2026-08-17T03:13:06.511838+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T01:55:23.727511+00:00",
+      "checked_at": "2026-08-17T03:13:06.266348+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T01:55:26.911693+00:00",
+      "checked_at": "2026-08-17T03:13:08.892111+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T01:55:27.532323+00:00",
+      "checked_at": "2026-08-17T03:13:09.579076+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T01:55:24.555381+00:00",
+      "checked_at": "2026-08-17T03:13:07.210214+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T01:55:30.729317+00:00",
+      "checked_at": "2026-08-17T03:13:12.692938+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T01:55:22.983634+00:00",
+      "checked_at": "2026-08-17T03:13:05.621836+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T01:55:23.276262+00:00",
+      "checked_at": "2026-08-17T03:13:05.891577+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T01:55:22.036086+00:00",
+      "checked_at": "2026-08-17T03:13:04.924310+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T01:55:56.278026+00:00",
+      "checked_at": "2026-08-17T03:13:39.815141+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
