@@ -5116,11 +5116,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T11:00:00+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "The \u2018dangerous\u2019 AI models are the ones saving us - Washington Examiner",
       "id": "e4762126cda5ea019c3d",
       "last_seen_at": "2026-08-17T01:55:56.287323+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -5169,11 +5169,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T00:33:51+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders - Startup Fortune",
       "id": "c030c59578105064ce41",
       "last_seen_at": "2026-08-17T01:55:56.292334+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -5222,11 +5222,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:05+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Anthropic Multi-Agent Systems Sabotage and Collusion - The Neuron",
       "id": "b2be5c59b244c87dd2aa",
       "last_seen_at": "2026-08-16T16:42:55.751927+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -5244,11 +5244,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:00+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
       "last_seen_at": "2026-08-16T17:34:58.754505+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -5266,11 +5266,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T22:34:58+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Grok 4.6 vs Claude Opus 5: Is Cheaper AI Finally Better? - Memeburn",
       "id": "b91a69c1e4c21032e0b6",
       "last_seen_at": "2026-08-17T01:55:56.289880+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -5746,67 +5746,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-17T03:13:38.757576+00:00",
+      "checked_at": "2026-08-17T04:03:39.597944+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-17T03:13:39.354738+00:00",
+      "checked_at": "2026-08-17T04:03:40.209224+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-17T03:13:05.196876+00:00",
+      "checked_at": "2026-08-17T04:03:19.696368+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-17T03:13:06.511838+00:00",
+      "checked_at": "2026-08-17T04:03:20.949735+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-17T03:13:06.266348+00:00",
+      "checked_at": "2026-08-17T04:03:20.774462+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-17T03:13:08.892111+00:00",
+      "checked_at": "2026-08-17T04:03:23.633305+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-17T03:13:09.579076+00:00",
+      "checked_at": "2026-08-17T04:03:24.414156+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-17T03:13:07.210214+00:00",
+      "checked_at": "2026-08-17T04:03:21.281206+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-17T03:13:12.692938+00:00",
+      "checked_at": "2026-08-17T04:03:27.603966+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-17T03:13:05.621836+00:00",
+      "checked_at": "2026-08-17T04:03:20.121420+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-17T03:13:05.891577+00:00",
+      "checked_at": "2026-08-17T04:03:20.428331+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-17T03:13:04.924310+00:00",
+      "checked_at": "2026-08-17T04:03:19.353070+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-17T03:13:39.815141+00:00",
+      "checked_at": "2026-08-17T04:03:40.655584+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
