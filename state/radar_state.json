@@ -5736,11 +5736,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-17T20:44:24.975978+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -5851,11 +5851,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T14:44:16+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
       "last_seen_at": "2026-08-18T09:49:17.824418+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -5882,11 +5882,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T17:59:01+00:00",
-      "early_signal": 50,
+      "early_signal": 49,
       "headline": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times",
       "id": "5add663ed344a4d80120",
       "last_seen_at": "2026-08-18T16:50:07.167372+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -5953,11 +5953,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T00:07:40+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - VentureBeat",
       "id": "d1ecb60a8e2d957301c6",
       "last_seen_at": "2026-08-18T04:52:53.668699+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -6006,11 +6006,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T08:10:29+00:00",
-      "early_signal": 58,
+      "early_signal": 56,
       "headline": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
       "id": "1ddfd114839a7f13f8fc",
       "last_seen_at": "2026-08-18T15:47:23.190914+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -6099,11 +6099,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T10:13:38+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "AI Agent Settlement Layer Powers Trustworthy Autonomous Deals - The Cryptonomist",
       "id": "048ec91f88f838f2dcc3",
       "last_seen_at": "2026-08-18T11:10:33.890855+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -6174,11 +6174,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T07:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 39,
       "headline": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "id": "4f21f073a074206b4f59",
       "last_seen_at": "2026-08-18T16:50:07.163755+00:00",
-      "score": 43,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6191,6 +6191,28 @@
         }
       ],
       "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-18T12:00:05+00:00",
+      "early_signal": 44,
+      "headline": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
+      "id": "0f180ff7afc40e9c27d9",
+      "last_seen_at": "2026-08-18T17:43:39.302271+00:00",
+      "score": 52,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T12:00:05+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Ca9IBywFBVV95cUxNekQyWHA4bjlBc09IbGwyajJaMEl1LVp0RXk0aWE5Q3hNWXlLUU5JcWxVRjg0ZHcwN05jN3pva3c1QzBjTjlJUl9CLWVVMkhxSjBCT2I0eFZhNkZwNDYwM0tVS3J1X1plS1J5bm02bzM4YWxPOEpXMzdhSEtRRkI0MzRYc3RFQUJRNmdid2lsMWRDM0tkcjFjUFlmZHBZdDZiR05CWkd0MHBFb3dZdHZCTHNCVjU3ZHlRMmM5TVhoTVlkZzBJV0x3UFRsdw?oc=5"
+        }
+      ],
+      "summary": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems South China Morning Post"
     }
   ],
   "processed_urls": {
@@ -6574,6 +6596,7 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY1pzbHNTUzZRMExCZS1OcUVZQzd1TUl1bEE3dEJHSFRtWDV6RjRDN0NIeURTM1lndERFbzJkd1RpeUY0MC1ERDVxbWFjMy04aDZHUGl0Zmw4bGYzaVJGSjg4YklwNmxmYkFDcFVPQjJRUmpwZ1RST1NMMUZmSmM4MnNvdUNOWU5rYzk4NUM4UDF3YWVOY3RjSUhIVHBZQ0Z4dy1DaVVYMzN4bTJVZUFPV25jNE42R01vd3pIOVVzSE5qRHdRUTBEM2hR?oc=5": "2026-08-17T11:41:52.501555+00:00",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5": "2026-08-09T04:07:57.382959+00:00",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxORWpHVE1iYWxXRUcxbnk2QWdPMzRxZi1WU3h4S3ItaXAtOTI4QXJYUDZlanQ1NzU3RVBCMFhoRGpKcnNjX1hhdnhnU2l4VzV6bkxhbjJMWUc0eUw5Q0dCLVBMaG04VEItSzJ1azdJeUFNTlBTbWV1UWJxYjlHTm5BUU1LdzRvTkFXOWJNbzQwUFJUQnBucEdBV2JGVmdFY2lvOFJCY1Z1STV3VjJIUG5STW9zUjI3Z0pPdEVjUElQOWRscWR3WUVMTmxMONIBywFBVV95cUxPaE5kY3RhSWU5cVduT2xSZmE1UEJZcUEzNTFnQVFvRHJPR1g4RDFQSmVDRzVOU3hQQ1NRbnRIWUJud0dnTFJwMEFIUFo2UWs2QWhzNWduUDNXZElWV1RjS3gwNGgzQ1ZMVl9rLWdrLVBNcDdhR2V1TWZuVnlDSmxhUUhnaWZEal9KTVZHYWhfWU50TldRbDNHT1BFNE01ckhtY0JqRlBvMFVwa094bzVHLXdUcXhHOVNrUG1HV08xeWc1OS1oRGVydFpFMA?oc=5": "2026-08-14T11:29:12.434066+00:00",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Ca9IBywFBVV95cUxNekQyWHA4bjlBc09IbGwyajJaMEl1LVp0RXk0aWE5Q3hNWXlLUU5JcWxVRjg0ZHcwN05jN3pva3c1QzBjTjlJUl9CLWVVMkhxSjBCT2I0eFZhNkZwNDYwM0tVS3J1X1plS1J5bm02bzM4YWxPOEpXMzdhSEtRRkI0MzRYc3RFQUJRNmdid2lsMWRDM0tkcjFjUFlmZHBZdDZiR05CWkd0MHBFb3dZdHZCTHNCVjU3ZHlRMmM5TVhoTVlkZzBJV0x3UFRsdw?oc=5": "2026-08-18T17:43:39.298199+00:00",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5": "2026-08-18T13:08:23.152496+00:00",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVBtNHRXa3JNX3BEWUx1VThDbTNDQWxKUjF2ZzlnMDVWbmJVbm9SemVkaWtmTk9MU3RDMi0xbHMzY3ZHR2IzaDhYMzRhRGJEYWJlYUxGcENJTlAtLXpYOGdTSWlNb1pmNXRGYy1SeFZsNkNMYTBSMktaR2VSV1FYaUZxTE1aLUlZSVpLc19wandjd0FhNjlKNTB2UjdqMkdfN2kwcjBGMHk2b0pnNTRQTmUtcnJyQkFLaGd1M2tWVTRuSjBjM3pQaTBxU0lkdw?oc=5": "2026-08-11T02:28:45.890333+00:00",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE?oc=5": "2026-08-13T12:34:07.048066+00:00",
@@ -6652,6 +6675,7 @@
   "sent_alerts": {
     "digest:0143b5b8c5c04389bb3a": "2026-08-18T11:10:34.427183+00:00",
     "digest:048ec91f88f838f2dcc3": "2026-08-18T11:10:34.427201+00:00",
+    "digest:0f180ff7afc40e9c27d9": "2026-08-18T17:43:40.016413+00:00",
     "digest:10826f8b7af03a9fb47b": "2026-08-09T04:07:58.011417+00:00",
     "digest:14b8781d3b4657cbc431": "2026-08-11T16:37:01.551537+00:00",
     "digest:1ddfd114839a7f13f8fc": "2026-08-18T08:54:29.456980+00:00",
@@ -6717,67 +6741,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T16:50:06.109175+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-18T17:43:37.432218+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T16:50:06.707137+00:00",
+      "checked_at": "2026-08-18T17:43:38.055783+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T16:49:02.176882+00:00",
+      "checked_at": "2026-08-18T17:43:16.908313+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T16:49:03.388003+00:00",
+      "checked_at": "2026-08-18T17:43:18.031110+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T16:49:03.293273+00:00",
+      "checked_at": "2026-08-18T17:43:17.890752+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T16:49:05.808132+00:00",
+      "checked_at": "2026-08-18T17:43:20.351569+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T16:49:06.490274+00:00",
+      "checked_at": "2026-08-18T17:43:21.245720+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T16:49:03.767901+00:00",
+      "checked_at": "2026-08-18T17:43:18.354441+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T16:49:09.615019+00:00",
+      "checked_at": "2026-08-18T17:43:24.415916+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T16:49:02.604050+00:00",
+      "checked_at": "2026-08-18T17:43:17.262924+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T16:49:02.898280+00:00",
+      "checked_at": "2026-08-18T17:43:17.482896+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T16:49:01.867797+00:00",
+      "checked_at": "2026-08-18T17:43:16.516132+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T16:50:07.150954+00:00",
+      "checked_at": "2026-08-18T17:43:39.292209+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
