@@ -5980,11 +5980,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T00:07:40+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - VentureBeat",
       "id": "d1ecb60a8e2d957301c6",
       "last_seen_at": "2026-08-18T04:52:53.668699+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -6073,11 +6073,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:17+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "\u201cParanoid\u201d AI agents deploy killer malware against one another, Anthropic says - Cybernews",
       "id": "f9eddf53ff7c3e2a5ab1",
       "last_seen_at": "2026-08-18T10:46:52.195785+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -6170,11 +6170,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "The Powerful Chinese AI Model Experts Warned About\u2014and Waited for\u2014Is Here - WIRED",
       "id": "33d56eada294cbb4a7fa",
       "last_seen_at": "2026-08-18T16:13:08.270568+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -6223,11 +6223,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:00:05+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
       "id": "0f180ff7afc40e9c27d9",
       "last_seen_at": "2026-08-18T17:43:39.302271+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -6377,6 +6377,28 @@
         }
       ],
       "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-18T00:00:00+00:00",
+      "early_signal": 40,
+      "headline": "How NVIDIA scales expertise with ChatGPT Work",
+      "id": "20a5910dc8e670f17bea",
+      "last_seen_at": "2026-08-18T23:36:18.501280+00:00",
+      "score": 38,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T00:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "How NVIDIA scales expertise with ChatGPT Work",
+          "url": "https://openai.com/index/nvidia/chatgpt-work"
+        }
+      ],
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
     }
   ],
   "processed_urls": {
@@ -6808,6 +6830,7 @@
     "https://openai.com/index/model-ml": "2026-08-10T14:06:58.442248+00:00",
     "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": "2026-08-17T11:41:52.495421+00:00",
     "https://openai.com/index/ntt-data": "2026-08-09T04:07:57.371508+00:00",
+    "https://openai.com/index/nvidia/chatgpt-work": "2026-08-18T23:36:18.488751+00:00",
     "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": "2026-08-09T04:07:57.369870+00:00",
     "https://openai.com/index/openai-joins-ports-pike-project": "2026-08-17T13:06:47.771422+00:00",
     "https://openai.com/index/pacing-model-development-cyber-capabilities": "2026-08-18T18:57:28.927672+00:00",
@@ -6920,67 +6943,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T23:01:14.776086+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-18T23:36:17.310098+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T23:01:44.046338+00:00",
-      "error": "retryable response",
-      "status": "error"
+      "checked_at": "2026-08-18T23:36:17.813917+00:00",
+      "count": 30,
+      "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T23:00:12.270525+00:00",
+      "checked_at": "2026-08-18T23:35:45.916327+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T23:00:15.413539+00:00",
+      "checked_at": "2026-08-18T23:35:47.153497+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T23:00:13.241465+00:00",
+      "checked_at": "2026-08-18T23:35:47.071069+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T23:00:17.874512+00:00",
+      "checked_at": "2026-08-18T23:35:49.304913+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T23:00:18.448352+00:00",
+      "checked_at": "2026-08-18T23:35:50.061998+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T23:00:16.015265+00:00",
+      "checked_at": "2026-08-18T23:35:47.544303+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T23:00:21.566819+00:00",
+      "checked_at": "2026-08-18T23:35:53.175317+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T23:00:12.542609+00:00",
+      "checked_at": "2026-08-18T23:35:46.358143+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T23:00:12.838313+00:00",
+      "checked_at": "2026-08-18T23:35:46.674297+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T23:00:11.323975+00:00",
+      "checked_at": "2026-08-18T23:35:45.623022+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T23:01:44.591726+00:00",
+      "checked_at": "2026-08-18T23:36:18.488489+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
