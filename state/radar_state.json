@@ -5091,11 +5091,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 21,
+      "early_signal": 20,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -5509,11 +5509,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T22:34:58+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Grok 4.6 vs Claude Opus 5: Is Cheaper AI Finally Better? - Memeburn",
       "id": "b91a69c1e4c21032e0b6",
       "last_seen_at": "2026-08-17T01:55:56.289880+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -5655,11 +5655,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 42,
+      "early_signal": 41,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-17T20:44:24.975978+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -5730,11 +5730,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T12:49:30+00:00",
-      "early_signal": 46,
+      "early_signal": 44,
       "headline": "One Bug, Three Faces: Building a Performance Analysis AI Agent - HackerNoon",
       "id": "47a997aa10ee5c7d236c",
       "last_seen_at": "2026-08-17T21:42:01.044696+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -5761,11 +5761,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T14:44:16+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
       "last_seen_at": "2026-08-17T14:45:31.478701+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -5783,11 +5783,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T17:59:01+00:00",
-      "early_signal": 48,
+      "early_signal": 47,
       "headline": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times",
       "id": "5add663ed344a4d80120",
       "last_seen_at": "2026-08-17T23:37:08.767660+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -5836,11 +5836,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T00:07:40+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - VentureBeat",
       "id": "d1ecb60a8e2d957301c6",
       "last_seen_at": "2026-08-18T04:52:53.668699+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -5858,11 +5858,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T22:12:00+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push - CoinDesk",
       "id": "c709c8b86de8f93a757a",
       "last_seen_at": "2026-08-18T04:52:53.672235+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -6370,67 +6370,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T04:52:52.254411+00:00",
+      "checked_at": "2026-08-18T05:46:19.314230+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T04:52:52.984824+00:00",
+      "checked_at": "2026-08-18T05:46:19.958589+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T04:52:17.363173+00:00",
+      "checked_at": "2026-08-18T05:45:27.438426+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T04:52:18.820952+00:00",
+      "checked_at": "2026-08-18T05:45:28.718426+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T04:52:18.589938+00:00",
+      "checked_at": "2026-08-18T05:45:28.620941+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T04:52:21.752357+00:00",
+      "checked_at": "2026-08-18T05:45:31.414314+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T04:52:22.577978+00:00",
+      "checked_at": "2026-08-18T05:45:32.065448+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T04:52:19.815628+00:00",
+      "checked_at": "2026-08-18T05:45:29.442000+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T04:52:25.887231+00:00",
+      "checked_at": "2026-08-18T05:45:35.184178+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T04:52:17.851562+00:00",
+      "checked_at": "2026-08-18T05:45:27.900044+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T04:52:18.129550+00:00",
+      "checked_at": "2026-08-18T05:45:28.220603+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T04:52:16.988682+00:00",
+      "checked_at": "2026-08-18T05:45:27.082025+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T04:52:53.653352+00:00",
+      "checked_at": "2026-08-18T05:46:20.401954+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
