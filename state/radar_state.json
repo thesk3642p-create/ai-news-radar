@@ -5962,11 +5962,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T00:07:40+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - VentureBeat",
       "id": "d1ecb60a8e2d957301c6",
       "last_seen_at": "2026-08-18T04:52:53.668699+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -6055,11 +6055,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:17+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "\u201cParanoid\u201d AI agents deploy killer malware against one another, Anthropic says - Cybernews",
       "id": "f9eddf53ff7c3e2a5ab1",
       "last_seen_at": "2026-08-18T10:46:52.195785+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -6077,11 +6077,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 57,
+      "early_signal": 55,
       "headline": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "id": "0143b5b8c5c04389bb3a",
       "last_seen_at": "2026-08-18T12:02:02.730887+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -6152,11 +6152,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:00+00:00",
-      "early_signal": 48,
+      "early_signal": 47,
       "headline": "The Powerful Chinese AI Model Experts Warned About\u2014and Waited for\u2014Is Here - WIRED",
       "id": "33d56eada294cbb4a7fa",
       "last_seen_at": "2026-08-18T16:13:08.270568+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -6225,13 +6225,13 @@
     },
     {
       "breakout_sent": false,
-      "confidence": 60,
+      "confidence": 68,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 49,
+      "early_signal": 63,
       "headline": "Pacing model development in an era of cyber-critical capabilities",
       "id": "864415652d44757c44bd",
-      "last_seen_at": "2026-08-18T18:57:28.937482+00:00",
-      "score": 53,
+      "last_seen_at": "2026-08-18T20:41:14.468496+00:00",
+      "score": 54,
       "sources": [
         {
           "media_url": null,
@@ -6241,6 +6241,15 @@
           "source_type": "rss",
           "title": "Pacing model development in an era of cyber-critical capabilities",
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T18:41:53+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Pacing model development in an era of cyber-critical capabilities - OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5"
         }
       ],
       "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
@@ -6293,11 +6302,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T19:15:26+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Markets Confident OpenAI Releases Its Next AI Model in Weeks - Decrypt",
       "id": "d7875cb276012e3fe5ea",
       "last_seen_at": "2026-08-18T19:41:33.581148+00:00",
-      "score": 57,
+      "score": 56,
       "sources": [
         {
           "media_url": null,
@@ -6310,6 +6319,28 @@
         }
       ],
       "summary": "Markets Confident OpenAI Releases Its Next AI Model in Weeks Decrypt"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-18T19:00:00+00:00",
+      "early_signal": 53,
+      "headline": "Strengthening Democratic Oversight in National Security",
+      "id": "de07534587e1dc321006",
+      "last_seen_at": "2026-08-18T20:41:14.465690+00:00",
+      "score": 51,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T19:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Strengthening Democratic Oversight in National Security",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+        }
+      ],
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
     }
   ],
   "processed_urls": {
@@ -6433,6 +6464,7 @@
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwUDh0TFJuaXh1TnR3UDBkREdWZDlDUEpyUUJNdVZtR1piZnJUQ2FaRGJyR19qbEZpbW5LblBFdjFKbTJMY3oxV1gyb1FSMV9zZUNXSFJwV21ONG9tUDR5SVp3NF9HQndXV3lEU1I3Vk9BR0lZMVJjTy1kRQ?oc=5": "2026-08-18T12:02:02.725916+00:00",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmeGtLNndGYThEXzlNSjZZYTdqa3BGZ2dETG93dlp0QzllejFPSXFzMTkyS0VOWkg5NkpzanNVUXhYNDcwdGUxRjRKaWVnQThScm9rZXJPWDd5ZFhJNldyVm1QUl9QUjRDZHo0enJMcjNRSFpQd3doREJaRQ?oc=5": "2026-08-11T19:47:33.169727+00:00",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE42YVhOUXpnOEtLdW41SXZndUQ2OWd6cmstNHBhc2JqVGZZaE05Z3pIQk8tYUtVU2t1dGdpYWJvSzBWQWNFTDFLWXp0LWtJUGQ4TWNXVnZlWkFIa2Z2TkNPMGRQRWRsOXA3WjlMNDJDbm5Lc2V6SW9UR9IBfkFVX3lxTE00VHJaekgzSDJvajdabVhmN2JXSmVZeHkyS19xNHp6dkhnOHNKZ2tETHhtYlBTTHlILXNHQ3YxZW9vYTBhN0djbnhDLTJpM3NkZ1pDZ0cwZ05YeDhseVF6TWFXS0RvQUFmdXQtNVUyM0k0bTYyMGY5b0N3YmNjUQ?oc=5": "2026-08-10T21:58:49.211421+00:00",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5": "2026-08-18T20:41:14.461661+00:00",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE45ajF2SnZGcndhTkIyOTJoS3Flc2xjM1c0ZWxwalhaN3ZEcWFzY0k0TElHS2hjYlJuUFNJQzgtdEFWTjZxSG9OcXg5NlRlcFQ5UHJiMzJVUTRKSE9CRzFzWXVkcjNrMlNEWTFHa21aQmFWX2docmpBdQ?oc=5": "2026-08-09T08:24:35.721513+00:00",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HY0xMV29sbUtSdDRPbzdKWHhiZExraUV5SjQ3aWxzb2Jsb0VydVA5R0VpRk5xcVB5MmVzazhaV0tGZlZWYWdTYjRmQkRlbTU2UUQwU3F2QnY4VVZCZmViNWxMa29QNnVIOXVEcElESjBzWTRUUnhxStIBgAFBVV95cUxOS1d2dXFPV3lBcGdaMm5OcHA3a0ZsbHVZQzQ0LTBIM0NjcDYzSE9ZeVItT0Z4N0hlcjhRQnJQWlFtWGp6bGg3TVJGWDl4b2phYjZKYlUzYks3VDh2ZnIxc01KSlNveVRFMDZtM1QyaERkWlFUTFFaMDlJcUlOamtWeg?oc=5": "2026-08-09T04:07:57.382560+00:00",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qMXhpZTVPWkw5WFRBU1hSSFpqTjRUdjJOb2pSdEZROGtibm93MGVGUzVZTmFqTERJeU1YbW13SFREQzhuMl9NNW4yamNuRm1jaVZXMnRaMkVuMnpWLWw0bjZra2FDbkxPRmlETUFEOGtJeUlZNmExNw?oc=5": "2026-08-14T09:21:29.560405+00:00",
@@ -6747,6 +6779,7 @@
     "https://openai.com/index/responsible-ai-infrastructure-texas": "2026-08-10T14:06:58.442116+00:00",
     "https://openai.com/index/ringcentral": "2026-08-12T22:25:25.314412+00:00",
     "https://openai.com/index/scientific-computing-agentic-ai": "2026-08-09T04:07:57.371098+00:00",
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security": "2026-08-18T20:41:14.456144+00:00",
     "https://openai.com/index/ten-advances-in-mathematics": "2026-08-09T04:07:57.370366+00:00",
     "https://openai.com/index/testing-ads-in-chatgpt": "2026-08-11T16:37:00.784107+00:00",
     "https://openai.com/index/the-defenders-window": "2026-08-17T13:06:47.771344+00:00",
@@ -6837,6 +6870,7 @@
     "digest:d1ecb60a8e2d957301c6": "2026-08-18T04:52:54.346790+00:00",
     "digest:d7875cb276012e3fe5ea": "2026-08-18T19:41:34.417996+00:00",
     "digest:d921c0e8df9d0a1a5340": "2026-08-13T18:08:24.239148+00:00",
+    "digest:de07534587e1dc321006": "2026-08-18T20:41:15.168572+00:00",
     "digest:e087011cd1eee73ed6f1": "2026-08-09T04:07:58.011415+00:00",
     "digest:e398e69e27e04140f3e9": "2026-08-14T12:29:10.882176+00:00",
     "digest:e7131e3310952124e719": "2026-08-12T03:11:52.022430+00:00",
@@ -6846,67 +6880,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T19:58:44.510433+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-18T20:41:13.248092+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T19:58:45.028602+00:00",
+      "checked_at": "2026-08-18T20:41:13.804184+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T19:57:58.547816+00:00",
+      "checked_at": "2026-08-18T20:40:52.554411+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T19:57:59.866184+00:00",
+      "checked_at": "2026-08-18T20:40:53.869682+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T19:57:59.695911+00:00",
+      "checked_at": "2026-08-18T20:40:53.730698+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T19:58:02.786548+00:00",
+      "checked_at": "2026-08-18T20:40:55.942835+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T19:58:03.545763+00:00",
+      "checked_at": "2026-08-18T20:40:56.528704+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T19:58:00.528739+00:00",
+      "checked_at": "2026-08-18T20:40:54.206021+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T19:58:06.704601+00:00",
+      "checked_at": "2026-08-18T20:40:59.702179+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T19:57:59.001719+00:00",
+      "checked_at": "2026-08-18T20:40:52.951981+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T19:57:59.368487+00:00",
+      "checked_at": "2026-08-18T20:40:53.178379+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T19:57:58.138742+00:00",
+      "checked_at": "2026-08-18T20:40:52.234103+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T19:58:45.704832+00:00",
+      "checked_at": "2026-08-18T20:41:14.455974+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
