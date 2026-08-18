@@ -4939,11 +4939,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:03:52+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Back in the Harness: DeepSeek continues its pivot towards agentic AI - South China Morning Post",
       "id": "372b65708f071ac4fe30",
       "last_seen_at": "2026-08-17T13:53:58.389863+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -4997,11 +4997,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:27:22+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Google And Kaggle\u2019s AI Agent Course Attracts More Than 353,000 Participants - Pulse 2.0",
       "id": "7b667b68500467797562",
       "last_seen_at": "2026-08-17T11:41:52.515830+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -5113,11 +5113,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T11:38:40+00:00",
-      "early_signal": 21,
+      "early_signal": 20,
       "headline": "IBM consultants will deploy OpenAI services - cio.com",
       "id": "0ac470f826cc9e19b9d2",
       "last_seen_at": "2026-08-14T14:04:04.834603+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -5447,11 +5447,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:05+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Anthropic Multi-Agent Systems Sabotage and Collusion - The Neuron",
       "id": "b2be5c59b244c87dd2aa",
       "last_seen_at": "2026-08-16T16:42:55.751927+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -5469,11 +5469,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:00+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
       "last_seen_at": "2026-08-17T13:06:47.788730+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -5540,11 +5540,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T01:24:30+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment - The Fast Mode",
       "id": "11e2e7ade289badf03fd",
       "last_seen_at": "2026-08-18T07:09:01.716351+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -5673,11 +5673,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-17T20:44:24.975978+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -5704,11 +5704,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:30:00+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "The Defender\u2019s Window",
       "id": "ede34bb3a37212824fbf",
       "last_seen_at": "2026-08-17T13:06:47.782764+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -5748,11 +5748,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T12:49:30+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "One Bug, Three Faces: Building a Performance Analysis AI Agent - HackerNoon",
       "id": "47a997aa10ee5c7d236c",
       "last_seen_at": "2026-08-17T21:42:01.044696+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -5801,11 +5801,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T17:59:01+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times",
       "id": "5add663ed344a4d80120",
       "last_seen_at": "2026-08-17T23:37:08.767660+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -5832,11 +5832,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T23:03:00+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Anthropic-powered AI model sends shocking message to employee - thestreet.com",
       "id": "ae90975292487c463cd1",
       "last_seen_at": "2026-08-17T23:37:08.764584+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -5893,6 +5893,28 @@
         }
       ],
       "summary": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push CoinDesk"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-18T08:10:29+00:00",
+      "early_signal": 48,
+      "headline": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
+      "id": "1ddfd114839a7f13f8fc",
+      "last_seen_at": "2026-08-18T08:54:28.534047+00:00",
+      "score": 49,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T08:10:29+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWl5MHpJV0pPZENUSE1FNHotcDlhaXFQd3JjQ2pLY1cwbURycGFmSDhtT2NZQjZnYWZPeUZlT1dFd1RaTUhES2VvTHIwMnlTOVhSaXd2Wkk4TGM1ZjZNc0ZsMklYR2t3UC1ocGRIU3VvTmNFdkpnSnlOQlpjaUczTF9VY0wzaV9fT084SGstZHBhOWttRjFKOXVEQzZBSnFwdEE?oc=5"
+        }
+      ],
+      "summary": "Fortinet boosts AI agent security with Virtue AI takeover Telecompaper"
     }
   ],
   "processed_urls": {
@@ -6150,6 +6172,7 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVlWVlo3VDJFcXdoOHRnNV9ndXhRWVA3STNyMG92cGtoRXBLbWJGaEFCZ2NGLVBaNWlsaTRrYXgzbTNxWVN5SW1UQl9BQmtrOVdyclVxSHVnQ19ySXk0bUNqbUw0MjdnQUs1NTFwZGZNQTN6c050NWxjN2k4TlQzQ1NQUDhyNXlJaHh1RGVHSFZMMXZ5cUFoQWN0MV9XRTl3?oc=5": "2026-08-11T21:30:01.658642+00:00",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1ZhOWE4eXF0LTdKWVpkY2JWSWZFOTRtTk1Rd2RkRTBDdkFidjZqZGpVZkJpMXlMaHVjX2Mzd0VqcUROREVoMUg3TU9CRllWY0ZrVk1hRU9NNFdJNEVDUTE2U01LeUYxSTdkSDBUR0hRWGhSaGRQS2M5LXNaQlVSbS1SS0V1VFZkTENHSUk4aU9mWlNJclhwWEpoSFd2enFFLVE?oc=5": "2026-08-13T09:34:33.152437+00:00",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanlrWExCc2s3VnNBVW00b0xwQ2lqRWxnQzlITDF4d3JjQno3U2gzRG9LQ0NQeElvek1HYUpRWk1ZMUJxRm85TURBejhOaTlwYVdQaFVTZ1pSdHh3WXZpR3dtUEM4YngzdUw5UEptQmFjZ1ByaDFPc0lObmZ0U3ROVEN0TWpUZW5CZDYwUlhoNWxoZXpCdnVjWjQ4SzYxOXJWTnc?oc=5": "2026-08-13T16:11:56.382256+00:00",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWl5MHpJV0pPZENUSE1FNHotcDlhaXFQd3JjQ2pLY1cwbURycGFmSDhtT2NZQjZnYWZPeUZlT1dFd1RaTUhES2VvTHIwMnlTOVhSaXd2Wkk4TGM1ZjZNc0ZsMklYR2t3UC1ocGRIU3VvTmNFdkpnSnlOQlpjaUczTF9VY0wzaV9fT084SGstZHBhOWttRjFKOXVEQzZBSnFwdEE?oc=5": "2026-08-18T08:54:28.530118+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0gtSGk5ZTNBT1dLRVdBT3JvTEtiSmNPS2sxMHJoVG1PRmxaWnBsSTdnQzJlajhPTnhfeEFSQWRVcC1ybDFad29MZnVfV3VFeE9IWnF5U2V6LUIwbVcxWUJWUzFmV1k5T0tPZFVqaThrSjkzQURKRU1YZFRkdTl6WERKRnlLa1YxNThzbmF0Wk5UTXJUb2FzQzZuckEwY2JvbmlN?oc=5": "2026-08-14T17:12:00.140572+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmVFSzFuVmdReS0wZXZxMDJKRW5JdW5CcFE2VEhDTG9OUkhkamM5d25TWTRpSy1lNm4zX1V5bHlPZDZIbXpXMi1vQ0VwZEY1aHdCeHgwYVZZVzU2NGQzeG9JbEJYaHRsWmM0UVJZbWtsSERzby1OVmZxSVFfeUdiY1lfLU95MEp0blZJRnRpS0habVNfZlFkVHg2YWJscHhxU2tF?oc=5": "2026-08-11T13:43:42.367602+00:00",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5": "2026-08-13T20:21:34.800097+00:00",
@@ -6331,6 +6354,7 @@
   "sent_alerts": {
     "digest:10826f8b7af03a9fb47b": "2026-08-09T04:07:58.011417+00:00",
     "digest:14b8781d3b4657cbc431": "2026-08-11T16:37:01.551537+00:00",
+    "digest:1ddfd114839a7f13f8fc": "2026-08-18T08:54:29.456980+00:00",
     "digest:1fb9fed6ee627c11454e": "2026-08-11T16:37:01.551516+00:00",
     "digest:229d9c201df76cd8b4f7": "2026-08-13T03:16:18.197552+00:00",
     "digest:232372631481054baae2": "2026-08-11T19:47:33.743819+00:00",
@@ -6390,67 +6414,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T07:55:06.786567+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-18T08:54:27.543063+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T07:55:07.326910+00:00",
+      "checked_at": "2026-08-18T08:54:28.088903+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T07:54:19.748686+00:00",
+      "checked_at": "2026-08-18T08:53:55.436400+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T07:54:21.232951+00:00",
+      "checked_at": "2026-08-18T08:53:56.939493+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T07:54:20.973742+00:00",
+      "checked_at": "2026-08-18T08:53:56.761438+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T07:54:23.448105+00:00",
+      "checked_at": "2026-08-18T08:54:00.727248+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T07:54:24.159355+00:00",
+      "checked_at": "2026-08-18T08:54:01.402438+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T07:54:21.871236+00:00",
+      "checked_at": "2026-08-18T08:53:57.289837+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T07:54:27.351269+00:00",
+      "checked_at": "2026-08-18T08:54:04.542827+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T07:54:20.171529+00:00",
+      "checked_at": "2026-08-18T08:53:55.999245+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T07:54:20.456184+00:00",
+      "checked_at": "2026-08-18T08:53:56.362156+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T07:54:19.302202+00:00",
+      "checked_at": "2026-08-18T08:53:55.073939+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T07:55:07.960804+00:00",
+      "checked_at": "2026-08-18T08:54:28.521539+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
