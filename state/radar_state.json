@@ -5558,11 +5558,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-17T01:24:30+00:00",
-      "early_signal": 68,
+      "early_signal": 67,
       "headline": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment - The Fast Mode",
       "id": "11e2e7ade289badf03fd",
       "last_seen_at": "2026-08-18T11:10:33.880529+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -6068,11 +6068,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 59,
+      "early_signal": 57,
       "headline": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "id": "0143b5b8c5c04389bb3a",
       "last_seen_at": "2026-08-18T12:02:02.730887+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -6121,11 +6121,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T13:00:00+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Portnox adds Microsoft Defender integration to police AI agent access - SiliconANGLE",
       "id": "9ec7a92d46bf22c54413",
       "last_seen_at": "2026-08-18T13:08:23.157380+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -6741,67 +6741,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T17:43:37.432218+00:00",
+      "checked_at": "2026-08-18T18:03:36.138385+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T17:43:38.055783+00:00",
+      "checked_at": "2026-08-18T18:03:36.752845+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T17:43:16.908313+00:00",
+      "checked_at": "2026-08-18T18:02:53.894341+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T17:43:18.031110+00:00",
+      "checked_at": "2026-08-18T18:02:55.132856+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T17:43:17.890752+00:00",
+      "checked_at": "2026-08-18T18:02:54.929040+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T17:43:20.351569+00:00",
+      "checked_at": "2026-08-18T18:03:02.638179+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T17:43:21.245720+00:00",
+      "checked_at": "2026-08-18T18:03:03.452128+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T17:43:18.354441+00:00",
+      "checked_at": "2026-08-18T18:02:55.656844+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T17:43:24.415916+00:00",
+      "checked_at": "2026-08-18T18:03:06.661577+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T17:43:17.262924+00:00",
+      "checked_at": "2026-08-18T18:02:54.286985+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T17:43:17.482896+00:00",
+      "checked_at": "2026-08-18T18:02:54.595851+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T17:43:16.516132+00:00",
+      "checked_at": "2026-08-18T18:02:53.555962+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T17:43:39.292209+00:00",
+      "checked_at": "2026-08-18T18:03:37.266720+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
