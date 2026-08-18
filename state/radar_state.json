@@ -5481,7 +5481,7 @@
       "early_signal": 51,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
-      "last_seen_at": "2026-08-18T13:08:23.161139+00:00",
+      "last_seen_at": "2026-08-18T18:57:28.943796+00:00",
       "score": 39,
       "sources": [
         {
@@ -5528,6 +5528,15 @@
           "source_type": "google_news",
           "title": "Alibaba\u2019s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu - South China Morning Post",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T18:25:22+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI Tightens AI Model Safety Rules and Pauses Its Largest Frontier Training Cycle - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56WUxVaFFwSXZ0TTNGbTd6SDBzVUtyVHhNMTJWdFdDRkhMQTlTb1VFdUx6cmRyNGU3TThuY25KSFYzT3lTRUdXRHNQSXV0T1c3NUc0RFRvOTdVYktHeHQ1bkVwMTZzQ0k?oc=5"
         }
       ],
       "summary": "How AI Models From OpenAI and Anthropic Went Rogue WSJ"
@@ -5669,11 +5678,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T11:38:29+00:00",
-      "early_signal": 57,
+      "early_signal": 55,
       "headline": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - factmr.com",
       "id": "b941a1290ab25a820f5b",
       "last_seen_at": "2026-08-18T14:53:15.039308+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -5975,11 +5984,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T22:12:00+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push - CoinDesk",
       "id": "c709c8b86de8f93a757a",
       "last_seen_at": "2026-08-18T12:02:02.734912+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -6046,11 +6055,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:17+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "\u201cParanoid\u201d AI agents deploy killer malware against one another, Anthropic says - Cybernews",
       "id": "f9eddf53ff7c3e2a5ab1",
       "last_seen_at": "2026-08-18T10:46:52.195785+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -6143,11 +6152,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:00+00:00",
-      "early_signal": 50,
+      "early_signal": 48,
       "headline": "The Powerful Chinese AI Model Experts Warned About\u2014and Waited for\u2014Is Here - WIRED",
       "id": "33d56eada294cbb4a7fa",
       "last_seen_at": "2026-08-18T16:13:08.270568+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -6174,11 +6183,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T07:00:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "id": "4f21f073a074206b4f59",
       "last_seen_at": "2026-08-18T16:50:07.163755+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -6196,11 +6205,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:00:05+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
       "id": "0f180ff7afc40e9c27d9",
       "last_seen_at": "2026-08-18T17:43:39.302271+00:00",
-      "score": 52,
+      "score": 51,
       "sources": [
         {
           "media_url": null,
@@ -6213,6 +6222,50 @@
         }
       ],
       "summary": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems South China Morning Post"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-18T11:00:00+00:00",
+      "early_signal": 49,
+      "headline": "Pacing model development in an era of cyber-critical capabilities",
+      "id": "864415652d44757c44bd",
+      "last_seen_at": "2026-08-18T18:57:28.937482+00:00",
+      "score": 53,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T11:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+        }
+      ],
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-18T12:14:22+00:00",
+      "early_signal": 44,
+      "headline": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite - Davis Wright Tremaine",
+      "id": "2312622a875cf776ec9c",
+      "last_seen_at": "2026-08-18T18:57:28.940840+00:00",
+      "score": 42,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T12:14:22+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite - Davis Wright Tremaine",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0VZQmVpMzJkejR3Zk1Vdng1UHRDUHdOUW1PbG1SOUFiQ3BoTU9FMEFTLWVZWWk0a0NWaFBKLVJmbWlfaVRHS1U2VkNGUDJBQzB6d1cyS3h6STQ5T0NkSHJ2U0VoQm9oMXA2dURlZ0JSYzY1bFlLMlh0VGhldmwwQVdiSEZsSjFFZWlJRzZjQlg?oc=5"
+        }
+      ],
+      "summary": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite Davis Wright Tremaine"
     }
   ],
   "processed_urls": {
@@ -6298,6 +6351,7 @@
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0FlRWc2ejFsVVFSZ0VVLUtPUzBLWXNWSVp1RnVsRV90ZXZpUzQwbTk3SzloMDktOFBVMndOMkJPd3gwM2g0bjNhLVYzX3ltWFMxbHV0bS1ZYVBiQjE0RQ?oc=5": "2026-08-10T03:00:21.450032+00:00",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JdF91X3BobjJ6TjBmSnlDVkZ1eFZKWnZqMG1ZU2ZXRlFiV3dxczlZLXJ4MmpocnlSaktVZHlVNHJZenF1Z09PRUJ5bmY3NWtvVlVXYm1UR1JQQllmSVN0MzJR?oc=5": "2026-08-16T23:34:58.898998+00:00",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYlpSY18wMlhCT0F5VmRUQTVTR09BMk1JVC1CM0FXSUhidnFpQm1NSUJuT3ZmX3VIY1AtbG1fSmY5cmd5RUxkVXd3TmhlVlJWVHFPa1VCNFk5UldBT0JwemxR?oc=5": "2026-08-13T06:45:32.668946+00:00",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56WUxVaFFwSXZ0TTNGbTd6SDBzVUtyVHhNMTJWdFdDRkhMQTlTb1VFdUx6cmRyNGU3TThuY25KSFYzT3lTRUdXRHNQSXV0T1c3NUc0RFRvOTdVYktHeHQ1bkVwMTZzQ0k?oc=5": "2026-08-18T18:57:28.933734+00:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NMkw2VjgydlRtblhoaTNvQ2lWWFJFT3p1ZFNTQmpfUDVaNnJKOWlfdkE1di1famdkTnhRMDZaYmZvVW9hWXk4TWxOVGlmSkdEYVc3TlpGNEJvUGg4cGtYNlpEQVpQTVU?oc=5": "2026-08-12T09:32:45.384913+00:00",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vWW9IODA5TnBIdmxKRUc0ODhYb2RKZGdyQmU2R0twZkNEX0xVY3pJczRJbGZnX2o1M0dOVW5WandFUDNwY1F0bXdHbWVQMlRNaGR0UHFsUFdoMFdzYnMwLXFuRlRhVm8?oc=5": "2026-08-12T03:11:51.411155+00:00",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ?oc=5": "2026-08-13T18:08:23.609190+00:00",
@@ -6423,6 +6477,7 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEx3dTFaeDJuXzJTOXRxYmtxYUFlYTk1UTVxX2F3RVg5c2lncFZHQm5TS3hvTEJaUzFZUk4tU0ZKNUtSZy1aU1dSY2JaYkRDQ05aSDNOUTZOeWVpUG1ZNjJ5a3lqLUF5VUZ4b0JQcWRIVzFCcGVCTm5GbzNkT3p6eXZPSHhCZHhrWWNCM0I1MUo?oc=5": "2026-08-10T21:02:43.294238+00:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXBqdDVTM1NvbTBRSDlURGNMR0JFUmNQZGZ1LTRJNEo0VEl5NnhoODJ2RjBkN0Z6ZFJPZlk2QjUwX0xTNXpLQ29FRzRfcmxJQmhkNWFfUW5lNG9hTnhlNWRiYWVGekw2NTJRTGFzY3hZc2paRjBJVXh3OFlCZDFVWVd5ZHIySkRuZ0tVRUNQUHg?oc=5": "2026-08-18T14:53:15.031719+00:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5": "2026-08-16T17:34:58.751055+00:00",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0VZQmVpMzJkejR3Zk1Vdng1UHRDUHdOUW1PbG1SOUFiQ3BoTU9FMEFTLWVZWWk0a0NWaFBKLVJmbWlfaVRHS1U2VkNGUDJBQzB6d1cyS3h6STQ5T0NkSHJ2U0VoQm9oMXA2dURlZ0JSYzY1bFlLMlh0VGhldmwwQVdiSEZsSjFFZWlJRzZjQlg?oc=5": "2026-08-18T18:57:28.932976+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkduRjE0c21FTnFpTmRxTERKVXRUTTlSZEFVSWhtWDlsVmZfajlCYUZhZ1BET05zM2NEbGZjV3dzM3lXWG5rdDF0TDVIS2ppRHZ0cFFwTURrWVV6eDkwTnFWdk5uR1dVaHVlbGx5SF94aTNNTFktV1BXelVGUUZrd3d0UnhMa3ZmMnhTLUFMMWRWUQ?oc=5": "2026-08-09T19:49:22.624925+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkMtZ09yejQtRGNpeEI5Rlk4QXR3UWpaQVhaeEl3aW9pQ29nQ3RVWDZzMU1KZnpSRlpUVlA5VzVKYURKeS1PSmpVLTJvU201enpYZDVScHUxRGxyeEdYaXVTUTdKZGJ0QTBnZVA0czdwT0NaVnBic0F1eVNlbzdzMWl2WTBoRUlRNDhLUFduei1XZw?oc=5": "2026-08-14T19:14:47.047147+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHpUTmUzX0NjR2lKVHduQWZxSVprMURUTXZuNml3WVE3OTA0WU5BeFVWcGFiNmNQZWZKa1VSa1Q2MWVFbXdQVmZQTUp1aWtqY2swRGRGSk1vZ2tnd2FTemszVEVKYlpPZndhdWMyRFpRNzhxUE9yNW9qZ0R4UGVmcXBZQ2JsYnM4M1Bnbl9lUUFQZw?oc=5": "2026-08-18T15:47:23.185753+00:00",
@@ -6637,6 +6692,7 @@
     "https://openai.com/index/ntt-data": "2026-08-09T04:07:57.371508+00:00",
     "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": "2026-08-09T04:07:57.369870+00:00",
     "https://openai.com/index/openai-joins-ports-pike-project": "2026-08-17T13:06:47.771422+00:00",
+    "https://openai.com/index/pacing-model-development-cyber-capabilities": "2026-08-18T18:57:28.927672+00:00",
     "https://openai.com/index/partnering-with-codeai": "2026-08-18T11:10:33.868181+00:00",
     "https://openai.com/index/premium-seats-chatgpt-business": "2026-08-10T17:09:36.138503+00:00",
     "https://openai.com/index/previewing-ultrafast": "2026-08-13T17:13:00.080875+00:00",
@@ -6705,6 +6761,7 @@
     "digest:7b667b68500467797562": "2026-08-14T12:29:10.882140+00:00",
     "digest:7f54a453f48e9d820daf": "2026-08-09T04:07:58.011408+00:00",
     "digest:8132ecf3e3582b0ad10c": "2026-08-13T20:21:35.478903+00:00",
+    "digest:864415652d44757c44bd": "2026-08-18T18:57:29.537620+00:00",
     "digest:86b89cd15ab241368512": "2026-08-11T13:43:43.178904+00:00",
     "digest:87c52003fa4381fde7f6": "2026-08-09T04:07:58.011412+00:00",
     "digest:8bd59501920e6dcea6d3": "2026-08-09T04:32:46.199073+00:00",
@@ -6741,67 +6798,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T18:03:36.138385+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-18T18:57:27.552915+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T18:03:36.752845+00:00",
+      "checked_at": "2026-08-18T18:57:28.257520+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T18:02:53.894341+00:00",
+      "checked_at": "2026-08-18T18:56:42.550952+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T18:02:55.132856+00:00",
+      "checked_at": "2026-08-18T18:56:43.848146+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T18:02:54.929040+00:00",
+      "checked_at": "2026-08-18T18:56:43.615107+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T18:03:02.638179+00:00",
+      "checked_at": "2026-08-18T18:56:46.030144+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T18:03:03.452128+00:00",
+      "checked_at": "2026-08-18T18:56:46.672497+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T18:02:55.656844+00:00",
+      "checked_at": "2026-08-18T18:56:44.488110+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T18:03:06.661577+00:00",
+      "checked_at": "2026-08-18T18:56:49.913909+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T18:02:54.286985+00:00",
+      "checked_at": "2026-08-18T18:56:42.947127+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T18:02:54.595851+00:00",
+      "checked_at": "2026-08-18T18:56:43.180537+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T18:02:53.555962+00:00",
+      "checked_at": "2026-08-18T18:56:42.270601+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T18:03:37.266720+00:00",
+      "checked_at": "2026-08-18T18:57:28.927458+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
