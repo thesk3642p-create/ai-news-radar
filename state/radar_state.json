@@ -4620,11 +4620,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-13T09:00:00+00:00",
-      "early_signal": 19,
+      "early_signal": 17,
       "headline": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
       "id": "5c892a50e4e319ea6508",
       "last_seen_at": "2026-08-13T16:11:56.385593+00:00",
-      "score": 21,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -5456,11 +5456,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:05+00:00",
-      "early_signal": 26,
+      "early_signal": 24,
       "headline": "Anthropic Multi-Agent Systems Sabotage and Collusion - The Neuron",
       "id": "b2be5c59b244c87dd2aa",
       "last_seen_at": "2026-08-16T16:42:55.751927+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -5478,11 +5478,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T16:03:00+00:00",
-      "early_signal": 51,
+      "early_signal": 49,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
-      "last_seen_at": "2026-08-18T18:57:28.943796+00:00",
-      "score": 39,
+      "last_seen_at": "2026-08-18T21:58:32.764474+00:00",
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -5537,6 +5537,15 @@
           "source_type": "google_news",
           "title": "OpenAI Tightens AI Model Safety Rules and Pauses Its Largest Frontier Training Cycle - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56WUxVaFFwSXZ0TTNGbTd6SDBzVUtyVHhNMTJWdFdDRkhMQTlTb1VFdUx6cmRyNGU3TThuY25KSFYzT3lTRUdXRHNQSXV0T1c3NUc0RFRvOTdVYktHeHQ1bkVwMTZzQ0k?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-18T18:33:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue - wired.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5"
         }
       ],
       "summary": "How AI Models From OpenAI and Anthropic Went Rogue WSJ"
@@ -5785,11 +5794,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:30:00+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "The Defender\u2019s Window",
       "id": "ede34bb3a37212824fbf",
       "last_seen_at": "2026-08-17T13:06:47.782764+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -6117,11 +6126,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T10:13:38+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "AI Agent Settlement Layer Powers Trustworthy Autonomous Deals - The Cryptonomist",
       "id": "048ec91f88f838f2dcc3",
       "last_seen_at": "2026-08-18T11:10:33.890855+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -6289,11 +6298,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T19:03:27+00:00",
-      "early_signal": 54,
+      "early_signal": 53,
       "headline": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
       "id": "6dcac6ea96e237720a59",
       "last_seen_at": "2026-08-18T21:00:56.839273+00:00",
-      "score": 53,
+      "score": 52,
       "sources": [
         {
           "media_url": null,
@@ -6342,11 +6351,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T19:00:00+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Strengthening Democratic Oversight in National Security",
       "id": "de07534587e1dc321006",
       "last_seen_at": "2026-08-18T20:41:14.465690+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -6597,6 +6606,7 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlNUME1sSG0ydWl1aS1nSlpUWlhTeG5ZLWdkQml4XzZHTlVoVlVFMlJVN0xsel92dVEzeTR3ZjctVU5EMTRjaWEzVnpPU0pFUkQ3eDFCU2lWbEdJcXhfeXpsMVlQZ0NzV09UNncwWF9ROXUzOXNxR3FMZG41N2ZaWWFXR2tMZ044bXJ6NXpsWVk5Nk5sU0lXX9IBngFBVV95cUxPOHF2MHFYWHhpUXdtaWlGc25TUkdTNEwzaWtzZzhvZVBNMzZ2dXM4SnUtWHhDckZ0RU1welp1UjYyQ19pSmN5eFQ4Z3ZaVUh5YmtNam02aVhkVDVhNW03QVdSVnBMVHhQUjlBbnU0RjRSbXRaSUI1cnBsSG5SeXg5S05mNlJ2bWVLWjR2YlBqeDRZNXA5UWt0eGRYN0w4QQ?oc=5": "2026-08-14T12:29:10.166860+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHlOcW8tWG5ZMDhfZkxmSF9RQXViWDlod1FkTHp6SGJXejJiVExLcjlld3hpOHd5eV8xSS1Pdl9oUk9NWmhPeTdla3VUTV9sZkpfMHV5anUwT01WdmxJTmlnZC1xUXZWUFgwTE50SlBoNk5uaVFndzg1TGFHMlQ2WnJvZkFseG9QWjE2NVc0VkxyRGJ4QXdXdw?oc=5": "2026-08-10T04:55:05.393874+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxORENYaDFMdUlVZVVRU3pDMFNScTFoT05tbG1COHBFM1dab2NsU3lkMEl5a2Qxd29PZ09EdDZNSXZNenJHOFZ4RDMzbVpXOGEtWkw5V181U3E0cHhoUDBiTmxBMmc1VHY0Xy1hRVJEaG0tX09EN0VSZzJjandSSHZmbTl0dFUxSWFpTnNGbGRuN3YtbU54dGRDXw?oc=5": "2026-08-09T15:10:38.718443+00:00",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTksybl8xelFTR0VEYlhGbnNxeGx6SHFFeUVYWW4xZzRwcE1jSEN4eDlQbzJJUTkyVlNNSUZFcF9lU3NnNnU4bDdSTHg3ek1iYVlZRjhhWXdNdE1jbC1aWkdqS2xxT25ldzNrNmJmNUZWY1hjRC1yb2s5QXgyTlJKSmNZNmxtOVpwTlM5Y1ZmaWtvd3NvOGVqWg?oc=5": "2026-08-18T21:58:32.760497+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVBQOHl1M0tUbzk5U0RKZ3FKWUxsQXV2eE5yOUYwV0hYUWxad3JLUkJPVlp1czVYZTVSM1k2ZFZNcGZXYWVmdWp0eVFWWGpyNTc5Z0d0c19mYnJxak1oQ0xPX0VVU09HNG0wX0g5MjBIRjU1UTE2Q19tOFlTb0VBSVZ4YVFrcDhpNnZRdGc5T0lha3pKeG1qbw?oc=5": "2026-08-11T14:45:39.625907+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFZPU1hISnBnYzR6ZEI3dGI5cjZjVlBrYjFjY216MGdlbGZYYU9JanRoMXltempjY0dpcXJrQlBlUThYNVhqY2xzMDkyTnNIcnE5eEI1NE1Wczl2MWw0SHVzbHo5N1ZmUWJkMC1GSEdOX2d0TzNMRGZqWjI5cjZ2MW43ZWMyY0c2dmg1UVI4alN0RkVua0ZRLQ?oc=5": "2026-08-10T14:06:58.449457+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFo1TmJ1ZDNwOUpwZWpzaU92QnZSeS1XbTdfZkRkSEUxNlVzTklxQkhHbzBOdXUwRktaS21KSVU3XzRGS25VOThIZk44eW8xS205cEw3ODJYcGNfeFNuQy1PNmd0VGJwUTY0c1lFNUxWRVBKZzFhMFdsWG9IMGJ1NHBqZVdtekdLb0t4aEFkNmxDQ0Z5RFV0TNIBngFBVV95cUxPdWVaUEt5RnJjU05CVUpEeW1Gejg5UFRPRTl4Y3U1aTBwSnZ4bFFnQURLc2M5VDA1WjhkenJETE1YRHFNWENEd095SEFWZjJEZlFOZzlZR05DTjR5RlZBeWNWX0xMdy05LW9ma0tSQms4T0JuYmV4WkVrY1NsSjZqZ2V0QXNocHllU1FPYVJ2dG45WUMxd3NiTmZhN3NWZw?oc=5": "2026-08-10T21:02:43.294167+00:00",
@@ -6900,67 +6910,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-18T21:38:30.915352+00:00",
+      "checked_at": "2026-08-18T21:58:31.297027+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-18T21:38:31.521564+00:00",
+      "checked_at": "2026-08-18T21:58:31.874372+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-18T21:38:10.610602+00:00",
+      "checked_at": "2026-08-18T21:58:11.515038+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-18T21:38:11.827552+00:00",
+      "checked_at": "2026-08-18T21:58:12.687380+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-18T21:38:11.534403+00:00",
+      "checked_at": "2026-08-18T21:58:12.531047+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-18T21:38:14.268311+00:00",
+      "checked_at": "2026-08-18T21:58:14.906450+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-18T21:38:14.946356+00:00",
+      "checked_at": "2026-08-18T21:58:15.597137+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-18T21:38:12.590349+00:00",
+      "checked_at": "2026-08-18T21:58:13.232363+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-18T21:38:18.056530+00:00",
+      "checked_at": "2026-08-18T21:58:18.793204+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-18T21:38:10.864705+00:00",
+      "checked_at": "2026-08-18T21:58:11.937062+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-18T21:38:11.104304+00:00",
+      "checked_at": "2026-08-18T21:58:12.195864+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-18T21:38:10.298062+00:00",
+      "checked_at": "2026-08-18T21:58:11.069064+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-18T21:38:32.498285+00:00",
+      "checked_at": "2026-08-18T21:58:32.754986+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
