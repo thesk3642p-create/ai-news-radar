@@ -5499,7 +5499,7 @@
       "early_signal": 47,
       "headline": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "id": "ccd2d12812841090aeeb",
-      "last_seen_at": "2026-08-19T12:01:42.538657+00:00",
+      "last_seen_at": "2026-08-19T14:54:03.751562+00:00",
       "score": 37,
       "sources": [
         {
@@ -5600,6 +5600,15 @@
           "source_type": "google_news",
           "title": "OpenAI is slowing AI model development after a rogue agent hacked Hugging Face - qz.com",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ1lPWWZyUmlyUGFDVW1XU1dTSDZuVnZSVFRndDhwOFdpSmQzZ3pOaUZqaVB4VjZwOEF4c1YzWGFuTmNtdTRjbkxxYnlZQmZsN1JLYms1aVU4VGlmdXA3ekVtOGk4WWpOb3RnZ0xka3llRzZwNWs4alRR?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T08:17:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "15 Frontier AI Models Worth Watching in 2026 - Ranked and Benchmarked via AICC's Unified API - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmMzVWtfNWFaSUx1bmctVFJ5QWFhRUZsTmFKTTdENmdqWUdvaU1Da29TMndUN0REVG1LQ0ZlYTNxRkdweVIyQ3NkUlI3WTJMMXpJVURxNVVCeWNkVVhBN2ZNWG5zZXR3eFFFODJGbnhpdnJjOUhKMmF0Y0JIR0hyb0Z5dnB3YXpDMHVoNDhKZkR0NDRSVW01V1VLQ1ZJdEc1MHhfOFVYdUhKN2ZhWGdFT3lFSEhvb3BfbnNVM0Qyay1nZHlqbHM5YV9FTGo?oc=5"
         }
       ],
       "summary": "How AI Models From OpenAI and Anthropic Went Rogue WSJ"
@@ -6119,11 +6128,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T22:12:00+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push - CoinDesk",
       "id": "c709c8b86de8f93a757a",
       "last_seen_at": "2026-08-19T01:54:07.726251+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -6376,11 +6385,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:00:05+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
       "id": "0f180ff7afc40e9c27d9",
       "last_seen_at": "2026-08-19T10:46:59.094427+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -7091,6 +7100,7 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxORWpHVE1iYWxXRUcxbnk2QWdPMzRxZi1WU3h4S3ItaXAtOTI4QXJYUDZlanQ1NzU3RVBCMFhoRGpKcnNjX1hhdnhnU2l4VzV6bkxhbjJMWUc0eUw5Q0dCLVBMaG04VEItSzJ1azdJeUFNTlBTbWV1UWJxYjlHTm5BUU1LdzRvTkFXOWJNbzQwUFJUQnBucEdBV2JGVmdFY2lvOFJCY1Z1STV3VjJIUG5STW9zUjI3Z0pPdEVjUElQOWRscWR3WUVMTmxMONIBywFBVV95cUxPaE5kY3RhSWU5cVduT2xSZmE1UEJZcUEzNTFnQVFvRHJPR1g4RDFQSmVDRzVOU3hQQ1NRbnRIWUJud0dnTFJwMEFIUFo2UWs2QWhzNWduUDNXZElWV1RjS3gwNGgzQ1ZMVl9rLWdrLVBNcDdhR2V1TWZuVnlDSmxhUUhnaWZEal9KTVZHYWhfWU50TldRbDNHT1BFNE01ckhtY0JqRlBvMFVwa094bzVHLXdUcXhHOVNrUG1HV08xeWc1OS1oRGVydFpFMA?oc=5": "2026-08-14T11:29:12.434066+00:00",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Ca9IBywFBVV95cUxNekQyWHA4bjlBc09IbGwyajJaMEl1LVp0RXk0aWE5Q3hNWXlLUU5JcWxVRjg0ZHcwN05jN3pva3c1QzBjTjlJUl9CLWVVMkhxSjBCT2I0eFZhNkZwNDYwM0tVS3J1X1plS1J5bm02bzM4YWxPOEpXMzdhSEtRRkI0MzRYc3RFQUJRNmdid2lsMWRDM0tkcjFjUFlmZHBZdDZiR05CWkd0MHBFb3dZdHZCTHNCVjU3ZHlRMmM5TVhoTVlkZzBJV0x3UFRsdw?oc=5": "2026-08-18T17:43:39.298199+00:00",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5": "2026-08-18T13:08:23.152496+00:00",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmMzVWtfNWFaSUx1bmctVFJ5QWFhRUZsTmFKTTdENmdqWUdvaU1Da29TMndUN0REVG1LQ0ZlYTNxRkdweVIyQ3NkUlI3WTJMMXpJVURxNVVCeWNkVVhBN2ZNWG5zZXR3eFFFODJGbnhpdnJjOUhKMmF0Y0JIR0hyb0Z5dnB3YXpDMHVoNDhKZkR0NDRSVW01V1VLQ1ZJdEc1MHhfOFVYdUhKN2ZhWGdFT3lFSEhvb3BfbnNVM0Qyay1nZHlqbHM5YV9FTGo?oc=5": "2026-08-19T14:54:03.747266+00:00",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZVBtNHRXa3JNX3BEWUx1VThDbTNDQWxKUjF2ZzlnMDVWbmJVbm9SemVkaWtmTk9MU3RDMi0xbHMzY3ZHR2IzaDhYMzRhRGJEYWJlYUxGcENJTlAtLXpYOGdTSWlNb1pmNXRGYy1SeFZsNkNMYTBSMktaR2VSV1FYaUZxTE1aLUlZSVpLc19wandjd0FhNjlKNTB2UjdqMkdfN2kwcjBGMHk2b0pnNTRQTmUtcnJyQkFLaGd1M2tWVTRuSjBjM3pQaTBxU0lkdw?oc=5": "2026-08-11T02:28:45.890333+00:00",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE?oc=5": "2026-08-13T12:34:07.048066+00:00",
     "https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy": "2026-08-10T17:09:36.138826+00:00",
@@ -7245,67 +7255,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T13:58:11.955527+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-19T14:54:02.729889+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T13:58:12.435227+00:00",
+      "checked_at": "2026-08-19T14:54:03.298539+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T13:57:25.398456+00:00",
+      "checked_at": "2026-08-19T14:53:16.457096+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T13:57:26.734381+00:00",
+      "checked_at": "2026-08-19T14:53:17.494449+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T13:57:26.567050+00:00",
+      "checked_at": "2026-08-19T14:53:17.402247+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T13:57:30.591548+00:00",
+      "checked_at": "2026-08-19T14:53:23.150052+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T13:57:31.068966+00:00",
+      "checked_at": "2026-08-19T14:53:23.796516+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T13:57:27.277003+00:00",
+      "checked_at": "2026-08-19T14:53:17.900764+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T13:57:34.197912+00:00",
+      "checked_at": "2026-08-19T14:53:26.907637+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T13:57:25.861090+00:00",
+      "checked_at": "2026-08-19T14:53:16.820534+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T13:57:26.155118+00:00",
+      "checked_at": "2026-08-19T14:53:17.129157+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T13:57:25.093616+00:00",
+      "checked_at": "2026-08-19T14:53:16.104610+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T13:58:13.235622+00:00",
+      "checked_at": "2026-08-19T14:54:03.738801+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
