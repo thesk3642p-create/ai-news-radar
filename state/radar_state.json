@@ -6189,7 +6189,7 @@
       "early_signal": 55,
       "headline": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
       "id": "1ddfd114839a7f13f8fc",
-      "last_seen_at": "2026-08-19T17:11:50.645315+00:00",
+      "last_seen_at": "2026-08-19T17:59:33.809206+00:00",
       "score": 37,
       "sources": [
         {
@@ -6236,6 +6236,15 @@
           "source_type": "google_news",
           "title": "Oracle Health Expands Clinical AI Agent with Automated Coding, Dictation, and Chart Review - PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdERiQllDeXFjTjBYYU5TMFl6S1NLWktHRnpMUGVKVVlwdmdVRDVJcjl5MUMyNnN3M1JEOGtBVndiQUZacFNrU0J4SnJiYTNhZjR6cE5WQk1BZ1RKblpteGJtS1RLMjJ0cC1lWlF2WEN1LTZTb1hSSUVlRlBwZXluN3RpeDktQXdtMEY0U29Zd3lUOXFUNW9KWmFfZU5oZk43dmNfaF9kMlFLRUI4MnhkVGFhczA1OEtJMEhoZlpiSTFsRDdsWDJmdGEwSEpCak5PZTdKTGt0SzNCV2sw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T17:47:37+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Oracle Health upgrades AI agent with coding, charting features - TechTarget",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0hIMWF2ZUlzaVI0ZS1CMWp2cFlTX0dvcFFncUlLT1htaU1aOWdMZDZJdDdIQWx3dE96S25uRTdoVEdBUmxyajBYT0htV0RyWVhsVDRqU2pXTVF3VU51bjhaV3lsMjhjUXE2RFhnQk03TWgzZ0owcEQxY2hhRXI4RFRQbVRZQmJheUwxenFMdFBhNHJCMTMybkJPdnNGUEdxVE55Ty10RWFONGZyWThsZG9IWlBDNEQyZGc?oc=5"
         }
       ],
       "summary": "Fortinet boosts AI agent security with Virtue AI takeover Telecompaper"
@@ -6275,11 +6284,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 45,
       "headline": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "id": "0143b5b8c5c04389bb3a",
       "last_seen_at": "2026-08-18T12:02:02.730887+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -6452,11 +6461,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 55,
+      "early_signal": 53,
       "headline": "Pacing model development in an era of cyber-critical capabilities",
       "id": "864415652d44757c44bd",
       "last_seen_at": "2026-08-18T20:41:14.468496+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -6674,11 +6683,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T22:00:00+00:00",
-      "early_signal": 35,
+      "early_signal": 33,
       "headline": "ChatGPT Ads expands across Europe",
       "id": "762f464aac050cf6b285",
       "last_seen_at": "2026-08-19T05:47:05.112206+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -6762,11 +6771,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T13:04:00+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Palo Alto Networks Introduces Frontier AI Critical Defense Program - PR Newswire",
       "id": "cefbe35313acfaaaa5bb",
       "last_seen_at": "2026-08-19T15:46:54.191080+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -6784,11 +6793,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-19T19:00:00+00:00",
-      "early_signal": 55,
+      "early_signal": 47,
       "headline": "Offering Zero Data Retention for frontier models",
       "id": "e6abc48003e314e67261",
       "last_seen_at": "2026-08-19T17:40:57.617878+00:00",
-      "score": 60,
+      "score": 52,
       "sources": [
         {
           "media_url": null,
@@ -7179,6 +7188,7 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFZWUXFCVWlhN3JRVjQtNkRWakExRERpS2Q4Q1B4dEZVUUxMOGlHTWc5cG5lVUYxV3ZkRnZZRlZmNUk5NmpGRVpHbWtTWmo1TlhKY041VmJNZWJvaW9RWkxseEhsYzhGVHgwUDFFRC1sb1hiWktidTlRNTV5V1lXYnIwSlI2dEVMMnpHN0xDd2RIYkc1RG9xLUJGZWRKX0I0dUxtOUFRU0tlVWRkOVdJNGN2VDFRQ0xy?oc=5": "2026-08-10T12:32:44.202406+00:00",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0ZwZ1RPbmhiN1dVTXdRQVB6aXB0Y0pVNnY2YjZZUThjQll2NEEwaGxxVldrT2V2WDVfeUJ1ckdzQnZiSWN4YnhTbmRDbEUzN20wT2NoWVcxWUZ4Tmlva3hrdFJaTnVDYTdER3hQS3p1SUpQczJMc3JTM1puZU5hWXJYS3hFX240ajVMdjlwOVJHWjBvUjFUNzZ6UnRnY2xULWREMFc4QkNBck9oVkNObk1OdXFWZ29WOHc?oc=5": "2026-08-09T19:01:35.216211+00:00",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmdOUUVyWHVqVjA2TFBQOGpNWFptbTJjNWpNd0IyNFZhLXVvdnRoM1pXZ2N3ajFmZW5JXzRNdG1EU0pjR1JnRGRQbGZpaUpZS2x1ME1qOC1pajRlMmZqa2czTWdoaEJKdzJfQzNaVElRU01yUzh5Qno2dW5MZ013TnV1N2EwbFVGcXc0bUduYkRoeTFGbHFPTWJ1eTVZMUVOT1NieG9FY0Zaa0hMb3I0LVN6R2hBdTRqRXc?oc=5": "2026-08-11T21:30:01.659365+00:00",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0hIMWF2ZUlzaVI0ZS1CMWp2cFlTX0dvcFFncUlLT1htaU1aOWdMZDZJdDdIQWx3dE96S25uRTdoVEdBUmxyajBYT0htV0RyWVhsVDRqU2pXTVF3VU51bjhaV3lsMjhjUXE2RFhnQk03TWgzZ0owcEQxY2hhRXI4RFRQbVRZQmJheUwxenFMdFBhNHJCMTMybkJPdnNGUEdxVE55Ty10RWFONGZyWThsZG9IWlBDNEQyZGc?oc=5": "2026-08-19T17:59:33.805534+00:00",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEdwcjFfQ25Bd21HeGROMWZEV1M5NlN3bE43RWhUaVJMUnRiNHVWRkEzTGFaQm9PdHJ2cVBwSWYzSFpqU2VNUm00NThid2JqcjZjSkF3ZjVFYUZtaXVITFQ2S0M2VlFnTFdQWWJNVUQ0ODNtUnNwcm1kMXlnck1uQThZMy1rdzd3YVhRODdpV2psRi1nUjlJcDVyQThwX2pFTmk4cGJSMHZzTkVocHZHaTJadkUwbHE1V1E?oc=5": "2026-08-17T20:44:24.970696+00:00",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHJGeG0td0ZYaGNzeDhNZ3dDejNXZ1JzeTJNc2VISUNLXzZJMEh1Y1RCYjRUenFaYms4dm9WRmdTWlBzX0YzdlNQRHlha1dUN3hOa2l4VlhDajIzMGtrQmtGNmZNdFZ5ZHROZDhYQ0taZ3NjZURObXJZR2Y4eC1OVHpDZlctVlB1cDdnYXdwNFR5bmZmdzJLbU1teVVqODkxM2FPVy1sZUREcnpqTDZZLWJhVVlfM1B3Znc?oc=5": "2026-08-10T14:06:58.450200+00:00",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQm9nNjVXaC1GRkxBRWFrdFREX1FjaFFWR0xCbURwRG5nc0QwT25iY3YtcHg4TG9vRU00TGlEM1JfTXpDVjduOUl1LVBsYVp2aHpDMV9DZHZBWkMyYW9OX25tNzJQaXVXZmNnNDNmeUtFZlFEV2hhVVg2dFAyYnhoQWxweTJMR1Nsc0l6V2dud1RJbEY5ZlFSRjNFc3c1bHpYckt4RldpQmI3TThNckZsbTc1QWdhajhfSXhr?oc=5": "2026-08-16T21:57:05.804476+00:00",
@@ -7387,67 +7397,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T17:40:56.016506+00:00",
+      "checked_at": "2026-08-19T17:59:32.188858+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T17:40:56.652474+00:00",
+      "checked_at": "2026-08-19T17:59:32.812518+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T17:40:36.534926+00:00",
+      "checked_at": "2026-08-19T17:59:14.153644+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T17:40:37.530711+00:00",
+      "checked_at": "2026-08-19T17:59:15.408397+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T17:40:37.392326+00:00",
+      "checked_at": "2026-08-19T17:59:15.109695+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T17:40:40.206288+00:00",
+      "checked_at": "2026-08-19T17:59:17.690866+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T17:40:40.747989+00:00",
+      "checked_at": "2026-08-19T17:59:18.342564+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T17:40:37.989176+00:00",
+      "checked_at": "2026-08-19T17:59:15.935250+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T17:40:43.930453+00:00",
+      "checked_at": "2026-08-19T17:59:21.542733+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T17:40:36.901801+00:00",
+      "checked_at": "2026-08-19T17:59:14.461024+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T17:40:37.091499+00:00",
+      "checked_at": "2026-08-19T17:59:14.702752+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T17:40:36.273384+00:00",
+      "checked_at": "2026-08-19T17:59:13.913291+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T17:40:57.610540+00:00",
+      "checked_at": "2026-08-19T17:59:33.799885+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
