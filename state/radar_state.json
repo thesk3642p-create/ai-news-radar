@@ -5100,11 +5100,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-14T07:47:02+00:00",
-      "early_signal": 20,
+      "early_signal": 18,
       "headline": "AI Agents Ease Simulink Model Adoption Process - Design News",
       "id": "e398e69e27e04140f3e9",
       "last_seen_at": "2026-08-14T12:29:10.173710+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -5862,11 +5862,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 49,
+      "early_signal": 47,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-19T16:47:13.169904+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -5920,11 +5920,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:30:00+00:00",
-      "early_signal": 31,
+      "early_signal": 29,
       "headline": "The Defender\u2019s Window",
       "id": "ede34bb3a37212824fbf",
       "last_seen_at": "2026-08-17T13:06:47.782764+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -6013,11 +6013,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T14:44:16+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
       "last_seen_at": "2026-08-19T08:55:14.810228+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -6173,11 +6173,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T22:12:00+00:00",
-      "early_signal": 43,
+      "early_signal": 42,
       "headline": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push - CoinDesk",
       "id": "c709c8b86de8f93a757a",
       "last_seen_at": "2026-08-19T01:54:07.726251+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -6280,11 +6280,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:17+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "\u201cParanoid\u201d AI agents deploy killer malware against one another, Anthropic says - Cybernews",
       "id": "f9eddf53ff7c3e2a5ab1",
       "last_seen_at": "2026-08-19T05:47:05.116147+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -6404,11 +6404,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T09:00:00+00:00",
-      "early_signal": 54,
+      "early_signal": 52,
       "headline": "The Powerful Chinese AI Model Experts Warned About\u2014and Waited for\u2014Is Here - WIRED",
       "id": "33d56eada294cbb4a7fa",
       "last_seen_at": "2026-08-19T18:54:12.688368+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -6562,7 +6562,7 @@
       "early_signal": 58,
       "headline": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
       "id": "6dcac6ea96e237720a59",
-      "last_seen_at": "2026-08-19T16:12:45.525715+00:00",
+      "last_seen_at": "2026-08-19T20:46:23.556748+00:00",
       "score": 44,
       "sources": [
         {
@@ -6645,6 +6645,15 @@
           "source_type": "google_news",
           "title": "OpenAI Tightens AI Safeguards Following Hugging Face Incident - Infosecurity Magazine",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CeU9nVWh6eVdMLU85V1RrUU4zbVlaSVRJZ0FreUdsRVdRYUl6TTdqTjVydV9rN3Rpbm01bmdEclkweEI0bXZxVDMyRjhmemdyNU1vbW9aeWZhdzluLWU3cHRUNzRzbFZuWm02SURxODB1OTBJWjBfeG90M09kZw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T11:19:12+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI slows down training of advanced AI after cyber-attack - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3lWUFJhTEpMMW5EVlZIWVl2LVRxREtoMUZyRDJTU2FKbmFveEhfY1NCMmNuNkxPTEpyYk9RbzRNcmV6ak9XaEY3ZE5CU2EzckZSYXV4RnQwdw?oc=5"
         }
       ],
       "summary": "OpenAI slows model training to bolster security after Hugging Face hack Reuters"
@@ -6878,11 +6887,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:35:03+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok - Forbes",
       "id": "3ba06e3f0e900be21aa7",
       "last_seen_at": "2026-08-19T19:40:56.677215+00:00",
-      "score": 54,
+      "score": 53,
       "sources": [
         {
           "media_url": null,
@@ -6999,6 +7008,7 @@
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10a2dHMXpvUTU2S0ptMUs3b0ZVZjJMbFotVGNxdUFBbUZrZkcwbWFuZXlwM0hnaVdtYnd4YmRqd2RwX3ByU0tSTExNS2tkUzBXcE5DOFIxU2E?oc=5": "2026-08-12T18:07:42.817969+00:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWDF5UlJZdU1PbERZLUlidVVYcFZsZTVieDVGaGdtM3QyUDNBclFWbVlEWndHRy1NYndWcFFkUjNNeFJwNTJ6STNnYlhiRXVDSHd2clE0YmVpdw?oc=5": "2026-08-15T10:39:03.875286+00:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bFY3SWo5NXRzXzBYaVFmbHd0RDdoSWx4dWx0U2JYY1BPTFlzT2N5X3lZVS1mdnNmNGl6Z0xUYUcyZGgtWENCM1hRSWFMYlg5SzVBeWpJeVVoUQ?oc=5": "2026-08-10T00:38:15.335572+00:00",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3lWUFJhTEpMMW5EVlZIWVl2LVRxREtoMUZyRDJTU2FKbmFveEhfY1NCMmNuNkxPTEpyYk9RbzRNcmV6ak9XaEY3ZE5CU2EzckZSYXV4RnQwdw?oc=5": "2026-08-19T20:46:23.552155+00:00",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44WmU2YnBkY1d0d0pjdk5WVThmY2pkRGZBMTE3NlUwb21jcUNNVDVxN3h3TVR0OHJBZThGTy1RaVdPTUMzb3pEOTl0TTgwT284cEhiekZPSlAxX3hfaEFR?oc=5": "2026-08-19T13:09:20.831355+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbkRVdmZEYl9DYWs2eGV3Um5iTWl2WEU3S3drdG01VVVsRVN2WkluN3NvbE9jeDlnMm5Qd29teVJLN2owMGFwVkpVR0NHNGluaUpVS2VhQTBBeWpN?oc=5": "2026-08-11T23:24:47.002180+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQ3dCRlBvNzN6UGp2WExidnpqVzB3ZHNFUVIxd0JGdjN6WVM3QVB1UjMzeXBoM3NKYTJiTksxRWM0cUUtdGcyX3VrQjNTLVpyNmF2VWRILUg5SnZf?oc=5": "2026-08-17T07:16:50.549757+00:00",
@@ -7515,67 +7525,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T20:00:29.128975+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-19T20:46:22.348472+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T20:00:29.730074+00:00",
+      "checked_at": "2026-08-19T20:46:22.918076+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T19:59:40.728943+00:00",
+      "checked_at": "2026-08-19T20:45:35.784185+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T19:59:43.205858+00:00",
+      "checked_at": "2026-08-19T20:45:36.954008+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T19:59:42.807746+00:00",
+      "checked_at": "2026-08-19T20:45:36.764907+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T19:59:45.501718+00:00",
+      "checked_at": "2026-08-19T20:45:39.406783+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T19:59:46.335346+00:00",
+      "checked_at": "2026-08-19T20:45:40.086442+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T19:59:43.804180+00:00",
+      "checked_at": "2026-08-19T20:45:37.543614+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T19:59:49.539688+00:00",
+      "checked_at": "2026-08-19T20:45:43.205310+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T19:59:41.552611+00:00",
+      "checked_at": "2026-08-19T20:45:36.098634+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T19:59:41.893448+00:00",
+      "checked_at": "2026-08-19T20:45:36.340669+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T19:59:40.430610+00:00",
+      "checked_at": "2026-08-19T20:45:35.373457+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T20:00:30.450331+00:00",
+      "checked_at": "2026-08-19T20:46:23.543942+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
