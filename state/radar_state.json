@@ -4904,11 +4904,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T22:37:00+00:00",
-      "early_signal": 20,
+      "early_signal": 18,
       "headline": "The Safety Reckoning Inside OpenAI - wired.com",
       "id": "6e50fc745455f52e9cc4",
       "last_seen_at": "2026-08-14T09:21:29.564118+00:00",
-      "score": 26,
+      "score": 25,
       "sources": [
         {
           "media_url": null,
@@ -5817,11 +5817,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 50,
+      "early_signal": 48,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-19T06:17:45.910243+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -5866,11 +5866,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:30:00+00:00",
-      "early_signal": 33,
+      "early_signal": 31,
       "headline": "The Defender\u2019s Window",
       "id": "ede34bb3a37212824fbf",
       "last_seen_at": "2026-08-17T13:06:47.782764+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -5910,11 +5910,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T12:49:30+00:00",
-      "early_signal": 43,
+      "early_signal": 42,
       "headline": "One Bug, Three Faces: Building a Performance Analysis AI Agent - HackerNoon",
       "id": "47a997aa10ee5c7d236c",
       "last_seen_at": "2026-08-18T16:13:08.267976+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -6079,11 +6079,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T00:07:40+00:00",
-      "early_signal": 30,
+      "early_signal": 28,
       "headline": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - VentureBeat",
       "id": "d1ecb60a8e2d957301c6",
       "last_seen_at": "2026-08-18T04:52:53.668699+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -6349,11 +6349,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:00:05+00:00",
-      "early_signal": 42,
+      "early_signal": 41,
       "headline": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
       "id": "0f180ff7afc40e9c27d9",
       "last_seen_at": "2026-08-19T10:46:59.094427+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -6411,11 +6411,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:14:22+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite - Davis Wright Tremaine",
       "id": "2312622a875cf776ec9c",
       "last_seen_at": "2026-08-18T18:57:28.940840+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6436,7 +6436,7 @@
       "early_signal": 63,
       "headline": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
       "id": "6dcac6ea96e237720a59",
-      "last_seen_at": "2026-08-19T09:50:14.551463+00:00",
+      "last_seen_at": "2026-08-19T11:41:06.608661+00:00",
       "score": 47,
       "sources": [
         {
@@ -6483,6 +6483,15 @@
           "source_type": "google_news",
           "title": "OpenAI slows down AI development after \u2018Hugging Face\u2019 incident - Techzine Global",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOE92MDdUWDZoOVFVbjhuWlpLMktmQWpZUUIwVUhUaHRQTzRaOVVBMDBZSFFtR1ROZ29fVFFhTll0SlRzMVJsOVozVm1lMFJBSURqWWVnWFEwUHRjWENqQXR1Z0FVeEQybUtpWXJXLTdqV09wVWljcDRoU05NZ0h3a01wS1VPQ2RvREdzSmc1T3NUdGlRN1hvZkR6djR5ZjJVemQwcGZtclBRQQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T11:18:10+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI Slows AI development After its AI Agent Hacks Hugging Face - ITP.net",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcU5ZYjZ2ZWdpQXlmUnJBZzVrMWloVFZERlpIVUxrWllLV0p1Zk1xbkxsbS1JVTMzdlBfSzh1anI4dXljeGZGTVRuNFFBOExQSGt6YWhyTVpCek5BWGMyajZxYV9PQmg3ZUJiZ1FOOGJ3dm83VWxnbUl1VENzbnc4d0Z3Tk9GanRNRFBUZWhVSVVmWWtXRDZUS2EyN0lCRjhf?oc=5"
         }
       ],
       "summary": "OpenAI slows model training to bolster security after Hugging Face hack Reuters"
@@ -6544,11 +6553,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T00:00:00+00:00",
-      "early_signal": 29,
+      "early_signal": 27,
       "headline": "How NVIDIA scales expertise with ChatGPT Work",
       "id": "20a5910dc8e670f17bea",
       "last_seen_at": "2026-08-18T23:36:18.501280+00:00",
-      "score": 28,
+      "score": 27,
       "sources": [
         {
           "media_url": null,
@@ -6870,6 +6879,7 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm1FTXBaT1h0M2VZV1lGVTVzbnlsMWtCeXBvUGJvSTdoZmFtR3F5NHAwNUVWZk9FeEdTQ2RDeTd6LW15XzRscy1memliM2xsVHJmQVNHSkxSZEF0OWRmcTFxRzY1bThYRUw5emg3TGNzSWFpTDdrWEs3WENDWXFzSzhsLWZtNFIwYVdySllLd1lGbHFoMFI1Q0M2TFRheXRj0gGnAUFVX3lxTE83M0kzV3gtUGFGcmo0X1RVTmdRQkhPbUJFV2hxQzZSdGhnWjFHRXhuRDNpay1Nb3UwaWEza3BxUkVFNVlzWDhONW9sOFBqS0dnajRRekc4dDZsMndHX1N3UXlYZUhKTnQ4RnpUNldWaU44emFRZUNUeUt6YWdZZWU0NWd5MkJpSFhGR0hlcElPRjFOM3JVSFlPMUJWM2Uwekg1aGNCcDBZ?oc=5": "2026-08-10T08:17:47.078910+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdRTjVSajlZTjJHVGtRMDltcHNZVUNJV3VSMTU0amd5bm1ONk16TG43NUh3ZkpRZFJvU3gwUF82TjhHeTZzUVZBTTVpSjRhd0MzR1RxUlNTNmtrUXNkZ3Mtb3VrQzJTOThyQUNXLWtZamNrV1RyLWFZU2ZDTjcwYU40RjNtWDZBMjVheld6NWZJRUpnbllnR1hxeTFwTjlF?oc=5": "2026-08-10T09:52:55.930822+00:00",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVlWVlo3VDJFcXdoOHRnNV9ndXhRWVA3STNyMG92cGtoRXBLbWJGaEFCZ2NGLVBaNWlsaTRrYXgzbTNxWVN5SW1UQl9BQmtrOVdyclVxSHVnQ19ySXk0bUNqbUw0MjdnQUs1NTFwZGZNQTN6c050NWxjN2k4TlQzQ1NQUDhyNXlJaHh1RGVHSFZMMXZ5cUFoQWN0MV9XRTl3?oc=5": "2026-08-11T21:30:01.658642+00:00",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcU5ZYjZ2ZWdpQXlmUnJBZzVrMWloVFZERlpIVUxrWllLV0p1Zk1xbkxsbS1JVTMzdlBfSzh1anI4dXljeGZGTVRuNFFBOExQSGt6YWhyTVpCek5BWGMyajZxYV9PQmg3ZUJiZ1FOOGJ3dm83VWxnbUl1VENzbnc4d0Z3Tk9GanRNRFBUZWhVSVVmWWtXRDZUS2EyN0lCRjhf?oc=5": "2026-08-19T11:41:06.604124+00:00",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0tFTEdGNkZwb1BVaWxrWlJyMjJ5ZFFUVV8zTEFBRmRqLUpvenlBSnYxXzdOSHFkNW1ldUZqbVk1QWFJZ1ZHX2NUOTlRUHZ0VVJEVWZQajhrNFlHR3RrRllqR2xDbDFZVzNfNEx1R1hZX3ZsZTNZREJxTENvWmVEbGdTRUVXNHlobllsbEU4d3NQNW9meTJ1XzRYZ2JNY3dxYUE?oc=5": "2026-08-19T08:55:14.802433+00:00",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1ZhOWE4eXF0LTdKWVpkY2JWSWZFOTRtTk1Rd2RkRTBDdkFidjZqZGpVZkJpMXlMaHVjX2Mzd0VqcUROREVoMUg3TU9CRllWY0ZrVk1hRU9NNFdJNEVDUTE2U01LeUYxSTdkSDBUR0hRWGhSaGRQS2M5LXNaQlVSbS1SS0V1VFZkTENHSUk4aU9mWlNJclhwWEpoSFd2enFFLVE?oc=5": "2026-08-13T09:34:33.152437+00:00",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanlrWExCc2s3VnNBVW00b0xwQ2lqRWxnQzlITDF4d3JjQno3U2gzRG9LQ0NQeElvek1HYUpRWk1ZMUJxRm85TURBejhOaTlwYVdQaFVTZ1pSdHh3WXZpR3dtUEM4YngzdUw5UEptQmFjZ1ByaDFPc0lObmZ0U3ROVEN0TWpUZW5CZDYwUlhoNWxoZXpCdnVjWjQ4SzYxOXJWTnc?oc=5": "2026-08-13T16:11:56.382256+00:00",
@@ -7147,67 +7157,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T11:06:15.734523+00:00",
+      "checked_at": "2026-08-19T11:41:05.396079+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T11:06:16.284445+00:00",
+      "checked_at": "2026-08-19T11:41:05.896137+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T11:05:44.047814+00:00",
+      "checked_at": "2026-08-19T11:40:18.071357+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T11:05:45.340174+00:00",
+      "checked_at": "2026-08-19T11:40:19.419434+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T11:05:45.174794+00:00",
+      "checked_at": "2026-08-19T11:40:19.138673+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T11:05:47.549671+00:00",
+      "checked_at": "2026-08-19T11:40:21.961810+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T11:05:48.188552+00:00",
+      "checked_at": "2026-08-19T11:40:22.623261+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T11:05:45.953733+00:00",
+      "checked_at": "2026-08-19T11:40:20.066148+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T11:05:51.292444+00:00",
+      "checked_at": "2026-08-19T11:40:25.723555+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T11:05:44.404558+00:00",
+      "checked_at": "2026-08-19T11:40:18.539945+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T11:05:44.739378+00:00",
+      "checked_at": "2026-08-19T11:40:18.858752+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T11:05:43.742894+00:00",
+      "checked_at": "2026-08-19T11:40:17.641617+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T11:06:17.041579+00:00",
+      "checked_at": "2026-08-19T11:41:06.595268+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
