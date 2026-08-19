@@ -5777,11 +5777,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T11:38:29+00:00",
-      "early_signal": 51,
+      "early_signal": 49,
       "headline": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - factmr.com",
       "id": "b941a1290ab25a820f5b",
       "last_seen_at": "2026-08-18T14:53:15.039308+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -6696,11 +6696,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:33:45+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Getting your brand ready for AI agent discovery - MarTech",
       "id": "185185adb5cfebc5a2bd",
       "last_seen_at": "2026-08-19T13:09:20.840041+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -6779,6 +6779,28 @@
         }
       ],
       "summary": "Palo Alto Networks Introduces Frontier AI Critical Defense Program PR Newswire"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-19T19:00:00+00:00",
+      "early_signal": 55,
+      "headline": "Offering Zero Data Retention for frontier models",
+      "id": "e6abc48003e314e67261",
+      "last_seen_at": "2026-08-19T17:40:57.617878+00:00",
+      "score": 60,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T19:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/our-commitment-to-zero-data-retention"
+        }
+      ],
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     }
   ],
   "processed_urls": {
@@ -7247,6 +7269,7 @@
     "https://openai.com/index/nvidia/chatgpt-work": "2026-08-18T23:36:18.488751+00:00",
     "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": "2026-08-09T04:07:57.369870+00:00",
     "https://openai.com/index/openai-joins-ports-pike-project": "2026-08-17T13:06:47.771422+00:00",
+    "https://openai.com/index/our-commitment-to-zero-data-retention": "2026-08-19T17:40:57.610705+00:00",
     "https://openai.com/index/pacing-model-development-cyber-capabilities": "2026-08-18T18:57:28.927672+00:00",
     "https://openai.com/index/partnering-with-codeai": "2026-08-18T11:10:33.868181+00:00",
     "https://openai.com/index/premium-seats-chatgpt-business": "2026-08-10T17:09:36.138503+00:00",
@@ -7356,6 +7379,7 @@
     "digest:de07534587e1dc321006": "2026-08-18T20:41:15.168572+00:00",
     "digest:e087011cd1eee73ed6f1": "2026-08-09T04:07:58.011415+00:00",
     "digest:e398e69e27e04140f3e9": "2026-08-14T12:29:10.882176+00:00",
+    "digest:e6abc48003e314e67261": "2026-08-19T17:40:58.342816+00:00",
     "digest:e7131e3310952124e719": "2026-08-12T03:11:52.022430+00:00",
     "digest:ede34bb3a37212824fbf": "2026-08-17T13:06:48.349602+00:00",
     "digest:ef21df5de8771e3c225d": "2026-08-13T16:11:56.950816+00:00",
@@ -7363,67 +7387,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T17:11:49.598417+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-19T17:40:56.016506+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T17:11:50.206906+00:00",
+      "checked_at": "2026-08-19T17:40:56.652474+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T17:11:03.935301+00:00",
+      "checked_at": "2026-08-19T17:40:36.534926+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T17:11:05.230203+00:00",
+      "checked_at": "2026-08-19T17:40:37.530711+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T17:11:04.936507+00:00",
+      "checked_at": "2026-08-19T17:40:37.392326+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T17:11:08.707385+00:00",
+      "checked_at": "2026-08-19T17:40:40.206288+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T17:11:09.356590+00:00",
+      "checked_at": "2026-08-19T17:40:40.747989+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T17:11:05.838114+00:00",
+      "checked_at": "2026-08-19T17:40:37.989176+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T17:11:12.507894+00:00",
+      "checked_at": "2026-08-19T17:40:43.930453+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T17:11:04.201348+00:00",
+      "checked_at": "2026-08-19T17:40:36.901801+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T17:11:04.422121+00:00",
+      "checked_at": "2026-08-19T17:40:37.091499+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T17:11:03.033460+00:00",
+      "checked_at": "2026-08-19T17:40:36.273384+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T17:11:50.629423+00:00",
+      "checked_at": "2026-08-19T17:40:57.610540+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
