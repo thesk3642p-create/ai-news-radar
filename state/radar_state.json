@@ -4748,11 +4748,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-13T18:28:14+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Anthropic set AI agents loose on the same task. They started a turf war. - TechCrunch",
       "id": "8132ecf3e3582b0ad10c",
       "last_seen_at": "2026-08-18T23:58:42.405137+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -5923,11 +5923,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T14:44:16+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
       "last_seen_at": "2026-08-18T09:49:17.824418+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6105,11 +6105,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T08:10:29+00:00",
-      "early_signal": 58,
+      "early_signal": 57,
       "headline": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
       "id": "1ddfd114839a7f13f8fc",
       "last_seen_at": "2026-08-19T03:12:04.478139+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -6512,11 +6512,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T22:00:00+00:00",
-      "early_signal": 41,
+      "early_signal": 39,
       "headline": "ChatGPT Ads expands across Europe",
       "id": "762f464aac050cf6b285",
       "last_seen_at": "2026-08-19T05:47:05.112206+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7087,67 +7087,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T07:10:12.993048+00:00",
+      "checked_at": "2026-08-19T07:54:21.986393+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T07:10:13.510603+00:00",
+      "checked_at": "2026-08-19T07:54:22.548553+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T07:09:38.450463+00:00",
+      "checked_at": "2026-08-19T07:53:51.345703+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T07:09:39.935403+00:00",
+      "checked_at": "2026-08-19T07:53:52.364992+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T07:09:39.618792+00:00",
+      "checked_at": "2026-08-19T07:53:52.265510+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T07:09:42.955879+00:00",
+      "checked_at": "2026-08-19T07:53:54.650323+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T07:09:43.632703+00:00",
+      "checked_at": "2026-08-19T07:53:55.305050+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T07:09:40.521817+00:00",
+      "checked_at": "2026-08-19T07:53:53.207793+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T07:09:46.777722+00:00",
+      "checked_at": "2026-08-19T07:53:58.411945+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T07:09:38.818922+00:00",
+      "checked_at": "2026-08-19T07:53:51.572870+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T07:09:39.062631+00:00",
+      "checked_at": "2026-08-19T07:53:51.849020+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T07:09:38.040666+00:00",
+      "checked_at": "2026-08-19T07:53:51.042370+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T07:10:14.134857+00:00",
+      "checked_at": "2026-08-19T07:54:22.977285+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
