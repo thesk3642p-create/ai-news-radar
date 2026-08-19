@@ -5443,11 +5443,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T22:39:00+00:00",
-      "early_signal": 29,
+      "early_signal": 28,
       "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google - Fortune",
       "id": "38ae8a54c90b0e25e29d",
       "last_seen_at": "2026-08-18T04:52:53.665113+00:00",
-      "score": 26,
+      "score": 25,
       "sources": [
         {
           "media_url": null,
@@ -5942,11 +5942,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:00:00+00:00",
-      "early_signal": 31,
+      "early_signal": 29,
       "headline": "OpenAI joins PORTS-Pike project",
       "id": "42df747a4ea8ac962a4c",
       "last_seen_at": "2026-08-17T13:06:47.785582+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -6373,11 +6373,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T13:00:00+00:00",
-      "early_signal": 32,
+      "early_signal": 38,
       "headline": "Portnox adds Microsoft Defender integration to police AI agent access - SiliconANGLE",
       "id": "9ec7a92d46bf22c54413",
-      "last_seen_at": "2026-08-18T13:08:23.157380+00:00",
-      "score": 38,
+      "last_seen_at": "2026-08-19T20:00:30.475217+00:00",
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -6387,6 +6387,15 @@
           "source_type": "google_news",
           "title": "Portnox adds Microsoft Defender integration to police AI agent access - SiliconANGLE",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcF9IdldUSWhXc2k5NFBqSWh3WmhWc25CUXRMMDVsa29rcV94ZC1CUXAzd2gxYWt2LVl6X01mX05aSmU1NlhtNG1BVEhuTkQtWTNCMHp6QXJFSVRvQnA2Y1NocDVQbGE5WS1XRFQwSUM4cFowS1p4Q1RMSVVtNE1YeVZwY29wendoV2xzWXBnZHpmczZlNE5DZ0taWFc1ZDVjS1ctRUlHbmNpUQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T19:24:24+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Lemma Raises $2.3 Million Pre-Seed To Detect AI Agent Failures Before Users Find Them - Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFpzbjhFLXk1RXVQcVJ6ZEV6V1pNb2N5QVJVMWtwMS1jQWp4T3lMS19GSDFXQ2NndU1kLXZnRk13cXMtVGJrLURoaUQ5dkFLTHpJRzJhNGVuZi0tQkZMMERLVkNGMjZuQUhQcWZILTI2SFk0Qk11blVCR1pvb3V1Z25fdWNVa1l0d3BMRHQ5aS1SSWxYYWUzMTkyRVRidGRHT3NKOWZsZ9IBrAFBVV95cUxQblhGM3U1ZVNOMXBPaGNyM19YcGVVS1E4Ujd6YXJueHV3TzRrU1dKV0pTRGoxa0paV0o2ekIzS0lwTEdIRlhpU3NEUWpIQ1VCbWVEVkMweDVqdGZnQV9qdlRlMURIeGV6cnhBTkc2NHNSZkQtUHhhZXVUd3l1aHQxc3h1NEVVS3l1aDUwM2xITGxGeHNEcnlfNGNwYzdXWlM0TVE4TTEyZG1HNnN1?oc=5"
         }
       ],
       "summary": "Portnox adds Microsoft Defender integration to police AI agent access SiliconANGLE"
@@ -6807,11 +6816,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T13:04:00+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Palo Alto Networks Introduces Frontier AI Critical Defense Program - PR Newswire",
       "id": "cefbe35313acfaaaa5bb",
       "last_seen_at": "2026-08-19T15:46:54.191080+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -6827,13 +6836,13 @@
     },
     {
       "breakout_sent": false,
-      "confidence": 60,
+      "confidence": 68,
       "created_at": "2026-08-19T19:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 69,
       "headline": "Offering Zero Data Retention for frontier models",
       "id": "e6abc48003e314e67261",
-      "last_seen_at": "2026-08-19T17:40:57.617878+00:00",
-      "score": 52,
+      "last_seen_at": "2026-08-19T20:00:30.470954+00:00",
+      "score": 53,
       "sources": [
         {
           "media_url": null,
@@ -6843,6 +6852,24 @@
           "source_type": "rss",
           "title": "Offering Zero Data Retention for frontier models",
           "url": "https://openai.com/index/our-commitment-to-zero-data-retention"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T19:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T19:38:46+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Offering Zero Data Retention for frontier models - OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5"
         }
       ],
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
@@ -6868,6 +6895,28 @@
         }
       ],
       "summary": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok Forbes"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-19T19:52:30+00:00",
+      "early_signal": 48,
+      "headline": "AI model incidents highlight security concerns - TechTarget",
+      "id": "cc681b2c7e48ca4ed626",
+      "last_seen_at": "2026-08-19T20:00:30.467033+00:00",
+      "score": 49,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T19:52:30+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "AI model incidents highlight security concerns - TechTarget",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZDdVTW13azZveTZaUDd4T1hGTkFCRlN4a1ByTHdlR3ZITllFb2lacHZhazNPNDFUaGtYTERmeUtLb1MzOEFQcDJ1a3Q1R0pZREZsMUZ5WWxka0hlOXpTUFh0ZWJjYkkyM0xfWm50YmdVS1ZTNE5NR2lFS2plSy1sX0QyUTB5dmZKNHlESF9LQVdwcUtVWnJzaNIBoAFBVV95cUxQWncxQlJDOXJQTkduQndVRzV6c3RLeUxrQU1WZGc5QTBHNkFjaFNEbGJqUDQ2QURYZXdobVVadmFvUEhVWVYxVVNjZTdjS2pkQjBjaHhFbWdnc2JLSFRiM0FucllybHNQVmFBYUxWNHJmU1F6WmVjRV85NFVTeHNwN2dQdzdmOGdpTEdCWUp1WVZpRUVhNFdzOGluWTNIbkxK?oc=5"
+        }
+      ],
+      "summary": "AI model incidents highlight security concerns TechTarget"
     }
   ],
   "processed_urls": {
@@ -7017,6 +7066,7 @@
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKcEZYX2dvLWRLS0E1UHU3cTRfb3JtdE9pbGlYNm5nWkRudDVRY1BwbDdmelZEZTdkS0ZkZ2FsNFdZRjV2dEF2QnFwdGw5dmlJc1BuSmVNX3pyNGdFQVBCMnkyX1JKbVNaaFRPd3pMRGhqRVdxazNKLW5R?oc=5": "2026-08-17T13:53:58.382044+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjWm5JWDY1Ti1QbjVkLTRvSnRKOTF5YUZPVnhmcTJJTlpRVm9mS2F3Y3pjeGk4YnJXUklGVFlJUDgtc2xZUm81YXR0Z3FyRDZoR3I4NEFlOU9zRmlNN2p5YlhXWThLel96ejhRYUxEMTQ2NEpDa01Ed1Bn?oc=5": "2026-08-10T09:52:55.929891+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ1lPWWZyUmlyUGFDVW1XU1dTSDZuVnZSVFRndDhwOFdpSmQzZ3pOaUZqaVB4VjZwOEF4c1YzWGFuTmNtdTRjbkxxYnlZQmZsN1JLYms1aVU4VGlmdXA3ekVtOGk4WWpOb3RnZ0xka3llRzZwNWs4alRR?oc=5": "2026-08-19T12:01:42.533463+00:00",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5": "2026-08-19T20:00:30.458448+00:00",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6Z3R4NEZZSlFnWG9YOGRyX2F3OGNmeGNYZV9pVmNxU1dFbDE0UTJPcmgzd1VUQktmTlc2TkNZQldpNE9MUmVTOXUwbDBMd1BqbnhMOTIyLTlZNjhfWVllbV9yVVdwa3JiUkZmQmtKdTlKQ3JlWng2MEh5QlF1OXc?oc=5": "2026-08-14T23:00:57.854263+00:00",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOY3otWnlnb3JFLXVBbjR0YUNmNTMzd3FLMlRib0lZMFAtYW16VFlQS0dZamQ4MVJMOTRad3IzbF9DbzhiU1lSZkkwVGJJRXFmdXhqSUEwUlR5Q1l2M0xHeHNXU1V0UmNvbG9zSHFtR3J1MTJwVlBSdG01eFBFYkE?oc=5": "2026-08-10T20:05:22.170696+00:00",
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cUdrZ2RnODVCWkI0Q3c1cmdqbEdsUThpWkd4NS12X2Nrc0VpOE9RV01kLTMySldqeVNXS2t2SVl3bFhnZFhJMjRERjF4YVBubWZIMVBlWl9BTzZ0Zk1TVUhubUFzUFJpTnM5S2ptRjlvWVQtUUY5NXFFZTU?oc=5": "2026-08-12T14:07:32.177709+00:00",
@@ -7132,6 +7182,7 @@
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFZPU1hISnBnYzR6ZEI3dGI5cjZjVlBrYjFjY216MGdlbGZYYU9JanRoMXltempjY0dpcXJrQlBlUThYNVhqY2xzMDkyTnNIcnE5eEI1NE1Wczl2MWw0SHVzbHo5N1ZmUWJkMC1GSEdOX2d0TzNMRGZqWjI5cjZ2MW43ZWMyY0c2dmg1UVI4alN0RkVua0ZRLQ?oc=5": "2026-08-10T14:06:58.449457+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFo1TmJ1ZDNwOUpwZWpzaU92QnZSeS1XbTdfZkRkSEUxNlVzTklxQkhHbzBOdXUwRktaS21KSVU3XzRGS25VOThIZk44eW8xS205cEw3ODJYcGNfeFNuQy1PNmd0VGJwUTY0c1lFNUxWRVBKZzFhMFdsWG9IMGJ1NHBqZVdtekdLb0t4aEFkNmxDQ0Z5RFV0TNIBngFBVV95cUxPdWVaUEt5RnJjU05CVUpEeW1Gejg5UFRPRTl4Y3U1aTBwSnZ4bFFnQURLc2M5VDA1WjhkenJETE1YRHFNWENEd095SEFWZjJEZlFOZzlZR05DTjR5RlZBeWNWX0xMdy05LW9ma0tSQms4T0JuYmV4WkVrY1NsSjZqZ2V0QXNocHllU1FPYVJ2dG45WUMxd3NiTmZhN3NWZw?oc=5": "2026-08-10T21:02:43.294167+00:00",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXJBb2EzZWZtYjJnOGFWOGU2ZEZQZnlQNzFnMTVGbDlmVFBublo0dVNpVGZzd05adVFaN3BWUUotVVRLOTVBRWdMb0tMY3FHRGJxa1REMndmVE5CZE1CbG12ZTRSc05TWHYtb25wejR5c2UzS2ltSXVpUlpna04xUmZFb3F6X2RqSEFBWVh1RE9NYktyeHNWWA?oc=5": "2026-08-09T11:45:40.638514+00:00",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZDdVTW13azZveTZaUDd4T1hGTkFCRlN4a1ByTHdlR3ZITllFb2lacHZhazNPNDFUaGtYTERmeUtLb1MzOEFQcDJ1a3Q1R0pZREZsMUZ5WWxka0hlOXpTUFh0ZWJjYkkyM0xfWm50YmdVS1ZTNE5NR2lFS2plSy1sX0QyUTB5dmZKNHlESF9LQVdwcUtVWnJzaNIBoAFBVV95cUxQWncxQlJDOXJQTkduQndVRzV6c3RLeUxrQU1WZGc5QTBHNkFjaFNEbGJqUDQ2QURYZXdobVVadmFvUEhVWVYxVVNjZTdjS2pkQjBjaHhFbWdnc2JLSFRiM0FucllybHNQVmFBYUxWNHJmU1F6WmVjRV85NFVTeHNwN2dQdzdmOGdpTEdCWUp1WVZpRUVhNFdzOGluWTNIbkxK?oc=5": "2026-08-19T20:00:30.458125+00:00",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWVWTmFHbHNBYkJDbEFVZXdoS3dhOWRValRkdGJZbkcxWmJCZmhhMkQ2VFNUcEFMaW0wN1NJZ0Myb1ZZbVFnSzJvbWdVaFlHYm5RTzZ2TDd5UzBtdGJrbXpmQU5pamtZdlEtaEVpOElCNW1LWlF2RGZ0VzhvSlp5WlF6MVZsakVIMGJxRlk3Ri1xbmJBcmR4S1ZR?oc=5": "2026-08-10T21:58:49.211019+00:00",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0lzU0ZUTEhLOEZTeUJnNVdlSjlabEFYTzl6YjZ2aGZobk1wdDNZR19GdV9tQV9qXzJmd1R0cmdKSEh4eEVOaWV5ckJ1NjNIRXUzdjdvQkpuUDNxblAwcXhmc0FaTHU2SEhtMlRGVjY0Nnc2dVdZMFNkU240VklfdWt3bVdZSF9wSWhjVFlueHBtWUFHTm9iVU53?oc=5": "2026-08-13T23:24:45.691279+00:00",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VkUGozTFVKdEdGVG9aNXNsUkRFR3A5UFVMUzVUX2NRbkdsMmZzbWR1bVJiY1VSMEMxeFhJd0xOY1Z1QlRTc0MtRzBnTXllZ2ZWRldVUHJPeDI5SG12bFFPaldBaDR6RGJNWlg1ODJvajdndGdTaEg5Z3pDZ05kOTd6a1VQSzdfYzdhc2RBdGpsNXpaX3R5X3p3?oc=5": "2026-08-17T23:37:08.758186+00:00",
@@ -7187,6 +7238,7 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhlSlAyTGZJUUpkbHQ4eWEycTR5XzR6cTFvUVVIMXpCTV94YzhfclBWd1RJMjlsWGlla0Z4dTZ0V1hOZFY1TGxfenU3THNkMmxNTGZ1SXZCWEdxcGFhX2lodTVZNkFQR2xtSkt3OW44Q0lCQk5Oa3RJYkZBWGpoTm1BZVlBVjVRVlRLd1ZXYWlabE8zX01rQUV2Ry03Sml1X1NVY2dR?oc=5": "2026-08-10T22:56:41.321324+00:00",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkdjVXlLQTUxSlVWa1VXUHZvUG45UHRkU3laeVY5WFBYLUhXYkZ4Ujc3bUhwd0Z0LWlXcTdCLVZWZTU1TFA2WjhPZDVyYVlxQ2Nhb0NtWVBZdmJQamp3b2dvb2FrVWhrYjA1VnF5ay1vLVpDaENYcWwxYU54UGFKYndMUGh5ZDgyOFk1NWp4RXFFenRUcGs5Z1ZlUTBVVEwyT1phZURB?oc=5": "2026-08-13T18:08:23.609038+00:00",
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5": "2026-08-09T16:56:48.596416+00:00",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFpzbjhFLXk1RXVQcVJ6ZEV6V1pNb2N5QVJVMWtwMS1jQWp4T3lMS19GSDFXQ2NndU1kLXZnRk13cXMtVGJrLURoaUQ5dkFLTHpJRzJhNGVuZi0tQkZMMERLVkNGMjZuQUhQcWZILTI2SFk0Qk11blVCR1pvb3V1Z25fdWNVa1l0d3BMRHQ5aS1SSWxYYWUzMTkyRVRidGRHT3NKOWZsZ9IBrAFBVV95cUxQblhGM3U1ZVNOMXBPaGNyM19YcGVVS1E4Ujd6YXJueHV3TzRrU1dKV0pTRGoxa0paV0o2ekIzS0lwTEdIRlhpU3NEUWpIQ1VCbWVEVkMweDVqdGZnQV9qdlRlMURIeGV6cnhBTkc2NHNSZkQtUHhhZXVUd3l1aHQxc3h1NEVVS3l1aDUwM2xITGxGeHNEcnlfNGNwYzdXWlM0TVE4TTEyZG1HNnN1?oc=5": "2026-08-19T20:00:30.458701+00:00",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw?oc=5": "2026-08-10T15:17:41.521709+00:00",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUJiVmFXTGVzbkV3Z1Q3X242LV9XWWR3YkF6dHo0TnRlSUxfaFdiZjUwTW9jSW5wN0tYb19SRmhGVFI0RDFJZEtrZFY1czZPMGN1cFFjSXNGem51MHkxYUVfMlNUUDlRTUhiczNWUlc3b3hIV2dJM0ZWN2diOXpLQkxXSFNsS01tU3RobHpWOFBFY3hKLUxxNk1fV1hzcTdGVTdzODZWWQ?oc=5": "2026-08-10T12:32:44.202360+00:00",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk1tZXUta3RJekRVUDI1RjhwNVdYRDVDRVNUZHNJN3Q2SUJEYjZhVWN5NWVoeWthRmIteERhcm9vZ2JsenB2QUpNWTYyb1Q3S0VUSXB4UmpZeW5hU2xvNTAzdjV2T3hwSkJBT21JaXdqdm54WjRMRzF6dUpRUDdQQWpRbDZMNGM5SlhRQUUwUjJzbVFKWUZuQk53N1NMZHVReUhFZGpWVnk?oc=5": "2026-08-14T16:07:14.190167+00:00",
@@ -7340,6 +7392,7 @@
     "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": "2026-08-17T11:41:52.495421+00:00",
     "https://openai.com/index/ntt-data": "2026-08-09T04:07:57.371508+00:00",
     "https://openai.com/index/nvidia/chatgpt-work": "2026-08-18T23:36:18.488751+00:00",
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models": "2026-08-19T20:00:30.450559+00:00",
     "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": "2026-08-09T04:07:57.369870+00:00",
     "https://openai.com/index/openai-joins-ports-pike-project": "2026-08-17T13:06:47.771422+00:00",
     "https://openai.com/index/our-commitment-to-zero-data-retention": "2026-08-19T17:40:57.610705+00:00",
@@ -7445,6 +7498,7 @@
     "digest:c6953ea04e22a8c4b1c8": "2026-08-13T09:34:33.747826+00:00",
     "digest:c75f6f39870cbfca26fb": "2026-08-12T12:32:37.271035+00:00",
     "digest:ca1007ee66c9eebfa418": "2026-08-12T14:07:33.088462+00:00",
+    "digest:cc681b2c7e48ca4ed626": "2026-08-19T20:00:31.097560+00:00",
     "digest:ccd2d12812841090aeeb": "2026-08-16T17:34:59.463417+00:00",
     "digest:cefbe35313acfaaaa5bb": "2026-08-19T15:46:54.875946+00:00",
     "digest:d1ecb60a8e2d957301c6": "2026-08-18T04:52:54.346790+00:00",
@@ -7461,67 +7515,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T19:40:55.108686+00:00",
+      "checked_at": "2026-08-19T20:00:29.128975+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T19:40:55.612465+00:00",
+      "checked_at": "2026-08-19T20:00:29.730074+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T19:40:08.504417+00:00",
+      "checked_at": "2026-08-19T19:59:40.728943+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T19:40:09.846942+00:00",
+      "checked_at": "2026-08-19T19:59:43.205858+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T19:40:09.608149+00:00",
+      "checked_at": "2026-08-19T19:59:42.807746+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T19:40:12.730949+00:00",
+      "checked_at": "2026-08-19T19:59:45.501718+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T19:40:13.189398+00:00",
+      "checked_at": "2026-08-19T19:59:46.335346+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T19:40:10.437415+00:00",
+      "checked_at": "2026-08-19T19:59:43.804180+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T19:40:16.355771+00:00",
+      "checked_at": "2026-08-19T19:59:49.539688+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T19:40:08.938790+00:00",
+      "checked_at": "2026-08-19T19:59:41.552611+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T19:40:09.236069+00:00",
+      "checked_at": "2026-08-19T19:59:41.893448+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T19:40:08.204896+00:00",
+      "checked_at": "2026-08-19T19:59:40.430610+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T19:40:56.667562+00:00",
+      "checked_at": "2026-08-19T20:00:30.450331+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
