@@ -5581,11 +5581,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T22:34:58+00:00",
-      "early_signal": 26,
+      "early_signal": 24,
       "headline": "Grok 4.6 vs Claude Opus 5: Is Cheaper AI Finally Better? - Memeburn",
       "id": "b91a69c1e4c21032e0b6",
       "last_seen_at": "2026-08-17T01:55:56.289880+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -5714,11 +5714,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T11:38:29+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - factmr.com",
       "id": "b941a1290ab25a820f5b",
       "last_seen_at": "2026-08-18T14:53:15.039308+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -5781,11 +5781,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T05:44:50+00:00",
-      "early_signal": 43,
+      "early_signal": 42,
       "headline": "Foresight Test 1: An AI Agent Outperforms Senior Financial Experts | by Jacqueline Liu, MBA, CFA, CPA | Aug, 2026 - DataDrivenInvestor",
       "id": "9737e7a000b1fd2dbb56",
       "last_seen_at": "2026-08-18T21:38:32.511446+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -5936,10 +5936,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T17:59:01+00:00",
-      "early_signal": 46,
+      "early_signal": 54,
       "headline": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds - Tech Times",
       "id": "5add663ed344a4d80120",
-      "last_seen_at": "2026-08-18T16:50:07.167372+00:00",
+      "last_seen_at": "2026-08-19T04:52:28.805521+00:00",
       "score": 41,
       "sources": [
         {
@@ -5968,6 +5968,15 @@
           "source_type": "google_news",
           "title": "Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed - Infosecurity Magazine",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zaWxrVDlOZXpFUVRPQkM1WWRxRkhKYVRpdnQ0ZHNFY3pzU1lhM241dU81UmdQNmJvdE5MVjRyaGk4UDhYQS13S3R3eHRQOGRoU0xlR2VWb1FpN1FKZUl6TElCQzFnTXlEelQ1ZnRja1hib3VBWkJwdDZ2dEg?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T04:01:27+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI slows AI development after AI agent breaches Hugging Face - Tech Wire Asia",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEdZbVZNZkFTVWYwUVpVeFZ3ZWtHdXFYSkNjSTZsMXlOMFMzZEd4UkpCT21YTng2NUc2N2I1QVNSTWRHNm9lNlVqRC1ieGRmb3VydkF1LWNUakRLNVFKWEdHcUxlMVl4X3JhU21PSW0tSnl5a19fbFJaZVN1RFFuOHk1WG8?oc=5"
         }
       ],
       "summary": "AI Agent Conflicts Need Designed Environments, Not Better Models, Safety Panel Finds Tech Times"
@@ -6078,11 +6087,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T08:10:29+00:00",
-      "early_signal": 60,
+      "early_signal": 58,
       "headline": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
       "id": "1ddfd114839a7f13f8fc",
       "last_seen_at": "2026-08-19T03:12:04.478139+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -6352,11 +6361,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T19:03:27+00:00",
-      "early_signal": 66,
+      "early_signal": 64,
       "headline": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
       "id": "6dcac6ea96e237720a59",
       "last_seen_at": "2026-08-19T03:12:04.485420+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -6401,11 +6410,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T19:15:26+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Markets Confident OpenAI Releases Its Next AI Model in Weeks - Decrypt",
       "id": "d7875cb276012e3fe5ea",
       "last_seen_at": "2026-08-18T19:41:33.581148+00:00",
-      "score": 53,
+      "score": 52,
       "sources": [
         {
           "media_url": null,
@@ -6423,11 +6432,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T19:00:00+00:00",
-      "early_signal": 41,
+      "early_signal": 39,
       "headline": "Strengthening Democratic Oversight in National Security",
       "id": "de07534587e1dc321006",
       "last_seen_at": "2026-08-18T20:41:14.465690+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -6629,6 +6638,7 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0lHM0kwUlpqNkZOSVl6ekJYTVV5RmlrM0hKclhiYllmTGRnSFBONlFJTHZQcWtDMjZVQVEtUmJyWWtvVHo2eVAwcFd4dVZtLVZDcG0wTEpxTDJ2OFZfTFBDVURvZkJvVGFfN3B6TmpxRGdCblhaRng1YWRzb2JFTDR3?oc=5": "2026-08-10T17:09:36.146356+00:00",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTMxN3pScDV4Ul81eXN1anAzOXJmVnV0Y09SZ0l2a1JGd2ZVSjY4eVkyUVprUU1WN25MdzViaEc3SmYyOGd5N0R1MUNKaU1aem9uakRjYmljMkNIbE9ib0RlMzZ3TVphRE51REFMSGlQQXpSOHlneW4ySWlzQW4xUXRBVQ?oc=5": "2026-08-10T21:58:49.211590+00:00",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHk0ZC1ZdE55RWlxbEtYRzI2Si1NaF9XWGdUaXlJVGM3RGRBdnpETzVVYVIwaGpDZkNjSENPOFdXZ0J6VUFxQWh2WUpQV3JTNEpVd0RycnlkbHZxU1hVbjVpaEZreUJuV0JlWjRBaXRBLTZ2VW95dzN3R1J0QklVSGZ0ONIBiwFBVV95cUxNS2JLTU1zbTdNb0RKLWlhY3UtWVIyNXJiTzhuakF6ZDVkSG9PcTQ3dkFiRlRPd1E3N2RJTVQ4dHBVcGFPR2ctX2JjTG03WXhJT3ZlbmpYZE51eVVRREs0TDd6V3lrYXpoS0Q5eElReEQwREdMY1p0OHRqRHprenJsNTZwYW5IOHcyeHlV?oc=5": "2026-08-12T21:29:12.572680+00:00",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEdZbVZNZkFTVWYwUVpVeFZ3ZWtHdXFYSkNjSTZsMXlOMFMzZEd4UkpCT21YTng2NUc2N2I1QVNSTWRHNm9lNlVqRC1ieGRmb3VydkF1LWNUakRLNVFKWEdHcUxlMVl4X3JhU21PSW0tSnl5a19fbFJaZVN1RFFuOHk1WG8?oc=5": "2026-08-19T04:52:28.800479+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2t1WHBwRTFxYUh3OW9iVlE4R3R4ano3QW1NYzJnajdoU0hFQjFRcGFfbGR3WlNaSWRrOFRKYzJuUTVaVll0eF93M0xTQ2Q0MV9BTHZ0YmpicTJEaGI5ZkhXRS1hWUZDcWZrR29VcW9jdHR3endveWJ1cDZobUdVVWlHM1Y?oc=5": "2026-08-18T22:42:43.444190+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTFRUlY3WkZjdW1GNVhMS3hmRGZTLTFSZWZVLXg4dEdycVVnM0xpWVFlTUMzZ0FtOHJaZFNHVFdyRzlDLUJndEtueWlKVy1tUVFfUG5rRnNRZXhYSVl5Q3JMWkVDZzROSkF1aVRLd0pwM1ZVdjZPbWg4MndURHA3QXdsMDY?oc=5": "2026-08-11T09:14:38.175494+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFo1UlpMTUpqVmFFQ3puUmU5MjJuNXZKeGlDcGVxaEh0NGdBOEZwZXVqamkxYlI3aU9DZDlTODExdmduaVBuN3BndERuSm9IcTZ3SjNMUnpwWHU0NHBweV9qT1lVS2I4SFAzS0NEbDhlS0hEXzFLaFpHSksxeU5reHVQeWY?oc=5": "2026-08-18T04:52:53.660472+00:00",
@@ -7013,67 +7023,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T03:59:32.029117+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-19T04:52:27.711051+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T03:59:32.599316+00:00",
+      "checked_at": "2026-08-19T04:52:28.195827+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T03:59:01.690732+00:00",
+      "checked_at": "2026-08-19T04:51:41.745401+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T03:59:02.858995+00:00",
+      "checked_at": "2026-08-19T04:51:42.875841+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T03:59:02.755560+00:00",
+      "checked_at": "2026-08-19T04:51:42.659081+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T03:59:05.197971+00:00",
+      "checked_at": "2026-08-19T04:51:45.538961+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T03:59:05.979424+00:00",
+      "checked_at": "2026-08-19T04:51:46.182998+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T03:59:03.397316+00:00",
+      "checked_at": "2026-08-19T04:51:43.501922+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T03:59:09.087079+00:00",
+      "checked_at": "2026-08-19T04:51:49.283322+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T03:59:02.153452+00:00",
+      "checked_at": "2026-08-19T04:51:41.983931+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T03:59:02.465837+00:00",
+      "checked_at": "2026-08-19T04:51:42.235058+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T03:59:01.345934+00:00",
+      "checked_at": "2026-08-19T04:51:41.484300+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T03:59:33.038844+00:00",
+      "checked_at": "2026-08-19T04:52:28.792738+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
