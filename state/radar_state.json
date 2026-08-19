@@ -5376,11 +5376,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-16T00:33:51+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "Why AI Agent Approval Queues Are Replacing Full Autonomy for Founders - Startup Fortune",
       "id": "c030c59578105064ce41",
       "last_seen_at": "2026-08-19T03:12:04.481421+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -5821,11 +5821,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:30:00+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "The Defender\u2019s Window",
       "id": "ede34bb3a37212824fbf",
       "last_seen_at": "2026-08-17T13:06:47.782764+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -5843,11 +5843,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-17T05:00:00+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "OpenAI joins PORTS-Pike project",
       "id": "42df747a4ea8ac962a4c",
       "last_seen_at": "2026-08-17T13:06:47.785582+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -6149,11 +6149,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 53,
+      "early_signal": 51,
       "headline": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "id": "0143b5b8c5c04389bb3a",
       "last_seen_at": "2026-08-18T12:02:02.730887+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -6299,11 +6299,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 61,
+      "early_signal": 59,
       "headline": "Pacing model development in an era of cyber-critical capabilities",
       "id": "864415652d44757c44bd",
       "last_seen_at": "2026-08-18T20:41:14.468496+00:00",
-      "score": 52,
+      "score": 51,
       "sources": [
         {
           "media_url": null,
@@ -7013,67 +7013,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-19T03:12:03.295124+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-19T03:59:32.029117+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-19T03:12:04.006659+00:00",
+      "checked_at": "2026-08-19T03:59:32.599316+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-19T03:11:13.385980+00:00",
+      "checked_at": "2026-08-19T03:59:01.690732+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-19T03:11:14.876322+00:00",
+      "checked_at": "2026-08-19T03:59:02.858995+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-19T03:11:14.620081+00:00",
+      "checked_at": "2026-08-19T03:59:02.755560+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-19T03:11:18.989542+00:00",
+      "checked_at": "2026-08-19T03:59:05.197971+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-19T03:11:20.018057+00:00",
+      "checked_at": "2026-08-19T03:59:05.979424+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-19T03:11:15.362796+00:00",
+      "checked_at": "2026-08-19T03:59:03.397316+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-19T03:11:23.336134+00:00",
+      "checked_at": "2026-08-19T03:59:09.087079+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-19T03:11:13.866754+00:00",
+      "checked_at": "2026-08-19T03:59:02.153452+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-19T03:11:14.212231+00:00",
+      "checked_at": "2026-08-19T03:59:02.465837+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-19T03:11:13.055013+00:00",
+      "checked_at": "2026-08-19T03:59:01.345934+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-19T03:12:04.461441+00:00",
+      "checked_at": "2026-08-19T03:59:33.038844+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
