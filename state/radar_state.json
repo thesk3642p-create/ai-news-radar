@@ -5804,11 +5804,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T11:38:29+00:00",
-      "early_signal": 49,
+      "early_signal": 47,
       "headline": "AI Agent Evaluation & Simulation Platforms Market Size, Share & Forecast 2036 - factmr.com",
       "id": "b941a1290ab25a820f5b",
       "last_seen_at": "2026-08-18T14:53:15.039308+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -6387,11 +6387,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T10:13:38+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "AI Agent Settlement Layer Powers Trustworthy Autonomous Deals - The Cryptonomist",
       "id": "048ec91f88f838f2dcc3",
       "last_seen_at": "2026-08-19T17:11:50.641623+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6707,11 +6707,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T19:15:26+00:00",
-      "early_signal": 40,
+      "early_signal": 38,
       "headline": "Markets Confident OpenAI Releases Its Next AI Model in Weeks - Decrypt",
       "id": "d7875cb276012e3fe5ea",
       "last_seen_at": "2026-08-19T07:10:14.146958+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -6804,11 +6804,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:33:45+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Getting your brand ready for AI agent discovery - MarTech",
       "id": "185185adb5cfebc5a2bd",
       "last_seen_at": "2026-08-19T13:09:20.840041+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -6826,11 +6826,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:19:31+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube - NDTV",
       "id": "7e134181a389e3a77062",
       "last_seen_at": "2026-08-19T13:58:13.243428+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -6848,11 +6848,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-19T07:00:00+00:00",
-      "early_signal": 43,
+      "early_signal": 41,
       "headline": "Replit expands access to software creation with GPT-5.6 Luna",
       "id": "b86dedfad1e94205e0cf",
       "last_seen_at": "2026-08-19T15:46:54.187974+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -6892,11 +6892,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-19T19:00:00+00:00",
-      "early_signal": 67,
+      "early_signal": 65,
       "headline": "Offering Zero Data Retention for frontier models",
       "id": "e6abc48003e314e67261",
       "last_seen_at": "2026-08-19T20:00:30.470954+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -6932,11 +6932,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:35:03+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok - Forbes",
       "id": "3ba06e3f0e900be21aa7",
       "last_seen_at": "2026-08-19T19:40:56.677215+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -6954,11 +6954,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:52:30+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "AI model incidents highlight security concerns - TechTarget",
       "id": "cc681b2c7e48ca4ed626",
       "last_seen_at": "2026-08-19T20:00:30.467033+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -7575,67 +7575,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-20T01:52:12.205878+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-20T03:10:49.983541+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-20T01:52:12.856330+00:00",
+      "checked_at": "2026-08-20T03:10:50.597298+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-20T01:51:54.368880+00:00",
+      "checked_at": "2026-08-20T03:10:03.357693+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-20T01:51:55.373042+00:00",
+      "checked_at": "2026-08-20T03:10:05.069218+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-20T01:51:55.207633+00:00",
+      "checked_at": "2026-08-20T03:10:04.912543+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-20T01:51:57.627317+00:00",
+      "checked_at": "2026-08-20T03:10:07.160226+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-20T01:51:58.156336+00:00",
+      "checked_at": "2026-08-20T03:10:07.786689+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-20T01:51:56.040784+00:00",
+      "checked_at": "2026-08-20T03:10:05.315092+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-20T01:52:01.247509+00:00",
+      "checked_at": "2026-08-20T03:10:10.894682+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-20T01:51:54.609409+00:00",
+      "checked_at": "2026-08-20T03:10:03.755983+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-20T01:51:54.813558+00:00",
+      "checked_at": "2026-08-20T03:10:04.067227+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-20T01:51:54.155302+00:00",
+      "checked_at": "2026-08-20T03:10:02.953975+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-20T01:52:13.401062+00:00",
+      "checked_at": "2026-08-20T03:10:51.057641+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
