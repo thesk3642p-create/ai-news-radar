@@ -5639,11 +5639,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-17T01:24:30+00:00",
-      "early_signal": 62,
+      "early_signal": 61,
       "headline": "IBM, OpenAI Partner to Accelerate Secure Enterprise AI Deployment - The Fast Mode",
       "id": "11e2e7ade289badf03fd",
       "last_seen_at": "2026-08-19T21:42:05.957455+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -6147,11 +6147,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T23:03:00+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Anthropic-powered AI model sends shocking message to employee - thestreet.com",
       "id": "ae90975292487c463cd1",
       "last_seen_at": "2026-08-19T01:54:07.722396+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -6529,11 +6529,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:00:05+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
       "id": "0f180ff7afc40e9c27d9",
       "last_seen_at": "2026-08-19T10:46:59.094427+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -6591,11 +6591,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:14:22+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite - Davis Wright Tremaine",
       "id": "2312622a875cf776ec9c",
       "last_seen_at": "2026-08-18T18:57:28.940840+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -6800,11 +6800,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T22:00:00+00:00",
-      "early_signal": 31,
+      "early_signal": 29,
       "headline": "ChatGPT Ads expands across Europe",
       "id": "762f464aac050cf6b285",
       "last_seen_at": "2026-08-19T05:47:05.112206+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -6910,11 +6910,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-19T19:00:00+00:00",
-      "early_signal": 65,
+      "early_signal": 63,
       "headline": "Offering Zero Data Retention for frontier models",
       "id": "e6abc48003e314e67261",
       "last_seen_at": "2026-08-19T20:00:30.470954+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -6950,11 +6950,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:35:03+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok - Forbes",
       "id": "3ba06e3f0e900be21aa7",
       "last_seen_at": "2026-08-19T19:40:56.677215+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -7595,67 +7595,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-20T03:59:12.052595+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-20T04:54:10.234213+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-20T03:59:12.568961+00:00",
+      "checked_at": "2026-08-20T04:54:10.847953+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-20T03:58:41.059887+00:00",
+      "checked_at": "2026-08-20T04:53:27.136953+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-20T03:58:42.101715+00:00",
+      "checked_at": "2026-08-20T04:53:28.464131+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-20T03:58:41.926212+00:00",
+      "checked_at": "2026-08-20T04:53:28.201305+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-20T03:58:44.793263+00:00",
+      "checked_at": "2026-08-20T04:53:30.751211+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-20T03:58:45.383946+00:00",
+      "checked_at": "2026-08-20T04:53:31.457278+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-20T03:58:42.920481+00:00",
+      "checked_at": "2026-08-20T04:53:29.056856+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-20T03:58:48.490911+00:00",
+      "checked_at": "2026-08-20T04:53:34.614416+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-20T03:58:41.253406+00:00",
+      "checked_at": "2026-08-20T04:53:27.497685+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-20T03:58:41.491234+00:00",
+      "checked_at": "2026-08-20T04:53:27.785203+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-20T03:58:40.821635+00:00",
+      "checked_at": "2026-08-20T04:53:26.833987+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-20T03:59:13.042555+00:00",
+      "checked_at": "2026-08-20T04:54:11.482380+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
