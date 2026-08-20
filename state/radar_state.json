@@ -5773,11 +5773,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-17T03:15:00+00:00",
-      "early_signal": 37,
+      "early_signal": 36,
       "headline": "New policy ideas for the Intelligence Age",
       "id": "d9e8fdbf4b1f078fef99",
       "last_seen_at": "2026-08-17T19:43:07.001193+00:00",
-      "score": 25,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -6025,7 +6025,7 @@
       "early_signal": 47,
       "headline": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing - CX Today",
       "id": "b0100b84ee5794b83e24",
-      "last_seen_at": "2026-08-20T01:52:13.410718+00:00",
+      "last_seen_at": "2026-08-20T06:19:04.503089+00:00",
       "score": 32,
       "sources": [
         {
@@ -6072,6 +6072,15 @@
           "source_type": "google_news",
           "title": "How Does AI Coding Agent Pricing Work, and Where Founders Get Squeezed - Startup Fortune",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1UyMlVsMWRMYXJnQ3d3cFBEQ3NVeFB0ajZzbEZDRzRoNG1VWHdWdWN3eG9YNlRDb2VmbXFTR2IzbmFCV0c4djhtWFE2ZnVvbS1qMElBNERkT2pVc3ZsaEc5a2w1bzBtNHVvZklCUkt1aEJlNW5wZW9qWFdYcVNjczBYMjg0QV9QZG50VU15emZDQmNkLW5mVnR2bFA0QQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-19T23:56:30+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Amazon Makes Alexa+ Free on All Fire TV Devices \u2014 AI Agent Pricing Race to Zero - forkast.news",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWw3VTlsYU9yc2lJd1kxS2w3b3N5X25jV09ibUhRdW1mazJYRmVsVjV0MDNRT1RCcEhjdVM2Szg3TlBlUGd6SGJ4ZFZ6c2RSbUd5ejkwekljenNwTnZhVFVvbWlISjNzY1RaNzBRbVBsMWVVRzNtMHBaZU9UTHlqZ1FsVTFlZWpfWTc4bHV0Vms5VXpkOXk0bWp1TDNzY1k?oc=5"
         }
       ],
       "summary": "Stripe\u2019s OpenRouter Deal Could Reshape AI Agent Pricing CX Today"
@@ -6196,11 +6205,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T00:07:40+00:00",
-      "early_signal": 26,
+      "early_signal": 24,
       "headline": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - VentureBeat",
       "id": "d1ecb60a8e2d957301c6",
       "last_seen_at": "2026-08-18T04:52:53.668699+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -6765,11 +6774,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T19:00:00+00:00",
-      "early_signal": 29,
+      "early_signal": 27,
       "headline": "Strengthening Democratic Oversight in National Security",
       "id": "de07534587e1dc321006",
       "last_seen_at": "2026-08-18T20:41:14.465690+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -6875,11 +6884,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-19T07:00:00+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Replit expands access to software creation with GPT-5.6 Luna",
       "id": "b86dedfad1e94205e0cf",
       "last_seen_at": "2026-08-19T15:46:54.187974+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -6897,11 +6906,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T13:04:00+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Palo Alto Networks Introduces Frontier AI Critical Defense Program - PR Newswire",
       "id": "cefbe35313acfaaaa5bb",
       "last_seen_at": "2026-08-19T15:46:54.191080+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7315,6 +7324,7 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXRRUEJKb19LdUVaN3ZaU0JNSThhTEN2NVhkZzF2YW1QeE00RE1XTTRZQkxqaUpLdjZ4cUVXUlluYXpwa0xMX3AyamZ5NXF2UnZ3bUdrY0hnaEZQSFFqRlpjdkVZcnRKSlhWSFNtTnUyYnpBbkZpMC1BbVpoRGJmTGltNWozRlRSb05sdk8tNVdNSFhPZ2NXeFB4SjR0Zw?oc=5": "2026-08-17T17:46:20.538144+00:00",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEpEazBZdU9xa3B0eGMxRG5yWmFtRGFnemdnSDZjbkF3TEFCQ3BPcWJCSU5xWUtrelgyTFJNSk1lRGtKelk1QU54ZE5VYWZKOU5iUWkzanBmbV9KNzZjbmgwLVRTRE00dzI5V3dCUURvUTY3TjRaVjVnQklhYmJoSTJCV3JKdzV0d01fc0JsZkpSQ3VYZGJ0OW1tZUQ4UQ?oc=5": "2026-08-16T03:13:41.346189+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHl0LVRoYlh1eXFONzkxdVJURlVJTFZFc0tCaW5mZHk2WFVIR09XTVk0cmQwSEowM1prUVFTNE4xa2FxZXowYlczZGpkYXpiaDNtcTZPa2RpODNmQVlaYTM2VS1oaERjMGFDRTc5QVNscjBjY05PdEZzWXkyTWZ6dXNnQ2hvQ2RKaEV5dUdWTkNkODJ1TUFvWXNUblFzdjA?oc=5": "2026-08-12T14:07:32.177443+00:00",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWw3VTlsYU9yc2lJd1kxS2w3b3N5X25jV09ibUhRdW1mazJYRmVsVjV0MDNRT1RCcEhjdVM2Szg3TlBlUGd6SGJ4ZFZ6c2RSbUd5ejkwekljenNwTnZhVFVvbWlISjNzY1RaNzBRbVBsMWVVRzNtMHBaZU9UTHlqZ1FsVTFlZWpfWTc4bHV0Vms5VXpkOXk0bWp1TDNzY1k?oc=5": "2026-08-20T06:19:04.499737+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXJaWXQwbnVqZnJuM2tUeWVvZW5xdy1YdmE1YW51aEJwUFJMOUoxc0NkZDNuQVhPeGNqbGtpQVlQMXgzTXVQR3o5bUo2am1vVGMxVFp1YXMyVUZUYWhWS3VIc0lwNjFDQ2pJczloamN0RlBGRXRRXzhxWHY1U3NIOHQwdVN3dVJmVUhlYl9rUkk5U1paaWFQM3Jpdk9ySTQ?oc=5": "2026-08-09T04:07:57.382596+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTjhUaG5yRHBmUVFjSDRoWjNSS3JoSFJfQl94cmVNX3dfMnNkTUgyTUM0dVdQV3AxRF9FeFJFazhrNFBlY1R5cGxLcWpFRVkxcUtsd2swUFNxMHVoUFc4V2w0TU5uUW1IVjBIVkhUOV94RUVvblg4Smloek9aeTNVaVBRM0ZOWloybnFESHRyeUZjY2xaQlJYeE9PVURiSUE?oc=5": "2026-08-14T14:04:04.831318+00:00",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQanFFSnFzRTFENVRTM3VGREJlQXhsMG1oSTM0Q0dOZ1paUVo3RkNjbXppdmw0LUdMODM1Q290RE85TWZqTnVNYzRFOE9aNy1tRFlsUC1pdkZwbVBCSE1tMTI5Yjk4TmFYelNjX1ZWTElucTJ6ckZXRVMzZnRYZkY5MEpFNWdWdzRLa09RU0pVOTdtekNCZXdoVlVOTHl0TFE?oc=5": "2026-08-20T03:59:13.049950+00:00",
@@ -7628,67 +7638,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-20T05:47:19.514302+00:00",
+      "checked_at": "2026-08-20T06:19:02.835986+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-20T05:47:20.077267+00:00",
+      "checked_at": "2026-08-20T06:19:03.742775+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-20T05:46:43.999484+00:00",
+      "checked_at": "2026-08-20T06:18:11.789526+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-20T05:46:45.366496+00:00",
+      "checked_at": "2026-08-20T06:18:13.403274+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-20T05:46:45.273107+00:00",
+      "checked_at": "2026-08-20T06:18:13.162212+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-20T05:46:47.630745+00:00",
+      "checked_at": "2026-08-20T06:18:16.015260+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-20T05:46:48.267842+00:00",
+      "checked_at": "2026-08-20T06:18:16.900675+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-20T05:46:45.770940+00:00",
+      "checked_at": "2026-08-20T06:18:14.184276+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-20T05:46:51.376040+00:00",
+      "checked_at": "2026-08-20T06:18:20.348023+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-20T05:46:44.453094+00:00",
+      "checked_at": "2026-08-20T06:18:12.287712+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-20T05:46:44.761198+00:00",
+      "checked_at": "2026-08-20T06:18:12.669492+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-20T05:46:43.737218+00:00",
+      "checked_at": "2026-08-20T06:18:11.377499+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-20T05:47:20.507397+00:00",
+      "checked_at": "2026-08-20T06:19:04.493412+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
