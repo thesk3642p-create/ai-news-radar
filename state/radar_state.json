@@ -7002,11 +7002,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:33:45+00:00",
-      "early_signal": 40,
+      "early_signal": 38,
       "headline": "Getting your brand ready for AI agent discovery - MarTech",
       "id": "185185adb5cfebc5a2bd",
       "last_seen_at": "2026-08-20T14:00:44.214349+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -7033,11 +7033,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:19:31+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube - NDTV",
       "id": "7e134181a389e3a77062",
       "last_seen_at": "2026-08-19T13:58:13.243428+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -7161,11 +7161,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:52:30+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "AI model incidents highlight security concerns - TechTarget",
       "id": "cc681b2c7e48ca4ed626",
       "last_seen_at": "2026-08-19T20:00:30.467033+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -7209,6 +7209,28 @@
         }
       ],
       "summary": "Most firms have deployed AI agents, few trust them Frontier Enterprise"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-20T07:00:00+00:00",
+      "early_signal": 46,
+      "headline": "Introducing AI Futures",
+      "id": "5d164a334d66c82aa170",
+      "last_seen_at": "2026-08-20T19:46:45.504335+00:00",
+      "score": 45,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-20T07:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Introducing AI Futures",
+          "url": "https://openai.com/index/introducing-ai-futures"
+        }
+      ],
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
     }
   ],
   "processed_urls": {
@@ -7706,6 +7728,7 @@
     "https://openai.com/index/hsp-gruppe": "2026-08-09T04:07:57.369716+00:00",
     "https://openai.com/index/hugging-face-model-evaluation-security-incident": "2026-08-09T04:07:57.371603+00:00",
     "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": "2026-08-09T04:07:57.369801+00:00",
+    "https://openai.com/index/introducing-ai-futures": "2026-08-20T19:46:45.491028+00:00",
     "https://openai.com/index/introducing-chatgpt-for-teens": "2026-08-18T11:10:33.868287+00:00",
     "https://openai.com/index/introducing-chatgpt-small-business-program": "2026-08-09T04:07:57.371569+00:00",
     "https://openai.com/index/introducing-openai-presence": "2026-08-09T04:07:57.371442+00:00",
@@ -7781,6 +7804,7 @@
     "digest:47a997aa10ee5c7d236c": "2026-08-17T13:06:48.349583+00:00",
     "digest:4d458021c09246304b6c": "2026-08-10T09:52:56.461540+00:00",
     "digest:5add663ed344a4d80120": "2026-08-17T18:15:07.279659+00:00",
+    "digest:5d164a334d66c82aa170": "2026-08-20T19:46:46.419701+00:00",
     "digest:5d9d55bd538bca1a3a42": "2026-08-11T20:27:58.037490+00:00",
     "digest:5ecf73adac8e6815e045": "2026-08-09T04:07:58.011443+00:00",
     "digest:6800ff059ef36f85000a": "2026-08-09T04:07:58.011430+00:00",
@@ -7838,67 +7862,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-20T19:01:54.476794+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-20T19:46:44.477257+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-20T19:01:55.002185+00:00",
+      "checked_at": "2026-08-20T19:46:45.063510+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-20T19:01:11.647086+00:00",
+      "checked_at": "2026-08-20T19:45:55.085501+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-20T19:01:12.854312+00:00",
+      "checked_at": "2026-08-20T19:45:56.763266+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-20T19:01:12.551233+00:00",
+      "checked_at": "2026-08-20T19:45:56.512455+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-20T19:01:16.388543+00:00",
+      "checked_at": "2026-08-20T19:46:01.686835+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-20T19:01:16.903421+00:00",
+      "checked_at": "2026-08-20T19:46:02.383969+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-20T19:01:13.471000+00:00",
+      "checked_at": "2026-08-20T19:45:57.124603+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-20T19:01:19.999574+00:00",
+      "checked_at": "2026-08-20T19:46:05.530127+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-20T19:01:11.849788+00:00",
+      "checked_at": "2026-08-20T19:45:55.609336+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-20T19:01:12.033501+00:00",
+      "checked_at": "2026-08-20T19:45:55.972156+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-20T19:01:11.210359+00:00",
+      "checked_at": "2026-08-20T19:45:54.808525+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-20T19:01:56.500300+00:00",
+      "checked_at": "2026-08-20T19:46:45.490723+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
