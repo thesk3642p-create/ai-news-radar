@@ -6921,11 +6921,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:33:45+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Getting your brand ready for AI agent discovery - MarTech",
       "id": "185185adb5cfebc5a2bd",
       "last_seen_at": "2026-08-19T13:09:20.840041+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -7009,11 +7009,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-19T19:00:00+00:00",
-      "early_signal": 61,
+      "early_signal": 59,
       "headline": "Offering Zero Data Retention for frontier models",
       "id": "e6abc48003e314e67261",
       "last_seen_at": "2026-08-19T20:00:30.470954+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -7738,67 +7738,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-20T11:43:11.621271+00:00",
+      "checked_at": "2026-08-20T12:03:12.222376+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-20T11:43:12.330814+00:00",
+      "checked_at": "2026-08-20T12:03:12.713941+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-20T11:42:52.197980+00:00",
+      "checked_at": "2026-08-20T12:02:29.995280+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-20T11:42:53.614255+00:00",
+      "checked_at": "2026-08-20T12:02:31.674762+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-20T11:42:53.409897+00:00",
+      "checked_at": "2026-08-20T12:02:31.417349+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-20T11:42:55.991836+00:00",
+      "checked_at": "2026-08-20T12:02:34.047434+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-20T11:42:56.777453+00:00",
+      "checked_at": "2026-08-20T12:02:34.656519+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-20T11:42:54.100909+00:00",
+      "checked_at": "2026-08-20T12:02:32.355231+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-20T11:42:59.984632+00:00",
+      "checked_at": "2026-08-20T12:02:37.761794+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-20T11:42:52.591301+00:00",
+      "checked_at": "2026-08-20T12:02:30.235101+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-20T11:42:52.897740+00:00",
+      "checked_at": "2026-08-20T12:02:30.453959+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-20T11:42:51.801295+00:00",
+      "checked_at": "2026-08-20T12:02:29.706550+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-20T11:43:12.790961+00:00",
+      "checked_at": "2026-08-20T12:03:13.204402+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
