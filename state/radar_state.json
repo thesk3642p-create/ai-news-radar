@@ -5443,11 +5443,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-15T22:39:00+00:00",
-      "early_signal": 28,
+      "early_signal": 26,
       "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google - Fortune",
       "id": "38ae8a54c90b0e25e29d",
       "last_seen_at": "2026-08-18T04:52:53.665113+00:00",
-      "score": 25,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -7158,11 +7158,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T13:04:00+00:00",
-      "early_signal": 27,
+      "early_signal": 26,
       "headline": "Palo Alto Networks Introduces Frontier AI Critical Defense Program - PR Newswire",
       "id": "cefbe35313acfaaaa5bb",
       "last_seen_at": "2026-08-19T15:46:54.191080+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -7180,11 +7180,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-19T19:00:00+00:00",
-      "early_signal": 51,
+      "early_signal": 50,
       "headline": "Offering Zero Data Retention for frontier models",
       "id": "e6abc48003e314e67261",
       "last_seen_at": "2026-08-19T20:00:30.470954+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -8023,67 +8023,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-21T11:11:38.007660+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-21T11:43:09.588490+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-21T11:11:38.584613+00:00",
+      "checked_at": "2026-08-21T11:43:10.171362+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-21T11:11:19.147244+00:00",
+      "checked_at": "2026-08-21T11:42:24.590155+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-21T11:11:20.518610+00:00",
+      "checked_at": "2026-08-21T11:42:26.109072+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-21T11:11:20.232079+00:00",
+      "checked_at": "2026-08-21T11:42:25.760284+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-21T11:11:22.850831+00:00",
+      "checked_at": "2026-08-21T11:42:29.326616+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-21T11:11:23.468224+00:00",
+      "checked_at": "2026-08-21T11:42:30.027668+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-21T11:11:21.074017+00:00",
+      "checked_at": "2026-08-21T11:42:26.863867+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-21T11:11:26.575654+00:00",
+      "checked_at": "2026-08-21T11:42:33.209727+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-21T11:11:19.513336+00:00",
+      "checked_at": "2026-08-21T11:42:24.940620+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-21T11:11:19.816215+00:00",
+      "checked_at": "2026-08-21T11:42:25.230259+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-21T11:11:18.885699+00:00",
+      "checked_at": "2026-08-21T11:42:24.166729+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-21T11:11:39.016663+00:00",
+      "checked_at": "2026-08-21T11:43:10.593759+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
