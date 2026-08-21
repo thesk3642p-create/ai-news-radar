@@ -6553,11 +6553,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T13:00:00+00:00",
-      "early_signal": 49,
+      "early_signal": 47,
       "headline": "Portnox adds Microsoft Defender integration to police AI agent access - SiliconANGLE",
       "id": "9ec7a92d46bf22c54413",
       "last_seen_at": "2026-08-21T00:01:16.148052+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -7016,11 +7016,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T22:00:00+00:00",
-      "early_signal": 25,
+      "early_signal": 23,
       "headline": "ChatGPT Ads expands across Europe",
       "id": "762f464aac050cf6b285",
       "last_seen_at": "2026-08-19T05:47:05.112206+00:00",
-      "score": 26,
+      "score": 25,
       "sources": [
         {
           "media_url": null,
@@ -7936,67 +7936,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-21T03:16:39.390224+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-21T04:05:25.051623+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-21T03:16:39.969432+00:00",
+      "checked_at": "2026-08-21T04:05:25.536463+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-21T03:16:17.687580+00:00",
+      "checked_at": "2026-08-21T04:04:34.894003+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-21T03:16:19.015736+00:00",
+      "checked_at": "2026-08-21T04:04:36.212988+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-21T03:16:18.837855+00:00",
+      "checked_at": "2026-08-21T04:04:35.771542+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-21T03:16:22.209219+00:00",
+      "checked_at": "2026-08-21T04:04:38.371867+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-21T03:16:22.927378+00:00",
+      "checked_at": "2026-08-21T04:04:39.035924+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-21T03:16:19.387886+00:00",
+      "checked_at": "2026-08-21T04:04:36.804021+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-21T03:16:26.294938+00:00",
+      "checked_at": "2026-08-21T04:04:42.142794+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-21T03:16:18.165200+00:00",
+      "checked_at": "2026-08-21T04:04:35.110273+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-21T03:16:18.525596+00:00",
+      "checked_at": "2026-08-21T04:04:35.359505+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-21T03:16:17.321862+00:00",
+      "checked_at": "2026-08-21T04:04:34.600180+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-21T03:16:40.429004+00:00",
+      "checked_at": "2026-08-21T04:05:26.007924+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
