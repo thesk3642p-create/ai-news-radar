@@ -6856,11 +6856,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T19:03:27+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "OpenAI slows model training to bolster security after Hugging Face hack - Reuters",
       "id": "6dcac6ea96e237720a59",
       "last_seen_at": "2026-08-21T15:49:21.976294+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7017,11 +7017,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T19:00:00+00:00",
-      "early_signal": 21,
+      "early_signal": 20,
       "headline": "Strengthening Democratic Oversight in National Security",
       "id": "de07534587e1dc321006",
       "last_seen_at": "2026-08-18T20:41:14.465690+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -7181,11 +7181,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-19T07:00:00+00:00",
-      "early_signal": 31,
+      "early_signal": 29,
       "headline": "Replit expands access to software creation with GPT-5.6 Luna",
       "id": "b86dedfad1e94205e0cf",
       "last_seen_at": "2026-08-19T15:46:54.187974+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -7203,10 +7203,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T13:04:00+00:00",
-      "early_signal": 24,
+      "early_signal": 32,
       "headline": "Palo Alto Networks Introduces Frontier AI Critical Defense Program - PR Newswire",
       "id": "cefbe35313acfaaaa5bb",
-      "last_seen_at": "2026-08-19T15:46:54.191080+00:00",
+      "last_seen_at": "2026-08-21T22:00:30.099458+00:00",
       "score": 32,
       "sources": [
         {
@@ -7217,6 +7217,15 @@
           "source_type": "google_news",
           "title": "Palo Alto Networks Introduces Frontier AI Critical Defense Program - PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1k5SnlzS1lTbm50NlNDeVFOaWhEZEphMm5uMGtjMmxyaDdyeDdmV2JzSFhLYWc4Umw0M1BaM0pJQzFkNkw4cko3V3RKSUhjb1RibVJPbk1XVWR4ZzUwTDF4YkY1S0RUQXRIR0hRRDJRLTZxNDVRUGgtazd6R296V1BpNDlHcDQxNUhfdFMwblFKZjQ1TEtTWWEyanFmaHRPVXNRbXlTRE1RRlQtQUplT2JzVWZZYXhENHZoTUQ0VQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-21T19:22:33+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Unit 42 Defends Organizations Against Next-Gen Frontier AI Risks with Anthropic\u2019s Mythos 5 - Palo Alto Networks",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTRremVZOVJpRVZkdG1Ickg4bXFIOG01cVlWbFVIeV9FVGZNYXo1ejlOOTE4NXVQc3RMVl9mZERNX3d3N1hySm5FRHR6b3RZc3hld0lXWTQ0NjlNU2VtVkV4VkIxMzMwNGRUbkJWc0dhVG8wZjVlTDdUQmFXdnBrODNPWXJjNDg2YlczQ193bUV5NUpHTWhzS1JZa2hhT1RiYmdPc0NHeDF1Ymc4Z1BTNUFJRm9VUk5ENGZkOVllUmtqU2VVQ1I5bWg3VVJlTHQ2Znc?oc=5"
         }
       ],
       "summary": "Palo Alto Networks Introduces Frontier AI Critical Defense Program PR Newswire"
@@ -7808,6 +7817,7 @@
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2tnZnZBZ1Atd2NJZ0ZrODZtU1BVc2ZwNUFRTDMwTk5tclF1MXpTUU84VzhBVlgwTnFlTDJyZDhOdnBNaGlpanE1U1dLRW4wb3lqQ2EzbF9ldWpZUDhLTl9KdXlNZ19pNlpwMjFYcUJIYVYzNU5WWUhGNVY5cWdrUENZcmlteEp1Rnc5RHc4NmNMWklrcDAtSE03MGRINU1fTFhiRWkzajlRNjN5Y2NFS0NxeDlHWUpQY1FmZ0pTNDU5WFE3b3pNbmoxY0pRT1Jh?oc=5": "2026-08-17T10:49:08.115125+00:00",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFVFRWxZdGtaR3BtaUJIekRRY1RpSFBFdmd4MkwyM05ZSHNJcWlnekNBWXIwN01IQkdYc2xxNDFRQ2gtcXVJZ2pJSmdGbnhIYS0xVWdDcDlBRlRlYnd0VGdRUU9OTTVPTGNYUUVuczJ2R3B5NDh0al84anpual9LLWpxLVozQ0ZXcXRsTGVZUjF5QmhCazBLZHVOOWZiV3otSFVNVEFWQU1DQnYzUXgtTFA0c3d0NTNlMnZnQkNlT1l6eVRTczVTU1o3NGRsenRx?oc=5": "2026-08-20T07:28:19.087848+00:00",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGZCcWxkSE14Zy15RFM5a3IzOGdNNmo1dTFCVzNaNUNZNUpDcHNkU1NsRkhoTm9UZFd4VDRUalg3TW1TdEZKYlJIRjBzVWc4Nll5QXZxdFVZU2h5dXoxYjZGaHZqeWVQYXJkTWZPUjJIcTM0bWQwNWF4UmhUN2V1bTVfaE5fYVRtS1hCalhuTm9iVlJ3N0R4N2UtRzhGNDdOOF9MRXRuVkM1Znc2SnU0SUcyZHJwWTl1Y1pKWFdoVGpnUHVJa1NOd2VRU3ZVQWt00gHWAUFVX3lxTE9yWG9lQ2o2STN5cGpCNE9QYnNLTHhhektBbm16TU1GY1BUN1dFY2xpZ1p1eFhhTjZqaG05TEhsLVpKMXZpejl0RnJxQThuTVpEUXN6V25yenROazN3R3BvUHNPM2Z4SjZMalc4RVFEenhCNDZfM3N4cVZJZ0dXWER6TVZxamlaNk9IM2VrUElFaTJfZVFHZDZXa2xZREFKUUh1S09xSUI1OFhsTktLZjZld1hWdW15dUp4MUdXQnJkQ05aRTdkaTFTUmdLQ1kzODJkY0tCTkE?oc=5": "2026-08-16T16:42:55.748039+00:00",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTRremVZOVJpRVZkdG1Ickg4bXFIOG01cVlWbFVIeV9FVGZNYXo1ejlOOTE4NXVQc3RMVl9mZERNX3d3N1hySm5FRHR6b3RZc3hld0lXWTQ0NjlNU2VtVkV4VkIxMzMwNGRUbkJWc0dhVG8wZjVlTDdUQmFXdnBrODNPWXJjNDg2YlczQ193bUV5NUpHTWhzS1JZa2hhT1RiYmdPc0NHeDF1Ymc4Z1BTNUFJRm9VUk5ENGZkOVllUmtqU2VVQ1I5bWg3VVJlTHQ2Znc?oc=5": "2026-08-21T22:00:30.093669+00:00",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONXEzNzVvb1IxX0VjWExzSk9LekhSM2duRFBwMWVVTUJHLUxIam5FaVAzdDM1OVJCa1FsdDZNSWl2dGszcUZpU2lGNjg3OC1PTVRQSmtpM2U0Y3gybWtyYUNRV2Z1OTJ6RVdLVlpYd0RobGFkT2dYTHNyenc3WFlMcEI2alV5YWtVQXczaTJ0dTNhbGE2QnJubktTTWRtMlZxeGQ4QWk3VndaeEg3cWliNUdkNzNlZGVwVjZ5X0VUdmhKT2pjbExMWFJiN29obTRFdnc?oc=5": "2026-08-18T09:49:17.816499+00:00",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNm5GMGV5cXQ2VVNwRFhlREstZnp3dFdrRnBXTjV4MzBqc1Y4cU5ELW5MdmxodkVkU3JibHRON0FJX2czc2hVVm91LW9nMjdCcWJVRVRxcHZJZDJmQ3phM2tpLWhaZVFla1BWaHpzTzNMcy1iQVQ5Mm9CVUljZFVzWlBma1Etc2VieDR0VUR2V0Q2STNQdFItOEpCcHJQdk0tWXo4djA2SkJkcDY3NXFjSTMwbkhaMm9hY2dOcEVjTElXZ3VjN1Q0UWo4Qk9IdmRBNEE?oc=5": "2026-08-19T01:54:07.718197+00:00",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWhhX1JZTkdXdUp3RUZyZDdUbzAxU3AwY2EtVXpUX3l0dEJJdnpVZTJmYkRnTGY5ZlVkSEVBT0JJME83dGwwTzRsWVFReGZkQmJCVDJYMlZLU1NBaXZROGh1cVpwVjZTRGJjSjQ2ZzFaNlQxZ0pkUFB2N2NwWHNWLVk1eGVScHVlSDNsMU1pM1F3V2ZvMWstVXhrUTJFdVNRVC1PVnk2UHBrWXB3LVBpRFlMT3VSa0ZDczFiME1lQ3lvSkw5VHRqOU82THItWXUxN0E?oc=5": "2026-08-10T21:58:49.211783+00:00",
@@ -8432,67 +8442,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-21T21:39:05.948834+00:00",
+      "checked_at": "2026-08-21T22:00:29.047474+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-21T21:39:06.503222+00:00",
+      "checked_at": "2026-08-21T22:00:29.642479+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-21T21:38:34.865251+00:00",
+      "checked_at": "2026-08-21T21:59:41.790118+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-21T21:38:36.407807+00:00",
+      "checked_at": "2026-08-21T21:59:43.165392+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-21T21:38:36.179756+00:00",
+      "checked_at": "2026-08-21T21:59:43.011258+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-21T21:38:39.326370+00:00",
+      "checked_at": "2026-08-21T21:59:44.830697+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-21T21:38:39.914276+00:00",
+      "checked_at": "2026-08-21T21:59:45.634264+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-21T21:38:37.051262+00:00",
+      "checked_at": "2026-08-21T21:59:43.616978+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-21T21:38:43.152567+00:00",
+      "checked_at": "2026-08-21T21:59:48.838216+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-21T21:38:35.268588+00:00",
+      "checked_at": "2026-08-21T21:59:42.198163+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-21T21:38:35.532094+00:00",
+      "checked_at": "2026-08-21T21:59:42.471855+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-21T21:38:34.579076+00:00",
+      "checked_at": "2026-08-21T21:59:41.503859+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-21T21:39:07.380698+00:00",
+      "checked_at": "2026-08-21T22:00:30.086651+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
