@@ -6000,11 +6000,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T12:49:30+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "One Bug, Three Faces: Building a Performance Analysis AI Agent - HackerNoon",
       "id": "47a997aa10ee5c7d236c",
       "last_seen_at": "2026-08-20T11:43:12.807665+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -6959,11 +6959,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T19:15:26+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Markets Confident OpenAI Releases Its Next AI Model in Weeks - Decrypt",
       "id": "d7875cb276012e3fe5ea",
       "last_seen_at": "2026-08-19T07:10:14.146958+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7317,11 +7317,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-20T19:57:01+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "One in five enterprises can't stop a runaway AI agent's spending in real time - VentureBeat",
       "id": "54feb22b744041d398b3",
       "last_seen_at": "2026-08-20T20:08:42.939224+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -7339,11 +7339,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T09:46:43+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Rogue AI Agent Faked Identities on GitHub - Technology Org",
       "id": "a0af6c104b101a9ba62c",
       "last_seen_at": "2026-08-21T09:53:15.590731+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -7356,6 +7356,28 @@
         }
       ],
       "summary": "Rogue AI Agent Faked Identities on GitHub Technology Org"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-07-30T07:00:00+00:00",
+      "early_signal": 18,
+      "headline": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+      "id": "ba2d83cbdbeca11dd859",
+      "last_seen_at": "2026-08-21T10:47:54.460682+00:00",
+      "score": 25,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-30T07:00:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5"
+        }
+      ],
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic"
     }
   ],
   "processed_urls": {
@@ -7517,6 +7539,7 @@
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKcEZYX2dvLWRLS0E1UHU3cTRfb3JtdE9pbGlYNm5nWkRudDVRY1BwbDdmelZEZTdkS0ZkZ2FsNFdZRjV2dEF2QnFwdGw5dmlJc1BuSmVNX3pyNGdFQVBCMnkyX1JKbVNaaFRPd3pMRGhqRVdxazNKLW5R?oc=5": "2026-08-17T13:53:58.382044+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjWm5JWDY1Ti1QbjVkLTRvSnRKOTF5YUZPVnhmcTJJTlpRVm9mS2F3Y3pjeGk4YnJXUklGVFlJUDgtc2xZUm81YXR0Z3FyRDZoR3I4NEFlOU9zRmlNN2p5YlhXWThLel96ejhRYUxEMTQ2NEpDa01Ed1Bn?oc=5": "2026-08-10T09:52:55.929891+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqZ1lPWWZyUmlyUGFDVW1XU1dTSDZuVnZSVFRndDhwOFdpSmQzZ3pOaUZqaVB4VjZwOEF4c1YzWGFuTmNtdTRjbkxxYnlZQmZsN1JLYms1aVU4VGlmdXA3ekVtOGk4WWpOb3RnZ0xka3llRzZwNWs4alRR?oc=5": "2026-08-19T12:01:42.533463+00:00",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5": "2026-08-21T10:47:54.457043+00:00",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5": "2026-08-19T20:00:30.458448+00:00",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6Z3R4NEZZSlFnWG9YOGRyX2F3OGNmeGNYZV9pVmNxU1dFbDE0UTJPcmgzd1VUQktmTlc2TkNZQldpNE9MUmVTOXUwbDBMd1BqbnhMOTIyLTlZNjhfWVllbV9yVVdwa3JiUkZmQmtKdTlKQ3JlWng2MEh5QlF1OXc?oc=5": "2026-08-14T23:00:57.854263+00:00",
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOY3otWnlnb3JFLXVBbjR0YUNmNTMzd3FLMlRib0lZMFAtYW16VFlQS0dZamQ4MVJMOTRad3IzbF9DbzhiU1lSZkkwVGJJRXFmdXhqSUEwUlR5Q1l2M0xHeHNXU1V0UmNvbG9zSHFtR3J1MTJwVlBSdG01eFBFYkE?oc=5": "2026-08-10T20:05:22.170696+00:00",
@@ -8000,67 +8023,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-21T09:53:14.519453+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-21T10:47:53.292207+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-21T09:53:15.020414+00:00",
+      "checked_at": "2026-08-21T10:47:53.987037+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-21T09:52:30.287251+00:00",
+      "checked_at": "2026-08-21T10:47:10.423087+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-21T09:52:31.458718+00:00",
+      "checked_at": "2026-08-21T10:47:11.495089+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-21T09:52:31.165160+00:00",
+      "checked_at": "2026-08-21T10:47:11.336684+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-21T09:52:33.980648+00:00",
+      "checked_at": "2026-08-21T10:47:13.604220+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-21T09:52:34.625166+00:00",
+      "checked_at": "2026-08-21T10:47:14.224574+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-21T09:52:32.081070+00:00",
+      "checked_at": "2026-08-21T10:47:11.819676+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-21T09:52:37.737517+00:00",
+      "checked_at": "2026-08-21T10:47:17.385629+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-21T09:52:30.498162+00:00",
+      "checked_at": "2026-08-21T10:47:10.771287+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-21T09:52:30.739268+00:00",
+      "checked_at": "2026-08-21T10:47:11.020348+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-21T09:52:29.752949+00:00",
+      "checked_at": "2026-08-21T10:47:09.861721+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-21T09:53:15.577589+00:00",
+      "checked_at": "2026-08-21T10:47:54.450705+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
