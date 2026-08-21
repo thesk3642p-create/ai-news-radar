@@ -6366,11 +6366,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T08:10:29+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
       "id": "1ddfd114839a7f13f8fc",
       "last_seen_at": "2026-08-20T14:00:44.211500+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -7065,11 +7065,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:33:45+00:00",
-      "early_signal": 43,
+      "early_signal": 42,
       "headline": "Getting your brand ready for AI agent discovery - MarTech",
       "id": "185185adb5cfebc5a2bd",
       "last_seen_at": "2026-08-21T01:57:48.790615+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -7105,11 +7105,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:19:31+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube - NDTV",
       "id": "7e134181a389e3a77062",
       "last_seen_at": "2026-08-21T05:48:40.273945+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -8023,67 +8023,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-21T10:47:53.292207+00:00",
+      "checked_at": "2026-08-21T11:11:38.007660+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-21T10:47:53.987037+00:00",
+      "checked_at": "2026-08-21T11:11:38.584613+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-21T10:47:10.423087+00:00",
+      "checked_at": "2026-08-21T11:11:19.147244+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-21T10:47:11.495089+00:00",
+      "checked_at": "2026-08-21T11:11:20.518610+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-21T10:47:11.336684+00:00",
+      "checked_at": "2026-08-21T11:11:20.232079+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-21T10:47:13.604220+00:00",
+      "checked_at": "2026-08-21T11:11:22.850831+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-21T10:47:14.224574+00:00",
+      "checked_at": "2026-08-21T11:11:23.468224+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-21T10:47:11.819676+00:00",
+      "checked_at": "2026-08-21T11:11:21.074017+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-21T10:47:17.385629+00:00",
+      "checked_at": "2026-08-21T11:11:26.575654+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-21T10:47:10.771287+00:00",
+      "checked_at": "2026-08-21T11:11:19.513336+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-21T10:47:11.020348+00:00",
+      "checked_at": "2026-08-21T11:11:19.816215+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-21T10:47:09.861721+00:00",
+      "checked_at": "2026-08-21T11:11:18.885699+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-21T10:47:54.450705+00:00",
+      "checked_at": "2026-08-21T11:11:39.016663+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
