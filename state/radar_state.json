@@ -7078,11 +7078,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:19:31+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube - NDTV",
       "id": "7e134181a389e3a77062",
       "last_seen_at": "2026-08-19T13:58:13.243428+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7228,11 +7228,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-20T02:00:00+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Most firms have deployed AI agents, few trust them - Frontier Enterprise",
       "id": "3dbc4396d5978bf568eb",
       "last_seen_at": "2026-08-20T09:53:40.838130+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -7936,67 +7936,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-21T04:05:25.051623+00:00",
+      "checked_at": "2026-08-21T04:55:09.923057+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-21T04:05:25.536463+00:00",
+      "checked_at": "2026-08-21T04:55:10.495068+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-21T04:04:34.894003+00:00",
+      "checked_at": "2026-08-21T04:54:26.298392+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-21T04:04:36.212988+00:00",
+      "checked_at": "2026-08-21T04:54:27.489839+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-21T04:04:35.771542+00:00",
+      "checked_at": "2026-08-21T04:54:27.390956+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-21T04:04:38.371867+00:00",
+      "checked_at": "2026-08-21T04:54:30.291932+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-21T04:04:39.035924+00:00",
+      "checked_at": "2026-08-21T04:54:30.960744+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-21T04:04:36.804021+00:00",
+      "checked_at": "2026-08-21T04:54:27.727504+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-21T04:04:42.142794+00:00",
+      "checked_at": "2026-08-21T04:54:34.078480+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-21T04:04:35.110273+00:00",
+      "checked_at": "2026-08-21T04:54:26.801112+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-21T04:04:35.359505+00:00",
+      "checked_at": "2026-08-21T04:54:27.122033+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-21T04:04:34.600180+00:00",
+      "checked_at": "2026-08-21T04:54:25.969688+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-21T04:05:26.007924+00:00",
+      "checked_at": "2026-08-21T04:55:10.940590+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
