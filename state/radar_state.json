@@ -6562,11 +6562,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T13:00:00+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Portnox adds Microsoft Defender integration to police AI agent access - SiliconANGLE",
       "id": "9ec7a92d46bf22c54413",
       "last_seen_at": "2026-08-21T00:01:16.148052+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -7132,10 +7132,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:19:31+00:00",
-      "early_signal": 46,
+      "early_signal": 47,
       "headline": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube - NDTV",
       "id": "7e134181a389e3a77062",
-      "last_seen_at": "2026-08-21T21:39:07.388741+00:00",
+      "last_seen_at": "2026-08-22T10:41:07.633710+00:00",
       "score": 37,
       "sources": [
         {
@@ -7173,6 +7173,15 @@
           "source_type": "google_news",
           "title": "Secure AI agent identity in private cloud and hybrid environments - SC Media",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJmc2Y3RWpYa2xhYzZrZVc1dlVZQkl5WDlsaWF3bGZXU2J4UVlqOXhsdEJ1WkFtbEhuUlhsVEZCNU9laGIzOWVycUVQMnZMT0h4M1dsbGZrRE96UGJuTnhmOVZIUzRJY0RZTDJRb0cwaGdlWmlGUFBaTl82dURkeFBKWVluSXdESmlYc0NjcFNSMmgxQnRWWkc4dHk?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-22T09:01:39+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "My AI Agent Got Me Banned From Resy. Another Agent Got Me Reinstated. - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXpydEpaMGJNMmhRZzc3a1RSejlZTXpyYS1wSTQ4akp1YXZBOTJybWIwOEhQVDk0Y25uMVh0YU55OFJtM0RiNWdGcUxJMml2RXotNzhTNTVIYlFoMDNrSV9fV1Q3UHRqTW41YjQ3QTYyVmVEbUUzT3FkYWZKME5ESFRYbkM?oc=5"
         }
       ],
       "summary": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube NDTV"
@@ -7274,11 +7283,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:35:03+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok - Forbes",
       "id": "3ba06e3f0e900be21aa7",
       "last_seen_at": "2026-08-21T16:51:37.093766+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -7305,11 +7314,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:52:30+00:00",
-      "early_signal": 24,
+      "early_signal": 22,
       "headline": "AI model incidents highlight security concerns - TechTarget",
       "id": "cc681b2c7e48ca4ed626",
       "last_seen_at": "2026-08-19T20:00:30.467033+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -7778,11 +7787,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T22:29:00+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "OpenAI calls for stronger AI laws in California - Politico",
       "id": "c9dce9f681244c9fc757",
       "last_seen_at": "2026-08-21T23:39:03.699249+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -8006,6 +8015,7 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2t1WHBwRTFxYUh3OW9iVlE4R3R4ano3QW1NYzJnajdoU0hFQjFRcGFfbGR3WlNaSWRrOFRKYzJuUTVaVll0eF93M0xTQ2Q0MV9BTHZ0YmpicTJEaGI5ZkhXRS1hWUZDcWZrR29VcW9jdHR3endveWJ1cDZobUdVVWlHM1Y?oc=5": "2026-08-18T22:42:43.444190+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTFRUlY3WkZjdW1GNVhMS3hmRGZTLTFSZWZVLXg4dEdycVVnM0xpWVFlTUMzZ0FtOHJaZFNHVFdyRzlDLUJndEtueWlKVy1tUVFfUG5rRnNRZXhYSVl5Q3JMWkVDZzROSkF1aVRLd0pwM1ZVdjZPbWg4MndURHA3QXdsMDY?oc=5": "2026-08-11T09:14:38.175494+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFo1UlpMTUpqVmFFQ3puUmU5MjJuNXZKeGlDcGVxaEh0NGdBOEZwZXVqamkxYlI3aU9DZDlTODExdmduaVBuN3BndERuSm9IcTZ3SjNMUnpwWHU0NHBweV9qT1lVS2I4SFAzS0NEbDhlS0hEXzFLaFpHSksxeU5reHVQeWY?oc=5": "2026-08-18T04:52:53.660472+00:00",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXpydEpaMGJNMmhRZzc3a1RSejlZTXpyYS1wSTQ4akp1YXZBOTJybWIwOEhQVDk0Y25uMVh0YU55OFJtM0RiNWdGcUxJMml2RXotNzhTNTVIYlFoMDNrSV9fV1Q3UHRqTW41YjQ3QTYyVmVEbUUzT3FkYWZKME5ESFRYbkM?oc=5": "2026-08-22T10:41:07.627739+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDhRS25pYTdjXzNLbHMtdTRHLUVOLWlFRnhrR3I5azU4OVQ4aGZubHpQa2hqRTRsYWRUOE9IWG9JaHM4Q2ZuMlNwZGJDc1VfNnN3YmVLckVmS0I4MG4taDFaaTFzTTV1WEhsMlZtRHV2ckxBTHhSdmdkQVFLYjRfczNkbms?oc=5": "2026-08-13T15:15:06.862336+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5": "2026-08-09T04:07:57.381592+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUk1TmNlQ3lxLVljTnlXM1BSYWpNZTNpRjFBRXVNYkJ4M1VqMmREeW5xUnNyUU9pa0JRWHhoZ1lJb0k3OUJ2MW9OdGI3aG1tMmh6ZkRfMzM2YU01U1BoWjdjSlhTNlB6ck1vYUZTYVozSTRCei1CVzBrblpEQW1lbzc0ZjY?oc=5": "2026-08-10T11:21:17.478040+00:00",
@@ -8475,67 +8485,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T10:01:15.913962+00:00",
-      "error": "_ssl.c:993: The handshake operation timed out",
+      "checked_at": "2026-08-22T10:41:06.380802+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T10:01:16.512203+00:00",
+      "checked_at": "2026-08-22T10:41:06.944036+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T10:00:03.799940+00:00",
+      "checked_at": "2026-08-22T10:40:18.891140+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T10:00:05.245612+00:00",
+      "checked_at": "2026-08-22T10:40:20.205373+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T10:00:05.006841+00:00",
+      "checked_at": "2026-08-22T10:40:19.980674+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T10:00:07.731019+00:00",
+      "checked_at": "2026-08-22T10:40:22.588502+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T10:00:08.408932+00:00",
+      "checked_at": "2026-08-22T10:40:23.454339+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T10:00:05.762765+00:00",
+      "checked_at": "2026-08-22T10:40:20.671147+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T10:00:11.559563+00:00",
+      "checked_at": "2026-08-22T10:40:26.641393+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T10:00:04.200382+00:00",
+      "checked_at": "2026-08-22T10:40:19.254413+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T10:00:04.518984+00:00",
+      "checked_at": "2026-08-22T10:40:19.566271+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T10:00:01.510178+00:00",
+      "checked_at": "2026-08-22T10:40:18.591499+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T10:01:17.280406+00:00",
+      "checked_at": "2026-08-22T10:41:07.620051+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
