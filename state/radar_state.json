@@ -6736,11 +6736,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:00:05+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Alibaba\u2019s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu\u2019s larger AI systems - South China Morning Post",
       "id": "0f180ff7afc40e9c27d9",
       "last_seen_at": "2026-08-21T13:11:13.462116+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -6834,11 +6834,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T12:14:22+00:00",
-      "early_signal": 21,
+      "early_signal": 20,
       "headline": "Davis Wright Tremaine Expands Firmwide AI Capabilities With Harvey and Microsoft AI Frontier Suite - Davis Wright Tremaine",
       "id": "2312622a875cf776ec9c",
       "last_seen_at": "2026-08-18T18:57:28.940840+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -7429,11 +7429,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T09:46:43+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Rogue AI Agent Faked Identities on GitHub - Technology Org",
       "id": "a0af6c104b101a9ba62c",
       "last_seen_at": "2026-08-21T09:53:15.590731+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -7522,11 +7522,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:41+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "AI Agent Payments: The Inevitable Future - Tiger Research Reports",
       "id": "a7e1a0932f326cbdfe67",
       "last_seen_at": "2026-08-21T20:41:49.748971+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7553,11 +7553,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:49+00:00",
-      "early_signal": 52,
+      "early_signal": 50,
       "headline": "China\u2019s AI Agents Race To Become Digital Employees - Benzinga",
       "id": "1606487f8db0dc09da96",
       "last_seen_at": "2026-08-21T21:01:43.050632+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -7659,11 +7659,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:45+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents - NVIDIA Developer",
       "id": "13c2e7ea1671c6f8097a",
       "last_seen_at": "2026-08-21T14:54:32.139770+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -7712,11 +7712,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T16:06:00+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage - The Guardian",
       "id": "571774c39007bf290bce",
       "last_seen_at": "2026-08-21T19:37:32.391264+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -7734,11 +7734,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:01:55+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands - Program Business",
       "id": "20ce6bca1c0d4523253a",
       "last_seen_at": "2026-08-21T19:37:32.395468+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -8475,67 +8475,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T08:48:37.654777+00:00",
+      "checked_at": "2026-08-22T09:42:54.502877+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T08:48:38.133986+00:00",
+      "checked_at": "2026-08-22T09:42:55.001282+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T08:47:51.586452+00:00",
+      "checked_at": "2026-08-22T09:42:13.798403+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T08:47:52.700591+00:00",
+      "checked_at": "2026-08-22T09:42:14.910542+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T08:47:52.610513+00:00",
+      "checked_at": "2026-08-22T09:42:14.790962+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T08:47:55.636055+00:00",
+      "checked_at": "2026-08-22T09:42:17.190526+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T08:47:56.249302+00:00",
+      "checked_at": "2026-08-22T09:42:17.832648+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T08:47:53.130120+00:00",
+      "checked_at": "2026-08-22T09:42:15.478975+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T08:47:59.354589+00:00",
+      "checked_at": "2026-08-22T09:42:20.931358+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T08:47:51.931212+00:00",
+      "checked_at": "2026-08-22T09:42:14.062992+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T08:47:52.234474+00:00",
+      "checked_at": "2026-08-22T09:42:14.357175+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T08:47:51.225109+00:00",
+      "checked_at": "2026-08-22T09:42:13.486010+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T08:48:38.552768+00:00",
+      "checked_at": "2026-08-22T09:42:55.715739+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
