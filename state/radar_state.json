@@ -7385,11 +7385,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-20T07:00:00+00:00",
-      "early_signal": 25,
+      "early_signal": 23,
       "headline": "Introducing AI Futures",
       "id": "5d164a334d66c82aa170",
       "last_seen_at": "2026-08-20T19:46:45.504335+00:00",
-      "score": 28,
+      "score": 27,
       "sources": [
         {
           "media_url": null,
@@ -7407,11 +7407,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-20T19:57:01+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "One in five enterprises can't stop a runaway AI agent's spending in real time - VentureBeat",
       "id": "54feb22b744041d398b3",
       "last_seen_at": "2026-08-21T23:39:03.701562+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -7456,11 +7456,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T09:46:43+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Rogue AI Agent Faked Identities on GitHub - Technology Org",
       "id": "a0af6c104b101a9ba62c",
       "last_seen_at": "2026-08-21T09:53:15.590731+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -7549,11 +7549,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:41+00:00",
-      "early_signal": 42,
+      "early_signal": 41,
       "headline": "AI Agent Payments: The Inevitable Future - Tiger Research Reports",
       "id": "a7e1a0932f326cbdfe67",
       "last_seen_at": "2026-08-21T20:41:49.748971+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -7580,11 +7580,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:49+00:00",
-      "early_signal": 50,
+      "early_signal": 49,
       "headline": "China\u2019s AI Agents Race To Become Digital Employees - Benzinga",
       "id": "1606487f8db0dc09da96",
       "last_seen_at": "2026-08-21T21:01:43.050632+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -7664,10 +7664,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T08:45:00+00:00",
-      "early_signal": 32,
+      "early_signal": 40,
       "headline": "Companies\u2019 Sharing of AI Agents Risks More Tax Fights - news.bloombergtax.com",
       "id": "eef20b02169b43cf42fc",
-      "last_seen_at": "2026-08-21T14:54:32.131723+00:00",
+      "last_seen_at": "2026-08-22T13:01:57.722528+00:00",
       "score": 33,
       "sources": [
         {
@@ -7678,6 +7678,15 @@
           "source_type": "google_news",
           "title": "Companies\u2019 Sharing of AI Agents Risks More Tax Fights - news.bloombergtax.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlE0UDFxcFZFRmtyRnJoTDlBQlRQdzI1MEZnN0Y5SFQ3NnlRbndwVkVVbUhwMW5FSGhSWEtNcUxoY2V6TEhaeFJXbWV0M1puSXYyby02OWFzWEp6bEphRlRLZ2NqeExYVjVYcTdxNkR4QXlJYVhxdEY1UmFibjNxRFRWZl9GTTJHUnR3WjJHYUltNy1LbERKUEszaTUwZm0y?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-22T12:20:45+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Study explains why AI agents benefit from \"skills\" and when they fail - the-decoder.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk10QkNKbk1jNW5ZOTJJMXotc1dNeWRCOEV6cWdoaDMwNzJfeHFEZGJyd0o0U3luRHhENGVuaG42UkRZN3MxbDJLellxdWhHUmhFS3NRV2dpU1NTQ1dmMXZaTTBYMmtzUjBqSnZXbXFwSmVWenhPQ0ZBQVFpd3J1aEEtcG5tTmIwcFZtLVNNZFBvSlRrS3JJ?oc=5"
         }
       ],
       "summary": "Companies\u2019 Sharing of AI Agents Risks More Tax Fights news.bloombergtax.com"
@@ -7686,11 +7695,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:45+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents - NVIDIA Developer",
       "id": "13c2e7ea1671c6f8097a",
       "last_seen_at": "2026-08-21T14:54:32.139770+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7739,11 +7748,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T16:06:00+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage - The Guardian",
       "id": "571774c39007bf290bce",
       "last_seen_at": "2026-08-21T19:37:32.391264+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7761,11 +7770,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:01:55+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands - Program Business",
       "id": "20ce6bca1c0d4523253a",
       "last_seen_at": "2026-08-21T19:37:32.395468+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -7805,11 +7814,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T22:29:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "OpenAI calls for stronger AI laws in California - Politico",
       "id": "c9dce9f681244c9fc757",
       "last_seen_at": "2026-08-21T23:39:03.699249+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -7822,6 +7831,28 @@
         }
       ],
       "summary": "OpenAI calls for stronger AI laws in California Politico"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-22T06:45:00+00:00",
+      "early_signal": 44,
+      "headline": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks - Technology Org",
+      "id": "0901166e90138ee8017e",
+      "last_seen_at": "2026-08-22T13:01:57.727166+00:00",
+      "score": 42,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-22T06:45:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks - Technology Org",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOU1nXzVTSTkybmlXUS1hZDBETTVPaHZJMTNjMkcxdk5hdUhneHVKY3JLOC1yMmtlWXBjcUN3ZDhjWXpvdzIyYm9HQ25kSE5IY09UTC1lUUc5RW5rNUpSS3A3dmVQckxDT2ZxRW9tWmZBalJKbnpCU2VVcnZBVGoyWQ?oc=5"
+        }
+      ],
+      "summary": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks Technology Org"
     }
   ],
   "processed_urls": {
@@ -8015,6 +8046,7 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5": "2026-08-13T19:21:01.497614+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjVJSkhLSWNWTmZxSDNEckYyVUE2RDlMYlF1NnEtX1RVVW5GRVJmX3hQS19IVWpFeUVNSmpEZGhsenJHMVhkd3Q5bmFDZC1xZmdGckk5ZVk0WmFmVUdGX0ZQcHpjdm5NWDBrUmROaXhaM04tcUtkMFJvLWotNWJvMA?oc=5": "2026-08-09T19:01:35.215687+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNE9QR1JoRU0tU1RaQ0xRNmtxWF9TdHhFZy1PN05vY3JvNmFneWdLNzVISjlId2lqQzU4cWZJY0dRNDRHWWk5dHZNMWhPZnRudWpCM1V0WG1jUEhHT1BVR1FIY1hkQURxMmZ1MjhvRk8yTmtOeGw2ZHlyOHZxc1V1OA?oc=5": "2026-08-10T04:55:05.394319+00:00",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOU1nXzVTSTkybmlXUS1hZDBETTVPaHZJMTNjMkcxdk5hdUhneHVKY3JLOC1yMmtlWXBjcUN3ZDhjWXpvdzIyYm9HQ25kSE5IY09UTC1lUUc5RW5rNUpSS3A3dmVQckxDT2ZxRW9tWmZBalJKbnpCU2VVcnZBVGoyWQ?oc=5": "2026-08-22T13:01:57.717320+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1pUSkV5YV9jd1RmUmlQcEpoTVdrOVNJaU8xYURUVlp5Y2FIM2xmZHkxWngzUVo5YUNNaWttbllXVUJxLWhXeXhZZ2psN3ZXeXF6SnRaSzlpdjNuaHVpeHNGbU1NenN4dnhIU3otc1hURGx5WlUtNFRGTElvaHFjVHVR?oc=5": "2026-08-18T11:10:33.875822+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSV9IZ1FPSC1CRzhYa2c5bm5iV0p1NjVsUVlkcDliVEZOcjhlOGsxWkhpZFROQ1BlMFRCNHlqdFViVU5lV3RsMGh1NHYybVBnVlNTc0g5NlFmZ2tHeEUzOVBzS0tlWENCVGZXSjg0TUtZTFgySG9RdDlvcUFieGVOcW9R?oc=5": "2026-08-17T01:55:56.284016+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXJTbVBwOXQ2N2lsMlQ3QkdPeVpMUmUwejdrZU5Jb293Q1pwRC16bmlBMDl1MzhIVHViSFBld1k3TXo4VUVKMzBjTXhpNFJMU1dPd1dIWGswUXE2S091SHdsSGdjS0hGOU9WV0lCSFJCMHJXblVXRGUwN0dySlhiT2d3?oc=5": "2026-08-19T19:40:56.671975+00:00",
@@ -8114,6 +8146,7 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmRhUEdHSXBicGJISzBNNkt0WHVEZTJfOUsxcHVmV284MENWS1Y5UXFTdnY4bEx4WVU3emFCV1BPWGhHMU05aFpGTDAtMHVzckJLd0R2SmprSVBEX1p0WnNSRWN6Wmlaai1XM2ZhMlh3NENkaHJMQ1JWVGdfVE1EZHJrb1pidG91UzJkdWQ2RWtGWXRrYkE?oc=5": "2026-08-17T13:53:58.382590+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDJFUW1OSWVtalE5b2NxWUJxcWNuZnRWNDVkZ0xKVzktZnhKR3lQMlR0djduS24wbUVZUEdIeDJUSUlLb08xbkVkaWRZUDVWLVZGSzAzTXpac2tEd3YyV3llX1U3ZGRUVTk0UEtKQkU5WGZ4V1ViUDVHQVBrT0pGbVdsNUlvbEtMNVc2UmJETHkzTWlPbjI4?oc=5": "2026-08-21T16:51:37.089038+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ1R0S2VuTTJoYlpJMjQ1NkxOOXJ0WFhRY3ExN2tDbEV1UlNlNXpWczcwVEdObzVBVFpiVWlOaUoxZVFlMVo5T3gxSXNwRzN6S3JkeWNRSHhhSWxCb3dGNEdwYU9HUFhOOWJ3TkFBTHFEQnVWaVNFUWxrdG9pWm9aTFVHcTVjdFhzYXZiUXg3ZmxrRG5ubTMw?oc=5": "2026-08-21T13:11:13.448281+00:00",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk10QkNKbk1jNW5ZOTJJMXotc1dNeWRCOEV6cWdoaDMwNzJfeHFEZGJyd0o0U3luRHhENGVuaG42UkRZN3MxbDJLellxdWhHUmhFS3NRV2dpU1NTQ1dmMXZaTTBYMmtzUjBqSnZXbXFwSmVWenhPQ0ZBQVFpd3J1aEEtcG5tTmIwcFZtLVNNZFBvSlRrS3JJ?oc=5": "2026-08-22T13:01:57.716816+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3FSblBXT0diQWl4OTJONkU1cGp0NDFuWmU3U1NHR3Y3Q0ZCR0NJakVzYmhhTmo4RllyXzNSdjBHNnRCZ1lLTG5RM2xYYno2TE1IR2dJR19kRlAtSUlCa2JFRFNPQTJkcWdvTkw0RElRZFhnUmVyZmxkdktlN2s2MzZOSm9NVXJrQmJFbDd6amg0LVRNN3ZF?oc=5": "2026-08-14T10:40:38.181606+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEpvZDZCWDZUT3BGZ2xyMGN3WTVoQWljXzdYNmtDNU1maDNoYy1fQThBY2t5WDdzNXB4XzI3dUZMTmJlejJFbV9USFRGS2ZLTk9wTlVGSTEtRW1Ua1p1a1k4NGdidXNCVkdrU1RjbFVYZDNEbXF2bEhtMWI3b01rRzliOXVHS0Z3QWFSSmJjakp5TENENDVj?oc=5": "2026-08-21T17:45:50.186896+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNmZFSnpoczFtRXl0aFlUS21ENENWMkdDbnNBek1PQkZPd2daOUoyRG12SHd4N2VuWHd3dmhrYmM0bjB3NVBuWS0tVEpUVVlCb2NsRGVGUnhQLWMtTkI0NzhNcVc4el9udzlwWTh3MnZBUWFSS3ZtdXhLYkRObVhiTkpVcUJVeW94RWVRdEVsTm80TVNtQmhj?oc=5": "2026-08-11T10:12:33.866751+00:00",
@@ -8505,67 +8538,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T11:58:18.674815+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-22T13:01:56.529000+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T11:58:19.158419+00:00",
+      "checked_at": "2026-08-22T13:01:57.105709+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T11:57:59.724630+00:00",
+      "checked_at": "2026-08-22T13:00:52.085583+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T11:58:00.756836+00:00",
+      "checked_at": "2026-08-22T13:00:53.448456+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T11:58:00.603291+00:00",
+      "checked_at": "2026-08-22T13:00:53.242764+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T11:58:03.069548+00:00",
+      "checked_at": "2026-08-22T13:00:55.238421+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T11:58:03.546568+00:00",
+      "checked_at": "2026-08-22T13:00:55.958156+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T11:58:01.390436+00:00",
+      "checked_at": "2026-08-22T13:00:53.950300+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T11:58:06.727856+00:00",
+      "checked_at": "2026-08-22T13:00:59.141537+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T11:58:00.098338+00:00",
+      "checked_at": "2026-08-22T13:00:52.414668+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T11:58:00.298081+00:00",
+      "checked_at": "2026-08-22T13:00:52.704379+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T11:57:59.433672+00:00",
+      "checked_at": "2026-08-22T13:00:51.734753+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T11:58:19.672061+00:00",
+      "checked_at": "2026-08-22T13:01:57.709112+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
