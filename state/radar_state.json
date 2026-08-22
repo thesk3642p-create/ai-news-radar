@@ -7310,11 +7310,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:35:03+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok - Forbes",
       "id": "3ba06e3f0e900be21aa7",
       "last_seen_at": "2026-08-22T18:49:34.361018+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7665,10 +7665,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T08:46:36+00:00",
-      "early_signal": 28,
+      "early_signal": 36,
       "headline": "Beyond LLMs: Creating Real-World AI Agents with Lang Chain Deep Agents - HackerNoon",
       "id": "921d4325c4923a58c45c",
-      "last_seen_at": "2026-08-21T13:11:13.466675+00:00",
+      "last_seen_at": "2026-08-22T22:38:23.722883+00:00",
       "score": 31,
       "sources": [
         {
@@ -7679,6 +7679,15 @@
           "source_type": "google_news",
           "title": "Beyond LLMs: Creating Real-World AI Agents with Lang Chain Deep Agents - HackerNoon",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ1R0S2VuTTJoYlpJMjQ1NkxOOXJ0WFhRY3ExN2tDbEV1UlNlNXpWczcwVEdObzVBVFpiVWlOaUoxZVFlMVo5T3gxSXNwRzN6S3JkeWNRSHhhSWxCb3dGNEdwYU9HUFhOOWJ3TkFBTHFEQnVWaVNFUWxrdG9pWm9aTFVHcTVjdFhzYXZiUXg3ZmxrRG5ubTMw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-22T16:35:08+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "AI agents are quietly rewriting school procurement, starting with the shopping cart - MarketScale",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHNwUkw1djBDdnBNZzRveHp2ZV9ZMjJtZXZRQnVlckJqYmFnZDQ1OUVTZTFGUlIxVkRzTEhQMWZEMVhKTlJGTklraXNSZmpQc01yd3pIQzhYM3FJbWRubVQxSENYZWY2Y2FLaWx2ZVAwcVF2c1MxV2VwYVlvU1RFQnpDUmNGSVdwQVBwRHFwQW8zM1NweXdmMkZKMC1ja2d2UGVRUWxoTy1QYkpsNE9zRVo0dm43UDVSM1FrVVhGR3JRbzRUMzZUNVQwLTJtRnZTanNUQmJBb3QzUQ?oc=5"
         }
       ],
       "summary": "Beyond LLMs: Creating Real-World AI Agents with Lang Chain Deep Agents HackerNoon"
@@ -7687,11 +7696,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-21T00:00:00+00:00",
-      "early_signal": 26,
+      "early_signal": 25,
       "headline": "Measuring benchmark optimization in speech recognition",
       "id": "2dd24f5a3c4daa549879",
       "last_seen_at": "2026-08-21T13:58:49.267257+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -8042,6 +8051,7 @@
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOclMzSVdBNlcwY3pYMGVVSWN2bXdnRzA1VVhZbUY3TGt3MjBrWTlhMWxVNmlfd2NRZFVZMlJoSWlQLWZlQWtvZktkdjZQZFZyVVRqNVd3T19fSVVOYnQ4eHFCcEZVX3h1UEJuZEphQW5xUGZEVUJXSHlEdi1RLVFmblh1bVM5b2tRT2lab0k3OFI3b3l1d1FKMW9pRkR3MmhJMWlIT3RTazYxUFFjd1BkRjFhZlp2dmRQTU52MHVxNDNFZTFOejFYbWVxNWgwRmRUcTZQYkE3dw?oc=5": "2026-08-15T21:57:34.386972+00:00",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONkJ2ZmhvMjRBV2FTV3JxcnhBX3pueU9NS25SZEZ3T2xILVI4Vlc1ZVg1dUxTbkR2S0hPUkZRb1l5NU5QR21nemZjSEpmM0FCMFVzTU9RRDdkRUU5SkZuS3BhVlB6NzVlSGxaR05lT3ZSQ1owZmh3SEpQT04wM2w5Wms2TE1FMWxaVnBIYnJhSzYtcHhhUE9Fb29QQlhQMTg1NEowR3V6MTE1TTU1V24xMGtsNDBWaC1rWVEtSGNROHVKNzFaeDYwSThCV25oTXhHY1RoV0ZLR3c?oc=5": "2026-08-20T05:47:20.515245+00:00",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTnpObVNaLVpqYmRxY3RiZmoxaXZ3Q2NfbENMOXAtNjlEMjJueTZaTlFXZl8wZ0pjcjR0X05NNWExc3FJYUNRR2lYTTBDdXJJRmVINFhFNlB1U2prQzhTQ044RW91YVlsZWUzc3drUUw0Rzg3RmZaam9OMmxLWWFDY1lsUHNZVHRIdTBieVZyZ1RuYkpUSC01ajdXcmJLUmNmVGZZYlpXc19JZW01RHpYWlY4djMtN2lCc3U5TmJqVHREZGFUNkJhV1JVbHJIN1ZOcVZwMDcwYll5QQ?oc=5": "2026-08-10T16:12:19.796776+00:00",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHNwUkw1djBDdnBNZzRveHp2ZV9ZMjJtZXZRQnVlckJqYmFnZDQ1OUVTZTFGUlIxVkRzTEhQMWZEMVhKTlJGTklraXNSZmpQc01yd3pIQzhYM3FJbWRubVQxSENYZWY2Y2FLaWx2ZVAwcVF2c1MxV2VwYVlvU1RFQnpDUmNGSVdwQVBwRHFwQW8zM1NweXdmMkZKMC1ja2d2UGVRUWxoTy1QYkpsNE9zRVo0dm43UDVSM1FrVVhGR3JRbzRUMzZUNVQwLTJtRnZTanNUQmJBb3QzUQ?oc=5": "2026-08-22T22:38:23.717321+00:00",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM1lYa2lMREliUTk4b211ZmUzM1RkOWZBcVo0UDNSNW9HQ1E4LXpmRjhici1IQXhIZHM4NlZzaXIzdW80MHlhV2swWVF0MjV4WGdpMUhpU0VIQkV4ckFnRjRtUUNtbUdYbnZZc3g1di0xN1NXNEZoanJBR0pYdUxPLUQyTU9hU3JhSlBIOWU4LVo4Slp4dF9ZanlIZzFpdnIwNzBXRFNXcWMyVnBtdWJPaW9yazNzdlV2ckdmQXJUX3JOVmxueWN1MENPNEp2ZnZWcG53eW9paktheEU?oc=5": "2026-08-20T17:46:31.957325+00:00",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUJTcFEwb0szUlY1b25raG5XQmxyUDZBOUg4TVhJbmdYaVFRU2NRbVNncEk1bVBjSWlPR2xSclM4TDVCX2MyR3pOZkM1Uk1hZHVNbkg3eEJfaUFsLVpranNicHYzS09Gc1pMdlNOM281eGNyTFMzT1JRT0VGNDNpR1U4bmNlbnF6MDVOQXhZRkFVbndSSjBTY1pTMUltNmMwelJnQnhqVjQta2ZVR2VRdm9KR2JFQkZtUWQwU3d2Y3pGdkFJdjNLcEEzRWZkbXFtWEFuZTdkbzJZWVE?oc=5": "2026-08-10T19:17:22.367574+00:00",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdERiQllDeXFjTjBYYU5TMFl6S1NLWktHRnpMUGVKVVlwdmdVRDVJcjl5MUMyNnN3M1JEOGtBVndiQUZacFNrU0J4SnJiYTNhZjR6cE5WQk1BZ1RKblpteGJtS1RLMjJ0cC1lWlF2WEN1LTZTb1hSSUVlRlBwZXluN3RpeDktQXdtMEY0U29Zd3lUOXFUNW9KWmFfZU5oZk43dmNfaF9kMlFLRUI4MnhkVGFhczA1OEtJMEhoZlpiSTFsRDdsWDJmdGEwSEpCak5PZTdKTGt0SzNCV2sw?oc=5": "2026-08-19T17:11:50.636637+00:00",
@@ -8665,67 +8675,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T21:58:33.751040+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-22T22:38:22.352548+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T21:58:57.077295+00:00",
-      "error": "retryable response",
-      "status": "error"
+      "checked_at": "2026-08-22T22:38:23.000490+00:00",
+      "count": 30,
+      "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T21:57:52.978928+00:00",
+      "checked_at": "2026-08-22T22:38:02.150950+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T21:57:54.227153+00:00",
+      "checked_at": "2026-08-22T22:38:03.579137+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T21:57:54.141887+00:00",
+      "checked_at": "2026-08-22T22:38:03.392192+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T21:57:56.329797+00:00",
+      "checked_at": "2026-08-22T22:38:06.516662+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T21:57:56.967553+00:00",
+      "checked_at": "2026-08-22T22:38:07.331368+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T21:57:54.479008+00:00",
+      "checked_at": "2026-08-22T22:38:04.036722+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T21:58:00.163579+00:00",
+      "checked_at": "2026-08-22T22:38:10.526626+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T21:57:53.460035+00:00",
+      "checked_at": "2026-08-22T22:38:02.518284+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T21:57:53.757440+00:00",
+      "checked_at": "2026-08-22T22:38:02.866719+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T21:57:52.688343+00:00",
+      "checked_at": "2026-08-22T22:38:01.883107+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T21:58:57.672883+00:00",
+      "checked_at": "2026-08-22T22:38:23.709392+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
