@@ -7483,11 +7483,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T09:46:43+00:00",
-      "early_signal": 30,
+      "early_signal": 28,
       "headline": "Rogue AI Agent Faked Identities on GitHub - Technology Org",
       "id": "a0af6c104b101a9ba62c",
       "last_seen_at": "2026-08-21T09:53:15.590731+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7762,10 +7762,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T14:00:00+00:00",
-      "early_signal": 54,
+      "early_signal": 55,
       "headline": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly - SiliconANGLE",
       "id": "c3e04deffd1784848e74",
-      "last_seen_at": "2026-08-22T19:57:29.835672+00:00",
+      "last_seen_at": "2026-08-22T21:35:47.526267+00:00",
       "score": 38,
       "sources": [
         {
@@ -7803,6 +7803,15 @@
           "source_type": "google_news",
           "title": "OpenAI Calls For California To Strengthen Its AI Safety Laws - Engadget",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUktSRUZlaXlGY0cxeHZJT0ltazNHUV8wTlpBQVJfckQyZW9yOVpKeHgwenNvdXlydEZhSzBOSXJPcHJQRzc2dTRaS05lRU9ZXy1pRTJRc2pZdlhKVWZpZFpqVzVrdVhUN0FlLUpyUlc3S291Y19ndGVEY3prWV8zMXN6NjlzUVhyRkMzc1NYLWZIRDBJ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-22T20:46:41+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "A mysterious free AI model is impressing developers. And nobody knows who made it. - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10TFhibW0zcnAzcjMtbWExUnJ0NWJQMXM5WHBYemhFNU9zUlFXT05uSzBfWXZlRVROY2JlUk42N0R4dHJVSk1qbFJfUmhMX3hKUnBFUGRJT3lrZHBmS1o1eFRLNW0xMlgxSnNSY19mUkZUQQ?oc=5"
         }
       ],
       "summary": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly SiliconANGLE"
@@ -7921,11 +7930,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T01:31:04+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Michael Polansky is training an AI model on skin that\u2019s still alive - TechCrunch",
       "id": "f77c8ca6a2a65b900570",
       "last_seen_at": "2026-08-22T16:41:36.307296+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -8090,6 +8099,7 @@
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE55NnY2VFJ4VjlVeXdGbEVQdFJMYVZvZVpwRkY0aVNvZGJtWklMOEt3c01EcTFnT0xocm04QUk2Z1E0NE1lbkNVY2dDRkVxSFMwYUt6YldvQXYtSExsaDk1YTNaZnBqamU0MmpWUHN0YUk1Xzg?oc=5": "2026-08-10T11:21:17.479068+00:00",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BTVo0MFhOUkhaVFkxalAtcmlzZjVzeEpqN3MxdVIxQ0VteFFvallrVXp0ZXpUUXhwSW9vOE16eUNKeHdMemtKZXNWQ2J3N0N1SFlockhfSk9YRFVyTG5vemtWVVlGeks2Z0I2dGVWYWNxQTg?oc=5": "2026-08-11T17:42:21.487148+00:00",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkpLMXZTb2VrcG5lTkh4dHVsbV9kMVVpR0JBWEZ5QXloRDVRZG5RNnpYX0xNRFlGMlJXbzhFVXc0M0g0OTdzTE45RThoT0taQlpmYmszd3hNZEhDVU01bUhBZ3lrSkxjWE9kN0dWRGNQc0k?oc=5": "2026-08-18T10:46:52.187522+00:00",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE10TFhibW0zcnAzcjMtbWExUnJ0NWJQMXM5WHBYemhFNU9zUlFXT05uSzBfWXZlRVROY2JlUk42N0R4dHJVSk1qbFJfUmhMX3hKUnBFUGRJT3lrZHBmS1o1eFRLNW0xMlgxSnNSY19mUkZUQQ?oc=5": "2026-08-22T21:35:47.520389+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE13ZndQbm80akh1Y25lRkV2Y2dHTThZdUtQbHloWEdJWVZMQkxnRGIwY2w0YlhLMDM4WXpCWVBZQUIxanZXbnBuMnprWDJGVTJEYUlVd0owSG5wWkFQczFMclA4X3ZjbnluNWV1TVdKX0RnQQ?oc=5": "2026-08-18T11:10:33.876533+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE8zU25OamxMaDFKMHBOR2tmd2VwUXI1R1l1V3IzUGFwZEp5TzRiaUVkcDcxM1h3dW5YSXpVZ3dCVmd2dEwxdGwwYWI1cWRJVUhnVnQxNkJhTkdXWVZfTV9qOEdHYWVzVVlGdzFPNm53aGtFUQ?oc=5": "2026-08-09T19:49:22.625427+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE16YXJCVHJMUm9KbW1mOVdMaE1nZkZIdExoSnFSV1ZydVFlNmdLNEpPazFsUjRMZDd3TF9pVWEya3ExRVpoNDdxUk1yQnFCb0IzT2JmZHdOLXhYc3phc1BRVExSaWNwWjFFaHNRZWJuM21Ccm9rbXpR?oc=5": "2026-08-12T16:12:07.356015+00:00",
@@ -8655,67 +8665,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T21:01:01.425274+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-22T21:35:46.493057+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T21:01:01.967335+00:00",
+      "checked_at": "2026-08-22T21:35:47.052464+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T20:59:58.255653+00:00",
+      "checked_at": "2026-08-22T21:35:13.808384+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T20:59:59.318412+00:00",
+      "checked_at": "2026-08-22T21:35:14.968164+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T20:59:59.250249+00:00",
+      "checked_at": "2026-08-22T21:35:14.882122+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T21:00:01.358431+00:00",
+      "checked_at": "2026-08-22T21:35:18.005867+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T21:00:01.872746+00:00",
+      "checked_at": "2026-08-22T21:35:18.645584+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T20:59:59.553449+00:00",
+      "checked_at": "2026-08-22T21:35:15.246424+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T21:00:04.963842+00:00",
+      "checked_at": "2026-08-22T21:35:21.774931+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T20:59:58.630209+00:00",
+      "checked_at": "2026-08-22T21:35:14.185944+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T20:59:58.866460+00:00",
+      "checked_at": "2026-08-22T21:35:14.494356+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T20:59:57.973751+00:00",
+      "checked_at": "2026-08-22T21:35:13.480293+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T21:01:02.630700+00:00",
+      "checked_at": "2026-08-22T21:35:47.512334+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
