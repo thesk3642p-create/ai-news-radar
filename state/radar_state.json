@@ -7522,11 +7522,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:41+00:00",
-      "early_signal": 46,
+      "early_signal": 44,
       "headline": "AI Agent Payments: The Inevitable Future - Tiger Research Reports",
       "id": "a7e1a0932f326cbdfe67",
       "last_seen_at": "2026-08-21T20:41:49.748971+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -7553,11 +7553,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:49+00:00",
-      "early_signal": 54,
+      "early_signal": 52,
       "headline": "China\u2019s AI Agents Race To Become Digital Employees - Benzinga",
       "id": "1606487f8db0dc09da96",
       "last_seen_at": "2026-08-21T21:01:43.050632+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7659,11 +7659,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:45+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents - NVIDIA Developer",
       "id": "13c2e7ea1671c6f8097a",
       "last_seen_at": "2026-08-21T14:54:32.139770+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -7734,11 +7734,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:01:55+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands - Program Business",
       "id": "20ce6bca1c0d4523253a",
       "last_seen_at": "2026-08-21T19:37:32.395468+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -8475,67 +8475,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T05:43:12.202665+00:00",
+      "checked_at": "2026-08-22T06:01:58.599662+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T05:43:12.782168+00:00",
+      "checked_at": "2026-08-22T06:01:59.177685+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T05:42:25.860732+00:00",
+      "checked_at": "2026-08-22T06:01:00.152949+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T05:42:26.965477+00:00",
+      "checked_at": "2026-08-22T06:01:01.408261+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T05:42:26.819864+00:00",
+      "checked_at": "2026-08-22T06:01:01.291224+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T05:42:29.814628+00:00",
+      "checked_at": "2026-08-22T06:01:04.003936+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T05:42:30.428308+00:00",
+      "checked_at": "2026-08-22T06:01:04.639835+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T05:42:27.635386+00:00",
+      "checked_at": "2026-08-22T06:01:01.813382+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T05:42:33.549775+00:00",
+      "checked_at": "2026-08-22T06:01:07.759408+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T05:42:26.191089+00:00",
+      "checked_at": "2026-08-22T06:01:00.601226+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T05:42:26.422599+00:00",
+      "checked_at": "2026-08-22T06:01:00.907803+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T05:42:25.606977+00:00",
+      "checked_at": "2026-08-22T06:00:59.886632+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T05:43:13.580694+00:00",
+      "checked_at": "2026-08-22T06:01:59.865367+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
