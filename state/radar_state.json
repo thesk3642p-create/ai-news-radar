@@ -7070,11 +7070,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T22:00:00+00:00",
-      "early_signal": 20,
+      "early_signal": 19,
       "headline": "ChatGPT Ads expands across Europe",
       "id": "762f464aac050cf6b285",
       "last_seen_at": "2026-08-19T05:47:05.112206+00:00",
-      "score": 23,
+      "score": 22,
       "sources": [
         {
           "media_url": null,
@@ -7135,7 +7135,7 @@
       "early_signal": 46,
       "headline": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube - NDTV",
       "id": "7e134181a389e3a77062",
-      "last_seen_at": "2026-08-22T11:36:04.060326+00:00",
+      "last_seen_at": "2026-08-22T19:35:34.068963+00:00",
       "score": 36,
       "sources": [
         {
@@ -7200,6 +7200,15 @@
           "source_type": "google_news",
           "title": "Binance Launches Agent OS: AI Agents Can Now Trade Crypto With ChatGPT, Claude and Codex - Bitcoin Foundation",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OajM0RW8wUzdtQkFzTmFzRFdUXzRDU2M4dEVBOHBGdTBRYkZZTmpsVHBIZzZwOFhOWHVLaFN6MVNZVWktQXdaY0w4SUhjVDNlT1FxcGItSElrTjVTc05BNThCNXRjRVFuZVU2Vjh2Z1FFRGlQZUhBVw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-22T11:00:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "This CEO was out to dinner when he caught his AI agent wasting $1,000 in tokens. He says \u2018insecurity\u2019 is a bigger problem - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZkU2cTBPZHpzWVNVMERKQlRVV1pERU9VbGc2Nlgyem1rNV9WOC1XZTRaWGhweWNadms5TW9KN3p6b3JiTGRieHlTbW9lX2JqeTMyM29LYWtEZGVpbHJqdmFPVHFiN1NwQTVVbGZNSFNad0piYUJsUWtNTEt0Ml9JT0RkRnVNUWc5ZEFiMXpyRjdPeTlr?oc=5"
         }
       ],
       "summary": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube NDTV"
@@ -7753,10 +7762,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T14:00:00+00:00",
-      "early_signal": 40,
+      "early_signal": 48,
       "headline": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly - SiliconANGLE",
       "id": "c3e04deffd1784848e74",
-      "last_seen_at": "2026-08-21T19:57:52.900766+00:00",
+      "last_seen_at": "2026-08-22T19:35:34.073647+00:00",
       "score": 39,
       "sources": [
         {
@@ -7776,6 +7785,15 @@
           "source_type": "google_news",
           "title": "Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYUhYMWlQcFVnY3ZOSzhwb21sNFEwVlNzS3dJaTl2bHJpYm1sM3g3MHl6S3NoU1Etd2VWakh5b0ZkelB3a2hNNy03akFEN1JybGF5ZTUxcmUzeEw1X1lBd2dqeU5fUWF2NVRHWWpIZXFYTWk1SFhKMlZBY1RoSlRjLWljUE1HMm5xcFN6RkM0NkNYOFlYSTBwWWhReXpXZFVsSVNnOUNIc3dQUlNQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-22T19:00:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5"
         }
       ],
       "summary": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly SiliconANGLE"
@@ -7784,11 +7802,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T16:06:00+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage - The Guardian",
       "id": "571774c39007bf290bce",
       "last_seen_at": "2026-08-21T19:37:32.391264+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -7991,6 +8009,7 @@
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmNPVTYwR2d4U2pGUWpobnhZY0k0QUo1MjNRSGIwVDBtakNwbWRSanBoYktsdmx1Uk5XRWttUFhMcHd1MkFyT3VicXpoM3E5Vm8xeV9nT2xITGFrWkN6dUZmQzVJbDFVMGFyaEJnU1BmT3JQNFFsMWdaN0pQRENiVlpvRmZtMWZvTGU2ZGEtcXZobEtIQkc3OGp3QUs3Vm5SZGhiWHBKTGNOTlFNcGU1c0lFT1h6S1lyOXNpdXZJT1B3dlRJWjZDZE0temxuUWszNFA4N2RQT3p5TERvcE1XR29lSQ?oc=5": "2026-08-20T09:17:57.969550+00:00",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGpyRFlBdlFwU1lwbGVmbENiWmNMSzRmVnBndTdhcUVHNGxqVTV1b1FFa1diVHVTVkFsRm9ncUtVUm1ueUU2NGRtcUZHRDUwMUt6VUI3MFJqVlgwWFp0UUUxOVF0MmxFRXFQeDJxZWFnSGV3M3ZGX3dKSjVHRnJUcW95WjRWYmdZOU5GMlBzbWFpV0xFeW9sTjYwcV8wbUc2SEFaVGNqdTBXYUNURUlZZUx3TGE4Q3lRazRyaTVENEZxOFc1OWZndE5SOGY2UEhJU1lUZVFtekg3Yk1fT0tHOHc4UkI?oc=5": "2026-08-10T09:52:55.930888+00:00",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0g2WTU3OHI0VHBrTmtLUWQtTFFNcUdRSWliSW9VTWZqR1JFOVhieS0tU0hjdUV2V2ZCUk15SFpFeHJSU2YyRU5TVkNLY1lNSzBMYzBDa0RfdmxxSWk5Sk9zaVNUaGJQS01FQks4OU1wYUw2ZWxERDJScVEzXzRvOHZXSE81YU5ieFY1NHBodnpSa1RkcUZteEx1djRHR2RlRm9QYTFSVVJILUZ6eTQ2bkpVZ0V0bFJNd0syZFBJSjUzM19yRWhkTk9BWkhDVkN6VF8wOEg5TTY3Und5c0NwQ1NUdjRBbjNJ?oc=5": "2026-08-19T23:59:26.693088+00:00",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5": "2026-08-22T19:35:34.063155+00:00",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWlRId29NWWlRNXpLNmtpRDFiRzFuMEZHSVE2UDRQS3pWcThIRW1nSHJXWG01eTd6R3Z5elFwNlFIM0hMUEhGT2NrTnRhQldYLVd1YTZFN1BhdHRNOVB0N1JmQVViTGtPLWFNNEFZX2hVMG13X25ZUHhfVXcteXc4R3E5OFB5UTJRY2hJeUNCY0J1bVNvZ2lKNTdzN2VFNlpLMk90NWc3bVA4Z01uaEZiVUhrTjFHQnZPM2ExMVAzOXduS0ZSZkxCSF9TRXppbjlHSUhHV05RTTRwaVY1N3psU05kckxLTkRPeEE?oc=5": "2026-08-21T00:01:16.143311+00:00",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSzlhcXY2UHFyUF9jTFE3QjZGS0QwRFNmRDJYbjE3Tmt2YURQUTBjeUhpbG9YRTFwVk1nYVY5a3RZVzYzVHNZd3hfc1ZHd1ByUm5WSk5nV2ZUN21oako0TmE1TUhwNjdKajJ3Z2VSRUR2UG9SdWZYcjROUGZScXFrV1ZueldSMENmM1UwaUVsbzVZcTRpdzlOS0dSWkd2QmNBU1pyT1BDLU9NRjl5OUxtUEwxTXJHVkRlcU1FV2ZnRDNrS2I1TU41cTVtWFRnd0VmODB3UW1yZ3BMaGZWVkEyYlJmSkQwNkNqbnVMNTFDYTkyTk0?oc=5": "2026-08-10T18:04:08.770069+00:00",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcnhCYXpxTmtzVjQ4Zy1meU9aQkV0SzZfMzNxOHhGMzBhQ3N1c3ZYRm1TQnF2Q3J1WTJxdGxxdzFrNVNmdlljWngxRFdjbjZST2xNVlZ0U3hDOGQxcnQzNWdQQjB4Mmo3WWVWSWQxR3lQZUdueGFsQjYyY2pscjVfcE4xa2JvdjZDYVQzMzI4ZUxZZ29LVDNzOUgwUGZjY0xUeXdqTHhuRlFNbmJWdWFiWFdja0RGdEc0RnZ1NGtfbFdKWXZsR29sOW1jMTF0TmVTZGNBcnlmdEl2aDRtS1dsLUg3cGxiMjRLTUlxR3JXb2tJZFE?oc=5": "2026-08-18T07:09:01.712995+00:00",
@@ -8197,6 +8216,7 @@
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1hGNjdrdUdua093OUViTGYxRHE5SE1hOTJaUTh4ZE5PVE45QmFSWWljMzU3Yzd2NmZKREd5ZW94aFFnbDJKYldiM1VzaHBPcndBTXlpVm5raS16NjZydGcyWWV6d1dQWlNMMktwd2FMbHZOaDdGSEQ2NVdaMDdjT1NTenNtTVF3R3BjSXFEY0stcTJi?oc=5": "2026-08-10T11:21:17.478342+00:00",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0w1S2pGOTJNZFZxY1IxTEtSVl91dWRpNHAzNU96U1ZWQkZHV3J4eEZjT243MjRtbnVmSTBWQlJfOHpCcFdTVWlaTjNqVFh1S3BvQzlWSThSand6LUZUQldfeklqcFhhbXNuUW4yQXNCVWM4aGYyLWV4bnZKVF93V05SRWtBRmxibFg4MzhjSDY2Y3Zi?oc=5": "2026-08-16T03:13:41.346563+00:00",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUZaM1N2NDA3a3hENi1tOTFGTVpweWpMWlpCQnQ4WDF3VnVMZDdDZ2RubnNUdndFNWNwaGI3MllnaG5hUjdMdVh2bm9pQ1RQc0FPcjEwWDg4Wnl3Sl85M2R1UDdnd0lwdkkzcDVzNnJ2XzNxU1BhM1lFajZQUzZrWkl3Ul8zc0RmVUpIdHdJd2x1bkNt?oc=5": "2026-08-19T16:12:45.517050+00:00",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZkU2cTBPZHpzWVNVMERKQlRVV1pERU9VbGc2Nlgyem1rNV9WOC1XZTRaWGhweWNadms5TW9KN3p6b3JiTGRieHlTbW9lX2JqeTMyM29LYWtEZGVpbHJqdmFPVHFiN1NwQTVVbGZNSFNad0piYUJsUWtNTEt0Ml9JT0RkRnVNUWc5ZEFiMXpyRjdPeTlr?oc=5": "2026-08-22T19:35:34.062745+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUp4RUd5VGNjV1RyeE9uaUdSVE9IVVIxcDIxV1VWVzFFRXBGX3AwTnUyOXgzRHBrRlRjcGl0ZGdRRE03VFB2all0TmFpTUlNbDRqTWhEeEhpT3htQngzODF1WEZmOUNCU193N0F1Vmd1ZC15TlJqRmxaWEdweEVrQTg5aDRqcVB5aFljODJvLWE4Z3cwQWc?oc=5": "2026-08-14T18:07:21.184411+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmF5ZVpEQlAyR3RsbUlkYXBrNWpvVjlta3NhZmhRNEx5bE9aZjE2SUF2T1RwV0FEMDZTUHJOOHVtZWxuTGNXTUJiSGF0M0cyb1BIVXVmVUZmNHptT3RYVkJiVjJ6VUEyQ2Y2NThldTl6Y0tyZWpHbmJtWkJCb3FvcjIxamxCR3Bya0k2WUJOc0lzRFJJNXc?oc=5": "2026-08-15T16:41:54.790787+00:00",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjRQdDJpQnE2LVQzUEs1UDNtUWxFR21VNkdXUEtxWVNibEJRbXI3V182Qk9GODcyZlVsckhWVXFRQnQ3N3VneGFORnNKb2dSeWg3VzFLNldHUlFyRUYxeWtTU2R2b0FJai1nVVhvalEyMFBEYmhESHpxTkdueUFvYXRXRG9mR0gtTm1HZkQtaXVOTDg3VUE?oc=5": "2026-08-16T04:01:26.686555+00:00",
@@ -8601,67 +8621,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T18:49:33.295082+00:00",
+      "checked_at": "2026-08-22T19:35:32.844424+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T18:49:33.914481+00:00",
+      "checked_at": "2026-08-22T19:35:33.412042+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T18:48:46.740846+00:00",
+      "checked_at": "2026-08-22T19:34:46.489223+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T18:48:48.253815+00:00",
+      "checked_at": "2026-08-22T19:34:47.639187+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T18:48:47.866854+00:00",
+      "checked_at": "2026-08-22T19:34:47.367198+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T18:48:50.671432+00:00",
+      "checked_at": "2026-08-22T19:34:51.051273+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T18:48:51.354887+00:00",
+      "checked_at": "2026-08-22T19:34:51.706376+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T18:48:49.062604+00:00",
+      "checked_at": "2026-08-22T19:34:48.353720+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T18:48:54.583871+00:00",
+      "checked_at": "2026-08-22T19:34:56.875940+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T18:48:47.152049+00:00",
+      "checked_at": "2026-08-22T19:34:46.714399+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T18:48:47.436878+00:00",
+      "checked_at": "2026-08-22T19:34:46.918933+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T18:48:46.413150+00:00",
+      "checked_at": "2026-08-22T19:34:46.264735+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T18:49:34.348342+00:00",
+      "checked_at": "2026-08-22T19:35:34.055383+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
