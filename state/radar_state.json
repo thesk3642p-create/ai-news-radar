@@ -7527,11 +7527,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-21T11:59:48+00:00",
-      "early_signal": 69,
+      "early_signal": 67,
       "headline": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "id": "c072ae3f4317e840490b",
       "last_seen_at": "2026-08-21T21:01:43.047648+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -8675,67 +8675,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T22:59:30.198785+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-22T23:35:23.072819+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T22:59:30.767388+00:00",
+      "checked_at": "2026-08-22T23:35:23.615721+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T22:58:50.494799+00:00",
+      "checked_at": "2026-08-22T23:34:37.713845+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T22:58:51.678893+00:00",
+      "checked_at": "2026-08-22T23:34:38.952416+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T22:58:51.430249+00:00",
+      "checked_at": "2026-08-22T23:34:38.717057+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T22:58:53.986787+00:00",
+      "checked_at": "2026-08-22T23:34:41.274948+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T22:58:54.586058+00:00",
+      "checked_at": "2026-08-22T23:34:41.902652+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T22:58:52.273934+00:00",
+      "checked_at": "2026-08-22T23:34:39.635616+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T22:58:57.693909+00:00",
+      "checked_at": "2026-08-22T23:34:45.034553+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T22:58:50.776514+00:00",
+      "checked_at": "2026-08-22T23:34:38.066105+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T22:58:51.005388+00:00",
+      "checked_at": "2026-08-22T23:34:38.313978+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T22:58:50.231405+00:00",
+      "checked_at": "2026-08-22T23:34:37.387980+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T22:59:31.194650+00:00",
+      "checked_at": "2026-08-22T23:35:24.383103+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
