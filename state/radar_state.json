@@ -7270,11 +7270,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-19T19:00:00+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Offering Zero Data Retention for frontier models",
       "id": "e6abc48003e314e67261",
       "last_seen_at": "2026-08-19T20:00:30.470954+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7412,11 +7412,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-20T07:00:00+00:00",
-      "early_signal": 23,
+      "early_signal": 21,
       "headline": "Introducing AI Futures",
       "id": "5d164a334d66c82aa170",
       "last_seen_at": "2026-08-20T19:46:45.504335+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -7886,11 +7886,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T22:29:00+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "OpenAI calls for stronger AI laws in California - Politico",
       "id": "c9dce9f681244c9fc757",
       "last_seen_at": "2026-08-21T23:39:03.699249+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -7952,11 +7952,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T20:57:39+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches - StreetInsider",
       "id": "5a8e4be58c88fa68761a",
       "last_seen_at": "2026-08-22T21:01:02.641048+00:00",
-      "score": 52,
+      "score": 51,
       "sources": [
         {
           "media_url": null,
@@ -8665,67 +8665,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-22T21:35:46.493057+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-22T21:58:33.751040+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-22T21:35:47.052464+00:00",
-      "count": 30,
-      "status": "ok"
+      "checked_at": "2026-08-22T21:58:57.077295+00:00",
+      "error": "retryable response",
+      "status": "error"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-22T21:35:13.808384+00:00",
+      "checked_at": "2026-08-22T21:57:52.978928+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-22T21:35:14.968164+00:00",
+      "checked_at": "2026-08-22T21:57:54.227153+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-22T21:35:14.882122+00:00",
+      "checked_at": "2026-08-22T21:57:54.141887+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-22T21:35:18.005867+00:00",
+      "checked_at": "2026-08-22T21:57:56.329797+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-22T21:35:18.645584+00:00",
+      "checked_at": "2026-08-22T21:57:56.967553+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-22T21:35:15.246424+00:00",
+      "checked_at": "2026-08-22T21:57:54.479008+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-22T21:35:21.774931+00:00",
+      "checked_at": "2026-08-22T21:58:00.163579+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-22T21:35:14.185944+00:00",
+      "checked_at": "2026-08-22T21:57:53.460035+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-22T21:35:14.494356+00:00",
+      "checked_at": "2026-08-22T21:57:53.757440+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-22T21:35:13.480293+00:00",
+      "checked_at": "2026-08-22T21:57:52.688343+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-22T21:35:47.512334+00:00",
+      "checked_at": "2026-08-22T21:58:57.672883+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
