@@ -97,46 +97,6 @@
     {
       "breakout_sent": false,
       "confidence": 68,
-      "created_at": "2026-08-07T09:00:00+00:00",
-      "early_signal": 41,
-      "headline": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "id": "2b52f1f2b6b06e6338bf",
-      "last_seen_at": "2026-08-09T19:49:22.626305+00:00",
-      "score": 22,
-      "sources": [
-        {
-          "media_url": null,
-          "published_at": "2026-08-07T09:00:00+00:00",
-          "source_name": "OpenAI",
-          "source_tier": "official",
-          "source_type": "rss",
-          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "url": "https://openai.com/index/hsp-gruppe"
-        },
-        {
-          "media_url": null,
-          "published_at": "2026-08-09T16:44:41+00:00",
-          "source_name": "Google News",
-          "source_tier": "trusted",
-          "source_type": "google_news",
-          "title": "Start A Business? There\u2019s An AI Agent For That! Y Combinator Head Explains How - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjVJSkhLSWNWTmZxSDNEckYyVUE2RDlMYlF1NnEtX1RVVW5GRVJmX3hQS19IVWpFeUVNSmpEZGhsenJHMVhkd3Q5bmFDZC1xZmdGckk5ZVk0WmFmVUdGX0ZQcHpjdm5NWDBrUmROaXhaM04tcUtkMFJvLWotNWJvMA?oc=5"
-        },
-        {
-          "media_url": null,
-          "published_at": "2026-08-09T16:44:41+00:00",
-          "source_name": "Google News",
-          "source_tier": "trusted",
-          "source_type": "google_news",
-          "title": "Start A Business? There\u2019s An AI Agent For That! Y Combinator Head Explains How - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkduRjE0c21FTnFpTmRxTERKVXRUTTlSZEFVSWhtWDlsVmZfajlCYUZhZ1BET05zM2NEbGZjV3dzM3lXWG5rdDF0TDVIS2ppRHZ0cFFwTURrWVV6eDkwTnFWdk5uR1dVaHVlbGx5SF94aTNNTFktV1BXelVGUUZrd3d0UnhMa3ZmMnhTLUFMMWRWUQ?oc=5"
-        }
-      ],
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-    },
-    {
-      "breakout_sent": false,
-      "confidence": 68,
       "created_at": "2026-07-21T07:00:00+00:00",
       "early_signal": 41,
       "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -5114,11 +5074,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T07:00:00+00:00",
-      "early_signal": 19,
+      "early_signal": 17,
       "headline": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "id": "4f21f073a074206b4f59",
       "last_seen_at": "2026-08-18T16:50:07.163755+00:00",
-      "score": 21,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -6225,11 +6185,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T14:00:00+00:00",
-      "early_signal": 51,
+      "early_signal": 49,
       "headline": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly - SiliconANGLE",
       "id": "c3e04deffd1784848e74",
       "last_seen_at": "2026-08-23T19:35:26.375434+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -6473,11 +6433,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.625837+00:00",
-      "early_signal": 38,
+      "early_signal": 37,
       "headline": "Engineering at Anthropic",
       "id": "5ecf73adac8e6815e045",
       "last_seen_at": "2026-08-23T05:45:26.625837+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -6495,11 +6455,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.628455+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Claude\u2019s Constitution",
       "id": "19e5adc0991e611024e3",
       "last_seen_at": "2026-08-23T05:45:26.628455+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -6931,11 +6891,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.693286+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "OpenClaw and OpenClaw API: The Complete Guide",
       "id": "6800ff059ef36f85000a",
       "last_seen_at": "2026-08-23T05:45:26.693286+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -6953,11 +6913,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.696452+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Kimi Open Platform: New Feature Release Log",
       "id": "71884e0f21b7328aaed5",
       "last_seen_at": "2026-08-23T05:45:26.696452+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -6975,11 +6935,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.699948+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
       "id": "87c52003fa4381fde7f6",
       "last_seen_at": "2026-08-23T05:45:26.699948+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -6997,11 +6957,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.703432+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
       "id": "7274f92dea7049b1f7d2",
       "last_seen_at": "2026-08-23T05:45:26.703432+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -7019,11 +6979,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.706520+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "New Kimi K2 Models & Updated Pricing",
       "id": "e087011cd1eee73ed6f1",
       "last_seen_at": "2026-08-23T05:45:26.706520+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -7041,11 +7001,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.709565+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Kimi K2: Open Agentic Intelligence",
       "id": "10826f8b7af03a9fb47b",
       "last_seen_at": "2026-08-23T05:45:26.709565+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -7344,7 +7304,6 @@
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkpLMXZTb2VrcG5lTkh4dHVsbV9kMVVpR0JBWEZ5QXloRDVRZG5RNnpYX0xNRFlGMlJXbzhFVXc0M0g0OTdzTE45RThoT0taQlpmYmszd3hNZEhDVU01bUhBZ3lrSkxjWE9kN0dWRGNQc0k?oc=5": "2026-08-18T10:46:52.187522+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE10TFhibW0zcnAzcjMtbWExUnJ0NWJQMXM5WHBYemhFNU9zUlFXT05uSzBfWXZlRVROY2JlUk42N0R4dHJVSk1qbFJfUmhMX3hKUnBFUGRJT3lrZHBmS1o1eFRLNW0xMlgxSnNSY19mUkZUQQ?oc=5": "2026-08-22T21:35:47.520389+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE13ZndQbm80akh1Y25lRkV2Y2dHTThZdUtQbHloWEdJWVZMQkxnRGIwY2w0YlhLMDM4WXpCWVBZQUIxanZXbnBuMnprWDJGVTJEYUlVd0owSG5wWkFQczFMclA4X3ZjbnluNWV1TVdKX0RnQQ?oc=5": "2026-08-18T11:10:33.876533+00:00",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE8zU25OamxMaDFKMHBOR2tmd2VwUXI1R1l1V3IzUGFwZEp5TzRiaUVkcDcxM1h3dW5YSXpVZ3dCVmd2dEwxdGwwYWI1cWRJVUhnVnQxNkJhTkdXWVZfTV9qOEdHYWVzVVlGdzFPNm53aGtFUQ?oc=5": "2026-08-09T19:49:22.625427+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE16YXJCVHJMUm9KbW1mOVdMaE1nZkZIdExoSnFSV1ZydVFlNmdLNEpPazFsUjRMZDd3TF9pVWEya3ExRVpoNDdxUk1yQnFCb0IzT2JmZHdOLXhYc3phc1BRVExSaWNwWjFFaHNRZWJuM21Ccm9rbXpR?oc=5": "2026-08-12T16:12:07.356015+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcFg2eGxlQVZ2bjlROWtXbVQ5MnhjZ1R3OHhjVV92Q0g0bm1OU01jOHVjZWU2ZFhzVU84WURqaC1oZl90R29OVWVDTEgwZ0VNa2FjN0hQMGQ1RUhlZ1Z4TmRFeEI4R3gzMWs3ZHk4NUl5dlQ5UkFj?oc=5": "2026-08-23T03:16:36.625324+00:00",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JMVU4bXlhODBncUY0SkxNaHp3OGRxX3JkT2RPS3YzSlhVOXFzVUJSekY2Rlg5S20zN01DeXhsQjJ2YnNNN2ExVU9YU2I1UDhCb3RGQ2JDY0hjVEx6VjBabHN5dmM4NXJfYjhkcUhUc2ktNHBiM193?oc=5": "2026-08-17T15:40:42.921210+00:00",
@@ -7477,7 +7436,6 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFI3UGdYUFRDeWJwb2syaTY3ak40MHdfeTFsaWFrQnUzb2lxalpNb3JBLXZWNWItQ21QQmcxQzhrc05RVW5QaW15Znk5WXlEdzhBcnUwdERvbTVlWWpDemF6TjZxV1RXeDJxcjhENThQa1VEQno0WEN1ZmtsVTdGdTJOWG1WdmpOZ2RsNFUwV2k?oc=5": "2026-08-20T11:43:12.799704+00:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5": "2026-08-16T17:34:58.751055+00:00",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0VZQmVpMzJkejR3Zk1Vdng1UHRDUHdOUW1PbG1SOUFiQ3BoTU9FMEFTLWVZWWk0a0NWaFBKLVJmbWlfaVRHS1U2VkNGUDJBQzB6d1cyS3h6STQ5T0NkSHJ2U0VoQm9oMXA2dURlZ0JSYzY1bFlLMlh0VGhldmwwQVdiSEZsSjFFZWlJRzZjQlg?oc=5": "2026-08-18T18:57:28.932976+00:00",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkduRjE0c21FTnFpTmRxTERKVXRUTTlSZEFVSWhtWDlsVmZfajlCYUZhZ1BET05zM2NEbGZjV3dzM3lXWG5rdDF0TDVIS2ppRHZ0cFFwTURrWVV6eDkwTnFWdk5uR1dVaHVlbGx5SF94aTNNTFktV1BXelVGUUZrd3d0UnhMa3ZmMnhTLUFMMWRWUQ?oc=5": "2026-08-09T19:49:22.624925+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkMtZ09yejQtRGNpeEI5Rlk4QXR3UWpaQVhaeEl3aW9pQ29nQ3RVWDZzMU1KZnpSRlpUVlA5VzVKYURKeS1PSmpVLTJvU201enpYZDVScHUxRGxyeEdYaXVTUTdKZGJ0QTBnZVA0czdwT0NaVnBic0F1eVNlbzdzMWl2WTBoRUlRNDhLUFduei1XZw?oc=5": "2026-08-14T19:14:47.047147+00:00",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHpUTmUzX0NjR2lKVHduQWZxSVprMURUTXZuNml3WVE3OTA0WU5BeFVWcGFiNmNQZWZKa1VSa1Q2MWVFbXdQVmZQTUp1aWtqY2swRGRGSk1vZ2tnd2FTemszVEVKYlpPZndhdWMyRFpRNzhxUE9yNW9qZ0R4UGVmcXBZQ2JsYnM4M1Bnbl9lUUFQZw?oc=5": "2026-08-18T15:47:23.185753+00:00",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNck1oMFJfZzg5blBGbXhITFdzN0d2OTlYNnZFTWFqbmU2eXR4YkIyeWw1WDVmeDRrR2Nyd3BMM250cWMybV9OcXNrMjEzR3UzWGlhaHIzSExoM3RsSkZpM3JlbnZRUXBQbXlfcWZUSldYbVhrWjhtS0gwMy0xNmxRcnh6NXE0bTNib3QwUW01bHZOUms?oc=5": "2026-08-17T10:49:08.115249+00:00",
@@ -7853,67 +7811,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T19:35:25.276459+00:00",
+      "checked_at": "2026-08-23T19:56:53.629766+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T19:35:25.751971+00:00",
+      "checked_at": "2026-08-23T19:56:54.154225+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T19:34:37.405536+00:00",
+      "checked_at": "2026-08-23T19:56:10.904062+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T19:34:38.597482+00:00",
+      "checked_at": "2026-08-23T19:56:12.262878+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T19:34:38.432719+00:00",
+      "checked_at": "2026-08-23T19:56:11.989773+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T19:34:40.735124+00:00",
+      "checked_at": "2026-08-23T19:56:14.340074+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T19:34:41.261720+00:00",
+      "checked_at": "2026-08-23T19:56:15.045704+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T19:34:39.343343+00:00",
+      "checked_at": "2026-08-23T19:56:12.859599+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T19:34:46.385746+00:00",
+      "checked_at": "2026-08-23T19:56:18.150357+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T19:34:37.645050+00:00",
+      "checked_at": "2026-08-23T19:56:11.185922+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T19:34:37.828676+00:00",
+      "checked_at": "2026-08-23T19:56:11.426096+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T19:34:37.154014+00:00",
+      "checked_at": "2026-08-23T19:56:10.664056+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T19:35:26.364854+00:00",
+      "checked_at": "2026-08-23T19:56:54.568976+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
