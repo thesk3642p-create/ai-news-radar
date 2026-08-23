@@ -6437,11 +6437,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T06:45:00+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks - Technology Org",
       "id": "0901166e90138ee8017e",
       "last_seen_at": "2026-08-22T13:01:57.727166+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6503,11 +6503,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.625837+00:00",
-      "early_signal": 55,
+      "early_signal": 47,
       "headline": "Engineering at Anthropic",
       "id": "5ecf73adac8e6815e045",
       "last_seen_at": "2026-08-23T05:45:26.625837+00:00",
-      "score": 48,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -6600,11 +6600,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-07-16T09:30:42+00:00",
-      "early_signal": 25,
+      "early_signal": 17,
       "headline": "Our approach to bioresilience",
       "id": "c7a797c13c6977b80fb3",
       "last_seen_at": "2026-08-23T05:45:26.640399+00:00",
-      "score": 32,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -6666,11 +6666,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-06-30T16:02:40+00:00",
-      "early_signal": 25,
+      "early_signal": 17,
       "headline": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "id": "d2b7d8aab5c04aeed473",
       "last_seen_at": "2026-08-23T05:45:26.649481+00:00",
-      "score": 28,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -6732,11 +6732,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-06-16T15:46:31+00:00",
-      "early_signal": 25,
+      "early_signal": 17,
       "headline": "Securing the future of AI agents",
       "id": "26fe12c8c739bef48dd9",
       "last_seen_at": "2026-08-23T05:45:26.658155+00:00",
-      "score": 27,
+      "score": 19,
       "sources": [
         {
           "media_url": null,
@@ -6798,11 +6798,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-06-08T13:04:59+00:00",
-      "early_signal": 25,
+      "early_signal": 17,
       "headline": "Measuring the impact of learning with AI in Sierra Leone and beyond",
       "id": "4da652dffe1b863700c8",
       "last_seen_at": "2026-08-23T05:45:26.667428+00:00",
-      "score": 28,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -6908,11 +6908,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-07-07T21:15:33+00:00",
-      "early_signal": 25,
+      "early_signal": 17,
       "headline": "From Hugging Face to Amazon SageMaker Studio in one click",
       "id": "b56a76a8b27d7c89ce27",
       "last_seen_at": "2026-08-23T05:45:26.683629+00:00",
-      "score": 28,
+      "score": 20,
       "sources": [
         {
           "media_url": null,
@@ -6930,11 +6930,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-07-07T15:20:06+00:00",
-      "early_signal": 33,
+      "early_signal": 25,
       "headline": "Hugging Face Models on Foundry Managed Compute",
       "id": "4ed151bf19cb93f98dcc",
       "last_seen_at": "2026-08-23T05:45:26.690214+00:00",
-      "score": 32,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -7124,11 +7124,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-03-17T16:00:00+00:00",
-      "early_signal": 25,
+      "early_signal": 17,
       "headline": "Introducing Forge",
       "id": "124619f8faf1ba2deabe",
       "last_seen_at": "2026-08-23T05:45:26.719522+00:00",
-      "score": 30,
+      "score": 22,
       "sources": [
         {
           "media_url": null,
@@ -7146,11 +7146,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-03-16T20:00:00+00:00",
-      "early_signal": 25,
+      "early_signal": 17,
       "headline": "Mistral AI partners with NVIDIA to accelerate open frontier models",
       "id": "a74544692283f069f047",
       "last_seen_at": "2026-08-23T05:45:26.722845+00:00",
-      "score": 32,
+      "score": 24,
       "sources": [
         {
           "media_url": null,
@@ -7870,67 +7870,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T05:45:25.563577+00:00",
-      "error": "Expecting value: line 1 column 1 (char 0)",
+      "checked_at": "2026-08-23T06:05:03.987590+00:00",
+      "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T05:45:26.103179+00:00",
+      "checked_at": "2026-08-23T06:05:04.534158+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T05:44:49.426606+00:00",
+      "checked_at": "2026-08-23T06:04:13.391694+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T05:44:52.740984+00:00",
+      "checked_at": "2026-08-23T06:04:14.797686+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T05:44:52.537778+00:00",
+      "checked_at": "2026-08-23T06:04:14.619719+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T05:44:55.323587+00:00",
+      "checked_at": "2026-08-23T06:04:17.192041+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T05:44:55.957103+00:00",
+      "checked_at": "2026-08-23T06:04:17.942972+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T05:44:53.455447+00:00",
+      "checked_at": "2026-08-23T06:04:15.315317+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T05:44:59.100421+00:00",
+      "checked_at": "2026-08-23T06:04:21.093884+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T05:44:49.720611+00:00",
+      "checked_at": "2026-08-23T06:04:13.779088+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T05:44:49.982109+00:00",
+      "checked_at": "2026-08-23T06:04:14.134365+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T05:44:49.065799+00:00",
+      "checked_at": "2026-08-23T06:04:13.117313+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T05:45:26.607851+00:00",
+      "checked_at": "2026-08-23T06:05:05.193927+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
