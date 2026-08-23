@@ -5576,11 +5576,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T12:19:31+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Claude Code Says \"Let Me Find and Kill It\" After AI Agent Keeps Opening YouTube - NDTV",
       "id": "7e134181a389e3a77062",
       "last_seen_at": "2026-08-22T19:35:34.068963+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6406,11 +6406,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T06:45:00+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks - Technology Org",
       "id": "0901166e90138ee8017e",
       "last_seen_at": "2026-08-22T13:01:57.727166+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -7837,67 +7837,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T08:49:42.642607+00:00",
+      "checked_at": "2026-08-23T09:43:49.480722+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T08:49:43.152637+00:00",
+      "checked_at": "2026-08-23T09:43:50.105089+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T08:48:53.181868+00:00",
+      "checked_at": "2026-08-23T09:43:05.004535+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T08:48:54.318740+00:00",
+      "checked_at": "2026-08-23T09:43:06.247520+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T08:48:54.226180+00:00",
+      "checked_at": "2026-08-23T09:43:06.047254+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T08:48:56.760004+00:00",
+      "checked_at": "2026-08-23T09:43:08.570779+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T08:48:57.427673+00:00",
+      "checked_at": "2026-08-23T09:43:09.255039+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T08:48:54.745583+00:00",
+      "checked_at": "2026-08-23T09:43:06.757841+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T08:49:00.540229+00:00",
+      "checked_at": "2026-08-23T09:43:12.478616+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T08:48:53.635255+00:00",
+      "checked_at": "2026-08-23T09:43:05.471697+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T08:48:53.940324+00:00",
+      "checked_at": "2026-08-23T09:43:05.738865+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T08:48:52.829912+00:00",
+      "checked_at": "2026-08-23T09:43:04.639537+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T08:49:43.894124+00:00",
+      "checked_at": "2026-08-23T09:43:50.981514+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
