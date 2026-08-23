@@ -6029,11 +6029,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:41+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "AI Agent Payments: The Inevitable Future - Tiger Research Reports",
       "id": "a7e1a0932f326cbdfe67",
       "last_seen_at": "2026-08-21T20:41:49.748971+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -6060,11 +6060,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:49+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "China\u2019s AI Agents Race To Become Digital Employees - Benzinga",
       "id": "1606487f8db0dc09da96",
       "last_seen_at": "2026-08-23T03:16:36.630284+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -6211,11 +6211,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-21T13:03:45+00:00",
-      "early_signal": 50,
+      "early_signal": 49,
       "headline": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents - NVIDIA Developer",
       "id": "13c2e7ea1671c6f8097a",
       "last_seen_at": "2026-08-23T05:45:26.622656+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -6331,11 +6331,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:01:55+00:00",
-      "early_signal": 27,
+      "early_signal": 26,
       "headline": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands - Program Business",
       "id": "20ce6bca1c0d4523253a",
       "last_seen_at": "2026-08-21T19:37:32.395468+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -6450,11 +6450,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T20:57:39+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches - StreetInsider",
       "id": "5a8e4be58c88fa68761a",
       "last_seen_at": "2026-08-22T21:01:02.641048+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -7835,67 +7835,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T11:01:02.043653+00:00",
+      "checked_at": "2026-08-23T11:35:33.081223+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T11:01:02.683154+00:00",
+      "checked_at": "2026-08-23T11:35:33.560445+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T10:59:59.997332+00:00",
+      "checked_at": "2026-08-23T11:34:43.526862+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T11:00:01.529631+00:00",
+      "checked_at": "2026-08-23T11:34:47.204561+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T11:00:01.300130+00:00",
+      "checked_at": "2026-08-23T11:34:47.020393+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T11:00:03.951323+00:00",
+      "checked_at": "2026-08-23T11:34:49.391411+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T11:00:04.752327+00:00",
+      "checked_at": "2026-08-23T11:34:50.045208+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T11:00:02.047134+00:00",
+      "checked_at": "2026-08-23T11:34:47.794932+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T11:00:07.863324+00:00",
+      "checked_at": "2026-08-23T11:34:53.144349+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T11:00:00.531779+00:00",
+      "checked_at": "2026-08-23T11:34:43.841584+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T11:00:00.816523+00:00",
+      "checked_at": "2026-08-23T11:34:44.130870+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T10:59:59.754825+00:00",
+      "checked_at": "2026-08-23T11:34:43.216976+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T11:01:03.391377+00:00",
+      "checked_at": "2026-08-23T11:35:34.194930+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
