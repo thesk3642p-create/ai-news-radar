@@ -7,7 +7,7 @@
       "early_signal": 58,
       "headline": "Responding to the next frontier of critical cyber capabilities",
       "id": "4f6fc2069cfd81f6c4ef",
-      "last_seen_at": "2026-08-10T16:12:19.802728+00:00",
+      "last_seen_at": "2026-08-23T05:45:26.622679+00:00",
       "score": 24,
       "sources": [
         {
@@ -221,7 +221,7 @@
       "early_signal": 58,
       "headline": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
       "id": "7f54a453f48e9d820daf",
-      "last_seen_at": "2026-08-11T13:43:42.376080+00:00",
+      "last_seen_at": "2026-08-23T05:45:26.623136+00:00",
       "score": 38,
       "sources": [
         {
@@ -279,7 +279,7 @@
       "early_signal": 57,
       "headline": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cu\u00e9llar to join Anthropic as Chief Global Affairs Officer",
       "id": "698cfa946f5af1ade5d7",
-      "last_seen_at": "2026-08-12T05:03:38.737277+00:00",
+      "last_seen_at": "2026-08-23T05:45:26.623253+00:00",
       "score": 33,
       "sources": [
         {
@@ -328,7 +328,7 @@
       "early_signal": 49,
       "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "id": "d8f2d30722668335ce3a",
-      "last_seen_at": "2026-08-13T17:13:00.091867+00:00",
+      "last_seen_at": "2026-08-23T05:45:26.671126+00:00",
       "score": 35,
       "sources": [
         {
@@ -377,7 +377,7 @@
       "early_signal": 58,
       "headline": "ICYMI: The Kimi Playground: Your faster way to iterate and test",
       "id": "a18fb22ff3d67dbb774b",
-      "last_seen_at": "2026-08-10T12:32:44.216408+00:00",
+      "last_seen_at": "2026-08-23T05:45:26.696646+00:00",
       "score": 30,
       "sources": [
         {
@@ -444,7 +444,7 @@
       "early_signal": 41,
       "headline": "Kimi Founder's AMA Recap: First Look at Vision Plans & Roadmap",
       "id": "bf1b7c2733e1a5fab228",
-      "last_seen_at": "2026-08-10T21:02:43.296762+00:00",
+      "last_seen_at": "2026-08-23T05:45:26.700162+00:00",
       "score": 30,
       "sources": [
         {
@@ -475,7 +475,7 @@
       "early_signal": 58,
       "headline": "Reimagining Independence: How Meta\u2019s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
       "id": "add0b7b936adcbf53807",
-      "last_seen_at": "2026-08-12T06:42:54.089770+00:00",
+      "last_seen_at": "2026-08-23T05:45:26.710046+00:00",
       "score": 29,
       "sources": [
         {
@@ -6069,11 +6069,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:41+00:00",
-      "early_signal": 36,
+      "early_signal": 35,
       "headline": "AI Agent Payments: The Inevitable Future - Tiger Research Reports",
       "id": "a7e1a0932f326cbdfe67",
       "last_seen_at": "2026-08-21T20:41:49.748971+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6100,11 +6100,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:03:49+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "China\u2019s AI Agents Race To Become Digital Employees - Benzinga",
       "id": "1606487f8db0dc09da96",
       "last_seen_at": "2026-08-23T03:16:36.630284+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -6198,11 +6198,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-21T00:00:00+00:00",
-      "early_signal": 25,
+      "early_signal": 23,
       "headline": "Measuring benchmark optimization in speech recognition",
       "id": "2dd24f5a3c4daa549879",
       "last_seen_at": "2026-08-21T13:58:49.267257+00:00",
-      "score": 29,
+      "score": 28,
       "sources": [
         {
           "media_url": null,
@@ -6249,13 +6249,13 @@
     },
     {
       "breakout_sent": false,
-      "confidence": 42,
+      "confidence": 68,
       "created_at": "2026-08-21T13:03:45+00:00",
-      "early_signal": 28,
+      "early_signal": 50,
       "headline": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents - NVIDIA Developer",
       "id": "13c2e7ea1671c6f8097a",
-      "last_seen_at": "2026-08-21T14:54:32.139770+00:00",
-      "score": 37,
+      "last_seen_at": "2026-08-23T05:45:26.622656+00:00",
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -6265,6 +6265,15 @@
           "source_type": "google_news",
           "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents - NVIDIA Developer",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdoMm9yUFVic2RHYzhQdkZobHFiZmp5YTRYV193V1ZyaEhLX2ZaS3JRbDI1b3AtdVgyU0Q4R004MXByVjJTa2E0b20tbjJSMnpTY3BtV3ZtcmtyZkNNUUJGTnU4T0lveExzS3ZiSDBuQVozRHpxcmV1UVUyUm9USDdqZm9BUEFjcm5aM0pQQzE3TzZPZWMtU3AxQjBZN2txbEVYclh6R1Ixa2dyalpfMU9XX1lXdzVpUTRBSmpFRlc0Ulh0Y1lGM3IxaFJLcV9JNDBWbEFTd08wNDFyQ3hlZnN4ckNLODV3d0J3TzRORGZhaUlKSDNsQg?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Anthropic",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
         }
       ],
       "summary": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents NVIDIA Developer"
@@ -6353,11 +6362,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:01:55+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands - Program Business",
       "id": "20ce6bca1c0d4523253a",
       "last_seen_at": "2026-08-21T19:37:32.395468+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -6397,11 +6406,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T22:29:00+00:00",
-      "early_signal": 40,
+      "early_signal": 38,
       "headline": "OpenAI calls for stronger AI laws in California - Politico",
       "id": "c9dce9f681244c9fc757",
       "last_seen_at": "2026-08-23T02:01:13.693734+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -6489,13 +6498,776 @@
         }
       ],
       "summary": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches StreetInsider"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.625837+00:00",
+      "early_signal": 55,
+      "headline": "Engineering at Anthropic",
+      "id": "5ecf73adac8e6815e045",
+      "last_seen_at": "2026-08-23T05:45:26.625837+00:00",
+      "score": 48,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Anthropic",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "Engineering at Anthropic",
+          "url": "https://www.anthropic.com/engineering"
+        }
+      ],
+      "summary": "Engineering at Anthropic"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.628455+00:00",
+      "early_signal": 55,
+      "headline": "Claude\u2019s Constitution",
+      "id": "19e5adc0991e611024e3",
+      "last_seen_at": "2026-08-23T05:45:26.628455+00:00",
+      "score": 48,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Anthropic",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "Claude\u2019s Constitution",
+          "url": "https://www.anthropic.com/constitution"
+        }
+      ],
+      "summary": "Claude\u2019s Constitution"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-06T15:06:15+00:00",
+      "early_signal": 25,
+      "headline": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "id": "a5977edd6df6384ea4d3",
+      "last_seen_at": "2026-08-23T05:45:26.631315+00:00",
+      "score": 35,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-06T15:06:15+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones"
+        }
+      ],
+      "summary": "WeatherNext: AI model achieves breakthrough in forecasting cyclones"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-07-30T15:00:59+00:00",
+      "early_signal": 33,
+      "headline": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "id": "be5752fab9b6a093c72a",
+      "last_seen_at": "2026-08-23T05:45:26.637486+00:00",
+      "score": 29,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-30T15:00:59+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-07-28T13:21:37+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
+        }
+      ],
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-07-16T09:30:42+00:00",
+      "early_signal": 25,
+      "headline": "Our approach to bioresilience",
+      "id": "c7a797c13c6977b80fb3",
+      "last_seen_at": "2026-08-23T05:45:26.640399+00:00",
+      "score": 32,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-16T09:30:42+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Our approach to bioresilience",
+          "url": "https://deepmind.google/blog/our-approach-to-bioresilience"
+        }
+      ],
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-07-13T12:37:28+00:00",
+      "early_signal": 25,
+      "headline": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+      "id": "eb6a75184ec67855cb6e",
+      "last_seen_at": "2026-08-23T05:45:26.643400+00:00",
+      "score": 31,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-13T12:37:28+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Empowering India\u2019s next generation of innovators with ATL Saathi",
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi"
+        }
+      ],
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-07-03T14:25:43+00:00",
+      "early_signal": 25,
+      "headline": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "id": "fa9de4ef0879c20305e1",
+      "last_seen_at": "2026-08-23T05:45:26.646474+00:00",
+      "score": 34,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-03T14:25:43+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership"
+        }
+      ],
+      "summary": "Google DeepMind and A24 announce first-of-its-kind research partnership"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-06-30T16:02:40+00:00",
+      "early_signal": 25,
+      "headline": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "id": "d2b7d8aab5c04aeed473",
+      "last_seen_at": "2026-08-23T05:45:26.649481+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-06-30T16:02:40+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+          "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash"
+        }
+      ],
+      "summary": "Start building with Nano Banana 2 Lite and Gemini Omni Flash"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-06-24T16:30:01+00:00",
+      "early_signal": 25,
+      "headline": "Introducing computer use in Gemini 3.5 Flash",
+      "id": "e28f17cba98550858f88",
+      "last_seen_at": "2026-08-23T05:45:26.652385+00:00",
+      "score": 31,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-06-24T16:30:01+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Introducing computer use in Gemini 3.5 Flash",
+          "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
+        }
+      ],
+      "summary": "Introducing computer use in Gemini 3.5 Flash"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-06-16T21:29:50+00:00",
+      "early_signal": 25,
+      "headline": "Unlocking UK house-building with AI-accelerated planning",
+      "id": "2f9c93841548c338b5c3",
+      "last_seen_at": "2026-08-23T05:45:26.655354+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-06-16T21:29:50+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Unlocking UK house-building with AI-accelerated planning",
+          "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning"
+        }
+      ],
+      "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-06-16T15:46:31+00:00",
+      "early_signal": 25,
+      "headline": "Securing the future of AI agents",
+      "id": "26fe12c8c739bef48dd9",
+      "last_seen_at": "2026-08-23T05:45:26.658155+00:00",
+      "score": 27,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-06-16T15:46:31+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Securing the future of AI agents",
+          "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
+        }
+      ],
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-06-10T10:21:19+00:00",
+      "early_signal": 25,
+      "headline": "Investing in multi-agent AI safety research",
+      "id": "85d1eb03401e4c89b5b6",
+      "last_seen_at": "2026-08-23T05:45:26.661094+00:00",
+      "score": 35,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-06-10T10:21:19+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Investing in multi-agent AI safety research",
+          "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research"
+        }
+      ],
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-06-09T15:16:25+00:00",
+      "early_signal": 25,
+      "headline": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "id": "92996f434e6f32d940b5",
+      "last_seen_at": "2026-08-23T05:45:26.664236+00:00",
+      "score": 29,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-06-09T15:16:25+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+          "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate"
+        }
+      ],
+      "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-06-08T13:04:59+00:00",
+      "early_signal": 25,
+      "headline": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "id": "4da652dffe1b863700c8",
+      "last_seen_at": "2026-08-23T05:45:26.667428+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-06-08T13:04:59+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+          "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond"
+        }
+      ],
+      "summary": "Results from a randomized controlled trial show the potential of Gemini\u2019s Guided Learning feature to boost engagement and accelerate learning."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-05-21T19:46:42+00:00",
+      "early_signal": 25,
+      "headline": "We\u2019re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "id": "e7a3e7f130e2188b1b63",
+      "last_seen_at": "2026-08-23T05:45:26.670975+00:00",
+      "score": 31,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-05-21T19:46:42+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "We\u2019re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+          "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks"
+        }
+      ],
+      "summary": "We\u2019re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-05-17T13:50:34+00:00",
+      "early_signal": 25,
+      "headline": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "id": "945ce94cb6cf3489c4d7",
+      "last_seen_at": "2026-08-23T05:45:26.674391+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-05-17T13:50:34+00:00",
+          "source_name": "Google DeepMind",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+          "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery"
+        }
+      ],
+      "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-06T00:00:00+00:00",
+      "early_signal": 25,
+      "headline": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
+      "id": "677744aa8231a8e7b796",
+      "last_seen_at": "2026-08-23T05:45:26.677435+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-06T00:00:00+00:00",
+          "source_name": "Hugging Face",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
+          "url": "https://huggingface.co/blog/baseten"
+        }
+      ],
+      "summary": "Baseten on Hugging Face Inference Providers \ud83d\udd25"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-07-08T00:00:00+00:00",
+      "early_signal": 25,
+      "headline": "Native-speed vLLM transformers modeling backend",
+      "id": "7293eb14f6967b7064b1",
+      "last_seen_at": "2026-08-23T05:45:26.680438+00:00",
+      "score": 27,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-08T00:00:00+00:00",
+          "source_name": "Hugging Face",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Native-speed vLLM transformers modeling backend",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
+        }
+      ],
+      "summary": "Native-speed vLLM transformers modeling backend"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-07-07T21:15:33+00:00",
+      "early_signal": 25,
+      "headline": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "id": "b56a76a8b27d7c89ce27",
+      "last_seen_at": "2026-08-23T05:45:26.683629+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-07T21:15:33+00:00",
+          "source_name": "Hugging Face",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+        }
+      ],
+      "summary": "From Hugging Face to Amazon SageMaker Studio in one click"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-07-07T15:20:06+00:00",
+      "early_signal": 33,
+      "headline": "Hugging Face Models on Foundry Managed Compute",
+      "id": "4ed151bf19cb93f98dcc",
+      "last_seen_at": "2026-08-23T05:45:26.690214+00:00",
+      "score": 32,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-07-07T15:20:06+00:00",
+          "source_name": "Hugging Face",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Hugging Face Models on Foundry Managed Compute",
+          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-07-07T00:00:00+00:00",
+          "source_name": "Hugging Face",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+          "url": "https://huggingface.co/blog/skypilot-hf-storage"
+        }
+      ],
+      "summary": "Hugging Face Models on Foundry Managed Compute"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.693286+00:00",
+      "early_signal": 55,
+      "headline": "OpenClaw and OpenClaw API: The Complete Guide",
+      "id": "6800ff059ef36f85000a",
+      "last_seen_at": "2026-08-23T05:45:26.693286+00:00",
+      "score": 51,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Kimi",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "OpenClaw and OpenClaw API: The Complete Guide",
+          "url": "https://platform.kimi.ai/blog/posts/what-is-openclaw"
+        }
+      ],
+      "summary": "OpenClaw and OpenClaw API: The Complete Guide"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.696452+00:00",
+      "early_signal": 55,
+      "headline": "Kimi Open Platform: New Feature Release Log",
+      "id": "71884e0f21b7328aaed5",
+      "last_seen_at": "2026-08-23T05:45:26.696452+00:00",
+      "score": 51,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Kimi",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "Kimi Open Platform: New Feature Release Log",
+          "url": "https://platform.kimi.ai/blog/posts/changelog"
+        }
+      ],
+      "summary": "Kimi Open Platform: New Feature Release Log"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.699948+00:00",
+      "early_signal": 55,
+      "headline": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
+      "id": "87c52003fa4381fde7f6",
+      "last_seen_at": "2026-08-23T05:45:26.699948+00:00",
+      "score": 53,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Kimi",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
+          "url": "https://platform.kimi.ai/blog/posts/coding_with_kimi_agents_setup"
+        }
+      ],
+      "summary": "Coding with Kimi K2: Top 6 Agents & Setup Guides"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.703432+00:00",
+      "early_signal": 55,
+      "headline": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
+      "id": "7274f92dea7049b1f7d2",
+      "last_seen_at": "2026-08-23T05:45:26.703432+00:00",
+      "score": 48,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Kimi",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
+          "url": "https://platform.kimi.ai/blog/posts/K2_Vendor_Verifier_Newsletter"
+        }
+      ],
+      "summary": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\""
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.706520+00:00",
+      "early_signal": 55,
+      "headline": "New Kimi K2 Models & Updated Pricing",
+      "id": "e087011cd1eee73ed6f1",
+      "last_seen_at": "2026-08-23T05:45:26.706520+00:00",
+      "score": 52,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Kimi",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "New Kimi K2 Models & Updated Pricing",
+          "url": "https://platform.kimi.ai/blog/posts/Kimi_API_Newsletter"
+        }
+      ],
+      "summary": "New Kimi K2 Models & Updated Pricing"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-23T05:45:26.709565+00:00",
+      "early_signal": 55,
+      "headline": "Kimi K2: Open Agentic Intelligence",
+      "id": "10826f8b7af03a9fb47b",
+      "last_seen_at": "2026-08-23T05:45:26.709565+00:00",
+      "score": 52,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": null,
+          "source_name": "Kimi",
+          "source_tier": "official",
+          "source_type": "official_page",
+          "title": "Kimi K2: Open Agentic Intelligence",
+          "url": "https://platform.kimi.ai/blog/posts/k2-report"
+        }
+      ],
+      "summary": "Kimi K2: Open Agentic Intelligence"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-05-27T12:00:55+00:00",
+      "early_signal": 33,
+      "headline": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+      "id": "d61bf4f9939a4bfad973",
+      "last_seen_at": "2026-08-23T05:45:26.716709+00:00",
+      "score": 30,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-05-27T12:00:55+00:00",
+          "source_name": "Mistral AI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+          "url": "https://mistral.ai/news/introducing-physics-ai-at-mistral"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-05-27T12:00:05+00:00",
+          "source_name": "Mistral AI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Physics AI research that\u2019s shaping the industry.",
+          "url": "https://mistral.ai/news/physics-ai-research"
+        }
+      ],
+      "summary": "A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-03-17T16:00:00+00:00",
+      "early_signal": 25,
+      "headline": "Introducing Forge",
+      "id": "124619f8faf1ba2deabe",
+      "last_seen_at": "2026-08-23T05:45:26.719522+00:00",
+      "score": 30,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-03-17T16:00:00+00:00",
+          "source_name": "Mistral AI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Introducing Forge",
+          "url": "https://mistral.ai/news/forge"
+        }
+      ],
+      "summary": "Today, we\u2019re introducing Forge, a system for enterprises to build frontier-grade AI models grounded in their proprietary knowledge."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-03-16T20:00:00+00:00",
+      "early_signal": 25,
+      "headline": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+      "id": "a74544692283f069f047",
+      "last_seen_at": "2026-08-23T05:45:26.722845+00:00",
+      "score": 32,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-03-16T20:00:00+00:00",
+          "source_name": "Mistral AI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+          "url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models"
+        }
+      ],
+      "summary": "Mistral AI partners with NVIDIA to accelerate open frontier models"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-03-11T12:00:00+00:00",
+      "early_signal": 25,
+      "headline": "Rails testing on autopilot: Building an agent that writes what developers won't",
+      "id": "345df8e063940e6bd9c2",
+      "last_seen_at": "2026-08-23T05:45:26.726407+00:00",
+      "score": 27,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-03-11T12:00:00+00:00",
+          "source_name": "Mistral AI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Rails testing on autopilot: Building an agent that writes what developers won't",
+          "url": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont"
+        }
+      ],
+      "summary": "Rails testing on autopilot: Building an agent that writes what developers won't"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-01-21T16:00:00+00:00",
+      "early_signal": 25,
+      "headline": "Heaps do lie: debugging a memory leak in vLLM.",
+      "id": "e63450690fca841b644a",
+      "last_seen_at": "2026-08-23T05:45:26.729704+00:00",
+      "score": 23,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-01-21T16:00:00+00:00",
+          "source_name": "Mistral AI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Heaps do lie: debugging a memory leak in vLLM.",
+          "url": "https://mistral.ai/news/debugging-memory-leak-in-vllm"
+        }
+      ],
+      "summary": "Heaps do lie: debugging a memory leak in vLLM."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2025-11-19T12:00:00+00:00",
+      "early_signal": 25,
+      "headline": "Mistral AI - KI f\u00fcr Deutschland",
+      "id": "3e42f414d0a46fa196ef",
+      "last_seen_at": "2026-08-23T05:45:26.732883+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2025-11-19T12:00:00+00:00",
+          "source_name": "Mistral AI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Mistral AI - KI f\u00fcr Deutschland",
+          "url": "https://mistral.ai/news/ki-fur-deutschland"
+        }
+      ],
+      "summary": "Mistral AI - KI f\u00fcr Deutschland"
     }
   ],
   "processed_urls": {
+    "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino": "2026-08-23T05:45:26.614971+00:00",
+    "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino": "2026-08-23T05:45:26.615000+00:00",
+    "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi": "2026-08-23T05:45:26.610870+00:00",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate": "2026-08-23T05:45:26.611369+00:00",
     "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games": "2026-08-21T12:03:35.211658+00:00",
+    "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery": "2026-08-23T05:45:26.612070+00:00",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots": "2026-08-23T05:45:26.610544+00:00",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration": "2026-08-23T05:45:26.610400+00:00",
+    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership": "2026-08-23T05:45:26.610939+00:00",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash": "2026-08-23T05:45:26.611054+00:00",
+    "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber": "2026-08-23T05:45:26.610774+00:00",
+    "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber": "2026-08-23T05:45:26.610707+00:00",
     "https://deepmind.google/blog/introducing-gemini-3-7-flash": "2026-08-13T17:13:00.082523+00:00",
+    "https://deepmind.google/blog/introducing-gemini-omni": "2026-08-23T05:45:26.611896+00:00",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research": "2026-08-23T05:45:26.611300+00:00",
+    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond": "2026-08-23T05:45:26.611600+00:00",
+    "https://deepmind.google/blog/our-approach-to-bioresilience": "2026-08-23T05:45:26.610800+00:00",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents": "2026-08-23T05:45:26.611161+00:00",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash": "2026-08-23T05:45:26.610997+00:00",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning": "2026-08-23T05:45:26.611118+00:00",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones": "2026-08-23T05:45:26.610314+00:00",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks": "2026-08-23T05:45:26.611663+00:00",
+    "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": "2026-08-23T05:45:26.614074+00:00",
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": "2026-08-13T18:08:23.604133+00:00",
     "https://huggingface.co/blog/asr-benchmark-optimization": "2026-08-21T13:58:49.258000+00:00",
+    "https://huggingface.co/blog/baseten": "2026-08-23T05:45:26.613123+00:00",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute": "2026-08-23T05:45:26.614139+00:00",
+    "https://huggingface.co/blog/native-speed-vllm-transformers-backend": "2026-08-23T05:45:26.614006+00:00",
+    "https://huggingface.co/blog/skypilot-hf-storage": "2026-08-23T05:45:26.614210+00:00",
+    "https://mistral.ai/news/debugging-memory-leak-in-vllm": "2026-08-23T05:45:26.617134+00:00",
+    "https://mistral.ai/news/forge": "2026-08-23T05:45:26.616670+00:00",
+    "https://mistral.ai/news/introducing-physics-ai-at-mistral": "2026-08-23T05:45:26.616163+00:00",
+    "https://mistral.ai/news/ki-fur-deutschland": "2026-08-23T05:45:26.617437+00:00",
+    "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models": "2026-08-23T05:45:26.616822+00:00",
+    "https://mistral.ai/news/physics-ai-research": "2026-08-23T05:45:26.616215+00:00",
+    "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont": "2026-08-23T05:45:26.616959+00:00",
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeWdoMm9yUFVic2RHYzhQdkZobHFiZmp5YTRYV193V1ZyaEhLX2ZaS3JRbDI1b3AtdVgyU0Q4R004MXByVjJTa2E0b20tbjJSMnpTY3BtV3ZtcmtyZkNNUUJGTnU4T0lveExzS3ZiSDBuQVozRHpxcmV1UVUyUm9USDdqZm9BUEFjcm5aM0pQQzE3TzZPZWMtU3AxQjBZN2txbEVYclh6R1Ixa2dyalpfMU9XX1lXdzVpUTRBSmpFRlc0Ulh0Y1lGM3IxaFJLcV9JNDBWbEFTd08wNDFyQ3hlZnN4ckNLODV3d0J3TzRORGZhaUlKSDNsQg?oc=5": "2026-08-21T14:54:32.127260+00:00",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMkdFOWMwWnl5S19SSGJ4RkxUNWotbFpDXzFQXy1iRm5zam5TVERLclgxZkRhN3ZMWWxXa09vcHVpX0xWX01STkdTdExiemxybXd4d2QwZ0VjWlpZRUNsYTlzZFNhVWd4c3VpZE9OajFuVVlCSS1YeGxfdXlhT1dkVVpZS1JCbkstOHZ0TW5xTk9pTWQ1NVUzcFhrMVR3UkR6MG4xZFVrbnY1X0x0cGVuRWtuQmJpb1lqSE4xZERMeWRTX3RoemVlRHlrdkZMb1Z0WndzWW8zTUlFM3hLSkkyRWw5OG9YVkwtdFdHcTRjbW5hQWZDYnYzN01B?oc=5": "2026-08-12T16:12:07.356356+00:00",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaU45RW9WajJBZEkyS042NTdacmRaMjhYWXZ4dlpFNUpkS3BvLTA0cTN1YWlZZjhTa0FaX3VTdnlGOERzNV9UeFNWSXZSNktpTTZYdHlIWHJFOVZ4bldvYXFqZEd2Zl92eERuUWJYcUFEeFJjeWJVcVpYUXVVbXVBLVZyeVVoRG9ESGQ4SzduREY3R3pyR2JTcHlDVGNxd3o3LUI3emhQdmZzbE5RclNNNU1sOHpucmZVYnZsQkNmaTVYN0tkWEZpLWFaNEU3NjVOMlFBWG9xM3ZnN1B2VUVHX1gtX0NLbjdKSTlkaTJqOHIyNGJmWU41YlNfRQ?oc=5": "2026-08-13T18:08:23.608849+00:00",
@@ -6977,6 +7749,7 @@
     "https://openai.com/index/previewing-ultrafast": "2026-08-13T17:13:00.080875+00:00",
     "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": "2026-08-10T17:09:36.138747+00:00",
     "https://openai.com/index/replit": "2026-08-19T15:46:54.178602+00:00",
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": "2026-08-23T05:45:26.608542+00:00",
     "https://openai.com/index/responsible-ai-infrastructure-texas": "2026-08-10T14:06:58.442116+00:00",
     "https://openai.com/index/ringcentral": "2026-08-12T22:25:25.314412+00:00",
     "https://openai.com/index/stampli": "2026-08-20T15:49:47.961223+00:00",
@@ -6985,7 +7758,24 @@
     "https://openai.com/index/the-defenders-window": "2026-08-17T13:06:47.771344+00:00",
     "https://openai.com/index/virgin-atlantic/chatgpt-work": "2026-08-10T22:56:41.313934+00:00",
     "https://openai.com/index/zapier": "2026-08-10T22:56:41.313853+00:00",
-    "https://www.anthropic.com/news/claude-text-watermark": "2026-08-14T19:14:47.040271+00:00"
+    "https://platform.kimi.ai/blog/posts/ICYMI_The_Kimi_Playground": "2026-08-23T05:45:26.614533+00:00",
+    "https://platform.kimi.ai/blog/posts/K2_Vendor_Verifier_Newsletter": "2026-08-23T05:45:26.614728+00:00",
+    "https://platform.kimi.ai/blog/posts/Kimi_API_Newsletter": "2026-08-23T05:45:26.614790+00:00",
+    "https://platform.kimi.ai/blog/posts/Kimi_Founders_AMA_Recap": "2026-08-23T05:45:26.614665+00:00",
+    "https://platform.kimi.ai/blog/posts/changelog": "2026-08-23T05:45:26.614471+00:00",
+    "https://platform.kimi.ai/blog/posts/coding_with_kimi_agents_setup": "2026-08-23T05:45:26.614596+00:00",
+    "https://platform.kimi.ai/blog/posts/k2-report": "2026-08-23T05:45:26.614854+00:00",
+    "https://platform.kimi.ai/blog/posts/what-is-openclaw": "2026-08-23T05:45:26.614332+00:00",
+    "https://www.anthropic.com/constitution": "2026-08-23T05:45:26.609721+00:00",
+    "https://www.anthropic.com/engineering": "2026-08-23T05:45:26.609667+00:00",
+    "https://www.anthropic.com/features/making-of-claude-code": "2026-08-23T05:45:26.608874+00:00",
+    "https://www.anthropic.com/news/anthropic-economic-index-connector": "2026-08-23T05:45:26.609560+00:00",
+    "https://www.anthropic.com/news/claude-opus-5": "2026-08-23T05:45:26.608708+00:00",
+    "https://www.anthropic.com/news/claude-sonnet-5": "2026-08-23T05:45:26.609051+00:00",
+    "https://www.anthropic.com/news/claude-text-watermark": "2026-08-14T19:14:47.040271+00:00",
+    "https://www.anthropic.com/news/cognizant-anthropic": "2026-08-23T05:45:26.609424+00:00",
+    "https://www.anthropic.com/news/donation-public-first-action": "2026-08-23T05:45:26.609616+00:00",
+    "https://www.anthropic.com/news/tino-cuellar": "2026-08-23T05:45:26.609202+00:00"
   },
   "sent_alerts": {
     "digest:0143b5b8c5c04389bb3a": "2026-08-18T11:10:34.427183+00:00",
@@ -6995,6 +7785,7 @@
     "digest:13c2e7ea1671c6f8097a": "2026-08-21T14:54:32.827357+00:00",
     "digest:14b8781d3b4657cbc431": "2026-08-11T16:37:01.551537+00:00",
     "digest:185185adb5cfebc5a2bd": "2026-08-19T13:09:21.623987+00:00",
+    "digest:19e5adc0991e611024e3": "2026-08-23T05:45:27.394067+00:00",
     "digest:1ddfd114839a7f13f8fc": "2026-08-18T08:54:29.456980+00:00",
     "digest:1fb9fed6ee627c11454e": "2026-08-11T16:37:01.551516+00:00",
     "digest:20ce6bca1c0d4523253a": "2026-08-21T19:37:32.973689+00:00",
@@ -7024,6 +7815,7 @@
     "digest:6dcac6ea96e237720a59": "2026-08-18T19:41:34.418018+00:00",
     "digest:6f9945b12664aeec14c2": "2026-08-10T06:42:49.217424+00:00",
     "digest:71884e0f21b7328aaed5": "2026-08-09T04:07:58.011434+00:00",
+    "digest:7274f92dea7049b1f7d2": "2026-08-23T05:45:27.394088+00:00",
     "digest:762f464aac050cf6b285": "2026-08-19T05:47:05.748194+00:00",
     "digest:77d460a15e26444e9de4": "2026-08-10T17:09:36.794074+00:00",
     "digest:790f51b30b56cfa43276": "2026-08-15T07:45:00.371847+00:00",
@@ -7078,67 +7870,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T04:52:56.847730+00:00",
+      "checked_at": "2026-08-23T05:45:25.563577+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T04:52:57.325582+00:00",
+      "checked_at": "2026-08-23T05:45:26.103179+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T04:52:22.826099+00:00",
+      "checked_at": "2026-08-23T05:44:49.426606+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T04:52:27.547663+00:00",
+      "checked_at": "2026-08-23T05:44:52.740984+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T04:52:27.407801+00:00",
+      "checked_at": "2026-08-23T05:44:52.537778+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T04:52:29.618290+00:00",
+      "checked_at": "2026-08-23T05:44:55.323587+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T04:52:30.263684+00:00",
+      "checked_at": "2026-08-23T05:44:55.957103+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T04:52:28.136273+00:00",
+      "checked_at": "2026-08-23T05:44:53.455447+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T04:52:33.368975+00:00",
+      "checked_at": "2026-08-23T05:44:59.100421+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T04:52:23.172255+00:00",
+      "checked_at": "2026-08-23T05:44:49.720611+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T04:52:23.465509+00:00",
+      "checked_at": "2026-08-23T05:44:49.982109+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T04:52:22.532837+00:00",
+      "checked_at": "2026-08-23T05:44:49.065799+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T04:52:57.764910+00:00",
+      "checked_at": "2026-08-23T05:45:26.607851+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
