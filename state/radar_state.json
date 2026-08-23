@@ -5683,11 +5683,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T13:04:00+00:00",
-      "early_signal": 29,
+      "early_signal": 28,
       "headline": "Palo Alto Networks Introduces Frontier AI Critical Defense Program - PR Newswire",
       "id": "cefbe35313acfaaaa5bb",
       "last_seen_at": "2026-08-21T22:00:30.099458+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -5980,11 +5980,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-21T11:59:48+00:00",
-      "early_signal": 66,
+      "early_signal": 65,
       "headline": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "id": "c072ae3f4317e840490b",
       "last_seen_at": "2026-08-21T21:01:43.047648+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -6472,11 +6472,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.625837+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "Engineering at Anthropic",
       "id": "5ecf73adac8e6815e045",
       "last_seen_at": "2026-08-23T05:45:26.625837+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -6494,11 +6494,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.628455+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Claude\u2019s Constitution",
       "id": "19e5adc0991e611024e3",
       "last_seen_at": "2026-08-23T05:45:26.628455+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -6930,11 +6930,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.693286+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "OpenClaw and OpenClaw API: The Complete Guide",
       "id": "6800ff059ef36f85000a",
       "last_seen_at": "2026-08-23T05:45:26.693286+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -6952,11 +6952,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.696452+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Kimi Open Platform: New Feature Release Log",
       "id": "71884e0f21b7328aaed5",
       "last_seen_at": "2026-08-23T05:45:26.696452+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -6974,11 +6974,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.699948+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Coding with Kimi K2: Top 6 Agents & Setup Guides",
       "id": "87c52003fa4381fde7f6",
       "last_seen_at": "2026-08-23T05:45:26.699948+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -6996,11 +6996,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.703432+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "K2-Vendor-Verifier Now Includes \"Kimi K2 Thinking\"",
       "id": "7274f92dea7049b1f7d2",
       "last_seen_at": "2026-08-23T05:45:26.703432+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -7018,11 +7018,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.706520+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "New Kimi K2 Models & Updated Pricing",
       "id": "e087011cd1eee73ed6f1",
       "last_seen_at": "2026-08-23T05:45:26.706520+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -7040,11 +7040,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-23T05:45:26.709565+00:00",
-      "early_signal": 52,
+      "early_signal": 51,
       "headline": "Kimi K2: Open Agentic Intelligence",
       "id": "10826f8b7af03a9fb47b",
       "last_seen_at": "2026-08-23T05:45:26.709565+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -7389,7 +7389,6 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1pUSkV5YV9jd1RmUmlQcEpoTVdrOVNJaU8xYURUVlp5Y2FIM2xmZHkxWngzUVo5YUNNaWttbllXVUJxLWhXeXhZZ2psN3ZXeXF6SnRaSzlpdjNuaHVpeHNGbU1NenN4dnhIU3otc1hURGx5WlUtNFRGTElvaHFjVHVR?oc=5": "2026-08-18T11:10:33.875822+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSV9IZ1FPSC1CRzhYa2c5bm5iV0p1NjVsUVlkcDliVEZOcjhlOGsxWkhpZFROQ1BlMFRCNHlqdFViVU5lV3RsMGh1NHYybVBnVlNTc0g5NlFmZ2tHeEUzOVBzS0tlWENCVGZXSjg0TUtZTFgySG9RdDlvcUFieGVOcW9R?oc=5": "2026-08-17T01:55:56.284016+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXJTbVBwOXQ2N2lsMlQ3QkdPeVpMUmUwejdrZU5Jb293Q1pwRC16bmlBMDl1MzhIVHViSFBld1k3TXo4VUVKMzBjTXhpNFJMU1dPd1dIWGswUXE2S091SHdsSGdjS0hGOU9WV0lCSFJCMHJXblVXRGUwN0dySlhiT2d3?oc=5": "2026-08-19T19:40:56.671975+00:00",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxObC1jREUxNmlCOUFaOE5VSWtUY2hVOW1HZzRfaXBHM0FZeWhtSDBjMTd0UVYzOTFIbWRERnFRXzhOSG9DN0Z5UGp5QTBibFA5T0dfN2dYS2w4WDhjNHdZcUlUYThJZkhVd296Z1M3WFF5cTV3U08wZ1VaNHpsbmtGTDdR?oc=5": "2026-08-09T10:16:38.635345+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWRXRng5R095dTB6VVdMbm5nblZhZDNnRUIxWGdtQ05JaWotbThTYVRxNWRBdFE2bklmTlVGTlEwZkRGWHlCaDNPWnVOY1JfaWJVTGtob1R0bW5Cd0tDWkhPdm1pQnZvSzBEb3FRMFhLWnFpbFMyQk02OGYyaTlhZy1n?oc=5": "2026-08-19T21:42:05.953044+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDhRN2xVX2FFS1pLUmVMQ0hMbU1QMlM3Q2wwUnF1dklhNkNaNXB1aUZaSTYyRU5ab1p0QzJuc0tpMHlTYWJXanpCTkIyUGx6TmdXTVcwWHlKTnlfRWVNb2E0aWdyNjFNT29UcmxkdWxoYjI0NTdBSk1Ncmpjc0plSlBn?oc=5": "2026-08-17T09:57:51.747749+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHhQSnZYNjlmcTRrZDA2NXpBNWx3b2tUdXN3d0tBTnJFcUNfamFOSklzTGxSNERRdEZIZXJGN1pCQld5eFNDSWtVeWUwLWkweTRQWEUyTXVDNzBaWXFhbXlra0RQbUh2ZHdFb29NUkFQN3huYU0yNGhUMDJCUkdGSHZB?oc=5": "2026-08-13T18:08:23.609083+00:00",
@@ -7837,67 +7836,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T10:01:43.173385+00:00",
+      "checked_at": "2026-08-23T10:41:37.190566+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T10:01:43.665340+00:00",
+      "checked_at": "2026-08-23T10:41:37.726757+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T10:00:35.155852+00:00",
+      "checked_at": "2026-08-23T10:40:48.153036+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T10:00:36.453997+00:00",
+      "checked_at": "2026-08-23T10:40:49.430579+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T10:00:36.307947+00:00",
+      "checked_at": "2026-08-23T10:40:49.190828+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T10:00:38.849158+00:00",
+      "checked_at": "2026-08-23T10:40:51.622736+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T10:00:39.477147+00:00",
+      "checked_at": "2026-08-23T10:40:52.267039+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T10:00:36.855045+00:00",
+      "checked_at": "2026-08-23T10:40:50.026045+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T10:00:42.577943+00:00",
+      "checked_at": "2026-08-23T10:40:55.378542+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T10:00:35.603415+00:00",
+      "checked_at": "2026-08-23T10:40:48.456842+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T10:00:35.928019+00:00",
+      "checked_at": "2026-08-23T10:40:48.777749+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T10:00:34.884329+00:00",
+      "checked_at": "2026-08-23T10:40:47.835188+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T10:01:44.390273+00:00",
+      "checked_at": "2026-08-23T10:41:38.274065+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
