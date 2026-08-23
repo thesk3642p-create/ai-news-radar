@@ -4726,11 +4726,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-18T08:10:29+00:00",
-      "early_signal": 45,
+      "early_signal": 43,
       "headline": "Fortinet boosts AI agent security with Virtue AI takeover - Telecompaper",
       "id": "1ddfd114839a7f13f8fc",
       "last_seen_at": "2026-08-20T14:00:44.211500+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -6345,11 +6345,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T22:29:00+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "OpenAI calls for stronger AI laws in California - Politico",
       "id": "c9dce9f681244c9fc757",
       "last_seen_at": "2026-08-23T02:01:13.693734+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -6429,10 +6429,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T20:57:39+00:00",
-      "early_signal": 33,
+      "early_signal": 41,
       "headline": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches - StreetInsider",
       "id": "5a8e4be58c88fa68761a",
-      "last_seen_at": "2026-08-22T21:01:02.641048+00:00",
+      "last_seen_at": "2026-08-23T20:59:36.719542+00:00",
       "score": 42,
       "sources": [
         {
@@ -6443,6 +6443,15 @@
           "source_type": "google_news",
           "title": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches - StreetInsider",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1ZzSERhWDVzTTBWaEd6SGJWSWxScUFhRzdjRm52TmNEblk5ZjloaDVHVEhZbkNwOW5QTnFlUHUwcTJ4WUxYRUFYTUcyWHZOTEZ6bm5qTkhoQ0hUT1czY0w1cF9FcW5jZEJrQjNEbmRpVjBPSG5HdlBRZ0NuS1ViaDlmYU5tUUFiWDR4Vkx6UjVvSFVzU29ETHJIaGxfVXJvek9DSEpJT19HOTNsTFdGXzhMUVNIVGRCY2dxbTJCb1VsQi01OUE2b1AwaEhkLTJIYnFYbEIwbGlzQ2VhTVJPNg?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-23T12:27:55+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Microsoft introduces ThinkingBox to assess AI agent reliability - Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OZXdXNjlZaG5ScW4tVUQ5d3VQOEFvaHh3aHF5eWZha2Y2azlXcGxkTG1SLW8zR3V0Tm5VWlJmdW5lTjF5T0tlQXJOY1lFVHdHWG82Ym93QWtfaFBHb2RXY3FjY1NRUWh0MUJVa05DWTNDNzFGS2pxZ0FB?oc=5"
         }
       ],
       "summary": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches StreetInsider"
@@ -7353,6 +7362,7 @@
     "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qMXhpZTVPWkw5WFRBU1hSSFpqTjRUdjJOb2pSdEZROGtibm93MGVGUzVZTmFqTERJeU1YbW13SFREQzhuMl9NNW4yamNuRm1jaVZXMnRaMkVuMnpWLWw0bjZra2FDbkxPRmlETUFEOGtJeUlZNmExNw?oc=5": "2026-08-14T09:21:29.560405+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GdzdHeVhqMkp3QnhRTmNUeDdGNXFPcXUzME5SR0dSenc0OG9qcFFJYk53RE5scUVzNlpneG5panpMb2pmUWlLS0dqVDJxRGJPLW9EdFlYdW1UV3RsdjB3LUVyTU1rYTYxY19DUDZjX2JWbkZaOTR4dzZ30gF_QVVfeXFMTUZqWnlpYnMzVXlYeW9XYXFDWEVhUjdjZzIxaU1VbmdRUXI1eHhkUjRGOGxkNDQ2c3RRdnRNRGVRXzFUcDNzRXQtYW5pTjNsc1lTVzRzaGNTREtYVDRzbFdrenFBVklKRDZRVW9NSnN1LXJaYl9PZ18zYXpDd05VNA?oc=5": "2026-08-12T06:42:54.085561+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GdzdHeVhqMkp3QnhRTmNUeDdGNXFPcXUzME5SR0dSenc0OG9qcFFJYk53RE5scUVzNlpneG5panpMb2pmUWlLS0dqVDJxRGJPLW9EdFlYdW1UV3RsdjB3LUVyTU1rYTYxY19DUDZjX2JWbkZaOTR4dzZ3?oc=5": "2026-08-12T18:07:42.819298+00:00",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OZXdXNjlZaG5ScW4tVUQ5d3VQOEFvaHh3aHF5eWZha2Y2azlXcGxkTG1SLW8zR3V0Tm5VWlJmdW5lTjF5T0tlQXJOY1lFVHdHWG82Ym93QWtfaFBHb2RXY3FjY1NRUWh0MUJVa05DWTNDNzFGS2pxZ0FB?oc=5": "2026-08-23T20:59:36.715845+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RS0VFX09JNi1Ic25UNDFUcE1POUx5VDdkUVFhSk1nbGpRN05FbFZ6SWN1M0lUbjh5UVc5TlBtZ3dubUQxZk1oVjdDY0w2ODVRVTA1VE9ZMzctZjdRV3Jhd0lzUWJhcGN4bjJ1MDBnSGpXSGg0RlU0OW530gF_QVVfeXFMTnRBRWg0VzFFdkIydXVhLWNLTkk4RHpRcVVLMWxGZ09aLWlJalNkNDMwUzN1QW5nTEhjLUdsMUxjdTl6eW44Yk1WRFU0X0xwOXItWE1XTERydVRLWE5Kc0FiRkFSTjRJM0ZRZHg2dEhwR2lSMjN0NjE4ZU0tYS1fOA?oc=5": "2026-08-10T16:12:19.797013+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fbDhKM3h3akZ0ejhUZThRc2hSamF2Ql9lbDF0bFMwX0JrLTdqTVpNZ0FsblFxREpZRkpnVXJpX0FqZ01JdndzTFJfcnpSZmxtSndyNi1IMl9DVjJ5MXBzVEVkS0xrT1dpNWpTNEQ4WGF6MU9BN0ttOEt3?oc=5": "2026-08-19T05:47:05.107184+00:00",
     "https://news.google.com/rss/articles/CBMiekFVX3lxTE40andGN0cxREFoZW40M0VUczBmd2MydllHQ0ttajdlM3M3eTJyN2xOcnNtbkJnMGdrX0E5d2FYWlp4U0h3TmVuLXR5RVQ3dzBfYW41SWZQX0F0Q2x6RURnaWh6bk1uMkhIYVpZcW4xbUJzdFFvTlVaRXdB0gGOAUFVX3lxTE9EaXNrdEhIZzAwd1YxckRPMVN2YTZmVHVXQmgzUW9ra1FHRmItWFp2WGRDcUZXMjJTRFJEQ2g4QTBQLTQ4c0pyRXFFTUQtS2NnWXBFaTBfV3FyYnl6QUZsMnhNMzlMazlXcUhHRkktWUZPaDY3V25ubHhYU0hoUkdQeThVbUV5NDU3eVFia0E?oc=5": "2026-08-19T03:12:04.470472+00:00",
@@ -7831,67 +7841,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T20:39:18.260053+00:00",
+      "checked_at": "2026-08-23T20:59:35.651547+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T20:39:18.833081+00:00",
+      "checked_at": "2026-08-23T20:59:36.222785+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T20:38:58.498908+00:00",
+      "checked_at": "2026-08-23T20:59:04.458443+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T20:38:59.882459+00:00",
+      "checked_at": "2026-08-23T20:59:05.881628+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T20:38:59.668692+00:00",
+      "checked_at": "2026-08-23T20:59:05.723299+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T20:39:02.148492+00:00",
+      "checked_at": "2026-08-23T20:59:09.224770+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T20:39:03.007033+00:00",
+      "checked_at": "2026-08-23T20:59:09.870802+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T20:39:00.454506+00:00",
+      "checked_at": "2026-08-23T20:59:06.505968+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T20:39:06.328139+00:00",
+      "checked_at": "2026-08-23T20:59:13.029109+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T20:38:58.963506+00:00",
+      "checked_at": "2026-08-23T20:59:04.952247+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T20:38:59.269708+00:00",
+      "checked_at": "2026-08-23T20:59:05.327901+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T20:38:58.177374+00:00",
+      "checked_at": "2026-08-23T20:59:04.092107+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T20:39:19.535284+00:00",
+      "checked_at": "2026-08-23T20:59:36.707907+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
