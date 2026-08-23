@@ -6061,10 +6061,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T08:46:36+00:00",
-      "early_signal": 32,
+      "early_signal": 48,
       "headline": "Beyond LLMs: Creating Real-World AI Agents with Lang Chain Deep Agents - HackerNoon",
       "id": "921d4325c4923a58c45c",
-      "last_seen_at": "2026-08-22T22:38:23.722883+00:00",
+      "last_seen_at": "2026-08-23T20:39:19.549000+00:00",
       "score": 28,
       "sources": [
         {
@@ -6084,6 +6084,24 @@
           "source_type": "google_news",
           "title": "AI agents are quietly rewriting school procurement, starting with the shopping cart - MarketScale",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHNwUkw1djBDdnBNZzRveHp2ZV9ZMjJtZXZRQnVlckJqYmFnZDQ1OUVTZTFGUlIxVkRzTEhQMWZEMVhKTlJGTklraXNSZmpQc01yd3pIQzhYM3FJbWRubVQxSENYZWY2Y2FLaWx2ZVAwcVF2c1MxV2VwYVlvU1RFQnpDUmNGSVdwQVBwRHFwQW8zM1NweXdmMkZKMC1ja2d2UGVRUWxoTy1QYkpsNE9zRVo0dm43UDVSM1FrVVhGR3JRbzRUMzZUNVQwLTJtRnZTanNUQmJBb3QzUQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-23T20:17:41+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Building a Hybrid AI Agent With Local and Cloud Models - HackerNoon",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTh5LXZzN2FIb3MyZUx2SUxDdUMycGsxVVFLcHVsWllfWE1fMnpFa3JtWnZHOGhvNnNIVGFUNEl3OGVENmhGMmp1cU80bHA1Q1pBejcyS25DcmxBV0ZaWnUtTUk0Sm8xTGV5anRrSHlHUzNpdWE3OFBxRFNHM3B5bHYzbw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-23T20:32:41+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Kimi K3 Pushes Open-Weight AI to the Frontier, With a Catch - HackerNoon",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkoyZGFzWmxKM3YyOHBkcnloQTVnandXalBsTUVZdjdmdVFpb3VXZmlHT1ZsZ3Jxb3lSR3F5UHdEZWVHSkpGcjdZUHF6cXlCLTl2QUxsd1piQjc4WHBlMGx1Z3VrUFNyZE5PRHZEWE1qRVFDcU9YMnVkYUQxS1p4bVA4Y2xiVmNF?oc=5"
         }
       ],
       "summary": "Beyond LLMs: Creating Real-World AI Agents with Lang Chain Deep Agents HackerNoon"
@@ -6411,11 +6429,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T20:57:39+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches - StreetInsider",
       "id": "5a8e4be58c88fa68761a",
       "last_seen_at": "2026-08-22T21:01:02.641048+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -7381,6 +7399,7 @@
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaEpxSExzS05kM3QtcnpYX2htYUVKV1ZkbS1ITS0tNFg5M1Zkd1pPVHNudGdsZFZueFl5TmpZTGV3VWVqdWtjcnk2dWJPQl9yTWttX3Q4RTJoTDg4ZWlwZ003QUtSdWtmQzZ3Vi1hNno0RGJfLWNuRlJzUFFGcmJmTVZnZw?oc=5": "2026-08-19T16:47:13.165587+00:00",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTMxN3pScDV4Ul81eXN1anAzOXJmVnV0Y09SZ0l2a1JGd2ZVSjY4eVkyUVprUU1WN25MdzViaEc3SmYyOGd5N0R1MUNKaU1aem9uakRjYmljMkNIbE9ib0RlMzZ3TVphRE51REFMSGlQQXpSOHlneW4ySWlzQW4xUXRBVQ?oc=5": "2026-08-10T21:58:49.211590+00:00",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHk0ZC1ZdE55RWlxbEtYRzI2Si1NaF9XWGdUaXlJVGM3RGRBdnpETzVVYVIwaGpDZkNjSENPOFdXZ0J6VUFxQWh2WUpQV3JTNEpVd0RycnlkbHZxU1hVbjVpaEZreUJuV0JlWjRBaXRBLTZ2VW95dzN3R1J0QklVSGZ0ONIBiwFBVV95cUxNS2JLTU1zbTdNb0RKLWlhY3UtWVIyNXJiTzhuakF6ZDVkSG9PcTQ3dkFiRlRPd1E3N2RJTVQ4dHBVcGFPR2ctX2JjTG03WXhJT3ZlbmpYZE51eVVRREs0TDd6V3lrYXpoS0Q5eElReEQwREdMY1p0OHRqRHprenJsNTZwYW5IOHcyeHlV?oc=5": "2026-08-12T21:29:12.572680+00:00",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTh5LXZzN2FIb3MyZUx2SUxDdUMycGsxVVFLcHVsWllfWE1fMnpFa3JtWnZHOGhvNnNIVGFUNEl3OGVENmhGMmp1cU80bHA1Q1pBejcyS25DcmxBV0ZaWnUtTUk0Sm8xTGV5anRrSHlHUzNpdWE3OFBxRFNHM3B5bHYzbw?oc=5": "2026-08-23T20:39:19.542628+00:00",
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVU2V185S3B5UnFwYk51eEQ5NmhSb3BvcWc1b3FzYXZvSlI3eFRCUU5OVnJZNG96MGdBMEw0c19iYjdPeWVqOG1YRUJPZWdqem9QRUlzMWtjR1lOcGdTWjhIYUpFMVg1aXhWOEZaa0NUbHhOVEluN3EweVhWbkRfM1c0WQ?oc=5": "2026-08-21T13:11:13.447718+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEdZbVZNZkFTVWYwUVpVeFZ3ZWtHdXFYSkNjSTZsMXlOMFMzZEd4UkpCT21YTng2NUc2N2I1QVNSTWRHNm9lNlVqRC1ieGRmb3VydkF1LWNUakRLNVFKWEdHcUxlMVl4X3JhU21PSW0tSnl5a19fbFJaZVN1RFFuOHk1WG8?oc=5": "2026-08-19T04:52:28.800479+00:00",
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2t1WHBwRTFxYUh3OW9iVlE4R3R4ano3QW1NYzJnajdoU0hFQjFRcGFfbGR3WlNaSWRrOFRKYzJuUTVaVll0eF93M0xTQ2Q0MV9BTHZ0YmpicTJEaGI5ZkhXRS1hWUZDcWZrR29VcW9jdHR3endveWJ1cDZobUdVVWlHM1Y?oc=5": "2026-08-18T22:42:43.444190+00:00",
@@ -7409,6 +7428,7 @@
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3V0bXJIaFFUNFZRZXU4VGJ4dEMwd0RHbnBoNzQxM0VRSzF4SUpETk9hODRQZ3hRdUNVeDBDQWlUZk5ndjNVZVpNZ1hXdURaMkFsTVNTenZmaThBajdkYWJpM3RyVHJQWU4wWTE3aWFycHAxR2U0Rkg3WFNtbTVMLW5LT1VveW5k?oc=5": "2026-08-17T11:41:52.501289+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWo4OEIzVmloOHpWaFU2akx3RHJtR0FKbVhjWnlUN19KRzhpaHNMaHRPVkp5WXpCZlducW9NQ2h0MnhEckVoMzY2QThSR2NoejNndzRiRmROeVBHNDY5U3QwRWhzRGVqZDc0OGx3QVJQMDROY2RsazVmU1gxQWEtZmVtY2NmSUw3?oc=5": "2026-08-15T07:44:59.614481+00:00",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUVVKREVBczZfRG1iREJhYVNKZDZDQ0FheU5qTUw1MjhFY2NfSzh5bGUtMDZlRVhvUzZFU2F3SVVQQmVINllkd3FxbHBPUzFNNnFwdngtUGNjdlQ0Wm9TblVEeFd3YnJsdzc1bVRzQ0MwZHBuUjdtVl9BZEZVdnQ4eGRRNXhCYTBW?oc=5": "2026-08-20T19:01:56.506594+00:00",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkoyZGFzWmxKM3YyOHBkcnloQTVnandXalBsTUVZdjdmdVFpb3VXZmlHT1ZsZ3Jxb3lSR3F5UHdEZWVHSkpGcjdZUHF6cXlCLTl2QUxsd1piQjc4WHBlMGx1Z3VrUFNyZE5PRHZEWE1qRVFDcU9YMnVkYUQxS1p4bVA4Y2xiVmNF?oc=5": "2026-08-23T20:39:19.542910+00:00",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOajRSNkVGOVRBQlF1dEhSTjdYMnRla29jdW5OcDlueUdidzJHQTJ2bldlWEJHdEtkTmcwbll2VUhIUFd6RV9NU2xkT1MxNDNLX1EtM3VMS0x5dGdrcjF2VzliVDE3YzI1WlB5TGdtOGlhS1hFWThpWWVRc1Nsa0QzajdFbHNGR2ZGVVE?oc=5": "2026-08-13T14:08:38.919571+00:00",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW1mR29FSjR2VWVORk9GRmo5T0pxckZSUzR4Y2hFdkY4VGNOY1ZDcjRidU5WUGxDaVRWRXcyelB0eVVEb0NnS2tGRjJ6VGhSdDNaMmZSYlJ3QWh5XzJnM0ZpbTR6ZlZJU0FsUDZGWE10akxLU0dPc2xEbV9Ia09rWXZuOC04bmJKeEE?oc=5": "2026-08-17T13:06:47.779288+00:00",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGhabVNsT21YczJDamo2cFNRTzlORTR3dTh3eGF6V2hjOGwya01HZkllS2ZIRlBobFJiYlJvdWM5ckVEVHFBZzY4VU9FNk9CNzh0UThxaF90S05ZU0JhRzd6cUp3aUoxTmJwUXp5UEllVFpBNmFwdDUwZmtkNmtVNEUtTmVrM3pFa3c?oc=5": "2026-08-15T14:40:07.300382+00:00",
@@ -7811,67 +7831,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T19:56:53.629766+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-23T20:39:18.260053+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T19:56:54.154225+00:00",
+      "checked_at": "2026-08-23T20:39:18.833081+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T19:56:10.904062+00:00",
+      "checked_at": "2026-08-23T20:38:58.498908+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T19:56:12.262878+00:00",
+      "checked_at": "2026-08-23T20:38:59.882459+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T19:56:11.989773+00:00",
+      "checked_at": "2026-08-23T20:38:59.668692+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T19:56:14.340074+00:00",
+      "checked_at": "2026-08-23T20:39:02.148492+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T19:56:15.045704+00:00",
+      "checked_at": "2026-08-23T20:39:03.007033+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T19:56:12.859599+00:00",
+      "checked_at": "2026-08-23T20:39:00.454506+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T19:56:18.150357+00:00",
+      "checked_at": "2026-08-23T20:39:06.328139+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T19:56:11.185922+00:00",
+      "checked_at": "2026-08-23T20:38:58.963506+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T19:56:11.426096+00:00",
+      "checked_at": "2026-08-23T20:38:59.269708+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T19:56:10.664056+00:00",
+      "checked_at": "2026-08-23T20:38:58.177374+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T19:56:54.568976+00:00",
+      "checked_at": "2026-08-23T20:39:19.535284+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
