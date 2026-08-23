@@ -4851,11 +4851,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 35,
+      "early_signal": 33,
       "headline": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "id": "0143b5b8c5c04389bb3a",
       "last_seen_at": "2026-08-18T12:02:02.730887+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -5163,11 +5163,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-18T11:00:00+00:00",
-      "early_signal": 43,
+      "early_signal": 41,
       "headline": "Pacing model development in an era of cyber-critical capabilities",
       "id": "864415652d44757c44bd",
       "last_seen_at": "2026-08-18T20:41:14.468496+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -6224,7 +6224,7 @@
       "early_signal": 49,
       "headline": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly - SiliconANGLE",
       "id": "c3e04deffd1784848e74",
-      "last_seen_at": "2026-08-23T23:36:06.119700+00:00",
+      "last_seen_at": "2026-08-23T23:58:06.635371+00:00",
       "score": 34,
       "sources": [
         {
@@ -6289,6 +6289,15 @@
           "source_type": "google_news",
           "title": "OpenAI's AI Models Broke Out and Hacked Hugging Face, So It Built Daybreak - Startup Fortune",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1Q2aWRnUjhOUDE3WVFndkhCaXB6Q09kbjFDb28xXzdxdEVYNWZVdk1fVnJXZmZFN3QtaTRPM050eVdkVWttSFZfcTJRdWNnSFRMUkFSUHZSMUVzc29wNVUzSHhaN3RrcjBkSnZXOEN1ODJ2LXk5UWNabU5pQm5JeEo0ZGExSTJRRzVvdEkzWEQ3RDQ5QVBObnVNeG1YX1FSb1E?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-23T23:51:27+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI Exec Tells People to Expect Routine AI-Driven Cyberattacks - PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2NJbFF1QnB3UDJnM20zQ0NaTTB0X0V0WVhwVzNCekFpbzhBbGJnT2ZudFJnay1IckFhNFkzR2o3OWh5TTJCMXBtTHhvV1I1MnlKcGxvZlZkc0dBSnRadFM5aTdvamtRUzhaQ25NSUZyczFfUFZ0QUNZdThMQXpFenhhakplb1JJek9faVZhVWVkUWlCbWxyclhyQlFNZGJCWjA2RnNxTmVCOE5CU1dFU3AtcUN0VU5qZVQ0Q1ZFbUY?oc=5"
         }
       ],
       "summary": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail\u2026 quietly SiliconANGLE"
@@ -6456,11 +6465,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T20:57:39+00:00",
-      "early_signal": 41,
+      "early_signal": 40,
       "headline": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches - StreetInsider",
       "id": "5a8e4be58c88fa68761a",
       "last_seen_at": "2026-08-23T20:59:36.719542+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -7218,11 +7227,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-23T12:03:07+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "AI agent hacks gym system to move up waitlist - Fox News",
       "id": "0a813e28391fd15fbe7a",
       "last_seen_at": "2026-08-23T13:02:57.636623+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -7722,6 +7731,7 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2dEelQ1MWU2Z3QxRGZkMFlHZVIwYUp4Tk85cUFuRUljcUREbUg5WGpvaTBiNmUza1NkWlBSUVJUbmdXOFhFMUk0UG5sTEk5ODJ2SVVwTVMzRWFxYXA0M1VaenpMVlJIVndPZlREQVVYQlNxTkRsT185bXZvQ3ZXMEdGbldoMmZNU0s1Y2NObnBwRFJMRjB5RV8tZW52TkNrdWtNLUg5bW8zWGxBS3FyTmkyWmUtaUtkSVFQR0Rjb3c?oc=5": "2026-08-12T19:21:23.869945+00:00",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWFhUzRVSzY4aVIwRng0LW9nUnJlV2ZjSE8td0NaclBmZ21CdmZpNzA1SDMySmgxT0ZtMFp1QjlHWUlyT05XSnVacXhHSVZtZmNrdXMxWFd3WVMySGFocGRtTnJHWU55ZFBfUlJVcm9LWHlKNFJ2b3gwVHNzTUFqNlB2ak9OT0pzLXlybklQZzhBUnlMQ0JjWHJfUlhYQ1c4RkNvUGktNThEeHgtUU40OEhDWFJFMVpadGxzdzBENFY?oc=5": "2026-08-10T14:06:58.449653+00:00",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHMyRjlIUUNMZjV5UEdZa1Fxa1lWRkVPSHhWYUV0MWVVZVR4dTQ3X3ZEM0VlRnFHZ09uaEQ4ZWNpRTFkNWZrR0E5cWk1Z053SHFJQVEzX1VjLW5rN25WcUJkWmJUUmRZN0xuSDFTT3B2cW9XY3E2eGh3QjZVc2lsV0FDYmttQmViR3ZDbjdPSEN3YTJJa1FNYkUzOU9nbXdOVzY1V3d5eHRMeVBNbVQ5UTVXWkpSdUZLYlpKSUtwUkM?oc=5": "2026-08-12T14:07:32.177767+00:00",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2NJbFF1QnB3UDJnM20zQ0NaTTB0X0V0WVhwVzNCekFpbzhBbGJnT2ZudFJnay1IckFhNFkzR2o3OWh5TTJCMXBtTHhvV1I1MnlKcGxvZlZkc0dBSnRadFM5aTdvamtRUzhaQ25NSUZyczFfUFZ0QUNZdThMQXpFenhhakplb1JJek9faVZhVWVkUWlCbWxyclhyQlFNZGJCWjA2RnNxTmVCOE5CU1dFU3AtcUN0VU5qZVQ0Q1ZFbUY?oc=5": "2026-08-23T23:58:06.632148+00:00",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGRiVFlFaXVyeC0yNUhMSldxUnNINjk3YVhCNHdTZURjVGlOSFRnWnh4bVNYUnhqa01jNDVNdnUxTkRQX0tGNTNyN3R1ajFXY2lWcmRoQS13TVROTnRuQ2ZiNlUwMUdpS1NiTVNyRGstT0NxMVF5QTlCeDJfXzJOQUlRMW1Dakh6WjVHWHkwS3dKT3FaYlhSbzU1TFkxYVhNWFYwdnBpc0Q1YmFjRm8wbWgwV0Y2dDI0WUt2YWUzZVM?oc=5": "2026-08-19T09:50:14.548585+00:00",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMi1OOTB6UkJjbkRweDFSSEFpSVdEbkRBYkt2eGV5cUgtR3ZJTGoyV2RRbDVyT0ZTdnJUdkcyTGZ3MU9seDMzbjctQzUxVFdOT1Y4UUcwYUktLUxLc0M2ZEZVOEo2QXBUYnFPdG5sTFA2TjhzcFZHZGlOWnBwSE1oQnhaeTZ5TWhvd29fWkdvdThLRnExT1lVempnU0lpT1NpNGRKcTZ1XzJEXzYzQ0w5ZGdsRXN4QzdRSVZNQzJEYXZVQQ?oc=5": "2026-08-20T13:12:09.074353+00:00",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2NGbjBLTlVBVkRSckJQaXM3MlVaREhiM2dPWmZVdmhBQ3BOa2VST3AtWEdPVVFoeUxFcGxhenV1R0tybjZndktrVW90OVBXVUc3X3RjZFMtWHZEN2Y5N3l6YmxET3h0Z28tTmFqTGt6U2FfODA3UVNzLVQxdjJ1T3RTY0lXeFBDQ2JPMFJQbkhVSFpKdDhXc0xvNVF5aVo2NExkU1VHblF1a1psaFZFTVlDRlZVdjJnNkw5VlBkeGgzUQ?oc=5": "2026-08-18T04:52:53.660879+00:00",
@@ -7893,67 +7903,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T23:36:04.956983+00:00",
+      "checked_at": "2026-08-23T23:58:05.336736+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T23:36:05.491911+00:00",
+      "checked_at": "2026-08-23T23:58:05.924536+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T23:35:17.506095+00:00",
+      "checked_at": "2026-08-23T23:57:22.657045+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T23:35:18.842663+00:00",
+      "checked_at": "2026-08-23T23:57:24.521377+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T23:35:18.536798+00:00",
+      "checked_at": "2026-08-23T23:57:24.262825+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T23:35:21.036052+00:00",
+      "checked_at": "2026-08-23T23:57:26.824501+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T23:35:21.677378+00:00",
+      "checked_at": "2026-08-23T23:57:27.540738+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T23:35:19.423187+00:00",
+      "checked_at": "2026-08-23T23:57:25.241928+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T23:35:24.833275+00:00",
+      "checked_at": "2026-08-23T23:57:30.947272+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T23:35:17.772106+00:00",
+      "checked_at": "2026-08-23T23:57:23.465782+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T23:35:18.017041+00:00",
+      "checked_at": "2026-08-23T23:57:23.748549+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T23:35:17.174533+00:00",
+      "checked_at": "2026-08-23T23:57:22.351104+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T23:36:06.099293+00:00",
+      "checked_at": "2026-08-23T23:58:06.626550+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
