@@ -6406,11 +6406,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T06:45:00+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks - Technology Org",
       "id": "0901166e90138ee8017e",
       "last_seen_at": "2026-08-22T13:01:57.727166+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -7459,7 +7459,6 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG9UUXhEcDZLZFB1aU9wWDdtall6Tkx2Tml0MnF2blhZcTdqbWdvOFVrQ3diRFB0SnpubHN2c2JPRlRnQVpybG50WmdHSXBwa2h1UVZTUy1IaThhRmI2Q1UwczdQb2FFODlETmNqa0FjR0xJdWt6Q0ZrNHVwQ1VSWk12R0xxTzlRWGt2Mw?oc=5": "2026-08-10T09:52:55.929845+00:00",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm5jUXFVYnhycEFtYVUybVdPQ0hrMkN0MUltYmNkYXNxMzBlaDJVTk1qdXBKY0VTOVZRNXFFQ1NSVFhKMzJGYVU2Nk90bDg4RG9SZ2xiaDRwcnI5VmZxZ1NaMzhMeGt0LTVXTWlzYXQxSHRpeWZNOWowUmhKT1pscjIzaVNNNmNQcTdzZA?oc=5": "2026-08-17T14:45:31.474607+00:00",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblFwUVI1dVVrZUhCMVRjSEZqUHNXZjRnZW9yQnFQTzhCM1JCRHl6WklILWlVRFN5eEptbEMxdkplUXJwVXZFRG9nRTZuXzF1QldGQ0xOMWg5Yl9aLXpkdDMtZDh3UHpzSjlQcG1rWFRrOThqeW5ieG1FQXFPU2tIZk5nVmh5QVdMVWdhU9IBjAFBVV95cUxOblFwUVI1dVVrZUhCMVRjSEZqUHNXZjRnZW9yQnFQTzhCM1JCRHl6WklILWlVRFN5eEptbEMxdkplUXJwVXZFRG9nRTZuXzF1QldGQ0xOMWg5Yl9aLXpkdDMtZDh3UHpzSjlQcG1rWFRrOThqeW5ieG1FQXFPU2tIZk5nVmh5QVdMVWdhUw?oc=5": "2026-08-12T05:03:38.730671+00:00",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1llbHk4eGl5c1BzN0Q1NHduT2hmNVZMWkZiSmx3d2xfWnkwb2JCX0pHa1Brb2l1b0tSd2gwV1NYWTkwRGFfa293SmUxNjhiUHJIMnd1d0xqV0V5TmNQSHZmUVRNdzZZQlBJRDBXM3BIZEh4V1ZiR1BrNFcyWWVtblhHV0JmQ0hBT3NPWg?oc=5": "2026-08-09T13:18:15.254415+00:00",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0QxcFZOYUpXNWVMZ284dGpQRGJIZ2d0WlFleUk5QlFDZXE3eV9kTXVmN0tYUlg5NEJSWGI2eXYyQ2ZsbWRzRDI4bDZHVGpvSEt1bVU5c0JEWnRHSTN2SFpXRUZPZy1JQVhmT2dmMkVmUzV4VDVOTTBCcVdtMURrZC1Cdzh6X3NsZlBQYw?oc=5": "2026-08-18T16:13:08.261968+00:00",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWhOQV9xV1NmRnpaWnVBNXRtbTRuNjlFWHlKTUJRbGNVZnZZUmROYjAyMGVsZlhQbjlONHJsRWhSajFyc1RDTmpSeTI0bllZN0xRWVRnYURfRVVhcVQ3WTdWOVdyWkU4Q29veUswaDJ5Ml9FNkdOMlVWY202bkp3MjBXSC1KRkxaNEdWVQ?oc=5": "2026-08-20T14:55:37.163940+00:00",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamh0UzFRRjFkSVA1b1BzLWtyUHBBWWNEN0RscUJRYXZ2OGFFdGNWMi0tQzVxaC1vc2lKekFJQmVKYmZjVENsdDJWbW1IV2JoWGFZSlN1NGtjX3YyTmNsZkRVdHhZdmsySGNnVjJsWHBERjBXUkg3Y3JNNkR0RWlxV2NGWW51NXpkVjc5Q3h3?oc=5": "2026-08-11T18:37:38.795813+00:00",
@@ -7858,67 +7857,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T13:02:56.417623+00:00",
+      "checked_at": "2026-08-23T13:46:44.536543+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T13:02:56.983765+00:00",
+      "checked_at": "2026-08-23T13:46:45.070425+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T13:02:23.755170+00:00",
+      "checked_at": "2026-08-23T13:46:25.572030+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T13:02:25.015944+00:00",
+      "checked_at": "2026-08-23T13:46:26.815532+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T13:02:24.898226+00:00",
+      "checked_at": "2026-08-23T13:46:26.451540+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T13:02:27.853622+00:00",
+      "checked_at": "2026-08-23T13:46:29.166989+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T13:02:28.464954+00:00",
+      "checked_at": "2026-08-23T13:46:29.771695+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T13:02:25.349744+00:00",
+      "checked_at": "2026-08-23T13:46:27.388364+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T13:02:31.647720+00:00",
+      "checked_at": "2026-08-23T13:46:32.872463+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T13:02:24.196997+00:00",
+      "checked_at": "2026-08-23T13:46:25.826095+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T13:02:24.444325+00:00",
+      "checked_at": "2026-08-23T13:46:26.030339+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T13:02:23.383510+00:00",
+      "checked_at": "2026-08-23T13:46:25.337036+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T13:02:57.626203+00:00",
+      "checked_at": "2026-08-23T13:46:45.655021+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
