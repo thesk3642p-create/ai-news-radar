@@ -4770,11 +4770,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-17T22:12:00+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push - CoinDesk",
       "id": "c709c8b86de8f93a757a",
       "last_seen_at": "2026-08-19T01:54:07.726251+00:00",
-      "score": 26,
+      "score": 25,
       "sources": [
         {
           "media_url": null,
@@ -5878,11 +5878,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-20T19:57:01+00:00",
-      "early_signal": 49,
+      "early_signal": 47,
       "headline": "One in five enterprises can't stop a runaway AI agent's spending in real time - VentureBeat",
       "id": "54feb22b744041d398b3",
       "last_seen_at": "2026-08-23T04:04:49.916482+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -7303,7 +7303,6 @@
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vWW9IODA5TnBIdmxKRUc0ODhYb2RKZGdyQmU2R0twZkNEX0xVY3pJczRJbGZnX2o1M0dOVW5WandFUDNwY1F0bXdHbWVQMlRNaGR0UHFsUFdoMFdzYnMwLXFuRlRhVm8?oc=5": "2026-08-12T03:11:51.411155+00:00",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ?oc=5": "2026-08-13T18:08:23.609190+00:00",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMmo0b2R2TW5lcjh4YkFhTFgyYkN0ZV9kdTRYWDBqNVNab1Q2eUVkUF9IekZGQ1hfOUZtdmpnRUtYY2lnOHRyNnVnd1FyNnd1MEdTV0JoaUZRRnlxUHVuTjJCSTVIZFBuTWNKN2lsci1aTUsycjRoX0dxYUsyWEJiSGZ1Tk56ZTJNZWdzMDNVV1loQUN2dFFTM0NlNWhITVg4VDZJdlI0cGdhWkMyd3BkVVhZWWJGMlAwNW55TjFlSFdJbTM0NENYSkZqZmlLVlUxMU1uNUtUV0FwRS01ZHRBTkxrMVVURW9HVUtGWjRFMDBsVTRfM2dMaXF3eHY?oc=5": "2026-08-10T12:32:44.203247+00:00",
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0pqWHpXT0E0cHBMcURmbEtoSHNoSy1HUEV4UHRJQU5GTmhwVm9QVU9TTjR4RzEwUV8tcEFUaHc5Y1JRa0JjN3RUUW1BUmd4WWhNQVY3QVFEZi1YV1h1UmhEcFV6YWplMFRGRGFVb1BUYU1SQTlZNTdleXo4dV9hN1E5bkZvb3o0Qm43Vk9JbHF3Z0JybnpLQ21TeWRJblBOV0FnN0xuUmREU3BGdUI0UXJRalFQSFFPdmUxRU8zaVNDaG5wQUNVVUg2RTdNdUZzcjdtS2xJMkZ5ZVFoSmo5QWtxTmlIOHZqejJRSnI0VlJxaG1wanRQU2c5dlhXZw?oc=5": "2026-08-09T10:55:31.488364+00:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rZENrNzg0SHhUUHRXbEVFaG9iV1g2MFRaYlZXYXRORTFXZ0x0a2wxQzdiVFBMMDhrbGJoZEVoZ3pKdmV4N2pBQndLVDlWb0NfNFY3VU93dDFfNC0wYWc5NkVaaVlDMGRkOHMw?oc=5": "2026-08-13T14:08:38.919792+00:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TU2VXQjYyM0pEUWtQQ25HUnpoVGpJQmc0aU5Nd1hPTFE0eXkwMndsOXpsM1dsZ3JENG9NS2c3S0thRnVNb2lRVzh5NEdrV0JXWFR1QWVIRzZuVFhFNTE1a2ZyVjVHUzZuLXpv?oc=5": "2026-08-21T15:49:21.962749+00:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wMlRwYU51WHM2c1U2bEJsTTh4bE1ES3FSWnMxWTVaWm5ObmRIMjMzYUhHSHpna20zTUgtcjR6aGVRRVVzV1lyWmNJU3F1XzBUMlZyVmF0SkZtRGZPM3BrdktUZzFTLUI1Z05V?oc=5": "2026-08-10T16:12:19.796698+00:00",
@@ -7836,67 +7835,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-23T10:41:37.190566+00:00",
+      "checked_at": "2026-08-23T11:01:02.043653+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-23T10:41:37.726757+00:00",
+      "checked_at": "2026-08-23T11:01:02.683154+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-23T10:40:48.153036+00:00",
+      "checked_at": "2026-08-23T10:59:59.997332+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-23T10:40:49.430579+00:00",
+      "checked_at": "2026-08-23T11:00:01.529631+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-23T10:40:49.190828+00:00",
+      "checked_at": "2026-08-23T11:00:01.300130+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-23T10:40:51.622736+00:00",
+      "checked_at": "2026-08-23T11:00:03.951323+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-23T10:40:52.267039+00:00",
+      "checked_at": "2026-08-23T11:00:04.752327+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-23T10:40:50.026045+00:00",
+      "checked_at": "2026-08-23T11:00:02.047134+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-23T10:40:55.378542+00:00",
+      "checked_at": "2026-08-23T11:00:07.863324+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-23T10:40:48.456842+00:00",
+      "checked_at": "2026-08-23T11:00:00.531779+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-23T10:40:48.777749+00:00",
+      "checked_at": "2026-08-23T11:00:00.816523+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-23T10:40:47.835188+00:00",
+      "checked_at": "2026-08-23T10:59:59.754825+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-23T10:41:38.274065+00:00",
+      "checked_at": "2026-08-23T11:01:03.391377+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
