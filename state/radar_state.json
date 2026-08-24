@@ -6253,10 +6253,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-21T13:01:55+00:00",
-      "early_signal": 22,
+      "early_signal": 30,
       "headline": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands - Program Business",
       "id": "20ce6bca1c0d4523253a",
-      "last_seen_at": "2026-08-21T19:37:32.395468+00:00",
+      "last_seen_at": "2026-08-24T12:04:08.171182+00:00",
       "score": 32,
       "sources": [
         {
@@ -6267,6 +6267,15 @@
           "source_type": "google_news",
           "title": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands - Program Business",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0JPSDdPZUFOSDhCVnRDOTRqbF9mQmwzREl1d19OSEYtdkFLbnBqY2tXcjBPNjJEbkNGRmJGTThUWHRUVEtNa3hIV0ROeE9JLVZObXRrTXluZVphcHZKLTE3OXJHREQwV2xYZGEzY2ZPdmU1ZjBKaGJzWk9KXzhBQ0VzMGJyajNCY183eHhWQnA3QlRjZGpqa3BTdzJqLVNxd3pieDlNZTZQR0Y5WFp1ZmdB?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-24T11:21:38+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "UX Roundup: Benchmarking Office Work | AI Undermines Billable Hours | AI as Delegate | Error Recovery | Pareto Frontier | Left-Digit Effect | Empty States | AI Use Differences | Educational Video - Jakob Nielsen on UX",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZ3ByNVNpZ2dnSXlJUVZhZnAtemhjTUdyWGM4VzF3aHd0ZnBfUjRJMWlQX3FmMlJyV3dHMW1hNjI3bExpT1FIT3BSUFV3R1FKLVRuclN0RmhlWkk4bUpNUWRuWGItTXVQZ2c?oc=5"
         }
       ],
       "summary": "Insurance Organizations Increase Automation Investment as AI Agent Use Expands Program Business"
@@ -7258,11 +7267,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T11:05:11+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Travelers builds its own LLM, cutting AI costs - CIO Dive",
       "id": "79d1bd0698104a093228",
       "last_seen_at": "2026-08-24T11:09:59.088159+00:00",
-      "score": 45,
+      "score": 44,
       "sources": [
         {
           "media_url": null,
@@ -7407,6 +7416,7 @@
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HS3ktSE9YOFluRHZORWFqT29jV1JJamxhbGdUYXhyWkF2ajFBTVlTdERQd0lQd3V2OXFzc2h1cUcxcGE0NzRMcDBabTlSVzNody0wam1NTHFfdnJSTUdncGJpRWxwQjRQ?oc=5": "2026-08-18T09:49:17.815914+00:00",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBidzZzbzRJcEtnaUtHR3lrUjdkWTRLenFWR0lrUS1wb0F5VEcySTBsQURrclVQUTlsUWtCWDZTUzZuTktXcUFwcVFYQlExSWh4czRtUUZocXlGSVU4U0g5Q3Q4SEluU1BT?oc=5": "2026-08-20T11:43:12.799307+00:00",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1aVc4YXlvVDQxakJWUzFMb3dKV19oeVpRZDZUSXJaQ0JHcnVtaGY2c3RScF9EVEtlYng0N1lEWEJkSk1hbVVxVVlVNHlacndfNjBaVGZHWmpiX2hUMHlXUVA4a2pKUkV2Mmc?oc=5": "2026-08-19T07:10:14.142724+00:00",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZ3ByNVNpZ2dnSXlJUVZhZnAtemhjTUdyWGM4VzF3aHd0ZnBfUjRJMWlQX3FmMlJyV3dHMW1hNjI3bExpT1FIT3BSUFV3R1FKLVRuclN0RmhlWkk4bUpNUWRuWGItTXVQZ2c?oc=5": "2026-08-24T12:04:08.166759+00:00",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYa29jU19TVjl6eS02S0V4YldyTlFsbFdOZm5qbzhRbEhocFN5alBfQk9BcmwxQWdYS21xeVU4Y2pueG9zLXQwbWFzZ0FmSnJscEpzQ1EtZVI0WWhkQkgxQzdyR3lqblhLQ3l6dkJoRQ?oc=5": "2026-08-12T03:11:51.410942+00:00",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZEhHbEpNTEVQbl9naG1hRVdaRWVKQnJlU1VGTXBmdWRNNml2WllUMFFsNEdDb3R1NTE1NkotTWVwYVhyVG5CMTh3MmJCaXNzaWFULUpSdG03RkhVdy14Vlp6YTEwYms1azFtbg?oc=5": "2026-08-19T07:10:14.142103+00:00",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMGFyc21kZTF2QUdYYVVLb0xyV2hRb2hOSGNhMVZqaXVVQ1hLZDAtQmZ0dGFnUUVQMGFvVmwyRHFWemdGSmkzVTBpU05kdWNCbHlRd3otSXBNaVpQN1VpWV9pOU9hMFJfYW1SWg?oc=5": "2026-08-13T18:08:23.608684+00:00",
@@ -7925,67 +7935,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-24T11:44:54.895846+00:00",
+      "checked_at": "2026-08-24T12:04:06.972181+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-24T11:44:55.432861+00:00",
+      "checked_at": "2026-08-24T12:04:07.515834+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-24T11:44:10.369425+00:00",
+      "checked_at": "2026-08-24T12:03:12.106614+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-24T11:44:11.418042+00:00",
+      "checked_at": "2026-08-24T12:03:17.364521+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-24T11:44:11.333884+00:00",
+      "checked_at": "2026-08-24T12:03:17.189216+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-24T11:44:13.858034+00:00",
+      "checked_at": "2026-08-24T12:03:19.718770+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-24T11:44:14.491883+00:00",
+      "checked_at": "2026-08-24T12:03:20.384738+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-24T11:44:11.823709+00:00",
+      "checked_at": "2026-08-24T12:03:18.068492+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-24T11:44:17.591745+00:00",
+      "checked_at": "2026-08-24T12:03:23.528255+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-24T11:44:10.761780+00:00",
+      "checked_at": "2026-08-24T12:03:12.384662+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-24T11:44:11.056446+00:00",
+      "checked_at": "2026-08-24T12:03:12.631269+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-24T11:44:10.091313+00:00",
+      "checked_at": "2026-08-24T12:03:11.864353+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-24T11:44:56.213365+00:00",
+      "checked_at": "2026-08-24T12:04:08.159098+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
