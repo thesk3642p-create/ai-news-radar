@@ -6998,11 +6998,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-23T12:03:07+00:00",
-      "early_signal": 55,
+      "early_signal": 53,
       "headline": "AI agent hacks gym system to move up waitlist - Fox News",
       "id": "0a813e28391fd15fbe7a",
       "last_seen_at": "2026-08-24T22:45:02.937330+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7229,11 +7229,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T12:00:00+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Lexis Expands Agentic AI Capabilities for Lexis+ With Prot\u00e9g\u00e9, Plans Proprietary AI Model - Law.com",
       "id": "0c7ba88bbd3533efe933",
       "last_seen_at": "2026-08-24T13:13:44.051367+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -7348,11 +7348,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T16:15:25+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Frontier AI Meets Frontier Cyberlaw - JD Supra",
       "id": "7bc3b2ba900d1f11f644",
       "last_seen_at": "2026-08-24T16:55:51.886763+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -7414,11 +7414,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-24T12:00:00+00:00",
-      "early_signal": 47,
+      "early_signal": 46,
       "headline": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
       "id": "566f182593fec86e4d72",
       "last_seen_at": "2026-08-24T19:45:54.598220+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -7431,6 +7431,37 @@
         }
       ],
       "summary": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-10T00:00:00+00:00",
+      "early_signal": 33,
+      "headline": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "id": "d958fe946ce21ac86581",
+      "last_seen_at": "2026-08-24T23:35:51.970957+00:00",
+      "score": 28,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-10T00:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "url": "https://openai.com/index/zapier"
+        }
+      ],
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
     }
   ],
   "processed_urls": {
@@ -7925,6 +7956,8 @@
     "https://openai.com/index/strengthening-democratic-oversight-in-national-security": "2026-08-18T20:41:14.456144+00:00",
     "https://openai.com/index/testing-ads-in-chatgpt": "2026-08-11T16:37:00.784107+00:00",
     "https://openai.com/index/the-defenders-window": "2026-08-17T13:06:47.771344+00:00",
+    "https://openai.com/index/virgin-atlantic/chatgpt-work": "2026-08-24T23:35:51.956190+00:00",
+    "https://openai.com/index/zapier": "2026-08-24T23:35:51.956266+00:00",
     "https://platform.kimi.ai/blog/posts/ICYMI_The_Kimi_Playground": "2026-08-23T05:45:26.614533+00:00",
     "https://platform.kimi.ai/blog/posts/K2_Vendor_Verifier_Newsletter": "2026-08-23T05:45:26.614728+00:00",
     "https://platform.kimi.ai/blog/posts/Kimi_API_Newsletter": "2026-08-23T05:45:26.614790+00:00",
@@ -8048,67 +8081,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-24T23:03:46.175971+00:00",
+      "checked_at": "2026-08-24T23:35:50.661408+00:00",
       "error": "retryable response",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-24T23:03:46.712705+00:00",
+      "checked_at": "2026-08-24T23:35:51.297169+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-24T23:02:56.693009+00:00",
+      "checked_at": "2026-08-24T23:35:02.590859+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-24T23:02:57.810594+00:00",
+      "checked_at": "2026-08-24T23:35:03.927070+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-24T23:02:57.728508+00:00",
+      "checked_at": "2026-08-24T23:35:03.688593+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-24T23:03:00.170857+00:00",
+      "checked_at": "2026-08-24T23:35:05.799384+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-24T23:03:00.883519+00:00",
+      "checked_at": "2026-08-24T23:35:06.612522+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-24T23:02:58.262132+00:00",
+      "checked_at": "2026-08-24T23:35:04.382229+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-24T23:03:03.999045+00:00",
+      "checked_at": "2026-08-24T23:35:09.817509+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-24T23:02:57.130814+00:00",
+      "checked_at": "2026-08-24T23:35:03.005786+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-24T23:02:57.431545+00:00",
+      "checked_at": "2026-08-24T23:35:03.277608+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-24T23:02:56.217735+00:00",
+      "checked_at": "2026-08-24T23:35:02.006014+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-24T23:03:47.169887+00:00",
+      "checked_at": "2026-08-24T23:35:51.955477+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
