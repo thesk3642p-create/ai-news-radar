@@ -6332,11 +6332,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T06:45:00+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks - Technology Org",
       "id": "0901166e90138ee8017e",
       "last_seen_at": "2026-08-23T16:43:47.064270+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -7849,67 +7849,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-24T05:02:11.497353+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-24T05:54:10.659077+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-24T05:02:12.012062+00:00",
+      "checked_at": "2026-08-24T05:54:11.269968+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-24T05:01:10.927703+00:00",
+      "checked_at": "2026-08-24T05:53:52.335030+00:00",
       "count": 23,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-24T05:01:12.175239+00:00",
+      "checked_at": "2026-08-24T05:53:53.722511+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-24T05:01:12.034401+00:00",
+      "checked_at": "2026-08-24T05:53:53.426671+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-24T05:01:14.819615+00:00",
+      "checked_at": "2026-08-24T05:53:56.024220+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-24T05:01:15.504196+00:00",
+      "checked_at": "2026-08-24T05:53:56.935825+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-24T05:01:12.772188+00:00",
+      "checked_at": "2026-08-24T05:53:54.411687+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-24T05:01:18.612738+00:00",
+      "checked_at": "2026-08-24T05:54:00.120538+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-24T05:01:11.168423+00:00",
+      "checked_at": "2026-08-24T05:53:52.733778+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-24T05:01:11.467286+00:00",
+      "checked_at": "2026-08-24T05:53:52.994334+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-24T05:01:10.634422+00:00",
+      "checked_at": "2026-08-24T05:53:51.989149+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-24T05:02:12.675830+00:00",
+      "checked_at": "2026-08-24T05:54:11.910629+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
