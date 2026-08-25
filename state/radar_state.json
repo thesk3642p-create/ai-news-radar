@@ -2068,7 +2068,7 @@
       "early_signal": 33,
       "headline": "Daybreak models are now available on AWS",
       "id": "bc7878cc3ebc9836afb2",
-      "last_seen_at": "2026-08-12T05:03:38.736542+00:00",
+      "last_seen_at": "2026-08-25T23:05:41.983309+00:00",
       "score": 26,
       "sources": [
         {
@@ -7565,11 +7565,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T16:15:25+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Frontier AI Meets Frontier Cyberlaw - JD Supra",
       "id": "7bc3b2ba900d1f11f644",
       "last_seen_at": "2026-08-24T16:55:51.886763+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -7813,11 +7813,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T06:00:50+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "AI supply chain risk is showing up in developer workflows first - Help Net Security",
       "id": "61b3f85cbfc17c642c40",
       "last_seen_at": "2026-08-25T07:09:14.113319+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -7945,11 +7945,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T06:05:46+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Stop Picking an AI Model. Start Picking a Capability. | by Mobin Shaterian | Aug, 2026 - DataDrivenInvestor",
       "id": "6e9641b6f2fa1f3f9cec",
       "last_seen_at": "2026-08-25T11:44:35.030852+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -8648,6 +8648,7 @@
     "https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-08-19T05:47:05.099544+00:00",
     "https://openai.com/index/chatgpt-for-teens": "2026-08-18T12:02:02.718183+00:00",
     "https://openai.com/index/dali-rajic-chief-revenue-officer": "2026-08-13T16:11:56.373920+00:00",
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws": "2026-08-25T23:05:41.975300+00:00",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-08-25T09:01:21.465510+00:00",
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": "2026-08-24T20:05:06.748209+00:00",
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T19:45:54.585975+00:00",
@@ -8811,67 +8812,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-25T22:46:27.990835+00:00",
+      "checked_at": "2026-08-25T23:05:40.702466+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-25T22:46:28.523291+00:00",
+      "checked_at": "2026-08-25T23:05:41.324397+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-25T22:45:15.603779+00:00",
+      "checked_at": "2026-08-25T23:05:09.745350+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-25T22:45:16.821940+00:00",
+      "checked_at": "2026-08-25T23:05:11.137204+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-25T22:45:16.729285+00:00",
+      "checked_at": "2026-08-25T23:05:10.842267+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-25T22:45:19.090486+00:00",
+      "checked_at": "2026-08-25T23:05:16.407007+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-25T22:45:19.748187+00:00",
+      "checked_at": "2026-08-25T23:05:17.189383+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-25T22:45:17.099860+00:00",
+      "checked_at": "2026-08-25T23:05:11.815635+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-25T22:45:22.862980+00:00",
+      "checked_at": "2026-08-25T23:05:20.312273+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-25T22:45:16.001759+00:00",
+      "checked_at": "2026-08-25T23:05:10.208695+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-25T22:45:16.310882+00:00",
+      "checked_at": "2026-08-25T23:05:10.427353+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-25T22:45:15.227166+00:00",
+      "checked_at": "2026-08-25T23:05:09.447656+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-25T22:46:29.231574+00:00",
+      "checked_at": "2026-08-25T23:05:41.974703+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
