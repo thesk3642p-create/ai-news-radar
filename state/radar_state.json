@@ -5333,11 +5333,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:35:03+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok - Forbes",
       "id": "3ba06e3f0e900be21aa7",
       "last_seen_at": "2026-08-22T18:49:34.361018+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -5382,11 +5382,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-19T19:52:30+00:00",
-      "early_signal": 20,
+      "early_signal": 18,
       "headline": "AI model incidents highlight security concerns - TechTarget",
       "id": "cc681b2c7e48ca4ed626",
       "last_seen_at": "2026-08-19T20:00:30.467033+00:00",
-      "score": 30,
+      "score": 29,
       "sources": [
         {
           "media_url": null,
@@ -7296,11 +7296,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T12:49:06+00:00",
-      "early_signal": 36,
+      "early_signal": 42,
       "headline": "TELUS Digital Outlines Key Requirements for AI Agent Assist Partners - MarTech Cube",
       "id": "44e4ba8fc3975e946a3f",
-      "last_seen_at": "2026-08-24T13:13:44.058201+00:00",
-      "score": 41,
+      "last_seen_at": "2026-08-25T09:01:21.481820+00:00",
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7310,6 +7310,15 @@
           "source_type": "google_news",
           "title": "TELUS Digital Outlines Key Requirements for AI Agent Assist Partners - MarTech Cube",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2R0SGxpWVAyN0FINjI3bFltR3FHVWNic2V1S203a3FyUFdxZGFEV2kzS3FnNWxTQ3lGVkpKdlZQTTE4bDZuVU42MENLR1R5RGxsQzNhWndCSjhFaXk1UzRrNU5oUU14dERycDJGS2paTEJqTFc1VXJ6dngxTkpsem5ZdzhSa2R2dkNrczNNRkdUenlVN2x2UjNQR2R2Zw?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-25T08:11:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Meta Targets Early September for Hatch, Its Consumer AI Agent - BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eE92a3dEZE11cVNFMkNzdU9pRUJiMWFVb0lnMFNzb2hYQW5HUGVadWtYR1JrTW56bVJBSGdhdzNpQk5fR3pzU1A2REx1THZrU3JOa0VSNTNPdHp1SURremd1Rk5jVGJWbWd3?oc=5"
         }
       ],
       "summary": "TELUS Digital Outlines Key Requirements for AI Agent Assist Partners MarTech Cube"
@@ -7340,11 +7349,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T13:00:00+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Anthropic\u2019s new Claude Tag update lets its Slack agent read the full conversation \u2014 and jump in unprompted - VentureBeat",
       "id": "da75c7a2a6a2504c78b3",
       "last_seen_at": "2026-08-24T14:04:15.068608+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -7362,11 +7371,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T15:34:51+00:00",
-      "early_signal": 46,
+      "early_signal": 44,
       "headline": "UK to assess risks of consumers losing access to frontier AI models - Global Government Forum",
       "id": "c82eb648acf5a543e2ba",
       "last_seen_at": "2026-08-24T22:45:02.941140+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -7512,11 +7521,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T18:07:41+00:00",
-      "early_signal": 55,
+      "early_signal": 54,
       "headline": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade - The New York Times",
       "id": "67d59378f86c7af630cd",
       "last_seen_at": "2026-08-25T07:59:13.015261+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -7552,11 +7561,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T03:48:37+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Meta Hatch could let AI agents handle everyday tasks for you \u2014 here\u2019s what we know - Firstpost",
       "id": "f9113f42bf52ba917d1e",
       "last_seen_at": "2026-08-25T04:00:41.889201+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -7574,11 +7583,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T03:39:23+00:00",
-      "early_signal": 53,
+      "early_signal": 52,
       "headline": "Alabama AG Subpoenas OpenAI Over Rogue AI Agent\u2019s Hack of Hugging Face - SOFX",
       "id": "b39b81b831882d44fbb8",
       "last_seen_at": "2026-08-25T05:48:46.026767+00:00",
-      "score": 57,
+      "score": 56,
       "sources": [
         {
           "media_url": null,
@@ -7605,11 +7614,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T06:00:50+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "AI supply chain risk is showing up in developer workflows first - Help Net Security",
       "id": "61b3f85cbfc17c642c40",
       "last_seen_at": "2026-08-25T07:09:14.113319+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -7627,11 +7636,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T05:11:28+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Rogue AI agents expose banks\u2019 testing gaps - QA Financial",
       "id": "64c88e2995a7591a633e",
       "last_seen_at": "2026-08-25T07:09:14.116991+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -7644,6 +7653,28 @@
         }
       ],
       "summary": "Rogue AI agents expose banks\u2019 testing gaps QA Financial"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-25T00:00:00+00:00",
+      "early_signal": 49,
+      "headline": "Disrupting a new covert influence campaign from Russia",
+      "id": "ee1e436751b832f995bb",
+      "last_seen_at": "2026-08-25T09:01:21.478074+00:00",
+      "score": 44,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-25T00:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+        }
+      ],
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a \u201csovereignty\u201d index praising Russia and criticizing the West."
     }
   ],
   "processed_urls": {
@@ -7748,6 +7779,7 @@
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ?oc=5": "2026-08-13T18:08:23.609190+00:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rZENrNzg0SHhUUHRXbEVFaG9iV1g2MFRaYlZXYXRORTFXZ0x0a2wxQzdiVFBMMDhrbGJoZEVoZ3pKdmV4N2pBQndLVDlWb0NfNFY3VU93dDFfNC0wYWc5NkVaaVlDMGRkOHMw?oc=5": "2026-08-13T14:08:38.919792+00:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TU2VXQjYyM0pEUWtQQ25HUnpoVGpJQmc0aU5Nd1hPTFE0eXkwMndsOXpsM1dsZ3JENG9NS2c3S0thRnVNb2lRVzh5NEdrV0JXWFR1QWVIRzZuVFhFNTE1a2ZyVjVHUzZuLXpv?oc=5": "2026-08-21T15:49:21.962749+00:00",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eE92a3dEZE11cVNFMkNzdU9pRUJiMWFVb0lnMFNzb2hYQW5HUGVadWtYR1JrTW56bVJBSGdhdzNpQk5fR3pzU1A2REx1THZrU3JOa0VSNTNPdHp1SURremd1Rk5jVGJWbWd3?oc=5": "2026-08-25T09:01:21.472908+00:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NWldKNDV3UnlrajNUV1AtX2x0dWhITGNHSk10Sldia2lTUnppM2VHUl93ZnlWbGp3cWc4ZXlNVnBCZ1NzNjFrU0tZU2NQUlEycGZiaTQ1SFl2YTlhVWU5NzQ1SVc2Wi1ETV9N?oc=5": "2026-08-11T13:43:42.368724+00:00",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5LVM2bXpCT3puU2tZT0g2TXgzMmNWSWwyV2VOZHNQUWhBcHo0bExHS3RFdVlXbTN4NmJLSk5ySWdPOFpkVGZETWdLa1I4TGVJUGc4MkMxVkFaa256SGpkQVY5X29NSGc5Y1RB?oc=5": "2026-08-17T14:45:31.475647+00:00",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HS3ktSE9YOFluRHZORWFqT29jV1JJamxhbGdUYXhyWkF2ajFBTVlTdERQd0lQd3V2OXFzc2h1cUcxcGE0NzRMcDBabTlSVzNody0wam1NTHFfdnJSTUdncGJpRWxwQjRQ?oc=5": "2026-08-18T09:49:17.815914+00:00",
@@ -8121,6 +8153,7 @@
     "https://openai.com/index/chatgpt-for-teens": "2026-08-18T12:02:02.718183+00:00",
     "https://openai.com/index/dali-rajic-chief-revenue-officer": "2026-08-13T16:11:56.373920+00:00",
     "https://openai.com/index/daybreak-models-are-now-available-on-aws": "2026-08-11T22:25:33.077601+00:00",
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-08-25T09:01:21.465510+00:00",
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": "2026-08-24T20:05:06.748209+00:00",
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T19:45:54.585975+00:00",
     "https://openai.com/index/how-enterprises-put-ai-to-work": "2026-08-12T14:07:32.170838+00:00",
@@ -8272,67 +8305,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-25T07:59:12.054600+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-25T09:01:20.462494+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-25T07:59:12.578678+00:00",
+      "checked_at": "2026-08-25T09:01:21.028553+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-25T07:58:24.739597+00:00",
+      "checked_at": "2026-08-25T09:00:34.887036+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-25T07:58:26.040060+00:00",
+      "checked_at": "2026-08-25T09:00:36.305297+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-25T07:58:25.807252+00:00",
+      "checked_at": "2026-08-25T09:00:36.211641+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-25T07:58:28.430552+00:00",
+      "checked_at": "2026-08-25T09:00:38.290224+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-25T07:58:29.067688+00:00",
+      "checked_at": "2026-08-25T09:00:38.920311+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-25T07:58:26.743051+00:00",
+      "checked_at": "2026-08-25T09:00:36.569547+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-25T07:58:32.217366+00:00",
+      "checked_at": "2026-08-25T09:00:42.027742+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-25T07:58:25.015626+00:00",
+      "checked_at": "2026-08-25T09:00:35.238059+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-25T07:58:25.265501+00:00",
+      "checked_at": "2026-08-25T09:00:35.544098+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-25T07:58:24.457746+00:00",
+      "checked_at": "2026-08-25T09:00:34.393725+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-25T07:59:13.002985+00:00",
+      "checked_at": "2026-08-25T09:01:21.465236+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
