@@ -7325,11 +7325,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T10:29:29+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Draper Dragon backs LeapNode, an AI routing protocol pooling 100+ models in one API - Dealroom",
       "id": "a43ca0b58a45467b86ac",
       "last_seen_at": "2026-08-25T13:12:13.104140+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -8769,68 +8769,68 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-25T21:44:39.484547+00:00",
+      "checked_at": "2026-08-25T22:01:38.984110+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-25T21:44:40.014013+00:00",
+      "checked_at": "2026-08-25T22:01:39.596409+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-25T21:44:09.490266+00:00",
+      "checked_at": "2026-08-25T22:01:14.796229+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-25T21:44:13.190748+00:00",
+      "checked_at": "2026-08-25T22:01:15.936528+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-25T21:44:12.733449+00:00",
+      "checked_at": "2026-08-25T22:01:15.839377+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-25T21:44:16.623376+00:00",
+      "checked_at": "2026-08-25T22:01:17.775903+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-25T21:44:17.399514+00:00",
+      "checked_at": "2026-08-25T22:01:18.458649+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-25T21:44:14.259292+00:00",
+      "checked_at": "2026-08-25T22:01:16.368843+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-25T21:44:20.573369+00:00",
+      "checked_at": "2026-08-25T22:01:21.573498+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-25T21:44:11.286742+00:00",
+      "checked_at": "2026-08-25T22:01:15.202081+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-25T21:44:11.793338+00:00",
+      "checked_at": "2026-08-25T22:01:15.529419+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-25T21:44:08.955662+00:00",
+      "checked_at": "2026-08-25T22:01:14.426121+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-25T21:44:41.186586+00:00",
-      "error": "Couldn't get KEY_BYTE indices",
+      "checked_at": "2026-08-25T22:01:45.063462+00:00",
+      "error": "",
       "status": "error"
     }
   },
