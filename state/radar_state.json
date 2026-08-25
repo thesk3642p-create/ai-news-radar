@@ -6152,11 +6152,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T01:31:04+00:00",
-      "early_signal": 37,
+      "early_signal": 36,
       "headline": "Michael Polansky is training an AI model on skin that\u2019s still alive - TechCrunch",
       "id": "f77c8ca6a2a65b900570",
       "last_seen_at": "2026-08-25T01:52:59.149955+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -6195,7 +6195,7 @@
       "early_signal": 47,
       "headline": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches - StreetInsider",
       "id": "5a8e4be58c88fa68761a",
-      "last_seen_at": "2026-08-25T19:46:48.236492+00:00",
+      "last_seen_at": "2026-08-25T22:46:29.251917+00:00",
       "score": 35,
       "sources": [
         {
@@ -6260,6 +6260,15 @@
           "source_type": "google_news",
           "title": "Perplexity and NVIDIA team up to release a local AI agent - How-To Geek",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW42SEZFMWNEdC1XZElHVXhaTkZiamhzQ2V6bUY3SkJEcG5pUllzQlNjNk9Zd0lnZm5qc2FNYnpBYUVuamRRRk5NdkxrZENzUEFKMHYxOEhjN0g5OXlQWTVySDRsM2NvM2tKVElYMzBUZ25Penl3b3MxMnhCaEpNNnBoemZINUk?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-25T19:02:04+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "How telemetry pipelines keep AI agent costs under control - The New Stack",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRFoxdWY0ZDN6RE5lbldzSUVTRHU3Vk41X01NYlZBbWZWRFh0OGo5cEU0NWFKenZLQXQ0MFZ4NHRUUGYxYWRiMVEyZ19aMUJNbm96WjlSaW96eWlxbDdj?oc=5"
         }
       ],
       "summary": "Memecoin AI Agent Trading 2026: How MemeToro Could Redefine Automated Crypto Launches StreetInsider"
@@ -7002,7 +7011,7 @@
       "early_signal": 49,
       "headline": "AI agent hacks gym system to move up waitlist - Fox News",
       "id": "0a813e28391fd15fbe7a",
-      "last_seen_at": "2026-08-25T18:16:31.690355+00:00",
+      "last_seen_at": "2026-08-25T22:46:29.249075+00:00",
       "score": 33,
       "sources": [
         {
@@ -7139,6 +7148,15 @@
           "source_type": "google_news",
           "title": "Meta to develop an AI agent platform Hatch for task completion - The American Bazaar",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXVGNnBXUFpsaUh3YUF1cnFFLURRT09MTzNfWjdPaGhHTFJ2c2l2WVdxMEJENElrd2gwd3VZSEt3UWJPa1p2VHVxTXZVYlBFY1NaWDcwWU1UZmVyU0dhanBET3NIM3hjd09oTmlObDJjYy1vbkhnZ2M5ZTduUXJUYmJ2czl1TWtYY090RjFwMkN2NjZXcVNDYjg1NDNPcjhEd2phc0JSclJUWUZ4TTFlWlVWVFo?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-25T22:06:59+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Salesforce's AI Agent Business Is Growing Over 200%, But Will It Show Up in Its Order Book? - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUdEcGZsTmVZOEg1WXcxRE9OUlV6R1V6cUxxaUg4UUltSFdvTWFoNVduUVR0LTZhbi1ROUlvTHZtYXh4NG9BWV9ESURlcUQ0blpHWlFROFlfWWJqWi1nYlN1OTZMUXhyNTN6VnNSYXhuTVcwV3pJaUQ4SHpTVUJNV09BZmZ1Tzg3amUycm1yamozMUVyaUFR?oc=5"
         }
       ],
       "summary": "AI agent hacks gym system to move up waitlist Fox News"
@@ -7303,11 +7321,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T11:05:11+00:00",
-      "early_signal": 30,
+      "early_signal": 28,
       "headline": "Travelers builds its own LLM, cutting AI costs - CIO Dive",
       "id": "79d1bd0698104a093228",
       "last_seen_at": "2026-08-24T11:09:59.088159+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -7516,11 +7534,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T15:34:51+00:00",
-      "early_signal": 40,
+      "early_signal": 38,
       "headline": "UK to assess risks of consumers losing access to frontier AI models - Global Government Forum",
       "id": "c82eb648acf5a543e2ba",
       "last_seen_at": "2026-08-24T22:45:02.941140+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -7817,11 +7835,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T05:11:28+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Rogue AI agents expose banks\u2019 testing gaps - QA Financial",
       "id": "64c88e2995a7591a633e",
       "last_seen_at": "2026-08-25T07:09:14.116991+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7971,11 +7989,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T13:14:00+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "CrowdStrike\u2019s Daniel Bernard: Frontier AI Requires Cybersecurity\u2019s \u2018Greatest Mobilization\u2019 Ever - crn.com",
       "id": "18644141cc564e2c13ea",
       "last_seen_at": "2026-08-25T14:05:18.110277+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -8037,11 +8055,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-25T15:14:14+00:00",
-      "early_signal": 51,
+      "early_signal": 49,
       "headline": "Granite 4.2 LLMs: How They're Built",
       "id": "0a087f6e1e796946147b",
       "last_seen_at": "2026-08-25T16:00:56.659581+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -8103,11 +8121,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T15:19:54+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "T-Mobile says open AI models aren\u2019t just about cost \u2014 they\u2019re about fit - Fierce Network",
       "id": "b985a3d01046380e4403",
       "last_seen_at": "2026-08-25T18:16:31.686719+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -8120,6 +8138,28 @@
         }
       ],
       "summary": "T-Mobile says open AI models aren\u2019t just about cost \u2014 they\u2019re about fit Fierce Network"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 42,
+      "created_at": "2026-08-25T22:32:00+00:00",
+      "early_signal": 48,
+      "headline": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
+      "id": "5ba21b51a2f7e0a964d4",
+      "last_seen_at": "2026-08-25T22:46:29.244824+00:00",
+      "score": 52,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-25T22:32:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWo5TWVjcURjVXFlRHJSWlZ0SXktNmtnM1BtXzd3dkZodDM3X0FtOUxKMGZZU09XWk1ZQkhsQjZPWGJRTkk0OEJkRDZ5S1NmNHhjRkkyR0NSMG1sVzRqU2RJLWRvcmxqN2h4MVdSS2IyQldoUWJLdThHNmJWN1FvVm1zU0VCX0xwLUU5dWhsV28zTDBOUldFZlhZQ2I?oc=5"
+        }
+      ],
+      "summary": "Perplexity AI launches Portable Computer on-device AI agent SiliconANGLE"
     }
   ],
   "processed_urls": {
@@ -8213,6 +8253,7 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWDF5UlJZdU1PbERZLUlidVVYcFZsZTVieDVGaGdtM3QyUDNBclFWbVlEWndHRy1NYndWcFFkUjNNeFJwNTJ6STNnYlhiRXVDSHd2clE0YmVpdw?oc=5": "2026-08-15T10:39:03.875286+00:00",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3lWUFJhTEpMMW5EVlZIWVl2LVRxREtoMUZyRDJTU2FKbmFveEhfY1NCMmNuNkxPTEpyYk9RbzRNcmV6ak9XaEY3ZE5CU2EzckZSYXV4RnQwdw?oc=5": "2026-08-19T20:46:23.552155+00:00",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44WmU2YnBkY1d0d0pjdk5WVThmY2pkRGZBMTE3NlUwb21jcUNNVDVxN3h3TVR0OHJBZThGTy1RaVdPTUMzb3pEOTl0TTgwT284cEhiekZPSlAxX3hfaEFR?oc=5": "2026-08-19T13:09:20.831355+00:00",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRFoxdWY0ZDN6RE5lbldzSUVTRHU3Vk41X01NYlZBbWZWRFh0OGo5cEU0NWFKenZLQXQ0MFZ4NHRUUGYxYWRiMVEyZ19aMUJNbm96WjlSaW96eWlxbDdj?oc=5": "2026-08-25T22:46:29.239823+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbkRVdmZEYl9DYWs2eGV3Um5iTWl2WEU3S3drdG01VVVsRVN2WkluN3NvbE9jeDlnMm5Qd29teVJLN2owMGFwVkpVR0NHNGluaUpVS2VhQTBBeWpN?oc=5": "2026-08-11T23:24:47.002180+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQ3dCRlBvNzN6UGp2WExidnpqVzB3ZHNFUVIxd0JGdjN6WVM3QVB1UjMzeXBoM3NKYTJiTksxRWM0cUUtdGcyX3VrQjNTLVpyNmF2VWRILUg5SnZf?oc=5": "2026-08-17T07:16:50.549757+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5": "2026-08-15T09:59:28.196785+00:00",
@@ -8333,7 +8374,6 @@
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLU85NE1KTEtpWE1CNjVralh3RlZQRGFfUGVpaTBQN0IySzhQRG1JNy1LSVdEQ29HUS1wclRuQXBwX0NEalJ1T29iendaMDRaU0RfemRic09wNXQyX2cwUzRUSUg2bC1mTzJUS3NBdmRmNEZTX2pyeTN3R3RMUDJ3ZFRaUWo?oc=5": "2026-08-12T21:29:12.573491+00:00",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVFlPU3dXdkJmSlhuTEpjVGpxSVBOZExRTlMzQ3hoRFYwSmxaTTNnSkZ3QkpLeHM1NW9kRFlieTVNUXZ0SElab1gwdlBFWEY4S1gtNE43bE9ZdGhlN3pkUHo0N1lxTzNaZ3laV3NZUGVvQ00yTnhpdEFtMVgzVEFZeE5BUW5ZN3V6ekc4ZDBGbTlTN1JYclpUUC0zQ2JmcGZDNzBrdnNaU1k4WXEyb3pWRFZsNXVwbVYtNEtGREVDZEpNVkxRMVlBZGJCVTNqT29sNVlHcW15ZXVNaUZ4NFJ2cm14RFFBYndkcVM1aEFCdXJ5eXlpMFdyUzBxbWJlcUd5b2xZWg?oc=5": "2026-08-17T01:55:56.283396+00:00",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXFSVjh3OHZleW9Bc2lFbnJRMUhUNHRYVXhGaFJGVGRKQXROZjU0MHpxZGYyMDFYTE9Sdk1POENhenEta19DOGp6R2QwUG5oelA1Wm1OaWFiOHZyVmpsX2hlX29fd2JyTzBSdDhnUkc4MTRIUy1FNXhvWGFSVlZQcTNmUnBndw?oc=5": "2026-08-25T05:48:46.021953+00:00",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV01TTDNsRFExX3hNbC16TDdOVXlMU3ZSVDY3TDhsZENUT1FFMkY3X24wRUI4endpMXY5MDF3MEp0b0RmcTBBRnhUTGR2VGtsV3dxSmI1VkNrbWFiS3JuUUdzeGJpbl9RMmk5eTV4d21uWTR2LUQ2VlJUNmE1VWVRVUFOaGRmQQ?oc=5": "2026-08-11T22:25:33.085124+00:00",
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGpPYWhnOW9vVUp0czR4bE5GdGdtVmNqaGJfZEJRT1d6RWlySnVNWWNzTGxpbmVkendJWkJQY0RFOE1hSGxXc3JfZUhNU2RvY3JYaS00NkJvcEVLX2FDRjQ0a01nU0tCUXh2WjVYR0hObmVBMGdlM081VGlsOEFWNnR3WnA1UQ?oc=5": "2026-08-21T15:49:21.962965+00:00",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5": "2026-08-23T19:35:26.370502+00:00",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVW42SEZFMWNEdC1XZElHVXhaTkZiamhzQ2V6bUY3SkJEcG5pUllzQlNjNk9Zd0lnZm5qc2FNYnpBYUVuamRRRk5NdkxrZENzUEFKMHYxOEhjN0g5OXlQWTVySDRsM2NvM2tKVElYMzBUZ25Penl3b3MxMnhCaEpNNnBoemZINUk?oc=5": "2026-08-25T19:46:48.228428+00:00",
@@ -8398,6 +8438,7 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDJFUW1OSWVtalE5b2NxWUJxcWNuZnRWNDVkZ0xKVzktZnhKR3lQMlR0djduS24wbUVZUEdIeDJUSUlLb08xbkVkaWRZUDVWLVZGSzAzTXpac2tEd3YyV3llX1U3ZGRUVTk0UEtKQkU5WGZ4V1ViUDVHQVBrT0pGbVdsNUlvbEtMNVc2UmJETHkzTWlPbjI4?oc=5": "2026-08-21T16:51:37.089038+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ1R0S2VuTTJoYlpJMjQ1NkxOOXJ0WFhRY3ExN2tDbEV1UlNlNXpWczcwVEdObzVBVFpiVWlOaUoxZVFlMVo5T3gxSXNwRzN6S3JkeWNRSHhhSWxCb3dGNEdwYU9HUFhOOWJ3TkFBTHFEQnVWaVNFUWxrdG9pWm9aTFVHcTVjdFhzYXZiUXg3ZmxrRG5ubTMw?oc=5": "2026-08-21T13:11:13.448281+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk10QkNKbk1jNW5ZOTJJMXotc1dNeWRCOEV6cWdoaDMwNzJfeHFEZGJyd0o0U3luRHhENGVuaG42UkRZN3MxbDJLellxdWhHUmhFS3NRV2dpU1NTQ1dmMXZaTTBYMmtzUjBqSnZXbXFwSmVWenhPQ0ZBQVFpd3J1aEEtcG5tTmIwcFZtLVNNZFBvSlRrS3JJ?oc=5": "2026-08-22T13:01:57.716816+00:00",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUdEcGZsTmVZOEg1WXcxRE9OUlV6R1V6cUxxaUg4UUltSFdvTWFoNVduUVR0LTZhbi1ROUlvTHZtYXh4NG9BWV9ESURlcUQ0blpHWlFROFlfWWJqWi1nYlN1OTZMUXhyNTN6VnNSYXhuTVcwV3pJaUQ4SHpTVUJNV09BZmZ1Tzg3amUycm1yamozMUVyaUFR?oc=5": "2026-08-25T22:46:29.239611+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3FSblBXT0diQWl4OTJONkU1cGp0NDFuWmU3U1NHR3Y3Q0ZCR0NJakVzYmhhTmo4RllyXzNSdjBHNnRCZ1lLTG5RM2xYYno2TE1IR2dJR19kRlAtSUlCa2JFRFNPQTJkcWdvTkw0RElRZFhnUmVyZmxkdktlN2s2MzZOSm9NVXJrQmJFbDd6amg0LVRNN3ZF?oc=5": "2026-08-14T10:40:38.181606+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEpvZDZCWDZUT3BGZ2xyMGN3WTVoQWljXzdYNmtDNU1maDNoYy1fQThBY2t5WDdzNXB4XzI3dUZMTmJlejJFbV9USFRGS2ZLTk9wTlVGSTEtRW1Ua1p1a1k4NGdidXNCVkdrU1RjbFVYZDNEbXF2bEhtMWI3b01rRzliOXVHS0Z3QWFSSmJjakp5TENENDVj?oc=5": "2026-08-21T17:45:50.186896+00:00",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlg5RlZVcThiS1ktaEE0eGs5N0lBUmhzWVlxcXVuS3JncEUyd25kYW5XWF8tdFA1cFFDbkIyaXJod0ZQSTJvWVVocnlBWFVlcFpkS0JpbUZzRVdwRWhLZlRFUmhsWXhSWFM1cWJmT3R5d2ZXMTBleGRoc0kwcXhseWxDcExmMXExOVR4RXlPOFREMVBla2l3?oc=5": "2026-08-23T23:36:06.106880+00:00",
@@ -8421,6 +8462,7 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUk3YWQzSXU2OE5Xd3lMYzlZWjY0cUkwVk1OSi1XZVl2QkNJTDNob0RjZkh1aE55Rkp5VjUtcTFRQW8yekd3WXNGOEdodHpSYk1HQlBLSEwtN1RCa3RTTV93N3EwcG1HVUNERU55QkFmZ0ZybklHSzRNcnVBN2tfVE5fc0Q1Zk5jY0pHZ3c1SW81amJrMkdHZjF4VQ?oc=5": "2026-08-17T15:04:52.503491+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQm5aTW9kUEp3ekZFYkRCWDg4Z0gyXzBoZ3JZcko4NWtpbUNsODRIZDZOWF9JZ1dZcGJYa1lFSWppRHFwUl82VDdSWGx6RnZIYzhtMmEwOWNvbDAxclV1TUxYbWlEOFRkSXktd1dQTXlacUUtV2FZaUdaN1NPTmRXeWZhU3BDTWhiTmowb2F5eXdqYmR3c29aZjNsbTc?oc=5": "2026-08-15T23:58:11.721855+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGt2dnVtWTVZNHpLREs1a1NMdnZQb3pyTmFxZEtfQ2g0ekJSaW9iWWpQcUpJeVo5WlFxbkdNQmJ3Y3BKZ3hqNGRIcG4ybmUwMGc3a1ZhZFNldVd6NVFwZnZfRHQ3dDk5c0xJVldncUZzOXI4Yl9WRFhFZm9yaUdGN285SjB4d0o0MmVUSTlvaWpLZ0NPSjRCT0kwd3E?oc=5": "2026-08-21T01:57:48.785187+00:00",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWo5TWVjcURjVXFlRHJSWlZ0SXktNmtnM1BtXzd3dkZodDM3X0FtOUxKMGZZU09XWk1ZQkhsQjZPWGJRTkk0OEJkRDZ5S1NmNHhjRkkyR0NSMG1sVzRqU2RJLWRvcmxqN2h4MVdSS2IyQldoUWJLdThHNmJWN1FvVm1zU0VCX0xwLUU5dWhsV28zTDBOUldFZlhZQ2I?oc=5": "2026-08-25T22:46:29.239514+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjRheFdOREs4cHd6RmgxZmpUVW0zLXBhQUlSVWN4a1I0T0VBRk84QktiT2pvcFFTM2pTbEFhUnFZckFrS0E0UEpIcGd5c3dyWEdkbGNrenp2YTNld2g0U0hpN0NRdnY3S1FmNldZeGdUVnR2Z1pGSHZoSFhqOWozTXpFWFRmOXRlbHdhRGJKQzJfSTNXUlNJTkFadHY?oc=5": "2026-08-16T03:13:41.346604+00:00",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJmc2Y3RWpYa2xhYzZrZVc1dlVZQkl5WDlsaWF3bGZXU2J4UVlqOXhsdEJ1WkFtbEhuUlhsVEZCNU9laGIzOWVycUVQMnZMT0h4M1dsbGZrRE96UGJuTnhmOVZIUzRJY0RZTDJRb0cwaGdlWmlGUFBaTl82dURkeFBKWVluSXdESmlYc0NjcFNSMmgxQnRWWkc4dHk?oc=5": "2026-08-21T21:39:07.385677+00:00",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmpwLUt2cU1XVnVacVFrd2F4QkZJc0Q0MjZOZjA4T3FCUGxBdGhYaVVRQ2gzT0VpWDFzU3dlREVFOEx4MG5wWUZrcDJHcGRHODdyYVR3TER5eVlQR3pRWVQ1LXItMm5qWWtram5HZHZGNXpiQ0ZJZmh1a0dXVVRNZE5TeHY0WGpOYVRFeE03MFNpOHZicHFiazZ2LUpfQQ?oc=5": "2026-08-24T15:01:26.176332+00:00",
@@ -8606,7 +8648,6 @@
     "https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-08-19T05:47:05.099544+00:00",
     "https://openai.com/index/chatgpt-for-teens": "2026-08-18T12:02:02.718183+00:00",
     "https://openai.com/index/dali-rajic-chief-revenue-officer": "2026-08-13T16:11:56.373920+00:00",
-    "https://openai.com/index/daybreak-models-are-now-available-on-aws": "2026-08-11T22:25:33.077601+00:00",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "2026-08-25T09:01:21.465510+00:00",
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": "2026-08-24T20:05:06.748209+00:00",
     "https://openai.com/index/gpt-5-6-in-kiro": "2026-08-24T19:45:54.585975+00:00",
@@ -8694,6 +8735,7 @@
     "digest:54feb22b744041d398b3": "2026-08-20T20:08:43.623477+00:00",
     "digest:5a8e4be58c88fa68761a": "2026-08-22T21:01:03.320269+00:00",
     "digest:5add663ed344a4d80120": "2026-08-17T18:15:07.279659+00:00",
+    "digest:5ba21b51a2f7e0a964d4": "2026-08-25T22:46:30.024117+00:00",
     "digest:5d164a334d66c82aa170": "2026-08-20T19:46:46.419701+00:00",
     "digest:5d9d55bd538bca1a3a42": "2026-08-11T20:27:58.037490+00:00",
     "digest:5e210961e324197a4201": "2026-08-25T14:05:18.964972+00:00",
@@ -8769,68 +8811,68 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-25T22:01:38.984110+00:00",
+      "checked_at": "2026-08-25T22:46:27.990835+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-25T22:01:39.596409+00:00",
+      "checked_at": "2026-08-25T22:46:28.523291+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-25T22:01:14.796229+00:00",
+      "checked_at": "2026-08-25T22:45:15.603779+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-25T22:01:15.936528+00:00",
+      "checked_at": "2026-08-25T22:45:16.821940+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-25T22:01:15.839377+00:00",
+      "checked_at": "2026-08-25T22:45:16.729285+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-25T22:01:17.775903+00:00",
+      "checked_at": "2026-08-25T22:45:19.090486+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-25T22:01:18.458649+00:00",
+      "checked_at": "2026-08-25T22:45:19.748187+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-25T22:01:16.368843+00:00",
+      "checked_at": "2026-08-25T22:45:17.099860+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-25T22:01:21.573498+00:00",
+      "checked_at": "2026-08-25T22:45:22.862980+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-25T22:01:15.202081+00:00",
+      "checked_at": "2026-08-25T22:45:16.001759+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-25T22:01:15.529419+00:00",
+      "checked_at": "2026-08-25T22:45:16.310882+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-25T22:01:14.426121+00:00",
+      "checked_at": "2026-08-25T22:45:15.227166+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-25T22:01:45.063462+00:00",
-      "error": "",
+      "checked_at": "2026-08-25T22:46:29.231574+00:00",
+      "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
   },
