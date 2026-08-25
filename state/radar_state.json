@@ -7199,7 +7199,7 @@
       "early_signal": 51,
       "headline": "Enterprise AI agents are only as reliable as the messiest documents behind them - VentureBeat",
       "id": "75c264316e3b457a59bc",
-      "last_seen_at": "2026-08-25T19:46:48.234419+00:00",
+      "last_seen_at": "2026-08-25T23:38:59.151869+00:00",
       "score": 29,
       "sources": [
         {
@@ -7273,6 +7273,15 @@
           "source_type": "google_news",
           "title": "The AI Agent Race Is On. But Are We Watching the Right Race? - DevOps.com",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnRiUXA3ampUbUNYUk80bXdodlk2NjBpenpHckFQU2JOcWRhSklzSVFVVzg1ejA3c2Zhb0xtTGdWSnVGTkFQWERaWl9RQTEzMW5sWXZ3cktIT3NuVk00amFSbWVqaG9fM1VOZEtRcllSV1ZNZGFjQzc2T0VqbEFYTUdaVE8?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-25T23:20:59+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "AI agents are easy to build and hard to trust - WFTV",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1NtY2JYX1B4Q25acHZtd1hXTkpfQVlCMHpPeVVPSGFwQUNPbFotLWx5dkxUTElyX3phUl9GUWNFTmlaYWtLWkVfcWZBYkh4eHJGTGM1SlQxS1R6aWVvQXZvbWR1UFdEQ0ZmVHRPOGp0MGRoMG1XVEF1S2tzZXBoeFQyeEMwNkJVdzFxbkNXQ0hkXzdJd0hOVUJ4WdIBrwFBVV95cUxPLUVEUlZfMVh5WDZYUktxcm9hZWpYazl1UkdWRHlFeTdGSjZuY2tSNXZsZEhTa2t3eE9HdmpCRk9IRzdObVlwdXJ5NGxNNGNFNVFZZHdSc0kydy1lVGFWSlhDbnFmRUhQQWs5QTBydmd5dWJXMFRpS2hKbURHamFkYTNoMHI4WmpQbnVKZkdHZldDaDZuRUYtUC1RNzNEczVFSGNneVBmUERETGx4N200?oc=5"
         }
       ],
       "summary": "Enterprise AI agents are only as reliable as the messiest documents behind them VentureBeat"
@@ -7374,11 +7383,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T12:00:00+00:00",
-      "early_signal": 38,
+      "early_signal": 36,
       "headline": "Lexis Expands Agentic AI Capabilities for Lexis+ With Prot\u00e9g\u00e9, Plans Proprietary AI Model - Law.com",
       "id": "0c7ba88bbd3533efe933",
       "last_seen_at": "2026-08-25T20:47:14.009347+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7631,11 +7640,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-24T12:00:00+00:00",
-      "early_signal": 37,
+      "early_signal": 35,
       "headline": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
       "id": "566f182593fec86e4d72",
       "last_seen_at": "2026-08-24T19:45:54.598220+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -7764,11 +7773,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T03:39:23+00:00",
-      "early_signal": 60,
+      "early_signal": 58,
       "headline": "Alabama AG Subpoenas OpenAI Over Rogue AI Agent\u2019s Hack of Hugging Face - SOFX",
       "id": "b39b81b831882d44fbb8",
       "last_seen_at": "2026-08-25T15:05:58.256961+00:00",
-      "score": 51,
+      "score": 50,
       "sources": [
         {
           "media_url": null,
@@ -7857,11 +7866,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-25T00:00:00+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Disrupting a new covert influence campaign from Russia",
       "id": "ee1e436751b832f995bb",
       "last_seen_at": "2026-08-25T09:01:21.478074+00:00",
-      "score": 31,
+      "score": 30,
       "sources": [
         {
           "media_url": null,
@@ -7879,11 +7888,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T09:03:01+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Routing is coming for the frontier AI labs - Axios",
       "id": "f19ad459a1af77d2a2d8",
       "last_seen_at": "2026-08-25T09:52:22.873209+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -7901,11 +7910,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T09:29:54+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "Thomson Reuters CTO Joel Hron Debuts Thomson Legal AI Model - AI Magazine",
       "id": "9565d629fd9a462f4698",
       "last_seen_at": "2026-08-25T09:52:22.876676+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -8077,11 +8086,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-25T00:00:00+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "id": "91bbee7973b2cdff4643",
       "last_seen_at": "2026-08-25T17:45:55.391033+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -8143,11 +8152,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:32:00+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
       "id": "5ba21b51a2f7e0a964d4",
       "last_seen_at": "2026-08-25T22:46:29.244824+00:00",
-      "score": 52,
+      "score": 51,
       "sources": [
         {
           "media_url": null,
@@ -8254,7 +8263,6 @@
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3lWUFJhTEpMMW5EVlZIWVl2LVRxREtoMUZyRDJTU2FKbmFveEhfY1NCMmNuNkxPTEpyYk9RbzRNcmV6ak9XaEY3ZE5CU2EzckZSYXV4RnQwdw?oc=5": "2026-08-19T20:46:23.552155+00:00",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44WmU2YnBkY1d0d0pjdk5WVThmY2pkRGZBMTE3NlUwb21jcUNNVDVxN3h3TVR0OHJBZThGTy1RaVdPTUMzb3pEOTl0TTgwT284cEhiekZPSlAxX3hfaEFR?oc=5": "2026-08-19T13:09:20.831355+00:00",
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRFoxdWY0ZDN6RE5lbldzSUVTRHU3Vk41X01NYlZBbWZWRFh0OGo5cEU0NWFKenZLQXQ0MFZ4NHRUUGYxYWRiMVEyZ19aMUJNbm96WjlSaW96eWlxbDdj?oc=5": "2026-08-25T22:46:29.239823+00:00",
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LbkRVdmZEYl9DYWs2eGV3Um5iTWl2WEU3S3drdG01VVVsRVN2WkluN3NvbE9jeDlnMm5Qd29teVJLN2owMGFwVkpVR0NHNGluaUpVS2VhQTBBeWpN?oc=5": "2026-08-11T23:24:47.002180+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQ3dCRlBvNzN6UGp2WExidnpqVzB3ZHNFUVIxd0JGdjN6WVM3QVB1UjMzeXBoM3NKYTJiTksxRWM0cUUtdGcyX3VrQjNTLVpyNmF2VWRILUg5SnZf?oc=5": "2026-08-17T07:16:50.549757+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BR2ZzcDRMbGphY1pfMF9mVWVCZGUyV25mbHpZMnRjQUxWWWgtWGZqSk93eXEweHNlOU1MTW85d2hLc3NvT2E4Znd4ZG5DR1diQTZPcFExTi1wcC1t?oc=5": "2026-08-15T09:59:28.196785+00:00",
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5": "2026-08-25T15:05:58.248002+00:00",
@@ -8456,6 +8464,7 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5": "2026-08-24T22:45:02.932458+00:00",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnI2UU5scGhpNGN3SDhzRzQ0Tkt3c1o4MEdNYk1NY0VpdXhPdVFObmZvWVpnZnVoelZOamlOMUFOZF92LVRVc21uNmt5aHBvZ25oNEoxOWVXWWplNnFEMnBteGZoYVBQT21iV1ozV0F0TGdFaFFSMUZRamZLcnc4M0pxSVlmeGhUczRkblRZU016NXphOVc2WnlB?oc=5": "2026-08-13T10:45:46.754455+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOVFNaGxlc2V6WmM3aG1heHpLN2xGRDkyaW5BS2ZaLXE0OEpsaGVFdm9ETTdYcE9DRkdsUjF0WVBmNFk4QWRJTlU0eGp1bG9aemhBNUo5b1c2NjVsMmlmVy1qMy16QkJ6R1Y4NEJheW9DbGxhcFVSUl9VWHJybkJsMEhhVnBtOXdDVnlEMEYtNTlGZWplRnRuQjY5cw?oc=5": "2026-08-14T23:00:57.854741+00:00",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1NtY2JYX1B4Q25acHZtd1hXTkpfQVlCMHpPeVVPSGFwQUNPbFotLWx5dkxUTElyX3phUl9GUWNFTmlaYWtLWkVfcWZBYkh4eHJGTGM1SlQxS1R6aWVvQXZvbWR1UFdEQ0ZmVHRPOGp0MGRoMG1XVEF1S2tzZXBoeFQyeEMwNkJVdzFxbkNXQ0hkXzdJd0hOVUJ4WdIBrwFBVV95cUxPLUVEUlZfMVh5WDZYUktxcm9hZWpYazl1UkdWRHlFeTdGSjZuY2tSNXZsZEhTa2t3eE9HdmpCRk9IRzdObVlwdXJ5NGxNNGNFNVFZZHdSc0kydy1lVGFWSlhDbnFmRUhQQWs5QTBydmd5dWJXMFRpS2hKbURHamFkYTNoMHI4WmpQbnVKZkdHZldDaDZuRUYtUC1RNzNEczVFSGNneVBmUERETGx4N200?oc=5": "2026-08-25T23:38:59.147571+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFFmb1kzMDlmOVBhcXh6aWJtd3c0WDdxaDFfQ05tdVJBZHJNRlFLSG1RYTRnb0N1a1d2SlQxbFJjYkRkQWJMUGhDYktmemhTVGFCSzQ3bHZURmZwMmpCbHI1MkhhQ3AwS3BKcE9mblhBVnNfWDRnVVBIX0tmMkJ6MVVOcnR1cXJmZWJJWThwSElKZUI4SmpLUnJLSdIBoAFBVV95cUxPMXFLMjFFOWJkUzlyTmJILWZ3UjhfdEZ2OXlzbGJEZVJwaklnc3dRZzQ4SV9lUDJBc0YxdjY0Z2xTaXNCV1VEcE85Q3BMVVY4Y2lFXzU5Wks0ZXB4c19rVG9TaTZNLUxqSkF2a002akx6ejFHbXVVOGRzc1c0UDZraXNaTzgtWmRzamFldi1zYU02ay1zRUN2X19qS005enZm?oc=5": "2026-08-21T03:16:40.436632+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFltMk5CbDRHRlpGWmVKaUJ0Tzd1NnpNRGxCUXBRRkFLT29LU0RoOTZ3RldkYnBIY1dkR3JvNm05Nk5IRTBfNXlLdjF2X1VYeWlwT3BOVW5oSFE5dEVRNXpwX19oQUtNcFFYTm95dUdlZVhkRlZCMXpDUlNUakJDa3pRWFJ3VHM5eUNBU19WQ2NFNHZtdF83WDhKcw?oc=5": "2026-08-17T10:49:08.114185+00:00",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3JJa2tQSi1GUG0tWHFpU1NjUlNnUDZhQTRhV0lNTDJuTF9FWENfV0FpbzZHSTI4QzJNdXBGdFdUUUdWTy0yQ1NnNVNSV3RqODNHTV83cEJYdUNqMmFPbHpPMjhJVTlLU2hiNEpOOW1RQlQ3MlkwMjlzZDBRSk5YWHl1aWxKb1oycjVWYzZwQ3BoOE9DR2tmTk5Rcw?oc=5": "2026-08-19T03:12:04.469212+00:00",
@@ -8812,67 +8821,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-25T23:05:40.702466+00:00",
+      "checked_at": "2026-08-25T23:38:57.902528+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-25T23:05:41.324397+00:00",
+      "checked_at": "2026-08-25T23:38:58.479238+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-25T23:05:09.745350+00:00",
+      "checked_at": "2026-08-25T23:38:12.082190+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-25T23:05:11.137204+00:00",
+      "checked_at": "2026-08-25T23:38:13.404887+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-25T23:05:10.842267+00:00",
+      "checked_at": "2026-08-25T23:38:13.314630+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-25T23:05:16.407007+00:00",
+      "checked_at": "2026-08-25T23:38:15.789579+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-25T23:05:17.189383+00:00",
+      "checked_at": "2026-08-25T23:38:16.562303+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-25T23:05:11.815635+00:00",
+      "checked_at": "2026-08-25T23:38:13.815042+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-25T23:05:20.312273+00:00",
+      "checked_at": "2026-08-25T23:38:19.664244+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-25T23:05:10.208695+00:00",
+      "checked_at": "2026-08-25T23:38:12.600849+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-25T23:05:10.427353+00:00",
+      "checked_at": "2026-08-25T23:38:12.924287+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-25T23:05:09.447656+00:00",
+      "checked_at": "2026-08-25T23:38:11.613355+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-25T23:05:41.974703+00:00",
+      "checked_at": "2026-08-25T23:38:59.139771+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
