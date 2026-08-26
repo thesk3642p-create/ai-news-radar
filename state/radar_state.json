@@ -7836,11 +7836,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T05:11:28+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Rogue AI agents expose banks\u2019 testing gaps - QA Financial",
       "id": "64c88e2995a7591a633e",
       "last_seen_at": "2026-08-25T07:09:14.116991+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -8144,11 +8144,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:32:00+00:00",
-      "early_signal": 42,
+      "early_signal": 48,
       "headline": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
       "id": "5ba21b51a2f7e0a964d4",
-      "last_seen_at": "2026-08-25T22:46:29.244824+00:00",
-      "score": 48,
+      "last_seen_at": "2026-08-26T08:00:38.721990+00:00",
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -8158,6 +8158,15 @@
           "source_type": "google_news",
           "title": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWo5TWVjcURjVXFlRHJSWlZ0SXktNmtnM1BtXzd3dkZodDM3X0FtOUxKMGZZU09XWk1ZQkhsQjZPWGJRTkk0OEJkRDZ5S1NmNHhjRkkyR0NSMG1sVzRqU2RJLWRvcmxqN2h4MVdSS2IyQldoUWJLdThHNmJWN1FvVm1zU0VCX0xwLUU5dWhsV28zTDBOUldFZlhZQ2I?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-26T06:40:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Perplexity launches a local AI agent with zero token costs - Android Authority",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHpSTWZFLUJMMTFhZjN2NE91a0ItSDdfY3pia3gyMWdWcDdEdzBxdHJTYjJ4M1hFWGtYZ0xZTnVYc0lEWkNLTF9DVWQ2SEFPUVE0ZS1pak1fSTNTRGFVTDFSSGRLMVUyWGllVHhOSlpRRlFmOW1hOEx1NjcwQjFsX0paaDBLREd0d1F5c1hR?oc=5"
         }
       ],
       "summary": "Perplexity AI launches Portable Computer on-device AI agent SiliconANGLE"
@@ -8166,11 +8175,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:45:23+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Can Apple\u2019s New Mac Ultra Replace Your $200/Month AI Coding Bill? - Forbes",
       "id": "aef55dc0c4586d652b43",
       "last_seen_at": "2026-08-26T01:58:52.377741+00:00",
-      "score": 42,
+      "score": 41,
       "sources": [
         {
           "media_url": null,
@@ -8416,6 +8425,7 @@
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUm5jUXFVYnhycEFtYVUybVdPQ0hrMkN0MUltYmNkYXNxMzBlaDJVTk1qdXBKY0VTOVZRNXFFQ1NSVFhKMzJGYVU2Nk90bDg4RG9SZ2xiaDRwcnI5VmZxZ1NaMzhMeGt0LTVXTWlzYXQxSHRpeWZNOWowUmhKT1pscjIzaVNNNmNQcTdzZA?oc=5": "2026-08-17T14:45:31.474607+00:00",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0QxcFZOYUpXNWVMZ284dGpQRGJIZ2d0WlFleUk5QlFDZXE3eV9kTXVmN0tYUlg5NEJSWGI2eXYyQ2ZsbWRzRDI4bDZHVGpvSEt1bVU5c0JEWnRHSTN2SFpXRUZPZy1JQVhmT2dmMkVmUzV4VDVOTTBCcVdtMURrZC1Cdzh6X3NsZlBQYw?oc=5": "2026-08-18T16:13:08.261968+00:00",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWhOQV9xV1NmRnpaWnVBNXRtbTRuNjlFWHlKTUJRbGNVZnZZUmROYjAyMGVsZlhQbjlONHJsRWhSajFyc1RDTmpSeTI0bllZN0xRWVRnYURfRVVhcVQ3WTdWOVdyWkU4Q29veUswaDJ5Ml9FNkdOMlVWY202bkp3MjBXSC1KRkxaNEdWVQ?oc=5": "2026-08-20T14:55:37.163940+00:00",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHpSTWZFLUJMMTFhZjN2NE91a0ItSDdfY3pia3gyMWdWcDdEdzBxdHJTYjJ4M1hFWGtYZ0xZTnVYc0lEWkNLTF9DVWQ2SEFPUVE0ZS1pak1fSTNTRGFVTDFSSGRLMVUyWGllVHhOSlpRRlFmOW1hOEx1NjcwQjFsX0paaDBLREd0d1F5c1hR?oc=5": "2026-08-26T08:00:38.716675+00:00",
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUlqNnp0NDlHNU4xMHZra21JUG9yR3F0SnV0Z01qSVVrTGtTU3RWSTdWUXVYZnNNb19Yc1J3SmxGMmtfa3RaeDJySUZXRkdtaHowb1BFZzFWbGxKQm4xa2N2TDlGTjVNZnpENXRVdUZVQ2hfSHlaVGJMbWtsRGotSHRHd2V0MkVEY2JCcW13?oc=5": "2026-08-25T01:52:59.140887+00:00",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWRmYVY0WFJNZ19PU0VCSi1PakFvdmRwZGNQYkFBSWdSemRTa3JXbE11MFFrMjJ6VUEtajhhd2F5UGRiWGFTeTBzZ1I2UE43SExiQmlpY09XeUdEMmpoVTlvYVJ6aGZjRllCWFoyNEJMbjRhVV9zWDZFMjg3VGZXT1Y1OHg0OEtLV2thOXppUQ?oc=5": "2026-08-15T22:38:01.752981+00:00",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGt3MkdXVm1DbjhMam5sUkNmWU9keFNHUnRTSUQtNlljMElDM0dZb2tpWkRudm5fbVlaU0pkdk1BQXlLMzZ4MEthNGsxZGk4bmxYbnFWTlp6MEc2blUwR3V4Ym5rTTVHYTFub1FsX1U2RFJNM1l5ZUw5LVJRU2Z0V2h0UTFfWUVMckJBWWNGTQ?oc=5": "2026-08-20T05:47:20.515422+00:00",
@@ -8831,67 +8841,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-26T07:10:21.754237+00:00",
-      "error": "timed out",
+      "checked_at": "2026-08-26T08:00:37.701785+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-26T07:10:22.442270+00:00",
+      "checked_at": "2026-08-26T08:00:38.268565+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-26T07:09:08.131077+00:00",
+      "checked_at": "2026-08-26T07:59:26.126097+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-26T07:09:10.056134+00:00",
+      "checked_at": "2026-08-26T07:59:27.748625+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-26T07:09:09.787947+00:00",
+      "checked_at": "2026-08-26T07:59:27.655406+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-26T07:09:12.477576+00:00",
+      "checked_at": "2026-08-26T07:59:30.183777+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-26T07:09:13.342152+00:00",
+      "checked_at": "2026-08-26T07:59:30.896968+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-26T07:09:10.570943+00:00",
+      "checked_at": "2026-08-26T07:59:28.161352+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-26T07:09:16.615926+00:00",
+      "checked_at": "2026-08-26T07:59:34.009144+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-26T07:09:08.630839+00:00",
+      "checked_at": "2026-08-26T07:59:26.572390+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-26T07:09:08.986159+00:00",
+      "checked_at": "2026-08-26T07:59:26.921681+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-26T07:09:07.737570+00:00",
+      "checked_at": "2026-08-26T07:59:25.734346+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-26T07:10:22.915271+00:00",
+      "checked_at": "2026-08-26T08:00:38.708805+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
