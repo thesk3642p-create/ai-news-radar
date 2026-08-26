@@ -6967,7 +6967,7 @@
       "early_signal": 47,
       "headline": "AI agent hacks gym system to move up waitlist - Fox News",
       "id": "0a813e28391fd15fbe7a",
-      "last_seen_at": "2026-08-26T01:58:52.374337+00:00",
+      "last_seen_at": "2026-08-26T05:53:47.630719+00:00",
       "score": 32,
       "sources": [
         {
@@ -7122,6 +7122,15 @@
           "source_type": "google_news",
           "title": "Handshakes Launches AI Agent to Transform Corporate Due Diligence and Investigation - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3o0eUY1UEg5dHJ0SnBmNTNnZUJoRTdoOGppQ29xcC12SE8xVV9aQnoyNVNxcS1qbEZJOU1sVVFZdFFQUmpOUTgyU0lyLS1tVzhHSWNDdUtObllxRkVCNHNycHdibmRIVjJ4UTZZcVFoNkh5VG1RUjlZZF9uQXRkZGZSN25NMmo3X2tmTEEyVFRGV254bGc2d01tODVjdV85VnZ3NQ?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-26T00:18:00+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Handshakes Launches AI Agent to Transform Corporate Due Diligence and Investigation - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnZ1ZVFJTGJSbkRwbGt3T2VKRWNNU0JFU0lGVlZzX1ZiRFR3RVZhNTRjdno1VUtnMWVES2dpN0RoUWN4Qml3dnNwajg3TUgtZXlvMW5iZ1A3eVhIaU05aDR6NVlpd3ozaVliR2NpTGhySDVBV2pCSTN0UUpPbmZEX3UxRmd4SC1PN2x4ckJ5Sl9xOS02NkNPaUFwUERfRm9QODRRSFNXc2U3UzJRRXdWaFVVTVIxd0dwQ3cwTU05YTlpV0ozak1QMWZCbUR2UWpEbEFVYXAwc043Z29O?oc=5"
         }
       ],
       "summary": "AI agent hacks gym system to move up waitlist Fox News"
@@ -7441,11 +7450,11 @@
       "breakout_sent": false,
       "confidence": 68,
       "created_at": "2026-08-24T13:00:00+00:00",
-      "early_signal": 68,
+      "early_signal": 67,
       "headline": "Anthropic\u2019s new Claude Tag update lets its Slack agent read the full conversation \u2014 and jump in unprompted - VentureBeat",
       "id": "da75c7a2a6a2504c78b3",
       "last_seen_at": "2026-08-25T16:00:56.667910+00:00",
-      "score": 46,
+      "score": 45,
       "sources": [
         {
           "media_url": null,
@@ -7667,11 +7676,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T18:07:41+00:00",
-      "early_signal": 46,
+      "early_signal": 44,
       "headline": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade - The New York Times",
       "id": "67d59378f86c7af630cd",
       "last_seen_at": "2026-08-25T07:59:13.015261+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -7893,11 +7902,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T09:29:54+00:00",
-      "early_signal": 36,
+      "early_signal": 34,
       "headline": "Thomson Reuters CTO Joel Hron Debuts Thomson Legal AI Model - AI Magazine",
       "id": "9565d629fd9a462f4698",
       "last_seen_at": "2026-08-25T09:52:22.876676+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -7937,11 +7946,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T06:05:46+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Stop Picking an AI Model. Start Picking a Capability. | by Mobin Shaterian | Aug, 2026 - DataDrivenInvestor",
       "id": "6e9641b6f2fa1f3f9cec",
       "last_seen_at": "2026-08-25T11:44:35.030852+00:00",
-      "score": 40,
+      "score": 39,
       "sources": [
         {
           "media_url": null,
@@ -8047,11 +8056,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-25T15:14:14+00:00",
-      "early_signal": 46,
+      "early_signal": 45,
       "headline": "Granite 4.2 LLMs: How They're Built",
       "id": "0a087f6e1e796946147b",
       "last_seen_at": "2026-08-25T16:00:56.659581+00:00",
-      "score": 37,
+      "score": 36,
       "sources": [
         {
           "media_url": null,
@@ -8113,11 +8122,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T15:19:54+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "T-Mobile says open AI models aren\u2019t just about cost \u2014 they\u2019re about fit - Fierce Network",
       "id": "b985a3d01046380e4403",
       "last_seen_at": "2026-08-25T18:16:31.686719+00:00",
-      "score": 38,
+      "score": 37,
       "sources": [
         {
           "media_url": null,
@@ -8135,11 +8144,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:32:00+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
       "id": "5ba21b51a2f7e0a964d4",
       "last_seen_at": "2026-08-25T22:46:29.244824+00:00",
-      "score": 49,
+      "score": 48,
       "sources": [
         {
           "media_url": null,
@@ -8157,11 +8166,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:45:23+00:00",
-      "early_signal": 44,
+      "early_signal": 42,
       "headline": "Can Apple\u2019s New Mac Ultra Replace Your $200/Month AI Coding Bill? - Forbes",
       "id": "aef55dc0c4586d652b43",
       "last_seen_at": "2026-08-26T01:58:52.377741+00:00",
-      "score": 43,
+      "score": 42,
       "sources": [
         {
           "media_url": null,
@@ -8247,6 +8256,7 @@
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5": "2026-08-25T15:05:58.248117+00:00",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTTJ0UFZvQ1podXBjWHZoS0lKbDh2UkhQRDJ0Y1htVERBelVYQ1YtU1FKLTFpV2k5bGlGSms2ZjRaWXhleWtLNW8xaWFOTWdGbUs5Sk9TaHJVMENRamFFdVpZRThfTjltWDVpSWxHWk95dVVicF9kZEtiWEpKNUo4eVJFblFtZXU1azNFSmk1R0NJQm8xelF1R3VCeUpwZERNX0RlMW9fVDhEUi13cmxLb1BEVzJiY1VBV3I2c3g4S1JCeEpYNDF3VklKd1ZINmZ6S1pOelpiQzM5RUU?oc=5": "2026-08-24T22:03:12.756107+00:00",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdERiQllDeXFjTjBYYU5TMFl6S1NLWktHRnpMUGVKVVlwdmdVRDVJcjl5MUMyNnN3M1JEOGtBVndiQUZacFNrU0J4SnJiYTNhZjR6cE5WQk1BZ1RKblpteGJtS1RLMjJ0cC1lWlF2WEN1LTZTb1hSSUVlRlBwZXluN3RpeDktQXdtMEY0U29Zd3lUOXFUNW9KWmFfZU5oZk43dmNfaF9kMlFLRUI4MnhkVGFhczA1OEtJMEhoZlpiSTFsRDdsWDJmdGEwSEpCak5PZTdKTGt0SzNCV2sw?oc=5": "2026-08-19T17:11:50.636637+00:00",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnZ1ZVFJTGJSbkRwbGt3T2VKRWNNU0JFU0lGVlZzX1ZiRFR3RVZhNTRjdno1VUtnMWVES2dpN0RoUWN4Qml3dnNwajg3TUgtZXlvMW5iZ1A3eVhIaU05aDR6NVlpd3ozaVliR2NpTGhySDVBV2pCSTN0UUpPbmZEX3UxRmd4SC1PN2x4ckJ5Sl9xOS02NkNPaUFwUERfRm9QODRRSFNXc2U3UzJRRXdWaFVVTVIxd0dwQ3cwTU05YTlpV0ozak1QMWZCbUR2UWpEbEFVYXAwc043Z29O?oc=5": "2026-08-26T05:53:47.626068+00:00",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1ZzSERhWDVzTTBWaEd6SGJWSWxScUFhRzdjRm52TmNEblk5ZjloaDVHVEhZbkNwOW5QTnFlUHUwcTJ4WUxYRUFYTUcyWHZOTEZ6bm5qTkhoQ0hUT1czY0w1cF9FcW5jZEJrQjNEbmRpVjBPSG5HdlBRZ0NuS1ViaDlmYU5tUUFiWDR4Vkx6UjVvSFVzU29ETHJIaGxfVXJvek9DSEpJT19HOTNsTFdGXzhMUVNIVGRCY2dxbTJCb1VsQi01OUE2b1AwaEhkLTJIYnFYbEIwbGlzQ2VhTVJPNg?oc=5": "2026-08-22T21:01:02.636986+00:00",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLVdmdzd1SUFTWUNVdU5qeEktV3pfeW5YalFqUTRGVFFwdWpSTkJJY3RXWFNuY3B6WV94eWlKd3BObm1qekszOXduR0FoZ0g5UjZ0dXA2Rl9RZ09RV2t4QWx2MjIwVDltSEF2dG1KZnRoaHFDeVZ2dGZ3Wmt5YWVBX0wwQV9HSE5kSmJicnlCbEtMVDlldFgtVF9oSnlDazVrdWZfZFl2SlF1UG5vM1Z0WFBuUXZ4eURwT2EwVE1xX3dpNWlsM01laGpZSEQyUnBGQVprWHVmNGsySzY5Ui1Bc3N3?oc=5": "2026-08-24T22:45:02.932785+00:00",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdmNPVTYwR2d4U2pGUWpobnhZY0k0QUo1MjNRSGIwVDBtakNwbWRSanBoYktsdmx1Uk5XRWttUFhMcHd1MkFyT3VicXpoM3E5Vm8xeV9nT2xITGFrWkN6dUZmQzVJbDFVMGFyaEJnU1BmT3JQNFFsMWdaN0pQRENiVlpvRmZtMWZvTGU2ZGEtcXZobEtIQkc3OGp3QUs3Vm5SZGhiWHBKTGNOTlFNcGU1c0lFT1h6S1lyOXNpdXZJT1B3dlRJWjZDZE0temxuUWszNFA4N2RQT3p5TERvcE1XR29lSQ?oc=5": "2026-08-20T09:17:57.969550+00:00",
@@ -8823,67 +8833,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-26T05:17:19.413399+00:00",
+      "checked_at": "2026-08-26T05:53:46.630885+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-26T05:17:19.911864+00:00",
+      "checked_at": "2026-08-26T05:53:47.168056+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-26T05:16:25.318353+00:00",
+      "checked_at": "2026-08-26T05:52:43.804943+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-26T05:16:26.451345+00:00",
+      "checked_at": "2026-08-26T05:52:45.112769+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-26T05:16:26.307746+00:00",
+      "checked_at": "2026-08-26T05:52:44.954458+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-26T05:16:28.797878+00:00",
+      "checked_at": "2026-08-26T05:52:47.343636+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-26T05:16:29.303059+00:00",
+      "checked_at": "2026-08-26T05:52:48.014468+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-26T05:16:27.069704+00:00",
+      "checked_at": "2026-08-26T05:52:45.539653+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-26T05:16:32.393097+00:00",
+      "checked_at": "2026-08-26T05:52:51.114135+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-26T05:16:25.659413+00:00",
+      "checked_at": "2026-08-26T05:52:44.271189+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-26T05:16:25.874738+00:00",
+      "checked_at": "2026-08-26T05:52:44.581451+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-26T05:16:25.010291+00:00",
+      "checked_at": "2026-08-26T05:52:43.372771+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-26T05:17:20.533293+00:00",
+      "checked_at": "2026-08-26T05:53:47.618043+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
