@@ -7384,11 +7384,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T12:00:00+00:00",
-      "early_signal": 35,
+      "early_signal": 34,
       "headline": "Lexis Expands Agentic AI Capabilities for Lexis+ With Prot\u00e9g\u00e9, Plans Proprietary AI Model - Law.com",
       "id": "0c7ba88bbd3533efe933",
       "last_seen_at": "2026-08-25T20:47:14.009347+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -7650,11 +7650,11 @@
       "breakout_sent": false,
       "confidence": 60,
       "created_at": "2026-08-24T12:00:00+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
       "id": "566f182593fec86e4d72",
       "last_seen_at": "2026-08-24T19:45:54.598220+00:00",
-      "score": 34,
+      "score": 33,
       "sources": [
         {
           "media_url": null,
@@ -7703,11 +7703,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T18:07:41+00:00",
-      "early_signal": 44,
+      "early_signal": 43,
       "headline": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade - The New York Times",
       "id": "67d59378f86c7af630cd",
       "last_seen_at": "2026-08-25T07:59:13.015261+00:00",
-      "score": 36,
+      "score": 35,
       "sources": [
         {
           "media_url": null,
@@ -7743,11 +7743,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T03:48:37+00:00",
-      "early_signal": 48,
+      "early_signal": 46,
       "headline": "Meta Hatch could let AI agents handle everyday tasks for you \u2014 here\u2019s what we know - Firstpost",
       "id": "f9113f42bf52ba917d1e",
       "last_seen_at": "2026-08-25T16:00:56.663548+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -7783,11 +7783,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T03:39:23+00:00",
-      "early_signal": 57,
+      "early_signal": 55,
       "headline": "Alabama AG Subpoenas OpenAI Over Rogue AI Agent\u2019s Hack of Hugging Face - SOFX",
       "id": "b39b81b831882d44fbb8",
       "last_seen_at": "2026-08-26T00:00:52.906133+00:00",
-      "score": 48,
+      "score": 47,
       "sources": [
         {
           "media_url": null,
@@ -8171,11 +8171,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:32:00+00:00",
-      "early_signal": 56,
+      "early_signal": 55,
       "headline": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
       "id": "5ba21b51a2f7e0a964d4",
       "last_seen_at": "2026-08-26T09:57:44.672395+00:00",
-      "score": 47,
+      "score": 46,
       "sources": [
         {
           "media_url": null,
@@ -8211,11 +8211,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:45:23+00:00",
-      "early_signal": 40,
+      "early_signal": 39,
       "headline": "Can Apple\u2019s New Mac Ultra Replace Your $200/Month AI Coding Bill? - Forbes",
       "id": "aef55dc0c4586d652b43",
       "last_seen_at": "2026-08-26T01:58:52.377741+00:00",
-      "score": 41,
+      "score": 40,
       "sources": [
         {
           "media_url": null,
@@ -8250,6 +8250,28 @@
         }
       ],
       "summary": "LLM hijacking: The hottest phenomenon in AI cyber calcalistech.com"
+    },
+    {
+      "breakout_sent": false,
+      "confidence": 60,
+      "created_at": "2026-08-26T00:00:00+00:00",
+      "early_signal": 47,
+      "headline": "How loveholidays is making everyone a builder with Codex",
+      "id": "46618cdf3e6a6b41cd33",
+      "last_seen_at": "2026-08-26T10:52:29.450878+00:00",
+      "score": 43,
+      "sources": [
+        {
+          "media_url": null,
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "source_name": "OpenAI",
+          "source_tier": "official",
+          "source_type": "rss",
+          "title": "How loveholidays is making everyone a builder with Codex",
+          "url": "https://openai.com/index/loveholidays"
+        }
+      ],
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
     }
   ],
   "processed_urls": {
@@ -8641,7 +8663,6 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGtpQ0hRUFBRNEdCRER0YjY1Z2thZVUzSU9iTml2dl9UYzQ4UklXOTF0c0xLNUw4cTJ5WDVGTl83MkNpR2tReTZJSy1NWTE0TnB1Q3ZYUVc5VU9ic0loelpKUWpMLXRicGc0QnZYeE5XNGZ4eV9XaGYwdmY2Q3gwSWtsVXgxbGNCemJiTVJGQXZfSzZhQVFERVBIN0l5Y1FZMTVaeWZ6YmhpcUJ0TEd0Mg?oc=5": "2026-08-24T07:21:36.562986+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0JPSDdPZUFOSDhCVnRDOTRqbF9mQmwzREl1d19OSEYtdkFLbnBqY2tXcjBPNjJEbkNGRmJGTThUWHRUVEtNa3hIV0ROeE9JLVZObXRrTXluZVphcHZKLTE3OXJHREQwV2xYZGEzY2ZPdmU1ZjBKaGJzWk9KXzhBQ0VzMGJyajNCY183eHhWQnA3QlRjZGpqa3BTdzJqLVNxd3pieDlNZTZQR0Y5WFp1ZmdB?oc=5": "2026-08-21T19:37:32.385951+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTN0SlIzeF8xMUNnUmlFLUhZOTRROWdWR2Q1VHFpbXFWQU9ZR1poV1JtRTNBVUp0Z3BlZ2p0SjBZUllWRGE3RE1VYThhckRfTnUwR2R0aGFQNmxubk5nc3B5MnFTRkNQb0dYR2QwSlpxcGdpakdLMVVLX2xKX1o3SEhEdUktNDkydXhnQXhTSTJFdmx0TnBIYWVvTGYycVVNZ19yZWJOLVNGUmNGMnp6Q0Zn?oc=5": "2026-08-17T21:42:01.041522+00:00",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRENuWFJ4QlJTOGswbi0wOGI3Mk9iTk9IZ2tSRHYtM21NLWs1d1BybV9LOUVEUlloR3U4Q0hLbmJkWkJ0OW1XVW8zUFFWYzg0WEZrbW42NVZEX254aGlxYlpwTHZ4b1Y1cmFCQ085NXRreGN3OXY1MXVVWWltUU1PZjhvdTVjRlZ3TkM3R2ZuNXVkd2FuVWZBUnFmOEQwMmIxblpDb0N6a3ZLWXlwQ0dOQ2tn?oc=5": "2026-08-12T10:43:40.234754+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHU3SlhXM0p1VWhMWVA5MTktRGFOYnd6djR0NW5qQy02ZEFXWTBUS3o0Tm1RdnI2MHZ0QWFtN2VyMlBVNkZPV1RpX3RDMUF4QTAxNGZfRnloUVJldFpyOUF2V2JGUUdsR29kREdzSFRFR19oN2tKLUpUZWtXV0t1cVQ3N19hSUJpWk1nN3ZSQUhibU1UdHdOU1ZCN2dJY3pFQnNYRVJsc1VkbDVRWlU5QzBn0gG4AUFVX3lxTFBvUkY0RFFwWC1ZS1R0SUQtOF90TDZOaTgxMHp4UjZ6ZXpKeG9DRGZNOEJOY04xR2hSdWllWGZna0xLRWpPamtDenNuMmVpYVRYcXozVE9KVGs2dGU4eFZyMDY5WGV3QURCeVk0cEcydU9WVFdtQTZ4WDJ0bXRvMXl0SDd5aDhBanpYdFByUXVBbjBJdEc4cnRFNmNiUWJ5am5RV2JwVFk2dllENThObzdhZlVlaGdVUlo?oc=5": "2026-08-19T10:46:59.089107+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUUyNml0Ykt4RlFNM1EyQ3c1MU9WUHBDTHNoazlNTDUzMFFRTmVmbkpxS0hWQTd2UFp3TkFsRkxwZ0VNU3dzS3V6Y05JaHRUN0hkNzA3MUhFUFVrWTFiT0Jmd0loTmlQZDhMdDVfUXNkMnFfWk9IeUN1NGJXako1OUNWMWlXX0R4RWJpS25QSmM1TUY4Qm5SUVE3Q1RHZ0hHbjJmVGdGZFR0OHpxc0RwY25R?oc=5": "2026-08-21T13:58:49.262578+00:00",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTmRmQXdTMktfdGktcTdKNXdFdmNmVVUxS3BtTEhwRjhWdDM2YU1wdlFmeC1HUzlSLUpBeUY1X0ZzVmVIZkRqb0UxWkRfT3lnZE8ta1BpTURqUDY5aC1KT19LZS1Ea2NLUjdZTlp1RXFkeW9Zb3JLVS10WWFLYVFDQXEycHRWR1QyeEEtSm1JYTdrN3lvSG9kU21vdkRkUkhKOWFxaVBsLWl5cFFjZ0ZhOGdB?oc=5": "2026-08-12T19:21:23.870109+00:00",
@@ -8748,6 +8769,7 @@
     "https://openai.com/index/introducing-ai-futures": "2026-08-20T19:46:45.491028+00:00",
     "https://openai.com/index/introducing-chatgpt-for-teens": "2026-08-18T11:10:33.868287+00:00",
     "https://openai.com/index/jalapeno-first-results": "2026-08-25T15:05:58.240932+00:00",
+    "https://openai.com/index/loveholidays": "2026-08-26T10:52:29.438866+00:00",
     "https://openai.com/index/model-ml": "2026-08-24T15:57:06.385919+00:00",
     "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": "2026-08-17T11:41:52.495421+00:00",
     "https://openai.com/index/nvidia/chatgpt-work": "2026-08-18T23:36:18.488751+00:00",
@@ -8904,67 +8926,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-26T09:57:43.819813+00:00",
+      "checked_at": "2026-08-26T10:52:28.167441+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-26T09:57:44.269712+00:00",
+      "checked_at": "2026-08-26T10:52:28.842443+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-26T09:57:18.818885+00:00",
+      "checked_at": "2026-08-26T10:51:38.796747+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-26T09:57:19.772661+00:00",
+      "checked_at": "2026-08-26T10:51:40.543611+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-26T09:57:19.669132+00:00",
+      "checked_at": "2026-08-26T10:51:40.231421+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-26T09:57:22.779496+00:00",
+      "checked_at": "2026-08-26T10:51:42.878666+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-26T09:57:23.263242+00:00",
+      "checked_at": "2026-08-26T10:51:43.624902+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-26T09:57:20.025796+00:00",
+      "checked_at": "2026-08-26T10:51:41.167366+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-26T09:57:26.353956+00:00",
+      "checked_at": "2026-08-26T10:51:46.955196+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-26T09:57:19.186773+00:00",
+      "checked_at": "2026-08-26T10:51:39.515819+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-26T09:57:19.416534+00:00",
+      "checked_at": "2026-08-26T10:51:39.807013+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-26T09:57:18.501673+00:00",
+      "checked_at": "2026-08-26T10:51:38.417848+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-26T09:57:44.659636+00:00",
+      "checked_at": "2026-08-26T10:52:29.438654+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
