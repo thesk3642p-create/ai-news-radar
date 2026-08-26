@@ -7804,7 +7804,7 @@
       "early_signal": 55,
       "headline": "Alabama AG Subpoenas OpenAI Over Rogue AI Agent\u2019s Hack of Hugging Face - SOFX",
       "id": "b39b81b831882d44fbb8",
-      "last_seen_at": "2026-08-26T00:00:52.906133+00:00",
+      "last_seen_at": "2026-08-26T12:17:44.150596+00:00",
       "score": 47,
       "sources": [
         {
@@ -7851,6 +7851,15 @@
           "source_type": "google_news",
           "title": "Fullspan Health\u2019s AI agent sees strong early traction with 1.1M views since June launch - Fierce Healthcare",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3NMOVlIUmwyVXpiNE5YQUh4RzQ5X2Vxb25qUWtSQmptWUtxZmt4STJfaHREOFJpYXdsU2tFWHB3UjVJWi1Kb2wzT0pJckJFWXB4QXdtOW9OUlhDakIzYkR5dVFtRjJyS213U2g3UHhCSFJNX2l4bWRjY05wa0U3ZUh2eWhHUUtCcVRudTZqVDM1QjNJSndCSUh2a3ZLQUFaNzl1cl81N0tnTkVvNlh4dXVFbUdXNklqMEU2OFQ3LUlNY3JfSXd1b1NR?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-26T12:12:15+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "OpenAI\u2019s AI agent hacked a real company - Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObmhWbzl1WEUyamd4N2stZkhwaG1JaVNXTHctRnNvVW1OUmxBcUtpTUs1blBTbTdVQmlUU21WQWgwSWJsVkZLM1JXTmViUG5SSGN1ZEdLbWJZLUtBMmY3UjZ0YXllck5rVV9rM0lCZ3Zyd3hwcmRjZFRHUTIwb3NpZg?oc=5"
         }
       ],
       "summary": "Alabama AG Subpoenas OpenAI Over Rogue AI Agent\u2019s Hack of Hugging Face SOFX"
@@ -7881,11 +7890,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T05:11:28+00:00",
-      "early_signal": 32,
+      "early_signal": 30,
       "headline": "Rogue AI agents expose banks\u2019 testing gaps - QA Financial",
       "id": "64c88e2995a7591a633e",
       "last_seen_at": "2026-08-25T07:09:14.116991+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -7925,11 +7934,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T09:03:01+00:00",
-      "early_signal": 33,
+      "early_signal": 32,
       "headline": "Routing is coming for the frontier AI labs - Axios",
       "id": "f19ad459a1af77d2a2d8",
       "last_seen_at": "2026-08-25T09:52:22.873209+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -8471,6 +8480,7 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0JyNU9USUJLWFhYcEdnR05OYjZXVUxFVkNXaldjZEQyc2diREJRY3ZjMzJrb3dlQnVUTjk3eGpZMGQ5Tk1EZDRmXzc1ZnpBRC1UU094T3BzcUV4RGh5Q25OX2R6Y1hWNXFCY193Z0RJcGtOMnJUcTNvX1dzNDVlNg?oc=5": "2026-08-12T23:23:43.566826+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFk2TGl4UXNSYTRLaFdpay1xd3QzZUhKMzEzN2JVeWxpWWV2R3JRNmk2c3NKUVJ5aUxGSEdBRFlWWFVXbjBaNG4tN01NTURSenljX3pnN0pjdi1VeG9yRkUwZUtpT1A4Xy1sVEpyZkhFQnd3YlgyZDFSa1NYQmVYNQ?oc=5": "2026-08-21T13:58:49.262338+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHQ0YU1YeG83cFE1TE5LQ1h2MXc3MzhBZ25ONU5rMGpWYS1qZGtjeHg4RlNjemp5MzFIRGRtdzB0Rk9HRlUteTI0VF9hNUtJQWFxM2FtYkQzMm0wNGkwMHlrZHZFem9fUTBWRmVlX2w0bHlvOGgtUFUyYUhiYnVVZA?oc=5": "2026-08-13T19:21:01.497614+00:00",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxObmhWbzl1WEUyamd4N2stZkhwaG1JaVNXTHctRnNvVW1OUmxBcUtpTUs1blBTbTdVQmlUU21WQWgwSWJsVkZLM1JXTmViUG5SSGN1ZEdLbWJZLUtBMmY3UjZ0YXllck5rVV9rM0lCZ3Zyd3hwcmRjZFRHUTIwb3NpZg?oc=5": "2026-08-26T12:17:44.145431+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOU1nXzVTSTkybmlXUS1hZDBETTVPaHZJMTNjMkcxdk5hdUhneHVKY3JLOC1yMmtlWXBjcUN3ZDhjWXpvdzIyYm9HQ25kSE5IY09UTC1lUUc5RW5rNUpSS3A3dmVQckxDT2ZxRW9tWmZBalJKbnpCU2VVcnZBVGoyWQ?oc=5": "2026-08-22T13:01:57.717320+00:00",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEtCMUNQQkI1MTgwX2luZVFla3pySXEyQlgwcHhhT0NuMlF6eV9yZjFpUlhPaXBQdmdVNktvMGFhR3ZSZG55Z3pheUpZcUp1WlZ6ZW5ELWJpTl9mWlFaU2EybmdWTTUyaEd0Ym5jX3g5c0JZbDdUWnZXdDJlSUstRQ?oc=5": "2026-08-25T09:52:22.868827+00:00",
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1pUSkV5YV9jd1RmUmlQcEpoTVdrOVNJaU8xYURUVlp5Y2FIM2xmZHkxWngzUVo5YUNNaWttbllXVUJxLWhXeXhZZ2psN3ZXeXF6SnRaSzlpdjNuaHVpeHNGbU1NenN4dnhIU3otc1hURGx5WlUtNFRGTElvaHFjVHVR?oc=5": "2026-08-18T11:10:33.875822+00:00",
@@ -8946,67 +8956,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-26T11:46:00.415461+00:00",
+      "checked_at": "2026-08-26T12:17:42.734596+00:00",
       "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-26T11:46:01.021883+00:00",
+      "checked_at": "2026-08-26T12:17:43.295352+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-26T11:45:09.433989+00:00",
+      "checked_at": "2026-08-26T12:17:13.640567+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-26T11:45:10.780576+00:00",
+      "checked_at": "2026-08-26T12:17:14.674961+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-26T11:45:10.662523+00:00",
+      "checked_at": "2026-08-26T12:17:14.581023+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-26T11:45:13.154448+00:00",
+      "checked_at": "2026-08-26T12:17:17.048639+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-26T11:45:13.858418+00:00",
+      "checked_at": "2026-08-26T12:17:17.674657+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-26T11:45:11.409802+00:00",
+      "checked_at": "2026-08-26T12:17:14.984222+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-26T11:45:17.050101+00:00",
+      "checked_at": "2026-08-26T12:17:20.774012+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-26T11:45:09.878065+00:00",
+      "checked_at": "2026-08-26T12:17:13.993083+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-26T11:45:10.251323+00:00",
+      "checked_at": "2026-08-26T12:17:14.306714+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-26T11:45:09.047067+00:00",
+      "checked_at": "2026-08-26T12:17:13.327257+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-26T11:46:01.501788+00:00",
+      "checked_at": "2026-08-26T12:17:44.137641+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
