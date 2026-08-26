@@ -6077,11 +6077,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-22T06:45:00+00:00",
-      "early_signal": 29,
+      "early_signal": 28,
       "headline": "Beijing\u2019s AGI Bar Serves Free DeepSeek Tokens Alongside the Drinks - Technology Org",
       "id": "0901166e90138ee8017e",
       "last_seen_at": "2026-08-23T16:43:47.064270+00:00",
-      "score": 27,
+      "score": 26,
       "sources": [
         {
           "media_url": null,
@@ -7255,11 +7255,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-23T22:37:00+00:00",
-      "early_signal": 42,
+      "early_signal": 40,
       "headline": "Nobody knows who built AI coding model Ox Alpha or where the code goes - SiliconANGLE",
       "id": "141a294fe9c352d7d1e6",
       "last_seen_at": "2026-08-25T13:12:13.100180+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -7295,11 +7295,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T11:05:11+00:00",
-      "early_signal": 28,
+      "early_signal": 27,
       "headline": "Travelers builds its own LLM, cutting AI costs - CIO Dive",
       "id": "79d1bd0698104a093228",
       "last_seen_at": "2026-08-24T11:09:59.088159+00:00",
-      "score": 32,
+      "score": 31,
       "sources": [
         {
           "media_url": null,
@@ -7508,10 +7508,10 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T15:34:51+00:00",
-      "early_signal": 36,
+      "early_signal": 44,
       "headline": "UK to assess risks of consumers losing access to frontier AI models - Global Government Forum",
       "id": "c82eb648acf5a543e2ba",
-      "last_seen_at": "2026-08-24T22:45:02.941140+00:00",
+      "last_seen_at": "2026-08-26T04:24:51.732705+00:00",
       "score": 36,
       "sources": [
         {
@@ -7531,6 +7531,15 @@
           "source_type": "google_news",
           "title": "August 2026 Global Regulatory Brief: E-delivery, cyber concentration and frontier AI risks - Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLVdmdzd1SUFTWUNVdU5qeEktV3pfeW5YalFqUTRGVFFwdWpSTkJJY3RXWFNuY3B6WV94eWlKd3BObm1qekszOXduR0FoZ0g5UjZ0dXA2Rl9RZ09RV2t4QWx2MjIwVDltSEF2dG1KZnRoaHFDeVZ2dGZ3Wmt5YWVBX0wwQV9HSE5kSmJicnlCbEtMVDlldFgtVF9oSnlDazVrdWZfZFl2SlF1UG5vM1Z0WFBuUXZ4eURwT2EwVE1xX3dpNWlsM01laGpZSEQyUnBGQVprWHVmNGsySzY5Ui1Bc3N3?oc=5"
+        },
+        {
+          "media_url": null,
+          "published_at": "2026-08-26T03:32:45+00:00",
+          "source_name": "Google News",
+          "source_tier": "trusted",
+          "source_type": "google_news",
+          "title": "Why Frontier AI Models Are Better Together - HackerNoon",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84N0UtTXRZM0MwSUtGdDVHQXpXUy1vVVkweDhZWFdQV3RMN3dROVdBaHRUdWFHUmhCWjRSZnd1WFljXzExajF4aHdZY2V4SGtqNXlidHdNbks1YzlCcFAwYlZxMk9tSzVfY2JUREtTTENLYlk?oc=5"
         }
       ],
       "summary": "UK to assess risks of consumers losing access to frontier AI models Global Government Forum"
@@ -7539,11 +7548,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-24T16:15:25+00:00",
-      "early_signal": 30,
+      "early_signal": 28,
       "headline": "Frontier AI Meets Frontier Cyberlaw - JD Supra",
       "id": "7bc3b2ba900d1f11f644",
       "last_seen_at": "2026-08-24T16:55:51.886763+00:00",
-      "score": 33,
+      "score": 32,
       "sources": [
         {
           "media_url": null,
@@ -7818,11 +7827,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T05:11:28+00:00",
-      "early_signal": 34,
+      "early_signal": 33,
       "headline": "Rogue AI agents expose banks\u2019 testing gaps - QA Financial",
       "id": "64c88e2995a7591a633e",
       "last_seen_at": "2026-08-25T07:09:14.116991+00:00",
-      "score": 35,
+      "score": 34,
       "sources": [
         {
           "media_url": null,
@@ -7972,11 +7981,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T13:14:00+00:00",
-      "early_signal": 39,
+      "early_signal": 38,
       "headline": "CrowdStrike\u2019s Daniel Bernard: Frontier AI Requires Cybersecurity\u2019s \u2018Greatest Mobilization\u2019 Ever - crn.com",
       "id": "18644141cc564e2c13ea",
       "last_seen_at": "2026-08-25T14:05:18.110277+00:00",
-      "score": 39,
+      "score": 38,
       "sources": [
         {
           "media_url": null,
@@ -8126,11 +8135,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:32:00+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Perplexity AI launches Portable Computer on-device AI agent - SiliconANGLE",
       "id": "5ba21b51a2f7e0a964d4",
       "last_seen_at": "2026-08-25T22:46:29.244824+00:00",
-      "score": 50,
+      "score": 49,
       "sources": [
         {
           "media_url": null,
@@ -8148,11 +8157,11 @@
       "breakout_sent": false,
       "confidence": 42,
       "created_at": "2026-08-25T22:45:23+00:00",
-      "early_signal": 45,
+      "early_signal": 44,
       "headline": "Can Apple\u2019s New Mac Ultra Replace Your $200/Month AI Coding Bill? - Forbes",
       "id": "aef55dc0c4586d652b43",
       "last_seen_at": "2026-08-26T01:58:52.377741+00:00",
-      "score": 44,
+      "score": 43,
       "sources": [
         {
           "media_url": null,
@@ -8286,6 +8295,7 @@
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMGFyc21kZTF2QUdYYVVLb0xyV2hRb2hOSGNhMVZqaXVVQ1hLZDAtQmZ0dGFnUUVQMGFvVmwyRHFWemdGSmkzVTBpU05kdWNCbHlRd3otSXBNaVpQN1VpWV9pOU9hMFJfYW1SWg?oc=5": "2026-08-13T18:08:23.608684+00:00",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ROTFVX3I3UzJhSGJ5NDY3TlhBZlNnSk04c0pBTjJyUWZSa1drWktNbUlqeWwyalJKUjh0ZXpvdlFnQ0hmaVVSVVBWVHRUbTg1M0JoS0IzS3hpcDJEekdUbHZ5QW5YTFROc240SQ?oc=5": "2026-08-24T07:21:36.563456+00:00",
     "https://news.google.com/rss/articles/CBMibkFVX3lxTE44WFFVZDg4OWw5VUZuUV9wbXNhR1RCbjFMdjc2WjRfc1ZpdUNsTzZ4RkJORDJWSGRCb0lRWGV4WjVKcFNYQU9kWFRkaXJiMEN0bDVRcVEyajBsMkhacmcyRmVzTWZOSHdfWWktejdB?oc=5": "2026-08-19T16:47:13.165989+00:00",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE84N0UtTXRZM0MwSUtGdDVHQXpXUy1vVVkweDhZWFdQV3RMN3dROVdBaHRUdWFHUmhCWjRSZnd1WFljXzExajF4aHdZY2V4SGtqNXlidHdNbks1YzlCcFAwYlZxMk9tSzVfY2JUREtTTENLYlk?oc=5": "2026-08-26T04:24:51.728343+00:00",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tRkpLMXZTb2VrcG5lTkh4dHVsbV9kMVVpR0JBWEZ5QXloRDVRZG5RNnpYX0xNRFlGMlJXbzhFVXc0M0g0OTdzTE45RThoT0taQlpmYmszd3hNZEhDVU01bUhBZ3lrSkxjWE9kN0dWRGNQc0k?oc=5": "2026-08-18T10:46:52.187522+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE10TFhibW0zcnAzcjMtbWExUnJ0NWJQMXM5WHBYemhFNU9zUlFXT05uSzBfWXZlRVROY2JlUk42N0R4dHJVSk1qbFJfUmhMX3hKUnBFUGRJT3lrZHBmS1o1eFRLNW0xMlgxSnNSY19mUkZUQQ?oc=5": "2026-08-22T21:35:47.520389+00:00",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE13ZndQbm80akh1Y25lRkV2Y2dHTThZdUtQbHloWEdJWVZMQkxnRGIwY2w0YlhLMDM4WXpCWVBZQUIxanZXbnBuMnprWDJGVTJEYUlVd0owSG5wWkFQczFMclA4X3ZjbnluNWV1TVdKX0RnQQ?oc=5": "2026-08-18T11:10:33.876533+00:00",
@@ -8816,67 +8826,67 @@
   },
   "source_health": {
     "gdelt": {
-      "checked_at": "2026-08-26T03:19:30.509822+00:00",
-      "error": "retryable response",
+      "checked_at": "2026-08-26T04:24:50.810234+00:00",
+      "error": "Expecting value: line 1 column 1 (char 0)",
       "status": "error"
     },
     "google_news": {
-      "checked_at": "2026-08-26T03:19:31.102068+00:00",
+      "checked_at": "2026-08-26T04:24:51.313624+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Anthropic": {
-      "checked_at": "2026-08-26T03:18:19.862916+00:00",
+      "checked_at": "2026-08-26T04:24:24.380169+00:00",
       "count": 21,
       "status": "ok"
     },
     "page:DeepSeek": {
-      "checked_at": "2026-08-26T03:18:21.138432+00:00",
+      "checked_at": "2026-08-26T04:24:25.640977+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:Kimi": {
-      "checked_at": "2026-08-26T03:18:21.044587+00:00",
+      "checked_at": "2026-08-26T04:24:25.384780+00:00",
       "count": 9,
       "status": "ok"
     },
     "page:Meta AI": {
-      "checked_at": "2026-08-26T03:18:23.952130+00:00",
+      "checked_at": "2026-08-26T04:24:28.409214+00:00",
       "count": 5,
       "status": "ok"
     },
     "page:Mistral AI": {
-      "checked_at": "2026-08-26T03:18:24.632130+00:00",
+      "checked_at": "2026-08-26T04:24:29.064871+00:00",
       "count": 30,
       "status": "ok"
     },
     "page:Qwen": {
-      "checked_at": "2026-08-26T03:18:21.547131+00:00",
+      "checked_at": "2026-08-26T04:24:26.207737+00:00",
       "count": 0,
       "status": "ok"
     },
     "page:xAI": {
-      "checked_at": "2026-08-26T03:18:27.751628+00:00",
+      "checked_at": "2026-08-26T04:24:32.205923+00:00",
       "error": "Client error '403 Forbidden' for url 'https://x.ai/news'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
       "status": "error"
     },
     "rss:Google DeepMind": {
-      "checked_at": "2026-08-26T03:18:20.311544+00:00",
+      "checked_at": "2026-08-26T04:24:24.702161+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:Hugging Face": {
-      "checked_at": "2026-08-26T03:18:20.630946+00:00",
+      "checked_at": "2026-08-26T04:24:24.944109+00:00",
       "count": 30,
       "status": "ok"
     },
     "rss:OpenAI": {
-      "checked_at": "2026-08-26T03:18:19.221308+00:00",
+      "checked_at": "2026-08-26T04:24:24.127497+00:00",
       "count": 30,
       "status": "ok"
     },
     "x": {
-      "checked_at": "2026-08-26T03:19:31.569751+00:00",
+      "checked_at": "2026-08-26T04:24:51.721060+00:00",
       "error": "Couldn't get KEY_BYTE indices",
       "status": "error"
     }
